@@ -1,0 +1,2359 @@
+{
+  "id": "act1",
+  "order": 1,
+  "name": {
+    "de": "Akt 1",
+    "en": "Act 1"
+  },
+  "title": {
+    "de": "Riverbank bis Ogham Manor",
+    "en": "Riverbank to Ogham Manor"
+  },
+  "levelRange": [
+    1,
+    15
+  ],
+  "summary": {
+    "de": "Du wirst am Flussufer von Ogham angespült, erreichst das Clearfell Encampment und folgst der Spur von Count Geonor durch Grelwood, den Cemetery of the Eternals, die Hunting Grounds und Ogham Village bis in sein Herrenhaus. Akt 1 ist der Tutorial-Akt: Hier lernst du Skill-Gems, Support-Gems, Fläschchen, Wegpunkte, Händler und den Passivbaum kennen. Dauerhaft holst du +10 % Kälteresistenz, +30 Spirit, +20 Leben, 4 Weapon Set Passive Skill Points und die Salvage Bench.",
+    "en": "You wash up on the riverbank of Ogham, reach the Clearfell Encampment and follow Count Geonor's trail through the Grelwood, the Cemetery of the Eternals, the Hunting Grounds and Ogham Village all the way to his manor. Act 1 is the tutorial act: this is where you learn about skill gems, support gems, Flasks, Waypoints, vendors and the passive tree. Permanent rewards: +10% Cold Resistance, +30 Spirit, +20 Life, 4 Weapon Set Passive Skill Points and the Salvage Bench."
+  },
+  "recommended": {
+    "level": 15,
+    "resistances": {
+      "fire": 0,
+      "cold": 10,
+      "lightning": 0,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Permanente Boni: Beira (+10 % Kälteres.), The Crowbell (+2 Weapon Set Points), The King in the Mists (+30 Spirit), Una's Lute (+2 Weapon Set Points), Candlemass (+20 Leben). Alles optional, aber alles mitnehmen.",
+      "en": "Permanent bonuses: Beira (+10% Cold Res), The Crowbell (+2 Weapon Set Points), The King in the Mists (+30 Spirit), Una's Lute (+2 Weapon Set Points), Candlemass (+20 Life). All optional, but grab every one."
+    },
+    {
+      "de": "Smithing Tools in Ogham Village zu Renly bringen: schaltet die Salvage Bench frei (laut Leveling-Guide nur beim ersten Charakter nötig).",
+      "en": "Bring the Smithing Tools from Ogham Village to Renly: unlocks the Salvage Bench (according to a leveling guide, only needed on your first character)."
+    },
+    {
+      "de": "Nach The King in the Mists sofort einen Spirit-Gem (Uncut Spirit Gem Lv4) für einen Dauer-Buff einsetzen und bei Finn eine Charm wählen (Ruby Charm ist für Akt 2 beliebt).",
+      "en": "Right after The King in the Mists, socket a Spirit gem (Uncut Spirit Gem Lv4) for a persistent buff and pick a Charm from Finn (Ruby Charm is popular for Act 2)."
+    },
+    {
+      "de": "Vor Ogham Manor: Waffe auf Zonenlevel ~13–15 prüfen, Händler checken, Life Flask aufwerten. Count Geonor ist der erste echte DPS- und Ausweich-Check.",
+      "en": "Before Ogham Manor: make sure your weapon is around zone level ~13–15, check vendors, upgrade your Life Flask. Count Geonor is the first real DPS and dodge check."
+    },
+    {
+      "de": "Speed-Route: Mud Burrow, Brambleghast, Areagne, Ervig, Crop Circle und die Gallows lassen sich überspringen; die meisten liefern nur Gems oder Loot.",
+      "en": "Speed route: Mud Burrow, Brambleghast, Areagne, Ervig, Crop Circle and the Gallows can be skipped; most of them only give gems or loot."
+    },
+    {
+      "de": "Am Aktende Level ~14–16. Zum Abschluss mit The Hooded One sprechen und „Follow the Beast's trail“ wählen.",
+      "en": "Aim for level ~14–16 at the end of the act. To finish, talk to The Hooded One and choose \"Follow the Beast's trail\"."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PoE2DB: Act 1 (Areas, Quests, Walkthrough)",
+      "url": "https://poe2db.tw/us/Act_1",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Akt 1 (deutsche Namen)",
+      "url": "https://poe2db.tw/de/Act_1",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Act 1",
+      "url": "https://www.poe2wiki.net/wiki/Act_1",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Domistae PoE2 Leveling: Act 1 (Patch 0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_act1_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: 0.5 Campaign Checklist",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Act 1 Boss Guide (Stand 0.2)",
+      "url": "https://maxroll.gg/poe2/getting-started/act-1-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Campaign Guide (Stand Early Access)",
+      "url": "https://maxroll.gg/poe2/getting-started/path-of-exile-2-campaign-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Patch Notes 0.5.0 Return of the Ancients",
+      "url": "https://www.pathofexile.com/forum/view-thread/3932540",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Allthings.how: 0.5.5 Patch Notes (Forbidden Rites)",
+      "url": "https://allthings.how/path-of-exile-2-0-5-5-patch-notes-trial-of-chaos-rework-and-forbidden-rites-event/",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Playnews: Forbidden Rites Kampagnen-Rituale",
+      "url": "https://www.playnews.gg/en/guides/path-of-exile-2-forbidden-rites-campaign-rituals-2-clusters-of-effigies-per-act-1-per-interlude-and-tribute-to-spend",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "riverbank",
+      "name": "The Riverbank",
+      "nameDe": "Das Flussufer",
+      "areaId": "G1_1",
+      "level": 1,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "riverbank-steuerung",
+          "text": {
+            "de": "Wähle die Steuerungsart (Maus oder WASD) und sprich mit dem Wounded Man am Ufer.",
+            "en": "Choose your control scheme (mouse or WASD) and talk to the Wounded Man on the shore."
+          },
+          "kind": "navigation",
+          "mechanic": "steuerung",
+          "beginner": {
+            "de": "Die Steuerung kannst du später in den Optionen jederzeit ändern. Mit WASD läufst du über die Tastatur und zielst mit der Maus, beim Mausmodus klickst du dorthin, wohin du laufen willst. Der Wounded Man erzählt dir, dass sein Anführer, der Miller, nach Clearfell aufgebrochen ist. Das startet die erste Quest „Reaching Clearfell“.",
+            "en": "You can change the controls in the options at any time. With WASD you move with the keyboard and aim with the mouse; in mouse mode you click where you want to walk. The Wounded Man tells you that his leader, the Miller, set out for Clearfell. This starts the first quest, \"Reaching Clearfell\"."
+          }
+        },
+        {
+          "id": "riverbank-startwaffe",
+          "text": {
+            "de": "Töte den ersten Zombie, heb deine Startwaffe auf und rüste sie aus.",
+            "en": "Kill the first zombie, pick up your starting weapon and equip it."
+          },
+          "kind": "main",
+          "mechanic": "gegenstand-seltenheit",
+          "beginner": {
+            "de": "Die Farbe des Namens zeigt die Seltenheit: weiß = normal, blau = magisch (1–2 Zusatzeigenschaften), gelb = selten (bis zu 6), orange-braun = einzigartig (Unique). Halte Alt gedrückt, um alle Gegenstände am Boden zu sehen. Rüste Gegenstände per Rechtsklick aus dem Inventar (I) aus.",
+            "en": "The colour of an item's name shows its rarity: white = normal, blue = magic (1–2 extra modifiers), yellow = rare (up to 6), orange-brown = unique. Hold Alt to see all items on the ground. Equip items by right-clicking them in your inventory (I)."
+          }
+        },
+        {
+          "id": "riverbank-ausweichrolle",
+          "text": {
+            "de": "Probiere die Ausweichrolle (Standard: Leertaste) an den ersten Gegnern aus.",
+            "en": "Try out the Dodge Roll (default: Space) on the first enemies."
+          },
+          "kind": "tip",
+          "mechanic": "ausweichrolle",
+          "beginner": {
+            "de": "Die Ausweichrolle ist deine wichtigste Verteidigung in PoE2. Sie bringt dich schnell aus einem Angriff heraus. Unverwundbar bist du dabei nicht: Bei Flächenangriffen musst du komplett aus dem markierten Bereich rollen. Bosse kündigen starke Angriffe mit Animation und oft einem Warnton an: dann rollen, nicht weglaufen. Die Rolle kostet keine Ressourcen, du kannst sie also ständig nutzen.",
+            "en": "The Dodge Roll is your most important defence in PoE2. It gets you out of an attack quickly. You are not invulnerable while rolling, though: against area attacks you have to roll completely out of the marked area. Bosses telegraph big attacks with an animation and often a warning sound: roll, don't walk away. The roll costs no resources, so you can use it all the time."
+          }
+        },
+        {
+          "id": "riverbank-tasten",
+          "kind": "tip",
+          "text": {
+            "de": "Lege unter Optionen > Eingabe eine Taste für das Stadtportal fest. Standardmäßig ist dafür keine belegt.",
+            "en": "Bind a key for Town Portal under Options > Input. No key is bound to it by default."
+          },
+          "beginner": {
+            "de": "Mit dem Portal kommst du jederzeit in die Stadt und wieder zurück an dieselbe Stelle, z. B. zum Verkaufen oder wenn es eng wird. Das Öffnen dauert etwa 2 Sekunden und wird durch Schaden unterbrochen, also nicht erst mitten im Kampf drücken. Die wichtigsten anderen Tasten: I Inventar, P Passivbaum, G Skills, C Charakter, Tab Karte, Alt zeigt alle Items am Boden.",
+            "en": "A portal takes you to town and back to the same spot at any time, e.g. to sell items or when things get tight. Opening it takes about 2 seconds and is interrupted by damage, so don't wait until you're mid-fight. Other important keys: I inventory, P passive tree, G skills, C character, Tab map, Alt shows all items on the ground."
+          },
+          "mechanic": "tastenkuerzel"
+        },
+        {
+          "id": "riverbank-erster-skill",
+          "text": {
+            "de": "Öffne die große Truhe in der Mitte der Zone und setze deinen ersten Skill-Gem im Skill-Menü (G) ein. Lege den Skill dann auf deine Skill-Leiste.",
+            "en": "Open the big chest in the middle of the zone and socket your first skill gem in the skill menu (G). Then put the skill on your skill bar."
+          },
+          "kind": "loot",
+          "mechanic": "skill-gems",
+          "beginner": {
+            "de": "In PoE2 kommen Fähigkeiten aus Skill-Gems, nicht aus einem Talentbaum. Im Skill-Menü (G) legst du Gems ein, danach ziehst du die Fähigkeit per Linksklick auf eine Taste der Skill-Leiste. Jeder Skill-Gem hat eigene Plätze für Support-Gems, die du später bekommst.",
+            "en": "In PoE2, abilities come from skill gems, not from a talent tree. You socket gems in the skill menu (G), then left-click to drag the skill onto a key on your skill bar. Every skill gem has its own sockets for support gems, which you get later."
+          }
+        },
+        {
+          "id": "riverbank-flaschen",
+          "text": {
+            "de": "Heb Life Flask und Mana Flask auf, sobald sie fallen, und belege sie auf den Tasten 1 und 2.",
+            "en": "Pick up the Life Flask and Mana Flask as soon as they drop and put them on keys 1 and 2."
+          },
+          "kind": "tip",
+          "mechanic": "flaeschchen",
+          "verified": false,
+          "beginner": {
+            "de": "Fläschchen füllen sich durch Kills wieder auf. Die rote Life Flask heilt dich über kurze Zeit, die blaue Mana Flask füllt Mana nach. Nicht bis zur letzten Sekunde warten: Die Heilung braucht etwas Zeit. An Checkpoints und Brunnen (auch in der Stadt) werden sie wieder voll.",
+            "en": "Flasks refill from kills. The red Life Flask heals you over a short time, the blue Mana Flask restores mana. Don't wait until the last second: the healing takes a moment. Checkpoints and wells (also in town) refill them completely."
+          }
+        },
+        {
+          "id": "bloated-miller",
+          "text": {
+            "de": "Besiege The Bloated Miller am Ende der Zone.",
+            "en": "Kill The Bloated Miller at the end of the zone."
+          },
+          "kind": "boss",
+          "mechanic": "boss-kaempfe",
+          "beginner": {
+            "de": "Dein erster Boss. Achte auf die Ausholbewegung: Bevor er mit dem Baumstamm zuschlägt, hebt er ihn an – dann zur Seite rollen. Er ruft zwischendurch Drowned-Zombies; töte sie, wenn sie dich bedrängen, sonst konzentriere dich auf den Boss.",
+            "en": "Your first boss. Watch for the wind-up: before he slams with the tree trunk, he raises it – roll to the side. He summons Drowned zombies every now and then; kill them if they crowd you, otherwise focus on the boss."
+          }
+        },
+        {
+          "id": "riverbank-zum-lager",
+          "text": {
+            "de": "Lauf durch das Gebiet hinter dem Boss ins Clearfell Encampment.",
+            "en": "Walk through the area behind the boss to the Clearfell Encampment."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Alle Truhen am Weg mitnehmen: Hier fallen die ersten Ausrüstungsteile für die ersten Level.",
+          "en": "Open every chest along the way: this is where your first gear for the early levels drops."
+        },
+        {
+          "de": "In der Forbidden-Rites-Liga (0.5.5) hat jede Kampagnenzone ein Ritual. Früh lohnt es sich nur, wenn es am Weg liegt.",
+          "en": "In the Forbidden Rites league (0.5.5), every campaign zone has a Ritual. Early on it's only worth doing if it's on your path."
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-renly-erster-gem",
+          "text": {
+            "de": "Sprich mit Renly: Er gibt dir für „Reaching Clearfell“ einen Uncut Skill Gem (Level 1).",
+            "en": "Talk to Renly: he gives you an Uncut Skill Gem (Level 1) for \"Reaching Clearfell\"."
+          },
+          "kind": "reward",
+          "mechanic": "uncut-gems",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 1)",
+              "en": "Uncut Skill Gem (Level 1)"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Ein Uncut Skill Gem ist ein „leerer“ Gem: Per Rechtsklick wählst du daraus einen beliebigen Skill bis zu dessen Level (hier Level 1). So kannst du dir deinen zweiten Skill selbst aussuchen. Nimm am besten etwas, das zu deiner Waffe passt; die Liste zeigt dir, welche Waffe ein Skill braucht.",
+            "en": "An Uncut Skill Gem is a \"blank\" gem: right-click it to turn it into any skill up to its level (here level 1). This lets you choose your second skill yourself. Ideally pick something that fits your weapon; the list shows which weapon a skill requires."
+          }
+        },
+        {
+          "id": "lager-npcs",
+          "text": {
+            "de": "Lerne die Stadt kennen: Renly (Waffen, Rüstung), Una (Zauberstäbe, Fläschchen, Schmuck), Finn, Truhe und Heilbrunnen.",
+            "en": "Get to know the town: Renly (weapons, armour), Una (wands, Flasks, jewellery), Finn, your Stash and the healing well."
+          },
+          "kind": "tip",
+          "mechanic": "stadt-npcs",
+          "beginner": {
+            "de": "Städte sind sichere Zonen. Hier stehen Händler, deine Truhe (Stash) und ein Wegpunkt. Der Brunnen füllt Leben und Fläschchen auf. Sprich NPCs mit einem Ausrufezeichen über dem Kopf immer an: Sie haben Quests oder Belohnungen.",
+            "en": "Towns are safe zones. This is where you find vendors, your Stash and a Waypoint. The well refills your Life and Flasks. Always talk to NPCs with an exclamation mark over their head: they have quests or rewards."
+          }
+        },
+        {
+          "id": "lager-truhe",
+          "text": {
+            "de": "Öffne einmal deine Truhe (Stash) und lagere, was du später brauchen könntest (Currency, Gems, Ersatzwaffen).",
+            "en": "Open your Stash once and store anything you might need later (currency, gems, spare weapons)."
+          },
+          "kind": "tip",
+          "optional": true,
+          "mechanic": "inventar-truhe",
+          "beginner": {
+            "de": "Die Truhe ist accountweit: Alle deine Charaktere derselben Liga sehen sie. Dein Inventar ist klein, also verkaufe oder verstaue regelmäßig.",
+            "en": "The Stash is account-wide: all your characters in the same league can see it. Your inventory is small, so sell or stash items regularly."
+          }
+        },
+        {
+          "id": "lager-haendler",
+          "text": {
+            "de": "Verkaufe überflüssige Items bei Renly oder Una und prüfe ihr Angebot auf eine bessere Waffe.",
+            "en": "Sell items you don't need to Renly or Una and check their stock for a better weapon."
+          },
+          "kind": "tip",
+          "mechanic": "haendler",
+          "beginner": {
+            "de": "Im Handelsfenster siehst du links das Angebot des Händlers, rechts dein Inventar. Gerade bei Waffen lohnt sich ein Blick nach jedem Stadtbesuch: Eine neue Waffe mit mehr Schaden ist der größte Leveling-Boost. Bezahlt wird mit Gold.",
+            "en": "In the trade window, the vendor's stock is on the left and your inventory on the right. Check weapons in particular after every town visit: a new weapon with more damage is the biggest leveling boost. You pay with Gold."
+          }
+        },
+        {
+          "id": "lager-gold",
+          "text": {
+            "de": "Sammle Gold: Es fällt von Monstern und Truhen und ist die Währung für Händler und Respec.",
+            "en": "Collect Gold: it drops from monsters and chests and is the currency for vendors and respecs."
+          },
+          "kind": "tip",
+          "mechanic": "gold",
+          "beginner": {
+            "de": "Gib Gold in den ersten Akten vor allem für Waffen-Upgrades bei Händlern aus. Später kostet auch das Zurücksetzen von Passivpunkten Gold.",
+            "en": "In the early acts, spend Gold mainly on weapon upgrades from vendors. Later on, refunding passive points also costs Gold."
+          }
+        },
+        {
+          "id": "lager-wegpunkt",
+          "text": {
+            "de": "Nutze den Wegpunkt in der Stadt, um zu jedem bereits besuchten Wegpunkt zu reisen.",
+            "en": "Use the Waypoint in town to travel to any Waypoint you have already visited."
+          },
+          "kind": "tip",
+          "mechanic": "wegpunkte-portale",
+          "beginner": {
+            "de": "Wegpunkte aktivierst du, indem du sie einmal berührst. Danach kannst du über die Weltkarte jederzeit hinreisen.",
+            "en": "You activate a Waypoint by touching it once. After that you can travel there at any time via the world map."
+          }
+        },
+        {
+          "id": "lager-respec",
+          "text": {
+            "de": "Prüfe im Passivbaum, ob sich ein Umskillen lohnt: Einzelne Punkte zurücksetzen kostet nur etwas Gold.",
+            "en": "Check your passive tree to see whether a respec is worth it: refunding individual points only costs a little Gold."
+          },
+          "kind": "tip",
+          "optional": true,
+          "mechanic": "respec",
+          "beginner": {
+            "de": "In PoE2 kannst du Passivpunkte gegen Gold einzeln zurücknehmen. In Akt 1 ist das billig. Fehler sind also kein Drama.",
+            "en": "In PoE2 you can refund passive points one at a time for Gold. In Act 1 this is cheap, so mistakes are no big deal."
+          }
+        },
+        {
+          "id": "lager-lootfilter",
+          "kind": "tip",
+          "text": {
+            "de": "Aktiviere den Lootfilter der App: Esc → Optionen, bei Item-Filter „GuideOfExile“ auswählen.",
+            "en": "Activate the app's loot filter: Esc → Options, select \"GuideOfExile\" under Item Filter."
+          },
+          "beginner": {
+            "de": "Ein Lootfilter blendet wertlose Items aus und hebt wichtige hervor (Currency, Gems, gute Waffen). Die App schreibt dafür die Datei GuideOfExile.filter in den Ordner Dokumente\\My Games\\Path of Exile 2. Sie deckt alle Spielphasen ab, du wählst sie also nur einmal aus. Die App aktualisiert die Datei alle drei Stunden mit frischen Preisen; damit das Spiel die neue Fassung nutzt, wählst du den Filter erneut aus. Strg+Umschalt+F kopiert dir dafür /itemfilter GuideOfExile in die Zwischenablage, das fügst du in den Chat ein.",
+            "en": "A loot filter hides worthless items and highlights important ones (currency, gems, good weapons). The app writes the file GuideOfExile.filter to Documents\\My Games\\Path of Exile 2. It covers every game phase, so you only select it once. The app refreshes the file with current prices every three hours; to make the game use the new version, select the filter again. Ctrl+Shift+F copies /itemfilter GuideOfExile to your clipboard so you can paste it into chat."
+          },
+          "mechanic": "lootfilter"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Jedes Mal in der Stadt: Händler auf Waffen-Upgrades prüfen. Eine bessere Waffe beschleunigt das Leveln mehr als alles andere.",
+          "en": "Every time you're in town: check vendors for weapon upgrades. A better weapon speeds up leveling more than anything else."
+        }
+      ]
+    },
+    {
+      "id": "clearfell",
+      "name": "Clearfell",
+      "nameDe": "Lichtfall",
+      "areaId": "G1_2",
+      "level": 2,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "clearfell-checkpoint",
+          "text": {
+            "de": "Achte auf die Checkpoints (leuchtende Steine) in der Zone: Hier kehrst du nach einem Tod zurück.",
+            "en": "Look out for the Checkpoints (glowing stones) in the zone: this is where you return after dying."
+          },
+          "kind": "tip",
+          "mechanic": "checkpoints-tod",
+          "beginner": {
+            "de": "Stirbst du, kannst du am letzten erreichten Checkpoint oder in der Stadt wieder einsteigen. Dabei wird die Zone zurückgesetzt: Die meisten Monster sind wieder da, liegengebliebene Items sind weg (garantierte Boss-Drops ausgenommen). Heb Wichtiges also sofort auf. Berühre Checkpoints im Vorbeigehen, damit du nach einem Tod nicht die halbe Zone zurücklaufen musst.",
+            "en": "When you die, you can re-enter at the last Checkpoint you reached or in town. The zone is reset when you do: most monsters are back and items left on the ground are gone (guaranteed boss drops excepted). So pick up important things right away. Touch Checkpoints as you pass them so you don't have to walk back through half the zone after a death."
+          }
+        },
+        {
+          "id": "clearfell-passivbaum",
+          "text": {
+            "de": "Verteile deinen ersten Passivpunkt im Passivbaum (P), sobald du Level 2 erreichst.",
+            "en": "Spend your first passive point in the passive tree (P) as soon as you reach level 2."
+          },
+          "kind": "tip",
+          "mechanic": "passivbaum",
+          "beginner": {
+            "de": "Jedes Level gibt dir einen Passivpunkt. Der Baum ist für alle Klassen gleich, du startest aber an der Position deiner Klasse. Nimm anfangs Knoten, die deinen Hauptskill stärken (Schaden, Angriffs- oder Zaubergeschwindigkeit) und ein paar für Leben bzw. Verteidigung.",
+            "en": "Every level gives you one passive point. The tree is the same for all classes, but you start at your class's position. Early on, take nodes that boost your main skill (damage, attack or cast speed) plus a few for Life or defences."
+          }
+        },
+        {
+          "id": "clearfell-minimap",
+          "text": {
+            "de": "Öffne die Karte (Tab), um Ausgänge, Wegpunkt und markierte Inhalte zu finden.",
+            "en": "Open the map (Tab) to find exits, the Waypoint and marked content."
+          },
+          "kind": "tip",
+          "mechanic": "minimap-karte",
+          "beginner": {
+            "de": "Die Overlay-Karte zeigt erkundete Bereiche, Ausgänge zu Nachbarzonen und Symbole für Bosse oder Truhen. Clearfell ist recht fest aufgebaut: Beira im Zentrum, Mud Burrow und Wegpunkt rechts, der Ausgang zum Grelwood oben rechts.",
+            "en": "The overlay map shows explored areas, exits to neighbouring zones and icons for bosses or chests. Clearfell has a fairly fixed layout: Beira in the centre, Mud Burrow and the Waypoint on the right, the exit to the Grelwood in the top right."
+          }
+        },
+        {
+          "id": "clearfell-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt auf der rechten Seite nahe dem Mud-Burrow-Eingang.",
+            "en": "Activate the Waypoint on the right side near the Mud Burrow entrance."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "beira",
+          "text": {
+            "de": "Besiege Beira of the Rotten Pack in der Mitte der Zone.",
+            "en": "Kill Beira of the Rotten Pack in the middle of the zone."
+          },
+          "kind": "boss",
+          "mechanic": "elementar-zustaende",
+          "beginner": {
+            "de": "Beira macht Kälteschaden. Kälte verlangsamt dich (Chill) und kann dich einfrieren (Freeze). Bleib in Bewegung, halte Abstand zu ihren Frost-Runen am Boden und töte die Wölfe, die sie ab ca. 80 % Leben wiederbelebt. Sie ist schon mit Level 2 machbar, du kannst sie aber auch später erledigen.",
+            "en": "Beira deals Cold damage. Cold slows you (Chill) and can freeze you (Freeze). Keep moving, stay away from her frost runes on the ground and kill the wolves she revives from about 80% Life. She's doable at level 2 already, but you can also come back for her later."
+          }
+        },
+        {
+          "id": "beira-reward",
+          "text": {
+            "de": "Heb Head of the Winter Wolf auf und benutze ihn: dauerhaft +10 % Kälteresistenz.",
+            "en": "Pick up the Head of the Winter Wolf and use it: permanent +10% Cold Resistance."
+          },
+          "kind": "reward",
+          "mechanic": "resistenzen",
+          "reward": {
+            "type": "resistance",
+            "element": "cold",
+            "amount": 10,
+            "label": {
+              "de": "+10 % Kälteresistenz",
+              "en": "+10% Cold Resistance"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Resistenzen senken erlittenen Elementarschaden (Feuer, Kälte, Blitz) und Chaosschaden. Das Maximum liegt normalerweise bei 75 %. In der Kampagne bekommst du ein paar feste Boni wie diesen, den Rest musst du über Ausrüstung holen. Deine Werte siehst du im Charakterfenster (C).",
+            "en": "Resistances reduce the elemental damage (Fire, Cold, Lightning) and Chaos damage you take. The cap is normally 75%. The campaign gives you a few fixed bonuses like this one; the rest has to come from gear. You can see your stats in the character window (C)."
+          }
+        },
+        {
+          "id": "clearfell-campsite",
+          "text": {
+            "de": "Such auf der dem Mud Burrow gegenüberliegenden Seite das Mysterious Campsite mit dem Abandoned Stash: Uncut Skill Gem (Level 1).",
+            "en": "On the side opposite the Mud Burrow, find the Mysterious Campsite with the Abandoned Stash: Uncut Skill Gem (Level 1)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 1)",
+              "en": "Uncut Skill Gem (Level 1)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "clearfell-ritual",
+          "text": {
+            "de": "Nur Forbidden-Rites-Liga: Ein Ritual-Altar in der Zone kann Currency und Ausrüstung bringen. Monster im Kreis töten, Altar aktivieren, die wiederbelebten Monster erneut besiegen.",
+            "en": "Forbidden Rites league only: a Ritual altar in the zone can give currency and gear. Kill the monsters in the circle, activate the altar, then defeat the revived monsters again."
+          },
+          "kind": "tip",
+          "optional": true,
+          "mechanic": "liga-mechanik",
+          "beginner": {
+            "de": "Für das Ritual bekommst du Tribute, eine Währung, die du am Altar gegen Belohnungen (Favours) tauschst. In der Kampagne sind das vor allem Leveling-Items wie Crafting-Currency und Ausrüstung. Zweimal pro Akt liegen zusätzlich Effigy-Cluster auf einem Bosskampf. Wer schnell sein will, nimmt nur Rituale am Weg mit.",
+            "en": "Rituals give you Tribute, a currency you spend at the altar on rewards (Favours). In the campaign these are mostly leveling items such as crafting currency and gear. Twice per act, Effigy clusters also sit on a boss fight. If you want to be fast, only do Rituals that are on your path."
+          }
+        },
+        {
+          "id": "clearfell-mud-burrow",
+          "text": {
+            "de": "Optional: Betritt den Mud Burrow auf der rechten Seite für The Devourer. Sonst weiter zum Grelwood oben rechts.",
+            "en": "Optional: enter the Mud Burrow on the right side for The Devourer. Otherwise continue to the Grelwood in the top right."
+          },
+          "kind": "navigation",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Beira ist der beste frühe Bonus: Mit ihr dauerhaft 10 % Kälteresistenz für die ganze Kampagne.",
+          "en": "Beira is the best early bonus: she gives you a permanent 10% Cold Resistance for the whole campaign."
+        },
+        {
+          "de": "Rare (gelbe) Monster mit Zusatzeigenschaften bringen mehr Loot, sind aber gefährlicher. Bei gefährlichen Modifikatoren einfach umgehen.",
+          "en": "Rare (yellow) monsters with extra modifiers drop more loot but are more dangerous. If they have dangerous modifiers, just go around them."
+        }
+      ]
+    },
+    {
+      "id": "mud-burrow",
+      "name": "Mud Burrow",
+      "nameDe": "Schlammgrube",
+      "areaId": "G1_3",
+      "level": 3,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "devourer",
+          "text": {
+            "de": "Folge dem verwinkelten Tunnel und besiege The Devourer.",
+            "en": "Follow the winding tunnel and kill The Devourer."
+          },
+          "kind": "boss",
+          "optional": true,
+          "mechanic": "zonenlevel-erfahrung",
+          "beginner": {
+            "de": "Der Devourer taucht unter und bricht aus dem Boden hervor. Wenn er rot aufleuchtet, sprüht er Gift über die Arena: genau dann rollen. Wird sein Kopf grün, kommt ein Giftschlag vor ihm, dann weg vom Kopf. Zonenlevel-Hinweis: Monster geben am meisten Erfahrung, wenn ihr Level nah an deinem liegt. Zu weit über dem Zonenlevel sinkt die Erfahrung.",
+            "en": "The Devourer burrows and bursts out of the ground. When he glows red, he sprays poison across the arena: that's exactly when to roll. When his head turns green, a poison slam comes in front of him, so get away from the head. Zone level note: monsters give the most experience when their level is close to yours. If you're too far above the zone level, experience drops."
+          }
+        },
+        {
+          "id": "devourer-loot",
+          "text": {
+            "de": "Heb den Drop des Devourer auf: Uncut Skill Gem (Level 2). Danach in der Stadt bei Renly die Questbelohnung abholen.",
+            "en": "Pick up The Devourer's drop: Uncut Skill Gem (Level 2). Then collect the quest reward from Renly in town."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 2)",
+              "en": "Uncut Skill Gem (Level 2)"
+            },
+            "permanent": false
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Speed-Leveler überspringen den Mud Burrow oft. Er gibt nur Gems, Gold und Erfahrung, keinen permanenten Bonus.",
+          "en": "Speed levelers often skip the Mud Burrow. It only gives gems, Gold and experience, no permanent bonus."
+        },
+        {
+          "de": "Seinem Gift-Sperrfeuer weichst du am besten mit einer seitlichen Ausweichrolle aus.",
+          "en": "Dodge Roll sideways to get out of his poison barrage."
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-2",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-renly-support",
+          "text": {
+            "de": "Sprich mit Renly und hol dir für „Treacherous Ground“ einen Uncut Support Gem und 100 Gold ab.",
+            "en": "Talk to Renly and collect an Uncut Support Gem and 100 Gold for \"Treacherous Ground\"."
+          },
+          "kind": "reward",
+          "optional": true,
+          "mechanic": "support-gems",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem + 100 Gold",
+              "en": "Uncut Support Gem + 100 Gold"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Support-Gems werden in die Plätze unter einem Skill-Gem gesteckt und verändern diesen Skill (z. B. mehr Schaden, mehr Projektile). Aus einem Uncut Support Gem wählst du einen Support aus. Denselben Support darfst du in mehreren Skills nutzen. Ausnahmen sind Lineage-Supports (nur einmal insgesamt) und Supports, die Spirit reservieren.",
+            "en": "Support gems go into the sockets under a skill gem and modify that skill (e.g. more damage, more projectiles). An Uncut Support Gem lets you choose one support. You can use the same support in multiple skills. Exceptions are Lineage supports (only once in total) and supports that reserve Spirit."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grelwood",
+      "name": "The Grelwood",
+      "nameDe": "Der Grelwald",
+      "areaId": "G1_4",
+      "level": 4,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "grelwood-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und sprich mit Una, die dir im Wald begegnet.",
+            "en": "Activate the Waypoint and talk to Una, whom you meet in the forest."
+          },
+          "kind": "main",
+          "mechanic": "quests",
+          "beginner": {
+            "de": "Die Quest-Übersicht am Bildschirmrand zeigt dir das aktuelle Ziel. Hauptquests treiben die Geschichte voran, optionale Quests geben oft permanente Boni. Ein Schritt ist erledigt, wenn sich der Text im Questlog ändert.",
+            "en": "The quest tracker at the edge of the screen shows your current objective. Main quests advance the story; optional quests often give permanent bonuses. A step is done when the text in the quest log changes."
+          }
+        },
+        {
+          "id": "grelwood-attribute",
+          "text": {
+            "de": "Prüfe beim Ausrüsten die Attribut-Anforderungen (Stärke, Geschick, Intelligenz) neuer Items.",
+            "en": "When equipping new items, check their attribute requirements (Strength, Dexterity, Intelligence)."
+          },
+          "kind": "tip",
+          "mechanic": "attribute",
+          "beginner": {
+            "de": "Viele Waffen, Rüstungen und Gems brauchen ein Mindestmaß an Stärke, Geschick oder Intelligenz. Fehlt dir etwas, wird die Anforderung rot angezeigt. Attribute bekommst du über den Passivbaum und Ausrüstung.",
+            "en": "Many weapons, armour pieces and gems require a minimum amount of Strength, Dexterity or Intelligence. If you're short, the requirement is shown in red. You get attributes from the passive tree and gear."
+          }
+        },
+        {
+          "id": "areagne",
+          "text": {
+            "de": "Optional: Öffne in der Witch Hut den Kessel (Medium Life Flask und Medium Mana Flask) und besiege Areagne, Forgotten Witch.",
+            "en": "Optional: open the cauldron in the Witch Hut (Medium Life Flask and Medium Mana Flask) and kill Areagne, Forgotten Witch."
+          },
+          "kind": "boss",
+          "optional": true,
+          "beginner": {
+            "de": "Areagne ist einer der härtesten frühen Kämpfe: Sie teleportiert, verflucht dich und legt Kälteflächen. Den Kessel kannst du auch öffnen, ohne sie zu töten. Die neuen Medium-Fläschchen heilen mehr als deine Startfläschchen, also gleich austauschen.",
+            "en": "Areagne is one of the hardest early fights: she teleports, curses you and creates cold ground. You can open the cauldron without killing her. The new Medium Flasks heal more than your starting Flasks, so swap them in right away."
+          }
+        },
+        {
+          "id": "areagne-reward",
+          "text": {
+            "de": "Nimm nach Areagnes Tod den Uncut Support Gem (Level 1) mit.",
+            "en": "After Areagne dies, grab the Uncut Support Gem (Level 1)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem (Level 1) + Medium Life/Mana Flask",
+              "en": "Uncut Support Gem (Level 1) + Medium Life/Mana Flask"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "brambleghast",
+          "text": {
+            "de": "Optional: Besiege The Brambleghast, wenn er auf deinem Weg liegt.",
+            "en": "Optional: kill The Brambleghast if it's on your path."
+          },
+          "kind": "boss",
+          "optional": true,
+          "verified": false,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 2)",
+              "en": "Uncut Skill Gem (Level 2)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "grelwood-red-vale",
+          "text": {
+            "de": "Such den Eingang zum Red Vale und geh hinein.",
+            "en": "Find the entrance to the Red Vale and go in."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ab hier Gegner mit Zusatzeigenschaften genauer anschauen: Werewolf Prowler laufen schnell und treffen hart.",
+          "en": "From here on, take a closer look at enemies with extra modifiers: Werewolf Prowlers move fast and hit hard."
+        },
+        {
+          "de": "Speed-Route: Areagne und Brambleghast auslassen, nur den Kessel in der Witch Hut mitnehmen, wenn er nah am Weg liegt.",
+          "en": "Speed route: skip Areagne and the Brambleghast, and only grab the cauldron in the Witch Hut if it's close to your path."
+        }
+      ]
+    },
+    {
+      "id": "red-vale",
+      "name": "The Red Vale",
+      "nameDe": "Das Rote Tal",
+      "areaId": "G1_5",
+      "level": 5,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "red-vale-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und such die drei Obelisks of Rust.",
+            "en": "Activate the Waypoint and find the three Obelisks of Rust."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "red-vale-obelisken",
+          "text": {
+            "de": "Aktiviere jeden Obelisk of Rust, besiege die Monsterwelle und heb die Rune of Power auf.",
+            "en": "Activate each Obelisk of Rust, defeat the monster wave and pick up the Rune of Power."
+          },
+          "kind": "main",
+          "mechanic": "seltene-monster",
+          "beginner": {
+            "de": "Bei jedem Obelisken erscheinen Wellen von Monstern, darunter magische (blaue) und seltene (gelbe) mit Zusatzeigenschaften. Die Eigenschaften stehen unter ihrem Lebensbalken. Gefährlich sind z. B. Eigenschaften, die sie schneller oder stärker machen. Kämpfe am Rand der Welle, damit du nicht umzingelt wirst.",
+            "en": "Each obelisk spawns waves of monsters, including magic (blue) and rare (yellow) ones with extra modifiers. The modifiers are listed under their life bar. Modifiers that make them faster or stronger are especially dangerous. Fight at the edge of the wave so you don't get surrounded."
+          }
+        },
+        {
+          "id": "rust-king",
+          "text": {
+            "de": "Am dritten Obelisken erscheint The Rust King. Besiege ihn und nimm die letzte Rune of Power.",
+            "en": "The Rust King appears at the third obelisk. Kill him and take the last Rune of Power."
+          },
+          "kind": "boss",
+          "mechanic": "betaeubung",
+          "beginner": {
+            "de": "Unter dem Lebensbalken großer Gegner siehst du einen Betäubungsbalken. Füllst du ihn mit Treffern, ist der Boss kurz wehrlos (Heavy Stun) und du kannst gefahrlos Schaden machen. Der Rust King ruft Ezomyte-Krieger und feuert Schwerter im Kreis ab; zwischen den Schwertern hindurch- oder wegrollen.",
+            "en": "Under the life bar of big enemies you'll see a stun bar. Fill it with hits and the boss is briefly helpless (Heavy Stun), so you can deal damage safely. The Rust King summons Ezomyte warriors and fires swords in a circle; roll between the swords or away from them."
+          }
+        },
+        {
+          "id": "rust-king-loot",
+          "text": {
+            "de": "Heb den Drop des Rust King auf: laut Leveling-Guide ein Uncut Skill Gem (Level 3).",
+            "en": "Pick up the Rust King's drop: according to a leveling guide, an Uncut Skill Gem (Level 3)."
+          },
+          "kind": "loot",
+          "verified": false,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 3)",
+              "en": "Uncut Skill Gem (Level 3)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "red-vale-waffenstaender",
+          "text": {
+            "de": "Plündere die Waffenständer (Refined Weapon Racks) in der Zone: Sie enthalten Kampfwaffen eines höheren Grundtyps.",
+            "en": "Loot the weapon racks (Refined Weapon Racks) in the zone: they contain martial weapons of a higher base type."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false,
+          "mechanic": "ausruestung-bewerten",
+          "beginner": {
+            "de": "Bei Waffen zählt vor allem der Schaden pro Sekunde (DPS), den das Item anzeigt, wenn du Alt hältst bzw. es mit deiner Waffe vergleichst. Ein höherer Grundtyp (bessere Basis) schlägt oft eine magische Waffe mit schwacher Basis.",
+            "en": "For weapons, what matters most is damage per second (DPS), which the item shows when you hold Alt or compare it with your weapon. A higher base type (better base) often beats a magic weapon with a weak base."
+          }
+        },
+        {
+          "id": "red-vale-zurueck",
+          "text": {
+            "de": "Reise per Wegpunkt in die Stadt zu Renly.",
+            "en": "Use the Waypoint to travel to Renly in town."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Monster unter den Rust King ziehen: Seine Flächenangriffe treffen auch seine Diener.",
+          "en": "Pull monsters under the Rust King: his area attacks hit his minions too."
+        },
+        {
+          "de": "Den Wegpunkt zuerst aktivieren, dann musst du nicht zurücklaufen.",
+          "en": "Activate the Waypoint first so you don't have to walk back."
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-3",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-renly-spikes",
+          "text": {
+            "de": "Bring Renly die drei Runes of Power und nimm die Runed Spikes entgegen.",
+            "en": "Bring Renly the three Runes of Power and receive the Runed Spikes."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "grelwood-2",
+      "name": "The Grelwood",
+      "nameDe": "Der Grelwald",
+      "areaId": "G1_4",
+      "level": 4,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "grelwood-zurueck",
+          "text": {
+            "de": "Mit den Runed Spikes per Wegpunkt zurück in den Grelwood.",
+            "en": "Take the Waypoint back to the Grelwood with the Runed Spikes."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "tree-of-souls",
+          "text": {
+            "de": "Mit den Runed Spikes von Renly: Geh zum Tree of Souls, ramme die Spikes in die drei Runic Seals und sprich mit Una.",
+            "en": "With Renly's Runed Spikes: go to the Tree of Souls, drive the spikes into the three Runic Seals and talk to Una."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Das ist der Abschluss von „Secrets in the Dark“. Danach in der Stadt noch einmal mit Una sprechen. Anschließend geht es durch The Grim Tangle weiter.",
+            "en": "This completes \"Secrets in the Dark\". Afterwards, talk to Una once more in town. Then continue through The Grim Tangle."
+          }
+        },
+        {
+          "id": "tree-zur-stadt",
+          "text": {
+            "de": "Reise in die Stadt und sprich dort mit Una.",
+            "en": "Travel to town and talk to Una there."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-4",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-una-tree",
+          "text": {
+            "de": "Sprich mit Una, um „Secrets in the Dark“ abzuschließen. Danach weiter in The Grim Tangle (über den Grelwood oder per Wegpunkt, falls schon aktiviert).",
+            "en": "Talk to Una to complete \"Secrets in the Dark\". Then continue to The Grim Tangle (via the Grelwood or by Waypoint if already activated)."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "grim-tangle",
+      "name": "The Grim Tangle",
+      "nameDe": "Das Düstere Dickicht",
+      "areaId": "G1_6",
+      "level": 6,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "grim-tangle-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und folge den engen Pfaden Richtung Cemetery of the Eternals.",
+            "en": "Activate the Waypoint and follow the narrow paths towards the Cemetery of the Eternals."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "grim-tangle-wurzeln",
+          "text": {
+            "de": "Wurzeln versperren einen Weg („The Mysterious Shade“). Ignoriere sie, sie gehören zur Story und sind vorerst unpassierbar.",
+            "en": "Roots block a path (\"The Mysterious Shade\"). Ignore them; they're part of the story and impassable for now."
+          },
+          "kind": "tip"
+        },
+        {
+          "id": "ervig",
+          "text": {
+            "de": "Optional: Besiege Ervig, the Rotten Druid für einen Uncut Support Gem.",
+            "en": "Optional: kill Ervig, the Rotten Druid for an Uncut Support Gem."
+          },
+          "kind": "boss",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem (Level 1)",
+              "en": "Uncut Support Gem (Level 1)"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Ervig teleportiert sich über Wurzeln und schleudert einen großen Felsbrocken. Wenn er den Arm nach unten reißt, rollen. Beschwört er Ranken, unterbrich ihn mit Schaden.",
+            "en": "Ervig teleports via roots and hurls a big boulder. When he yanks his arm down, roll. When he summons vines, interrupt him with damage."
+          }
+        },
+        {
+          "id": "grim-tangle-runensteine",
+          "text": {
+            "de": "Nur Runes-of-Aldur-Liga: Aktiviere die Decrepit Runestones (erster von drei Runestones für die Lost Catacombs).",
+            "en": "Runes of Aldur league only: activate the Decrepit Runestones (first of three Runestones for the Lost Catacombs)."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Pilzmonster (Fungal Proliferator/Artillery) legen giftige Flächen und schießen aus der Ferne. Nicht stehenbleiben.",
+          "en": "Fungal monsters (Fungal Proliferator/Artillery) create poisonous ground and shoot from range. Don't stand still."
+        }
+      ]
+    },
+    {
+      "id": "cemetery-of-the-eternals",
+      "name": "Cemetery of the Eternals",
+      "nameDe": "Friedhof der Ewigen",
+      "areaId": "G1_7",
+      "level": 7,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "cemetery-lachlann",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und sprich mit Lachlann the Lost. Er braucht zwei Schlüsselteile für das Memorial Gate („Sorrow Among Stones“).",
+            "en": "Activate the Waypoint and talk to Lachlann the Lost. He needs two key pieces for the Memorial Gate (\"Sorrow Among Stones\")."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "cemetery-ruin-ring",
+          "text": {
+            "de": "Öffne den Sarkophag in der Ancient Ruin nahe einem Checkpoint: Iron Ring oder Lazuli Ring.",
+            "en": "Open the sarcophagus in the Ancient Ruin near a Checkpoint: Iron Ring or Lazuli Ring."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Iron Ring oder Lazuli Ring (zufällig)",
+              "en": "Iron Ring or Lazuli Ring (random)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "cemetery-zu-mausoleum",
+          "text": {
+            "de": "Such die Eingänge zum Mausoleum of the Praetor und zum Tomb of the Consort. Die Reihenfolge ist egal.",
+            "en": "Find the entrances to the Mausoleum of the Praetor and the Tomb of the Consort. The order doesn't matter."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erst die beiden Nebenzonen erledigen, dann den Friedhof fertig machen. Die Wegpunkte in Mausoleum und Tomb sparen Laufwege.",
+          "en": "Do the two side zones first, then finish the Cemetery. The Waypoints in the Mausoleum and Tomb save you walking."
+        }
+      ]
+    },
+    {
+      "id": "mausoleum-of-the-praetor",
+      "name": "Mausoleum of the Praetor",
+      "nameDe": "Mausoleum des Prätors",
+      "areaId": "G1_8",
+      "level": 8,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "draven",
+          "text": {
+            "de": "Besiege Draven, the Eternal Praetor und nimm Draven's Memorial Key Piece.",
+            "en": "Kill Draven, the Eternal Praetor and take Draven's Memorial Key Piece."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Draven schlägt schnell zu und feuert mit einem aufgeladenen Schwerthieb mehrere Projektile in einen Fächer. Ab ca. 75 % zieht er Geister zu sich: Läufst du über einen Geist auf einem Grab, entsteht ein Eternal Knight, also Geister abseits der Gräber auflösen.",
+            "en": "Draven strikes fast and uses a charged sword slash to fire several projectiles in a fan. From about 75% he pulls spirits towards himself: if you walk over a spirit on a grave, an Eternal Knight spawns, so pop the spirits away from the graves."
+          }
+        },
+        {
+          "id": "mausoleum-forgotten-riches",
+          "text": {
+            "de": "Optional: Der versteckte Schalter an einer Säule öffnet Forgotten Riches (Gold und Truhen).",
+            "en": "Optional: the hidden switch on a pillar opens Forgotten Riches (Gold and chests)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "mechanic": "zonen-instanzen",
+          "verified": false,
+          "beginner": {
+            "de": "Zonen sind Instanzen: Eine Zone bleibt eine Weile bestehen, auch wenn du sie verlässt. Läuft die Instanz ab oder wird neu erstellt, ist sie neu generiert, mit neuen Monstern und Truhen. Laut Leveling-Guide lässt sich Forgotten Riches so wiederholen. Für normale Spieler lohnt das meist nicht.",
+            "en": "Zones are instances: a zone persists for a while even after you leave it. When the instance expires or is recreated, it is regenerated with new monsters and chests. According to a leveling guide, Forgotten Riches can be repeated this way. For regular players this is usually not worth it."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Wer zuerst Mausoleum oder Tomb betritt, bekommt dort Zonenlevel 8, die zweite Zone hat Level 9 (laut PoE2 Wiki).",
+          "en": "Whichever of the Mausoleum or Tomb you enter first is zone level 8; the second one is level 9 (according to the PoE2 Wiki)."
+        }
+      ]
+    },
+    {
+      "id": "tomb-of-the-consort",
+      "name": "Tomb of the Consort",
+      "nameDe": "Grabmal der Gemahlin",
+      "areaId": "G1_9",
+      "level": 8,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "asinia",
+          "text": {
+            "de": "Besiege Asinia, the Praetor's Consort und nimm Asinia's Memorial Key Piece.",
+            "en": "Kill Asinia, the Praetor's Consort and take Asinia's Memorial Key Piece."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Asinia teleportiert sich hinter dich und verlangsamt dich, bevor sie zuschlägt. Sperrt sie dich mit einer Knochenwand ein, schlag die Wand sofort kaputt, denn danach regnet es Speere. Ihre vier Todesrunen am Boden erscheinen nacheinander, die letzte ist größer und kommt verzögert.",
+            "en": "Asinia teleports behind you and slows you before she strikes. If she traps you in a bone wall, break the wall immediately, because spears rain down afterwards. Her four death runes on the ground appear one after another; the last one is bigger and delayed."
+          }
+        },
+        {
+          "id": "tomb-haunted-treasure",
+          "text": {
+            "de": "Optional: Öffne die Haunted Treasure und besiege den erscheinenden Rare: seltenes Item und Uncut Support Gem.",
+            "en": "Optional: open the Haunted Treasure and kill the Rare that appears: rare item and Uncut Support Gem."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Rare-Item + Uncut Support Gem (Level 1)",
+              "en": "Rare item + Uncut Support Gem (Level 1)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "tomb-zurueck",
+          "text": {
+            "de": "Kehre mit beiden Schlüsselteilen zum Cemetery of the Eternals zurück.",
+            "en": "Return to the Cemetery of the Eternals with both key pieces."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Eternal Knights blocken mit dem Schild und werfen Schaden zurück. Warte, bis sie den Schild senken.",
+          "en": "Eternal Knights block with their shield and reflect damage. Wait until they lower the shield."
+        }
+      ]
+    },
+    {
+      "id": "cemetery-of-the-eternals-2",
+      "name": "Cemetery of the Eternals",
+      "nameDe": "Friedhof der Ewigen",
+      "areaId": "G1_7",
+      "level": 7,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "memorial-gate",
+          "text": {
+            "de": "Mit beiden Schlüsselteilen: Öffne das Memorial Gate neben Lachlann und folge ihm zum Grab seiner Familie.",
+            "en": "With both key pieces: open the Memorial Gate next to Lachlann and follow him to his family's tomb."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "lachlann",
+          "text": {
+            "de": "Besiege Lachlann of Endless Lament.",
+            "en": "Kill Lachlann of Endless Lament."
+          },
+          "kind": "boss",
+          "mechanic": "zustaende-schutz",
+          "beginner": {
+            "de": "Lachlanns Geister hinterlassen kühlenden Boden, der dich verlangsamt (Hinder/Chill) und Schaden über Zeit macht. Steh nicht darin. Sein Erdbeben-Schlag in einem großen Kegel kann wenig Leben sofort töten: Bei der Ausholbewegung seitlich rollen. Ailments wie Chill, Ignite oder Freeze kannst du mit passenden Charms oder Flask-Eigenschaften abschwächen.",
+            "en": "Lachlann's spirits leave chilling ground that slows you (Hinder/Chill) and deals damage over time. Don't stand in it. His earthquake slam in a large cone can one-shot you if you have low Life: roll sideways during the wind-up. You can mitigate Ailments like Chill, Ignite or Freeze with the right Charms or Flask modifiers."
+          }
+        },
+        {
+          "id": "lachlann-loot",
+          "text": {
+            "de": "Heb Count Lachlann's Ring und die übrigen Drops auf. Laut Leveling-Guide fällt ein Uncut Skill Gem (Level 3), laut PoE2DB gibt „Sorrow Among Stones“ einen Uncut Support Gem.",
+            "en": "Pick up Count Lachlann's Ring and the other drops. According to a leveling guide, an Uncut Skill Gem (Level 3) drops; according to PoE2DB, \"Sorrow Among Stones\" gives an Uncut Support Gem."
+          },
+          "kind": "loot",
+          "verified": false,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Count Lachlann's Ring + Uncut Gem",
+              "en": "Count Lachlann's Ring + Uncut Gem"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "cemetery-hunting-grounds",
+          "text": {
+            "de": "Geh weiter in die Hunting Grounds.",
+            "en": "Continue to the Hunting Grounds."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "hunting-grounds",
+      "name": "Hunting Grounds",
+      "nameDe": "Jagdgründe",
+      "areaId": "G1_11",
+      "level": 10,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hunting-grounds-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt. Vorsicht: Die Monster hier sind deutlich gefährlicher als bisher.",
+            "en": "Activate the Waypoint. Careful: the monsters here are much more dangerous than before."
+          },
+          "kind": "navigation",
+          "mechanic": "leben-mana-energieschild",
+          "beginner": {
+            "de": "Wenn du jetzt oft stirbst, prüfe dein Leben: Mehr maximales Leben auf Ausrüstung (Helm, Rüstung, Gürtel, Ringe) ist die einfachste Verteidigung. Energy Shield ist ein zweiter Schutzbalken über dem Leben, der sich nach kurzer Zeit ohne Treffer wieder auflädt.",
+            "en": "If you're dying a lot now, check your Life: more maximum Life on gear (helmet, body armour, belt, rings) is the easiest defence. Energy Shield is a second protective bar on top of your Life that recharges after a short time without being hit."
+          }
+        },
+        {
+          "id": "hunting-grounds-stadt",
+          "text": {
+            "de": "Reise per Wegpunkt in die Stadt: Dort kehrt The Hooded One zurück.",
+            "en": "Take the Waypoint to town: The Hooded One returns there."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-5",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-hooded-one",
+          "text": {
+            "de": "Sprich mit Una und Finn und erlebe, wie The Hooded One zurückkehrt.",
+            "en": "Talk to Una and Finn and watch The Hooded One return."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "The Hooded One begleitet dich ab jetzt durch die Kampagne. Laut Guide identifiziert er unidentifizierte Gegenstände für dich.",
+            "en": "The Hooded One accompanies you through the campaign from now on. According to the guide, he identifies unidentified items for you."
+          },
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "hunting-grounds-2",
+      "name": "Hunting Grounds",
+      "nameDe": "Jagdgründe",
+      "areaId": "G1_11",
+      "level": 10,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "delwyn",
+          "text": {
+            "de": "Optional: Sprich mit Delwyn, dem Azmeri-Jäger („The Hunt Begins“), und folge dem Geist zu einem gejagten Monster.",
+            "en": "Optional: talk to Delwyn, the Azmeri hunter (\"The Hunt Begins\"), and follow the spirit to a hunted monster."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Ab den Hunting Grounds erscheinen Azmeri-Geister (Wisps). Folgst du ihnen, führen sie dich zu einem Monster, das durch den Geist verstärkt ist und besseren Loot bringt. Die Quest muss in einer einzigen Instanz abgeschlossen werden.",
+            "en": "From the Hunting Grounds onwards, Azmeri spirits (Wisps) appear. If you follow them, they lead you to a monster empowered by the spirit that drops better loot. The quest has to be completed in a single instance."
+          }
+        },
+        {
+          "id": "crowbell",
+          "text": {
+            "de": "Folge den Blutspuren zur Arena und besiege The Crowbell.",
+            "en": "Follow the blood trails to the arena and kill The Crowbell."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "The Crowbell ist ein Test für die Ausweichrolle: Fast jeder starke Angriff wird mit einem Warnton angekündigt (Sprung-Schlag, Glocken-Schwung, wiederholtes Stampfen). Erst nach einem Angriff zuschlagen. Er flieht bei wenig Leben, also nicht leichtsinnig hinterherrennen.",
+            "en": "The Crowbell is a Dodge Roll test: almost every big attack is announced with a warning sound (leap slam, bell swing, repeated stomping). Only strike after an attack. He flees at low Life, so don't chase him recklessly."
+          }
+        },
+        {
+          "id": "crowbell-reward",
+          "text": {
+            "de": "Benutze das Book of Specialisation, das The Crowbell fallen lässt.",
+            "en": "Use the Book of Specialisation that The Crowbell drops."
+          },
+          "kind": "reward",
+          "mechanic": "waffenset-punkte",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Rechtsklick auf das Buch gibt dir zwei Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. So kannst du z. B. für Waffenset 2 andere Knoten aktivieren als für Waffenset 1.",
+            "en": "Right-click the book to get two Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2."
+          }
+        },
+        {
+          "id": "hunting-grounds-dryaden",
+          "text": {
+            "de": "Optional: Besiege die Dryaden beim Dryadic Ritual für einen Uncut Support Gem (Level 1).",
+            "en": "Optional: kill the Dryads at the Dryadic Ritual for an Uncut Support Gem (Level 1)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem (Level 1)",
+              "en": "Uncut Support Gem (Level 1)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "hunting-grounds-runensteine",
+          "text": {
+            "de": "Nur Runes-of-Aldur-Liga: Aktiviere die Wild Runestones (zweiter Runestone).",
+            "en": "Runes of Aldur league only: activate the Wild Runestones (second Runestone)."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "hunting-grounds-freythorn",
+          "text": {
+            "de": "Such den Eingang nach Freythorn und mach zuerst diese Zone, dann geht es weiter in die Ogham Farmlands.",
+            "en": "Find the entrance to Freythorn and do that zone first, then continue to the Ogham Farmlands."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Bramble Hulks und die Venomous Crab Matriarch treffen hart. Nicht alles mitnehmen, wenn dein Gear schwach ist.",
+          "en": "Bramble Hulks and the Venomous Crab Matriarch hit hard. Don't fight everything if your gear is weak."
+        },
+        {
+          "de": "The Crowbell ist Pflicht für Profis: 2 Punkte für wenige Minuten Kampf.",
+          "en": "The Crowbell is a must for experienced players: 2 points for a few minutes of fighting."
+        }
+      ]
+    },
+    {
+      "id": "freythorn",
+      "name": "Freythorn",
+      "nameDe": "Freydorn",
+      "areaId": "G1_12",
+      "level": 11,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "freythorn-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt auf den Holzstegen über den Hunting Grounds.",
+            "en": "Activate the Waypoint on the wooden walkways above the Hunting Grounds."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "freythorn-altaere",
+          "text": {
+            "de": "Finde und reinige die drei kleinen Ritual Altars („Ominous Altars“): aktivieren, die Monster besiegen. Rauchspuren vom großen Altar zeigen zu ihnen.",
+            "en": "Find and cleanse the three small Ritual Altars (\"Ominous Altars\"): activate them and defeat the monsters. Smoke trails from the big altar point the way to them."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "king-in-the-mists",
+          "text": {
+            "de": "Starte am großen Ritual Altar oben das letzte Ritual, besiege die Welle und dann The King in the Mists.",
+            "en": "Start the final Ritual at the big Ritual Altar at the top, defeat the wave and then The King in the Mists."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Der wichtigste Bosskampf des Akts. Er verflucht dich abwechselnd: Lila Kreis (Ritual of Dance) heißt in Bewegung bleiben, roter Kreis (Ritual of Meditation) heißt stillstehen – ein bis zwei Ausweichrollen sind erlaubt. Sonst wirst du festgehalten. Totems sofort zerstören, sie verstärken seinen Chaosschaden. Bei „Thorngrip!“ kommt ein Rankenkegel nach vorn: zur Seite.",
+            "en": "The most important boss fight of the act. He alternates curses on you: a purple circle (Ritual of Dance) means keep moving, a red circle (Ritual of Meditation) means stand still – one or two Dodge Rolls are allowed. Otherwise you get held in place. Destroy totems immediately; they boost his Chaos damage. When he shouts \"Thorngrip!\", a cone of vines comes forward: move to the side."
+          }
+        },
+        {
+          "id": "king-in-the-mists-reward",
+          "text": {
+            "de": "Heb den Gembloom Skull auf und benutze ihn: dauerhaft +30 Spirit und ein Uncut Spirit Gem (Level 4).",
+            "en": "Pick up the Gembloom Skull and use it: permanent +30 Spirit and an Uncut Spirit Gem (Level 4)."
+          },
+          "kind": "reward",
+          "mechanic": "spirit",
+          "reward": {
+            "type": "spirit",
+            "amount": 30,
+            "label": {
+              "de": "+30 Spirit (+ Uncut Spirit Gem Lv4)",
+              "en": "+30 Spirit (+ Uncut Spirit Gem Lv4)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Spirit ist eine Ressource, die dauerhaft aktive Fähigkeiten reservieren. Ohne Spirit kannst du keine Dauer-Buffs oder permanenten Begleiter nutzen. Die +30 Spirit von hier sind für fast jeden Build der Startpunkt.",
+            "en": "Spirit is a resource that persistent skills reserve. Without Spirit you can't use persistent buffs or permanent companions. The +30 Spirit from here is the starting point for almost every build."
+          }
+        },
+        {
+          "id": "freythorn-spirit-gem",
+          "text": {
+            "de": "Schneide den Uncut Spirit Gem zu einem Dauer-Buff zu und setze ihn ein.",
+            "en": "Cut the Uncut Spirit Gem into a persistent buff and socket it."
+          },
+          "kind": "tip",
+          "mechanic": "spirit-gems",
+          "beginner": {
+            "de": "Spirit-Gems sind Dauer-Buffs oder Auren, die Spirit reservieren, statt Mana zu kosten. Sie bleiben aktiv, solange genug Spirit frei ist. Wähle einen, der zu deinem Build passt (Waffe und Schadensart).",
+            "en": "Spirit gems are persistent buffs or auras that reserve Spirit instead of costing mana. They stay active as long as you have enough free Spirit. Pick one that fits your build (weapon and damage type)."
+          }
+        },
+        {
+          "id": "freythorn-finn",
+          "text": {
+            "de": "Reise in die Stadt zu Finn, danach zurück in die Hunting Grounds und weiter in die Ogham Farmlands.",
+            "en": "Travel to Finn in town, then back to the Hunting Grounds and on to the Ogham Farmlands."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Explosive Sporen des Königs an den Rand der Arena locken, damit die Pusteln dort liegen bleiben.",
+          "en": "Lure the King's Explosive Spores to the edge of the arena so the pustules stay there."
+        },
+        {
+          "de": "Seit 0.5.0 geben die Quest-Ritualaltäre in Freythorn nach The King in the Mists keine Belohnungen mehr.",
+          "en": "Since 0.5.0, the quest Ritual altars in Freythorn no longer give rewards after The King in the Mists."
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-6",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-finn-charm",
+          "text": {
+            "de": "Sprich mit Finn und wähle deine Belohnung für „Ominous Altars“: Ruby, Sapphire oder Topaz Charm.",
+            "en": "Talk to Finn and choose your reward for \"Ominous Altars\": Ruby, Sapphire or Topaz Charm."
+          },
+          "kind": "reward",
+          "mechanic": "charms",
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Charm nach Wahl: Ruby, Sapphire oder Topaz Charm",
+              "en": "Charm of your choice: Ruby, Sapphire or Topaz Charm"
+            },
+            "permanent": false,
+            "choice": true
+          },
+          "beginner": {
+            "de": "Charms sitzen in den Charm-Plätzen deines Gürtels und lösen automatisch aus, wenn eine Bedingung eintritt. Ruby Charm hilft gegen Feuerschaden, Sapphire Charm gegen Kälte, Topaz Charm gegen Blitz. Ohne Gürtel mit Charm-Platz kannst du sie nicht nutzen. Viele Bosse in Akt 2 machen Feuerschaden, daher ist Ruby eine sichere Wahl.",
+            "en": "Charms go into the Charm slots on your belt and trigger automatically when a condition is met. Ruby Charm helps against Fire damage, Sapphire Charm against Cold, Topaz Charm against Lightning. Without a belt with a Charm slot you can't use them. Many bosses in Act 2 deal Fire damage, so Ruby is a safe choice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ogham-farmlands",
+      "name": "Ogham Farmlands",
+      "nameDe": "Ackerlande von Ogham",
+      "areaId": "G1_13_1",
+      "level": 12,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "farmlands-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt.",
+            "en": "Activate the Waypoint."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "unas-lute",
+          "text": {
+            "de": "Such Una's Hut (meist nahe einem Checkpoint) und öffne die Truhe mit Una's Lute („The Lost Lute“).",
+            "en": "Find Una's Hut (usually near a Checkpoint) and open the chest with Una's Lute (\"The Lost Lute\")."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "farmlands-crop-circle",
+          "text": {
+            "de": "Optional: Besiege die seltenen Hunde im Crop Circle für einen Uncut Skill Gem (Level 4).",
+            "en": "Optional: kill the rare hounds in the Crop Circle for an Uncut Skill Gem (Level 4)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 4)",
+              "en": "Uncut Skill Gem (Level 4)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "farmlands-runensteine",
+          "text": {
+            "de": "Nur Runes-of-Aldur-Liga: Aktiviere die Bared Runestones (dritter Runestone), dann geht es über den Grelwood in die Lost Catacombs.",
+            "en": "Runes of Aldur league only: activate the Bared Runestones (third Runestone), then head to the Lost Catacombs via the Grelwood."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "farmlands-village",
+          "text": {
+            "de": "Folge dem Weg nach Ogham Village. Die Lute gibst du beim nächsten Stadtbesuch Una.",
+            "en": "Follow the road to Ogham Village. Give the Lute to Una on your next town visit."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Una's Lute nicht vergessen: 2 Punkte für einen kleinen Umweg.",
+          "en": "Don't forget Una's Lute: 2 points for a small detour."
+        }
+      ]
+    },
+    {
+      "id": "lost-catacombs",
+      "name": "Lost Catacombs",
+      "nameDe": "Verschollene Katakomben",
+      "areaId": "ExpeditionSubArea_Kalguur_Act1",
+      "level": 12,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "lost-catacombs-runeseeker",
+          "text": {
+            "de": "Nur Runes-of-Aldur-Liga: Betritt mit allen drei Runestones die Lost Catacombs über den Grelwood und hilf Farrow („The Runeseeker“).",
+            "en": "Runes of Aldur league only: with all three Runestones, enter the Lost Catacombs via the Grelwood and help Farrow (\"The Runeseeker\")."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Diese Kette gehört zur Liga Runes of Aldur. Laut Wiki bringt Liquid Verisium am Ende der Runic Vault bei Farrow 30 Verisium und schaltet Runeforging (Runic Ward auf Rüstung) über den Verisium Anvil frei. In Forbidden Rites und Standard wird der Anvil erst in Akt 4 freigeschaltet.",
+            "en": "This chain belongs to the Runes of Aldur league. According to the wiki, Liquid Verisium at the end of the Runic Vault gets you 30 Verisium from Farrow and unlocks Runeforging (Runic Ward on armour) via the Verisium Anvil. In Forbidden Rites and Standard, the Anvil is only unlocked in Act 4."
+          }
+        },
+        {
+          "id": "lost-catacombs-reward",
+          "text": {
+            "de": "Kehre nach Clearfell zurück und schalte bei Farrow das Verisium-Runeforging frei.",
+            "en": "Return to Clearfell and unlock Verisium Runeforging with Farrow."
+          },
+          "kind": "reward",
+          "optional": true,
+          "verified": false,
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Verisium Runeforging + 30 Verisium (nur Runes of Aldur)",
+              "en": "Verisium Runeforging + 30 Verisium (Runes of Aldur only)"
+            },
+            "permanent": true
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Für Forbidden-Rites-Charaktere (0.5.5) irrelevant. Einfach überspringen.",
+          "en": "Irrelevant for Forbidden Rites characters (0.5.5). Just skip it."
+        }
+      ]
+    },
+    {
+      "id": "ogham-village",
+      "name": "Ogham Village",
+      "nameDe": "Dorf Ogham",
+      "areaId": "G1_13_2",
+      "level": 13,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "village-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und folge der gepflasterten Straße zu Renly's Workshop (Schmiede).",
+            "en": "Activate the Waypoint and follow the cobbled road to Renly's Workshop (the forge)."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "smithing-tools",
+          "text": {
+            "de": "Heb in der Schmiede die Smithing Tools auf („Finding the Forge“).",
+            "en": "Pick up the Smithing Tools in the forge (\"Finding the Forge\")."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "blacksmith-chest",
+          "text": {
+            "de": "Öffne direkt daneben die Blacksmith's Chest: Artificer's Orb und Blank Rune.",
+            "en": "Right next to it, open the Blacksmith's Chest: Artificer's Orb and Blank Rune."
+          },
+          "kind": "loot",
+          "optional": true,
+          "mechanic": "currency-grundlagen",
+          "reward": {
+            "type": "currency",
+            "label": {
+              "de": "Artificer's Orb + Blank Rune",
+              "en": "Artificer's Orb + Blank Rune"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Currency in PoE2 sind Verbrauchsgegenstände, mit denen du Items veränderst. Ein Artificer's Orb fügt einem Item einen Sockel hinzu, in den du eine Rune steckst. Die Blank Rune tauschst du bei Renly gegen eine Rune deiner Wahl.",
+            "en": "Currency in PoE2 consists of consumables you use to modify items. An Artificer's Orb adds a socket to an item, which you can put a Rune into. You trade the Blank Rune to Renly for a Rune of your choice."
+          }
+        },
+        {
+          "id": "executioner",
+          "text": {
+            "de": "Besiege The Executioner im Norden des Dorfes.",
+            "en": "Kill The Executioner in the north of the village."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Seine Schläge sind tödlich, aber gut angekündigt. Hebt er die Axt glühend in den Himmel, kommt eine große Explosion: weit weg. Rammt er die Axt wie einen Hebel in den Boden, fällt ein Fallbeil vom Himmel. Zwischendurch kommen Soldaten als Verstärkung; halte sie klein, damit du Platz zum Rollen hast.",
+            "en": "His hits are deadly but well telegraphed. When he raises his glowing axe to the sky, a big explosion is coming: get far away. When he rams the axe into the ground like a lever, a guillotine blade falls from the sky. Soldiers arrive as reinforcements now and then; keep their numbers down so you have room to roll."
+          }
+        },
+        {
+          "id": "executioner-loot",
+          "text": {
+            "de": "Heb den Drop des Executioners auf: laut Leveling-Guide ein Uncut Support Gem (Level 1).",
+            "en": "Pick up The Executioner's drop: according to a leveling guide, an Uncut Support Gem (Level 1)."
+          },
+          "kind": "loot",
+          "verified": false,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem (Level 1)",
+              "en": "Uncut Support Gem (Level 1)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "village-leitis",
+          "text": {
+            "de": "Geh die Treppe hoch, zieh den Hebel, befreie Leitis und reise in die Stadt (Leitis, Una, Renly).",
+            "en": "Go up the stairs, pull the lever, free Leitis and travel to town (Leitis, Una, Renly)."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Laut Leveling-Guide muss nur der erste Charakter die Salvage Bench freischalten. Bei Zweitcharakteren im Zweifel trotzdem mitnehmen, die Schmiede liegt am Weg.",
+          "en": "According to a leveling guide, only your first character needs to unlock the Salvage Bench. On alts, grab it anyway if in doubt – the forge is on your way."
+        },
+        {
+          "de": "Die Blank Rune und der Artificer's Orb sind die ersten Sockel-Upgrades: z. B. Iron Rune für Rüstung oder eine Elementar-Rune für Resistenz.",
+          "en": "The Blank Rune and the Artificer's Orb are your first socket upgrades: e.g. an Iron Rune for armour or an elemental Rune for resistance."
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-7",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lager-leitis",
+          "text": {
+            "de": "Sprich mit Leitis für „The Trail of Corruption“ und hol dir einen Uncut Skill Gem (Level 5).",
+            "en": "Talk to Leitis for \"The Trail of Corruption\" and collect an Uncut Skill Gem (Level 5)."
+          },
+          "kind": "reward",
+          "mechanic": "gem-level",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Level 5)",
+              "en": "Uncut Skill Gem (Level 5)"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Skill-Gems haben Level. Ein Uncut Skill Gem Level 5 kann jeden Skill bis Gem-Level 5 werden, also auch stärkere Skills. Gems steigen nicht durch Erfahrung, sondern indem du sie mit einem höheren Uncut Skill Gem aufwertest. Prüfe also, ob du deinen Hauptskill aufleveln oder einen neuen nehmen willst.",
+            "en": "Skill gems have levels. A level 5 Uncut Skill Gem can become any skill up to gem level 5, including stronger skills. Gems don't level up from experience; you upgrade them with a higher Uncut Skill Gem. So decide whether you want to level up your main skill or take a new one."
+          }
+        },
+        {
+          "id": "lager-una-lute",
+          "text": {
+            "de": "Gib Una ihre Lute aus den Ogham Farmlands und erhalte das Book of Specialisation.",
+            "en": "Give Una her Lute from the Ogham Farmlands and receive the Book of Specialisation."
+          },
+          "kind": "reward",
+          "mechanic": "waffenwechsel",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Rechtsklick auf das Book of Specialisation gibt dir zwei Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Zwischen den Waffensets wechselst du per Tastendruck (Standard: X).",
+            "en": "Right-click the Book of Specialisation to get two Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. You swap between weapon sets with a key press (default: X)."
+          }
+        },
+        {
+          "id": "lager-renly-forge",
+          "text": {
+            "de": "Bring Renly seine Smithing Tools aus Ogham Village: Das schaltet die Salvage Bench im Lager frei.",
+            "en": "Bring Renly his Smithing Tools from Ogham Village: this unlocks the Salvage Bench in the encampment."
+          },
+          "kind": "reward",
+          "mechanic": "salvage-bench",
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Salvage Bench freigeschaltet",
+              "en": "Salvage Bench unlocked"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "An der Salvage Bench zerlegst du Ausrüstung in Currency-Splitter. Items mit Qualität geben Material für Qualität, Items mit Sockeln geben Splitter für Artificer's Orbs. Statt alles beim Händler zu verkaufen, lohnt sich Zerlegen für Qualitäts- und Sockel-Currency.",
+            "en": "At the Salvage Bench you break gear down into currency shards. Items with quality give quality material; items with sockets give shards for Artificer's Orbs. Instead of selling everything to vendors, salvaging is worth it for quality and socket currency."
+          }
+        },
+        {
+          "id": "lager-renly-rune",
+          "text": {
+            "de": "Tausche die Blank Rune aus der Blacksmith's Chest bei Renly gegen eine Lesser Rune deiner Wahl (Desert, Glacial, Storm oder Iron).",
+            "en": "Trade the Blank Rune from the Blacksmith's Chest to Renly for a Lesser Rune of your choice (Desert, Glacial, Storm or Iron)."
+          },
+          "kind": "reward",
+          "optional": true,
+          "mechanic": "runen-sockel",
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Lesser Rune nach Wahl (Desert, Glacial, Storm, Iron)",
+              "en": "Lesser Rune of your choice (Desert, Glacial, Storm, Iron)"
+            },
+            "permanent": false,
+            "choice": true
+          },
+          "beginner": {
+            "de": "Runen steckst du in Sockel von Waffen und Rüstungen, sie geben feste Boni. Desert = Feuerresistenz bzw. Feuerschaden, Glacial = Kälte, Storm = Blitz, Iron = Verteidigung bzw. physischer Schaden. Einen Sockel fügst du mit einem Artificer's Orb hinzu.",
+            "en": "Runes go into sockets on weapons and armour and give fixed bonuses. Desert = Fire Resistance or Fire damage, Glacial = Cold, Storm = Lightning, Iron = defences or Physical damage. You add a socket with an Artificer's Orb."
+          }
+        }
+      ]
+    },
+    {
+      "id": "manor-ramparts",
+      "name": "The Manor Ramparts",
+      "nameDe": "Festungsmauern des Herrenhauses",
+      "areaId": "G1_14",
+      "level": 14,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ramparts-wegpunkt",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und lauf zum Eingang von Ogham Manor.",
+            "en": "Activate the Waypoint and run to the entrance of Ogham Manor."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "ramparts-gallows",
+          "text": {
+            "de": "Optional: Untersuche das Seil des Gehängten an den Gallows nahe einem Checkpoint: Uncut Support Gem (Level 1).",
+            "en": "Optional: inspect the hanged man's rope at the Gallows near a Checkpoint: Uncut Support Gem (Level 1)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem (Level 1)",
+              "en": "Uncut Support Gem (Level 1)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "ramparts-vorbereitung",
+          "text": {
+            "de": "Vor dem Herrenhaus: Prüfe Waffe, Rüstung und Fläschchen. Laut Guide sollten Flask und Rüstung etwa Level 10–11 haben.",
+            "en": "Before the manor: check your weapon, armour and Flasks. According to the guide, your Flask and armour should be around level 10–11."
+          },
+          "kind": "tip",
+          "mechanic": "verteidigung",
+          "beginner": {
+            "de": "Rüstung (Armour) senkt physischen Schaden, Ausweichen (Evasion) lässt Angriffe verfehlen, Energy Shield fängt Schaden vor dem Leben ab. Schau, was deine Klasse nutzt, und nimm Rüstungsteile mit möglichst hohem Wert dieser Art. Ist dein Gear deutlich unter dem Zonenlevel, kaufe beim Händler nach.",
+            "en": "Armour reduces Physical damage, Evasion makes attacks miss, and Energy Shield absorbs damage before your Life. Check what your class uses and take armour pieces with as high a value of that type as possible. If your gear is well below the zone level, buy upgrades from vendors."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Iron Thaumaturgists und Courtesans sind lästig. Fernkämpfer zuerst ausschalten.",
+          "en": "Iron Thaumaturgists and Courtesans are annoying. Take out ranged enemies first."
+        }
+      ]
+    },
+    {
+      "id": "ogham-manor",
+      "name": "Ogham Manor",
+      "nameDe": "Herrenhaus von Ogham",
+      "areaId": "G1_15",
+      "level": 15,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "candlemass",
+          "text": {
+            "de": "Besiege Candlemass, the Living Rite im ersten Stockwerk (meist nach dem ersten Steg).",
+            "en": "Kill Candlemass, the Living Rite on the first floor (usually after the first walkway)."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Candlemass macht Feuerschaden: Er täuscht einen Hieb an und wirft dann einen Feuerball, springt mit einer Feuerexplosion und speit Feuer, das dir folgt. Duckt er sich, feuert er Feuerbälle aus dem Rücken. Bewegung schlägt hier Stehen.",
+            "en": "Candlemass deals Fire damage: he feints a slash and then throws a fireball, leaps with a fire explosion and breathes fire that follows you. When he crouches, he fires fireballs from his back. Moving beats standing still here."
+          }
+        },
+        {
+          "id": "candlemass-reward",
+          "text": {
+            "de": "Heb Candlemass' Essence auf und benutze sie: dauerhaft +20 maximales Leben.",
+            "en": "Pick up Candlemass' Essence and use it: permanent +20 maximum Life."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "life",
+            "amount": 20,
+            "label": {
+              "de": "+20 maximales Leben",
+              "en": "+20 maximum Life"
+            },
+            "permanent": true
+          }
+        },
+        {
+          "id": "manor-treppen",
+          "text": {
+            "de": "Arbeite dich durch die Stockwerke nach unten. Laut Guide liegt die nächste Treppe meist auf der gegenüberliegenden Seite der vorherigen.",
+            "en": "Work your way down through the floors. According to the guide, the next staircase is usually on the opposite side from the previous one."
+          },
+          "kind": "navigation",
+          "verified": false
+        },
+        {
+          "id": "count-geonor",
+          "text": {
+            "de": "Besiege Count Geonor im untersten Stockwerk.",
+            "en": "Kill Count Geonor on the lowest floor."
+          },
+          "kind": "boss",
+          "mechanic": "kombos",
+          "beginner": {
+            "de": "Akt-Boss mit mehreren Phasen. Phase 1: Schwertkombos, Frost-Atem, Eiswände vor ihm (durchrollen). Steh nicht hinter ihm, er kontert mit einem Rundumschlag. Dann verwandelt er sich in den Wolf und verschwindet im Nebel: Nach jeder Sprachzeile springt er dich an, rolle im Takt seiner Sätze. Danach kämpft er als Wolf mit arenaweiten Angriffen weiter. Nutze deine Skills zusammen, z. B. Schwächung plus Hauptangriff.",
+            "en": "Act boss with several phases. Phase 1: sword combos, frost breath, ice walls in front of him (roll through). Don't stand behind him; he counters with a spinning slash. Then he turns into the wolf and vanishes into the mist: after each voice line he leaps at you, so roll in time with his lines. After that he keeps fighting as a wolf with arena-wide attacks. Combine your skills, e.g. a debuff plus your main attack."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Candlemass droppt laut Guide außerdem eine Essence und einen Gürtel mit zwei Resistenzen. Lohnt sich auch für Speedrunner wegen +20 Leben.",
+          "en": "According to the guide, Candlemass also drops an Essence and a belt with two resistances. Worth it even for speedrunners because of the +20 Life."
+        },
+        {
+          "de": "Geonor: In der Nebelphase erscheinen normale Monster. Töte sie, um deine Fläschchen wieder zu füllen.",
+          "en": "Geonor: normal monsters spawn during the mist phase. Kill them to refill your Flasks."
+        }
+      ]
+    },
+    {
+      "id": "clearfell-encampment-8",
+      "name": "Clearfell Encampment",
+      "nameDe": "Lichtfall-Lager",
+      "areaId": "G1_town",
+      "level": 15,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "geonor-reward",
+          "text": {
+            "de": "Hol dir für „The Mad Wolf of Ogham“ laut PoE2DB einen Uncut Support Gem ab.",
+            "en": "Collect an Uncut Support Gem for \"The Mad Wolf of Ogham\" (according to PoE2DB)."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem",
+              "en": "Uncut Support Gem"
+            },
+            "permanent": false
+          },
+          "verified": false
+        },
+        {
+          "id": "lager-follow-beast",
+          "text": {
+            "de": "Nach Count Geonor: Sprich mit The Hooded One, wähle „Follow the Beast's trail“ und reise nach Akt 2 (Vastiri Outskirts).",
+            "en": "After Count Geonor: talk to The Hooded One, choose \"Follow the Beast's trail\" and travel to Act 2 (Vastiri Outskirts)."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Vorher lohnt sich ein letzter Händler-Check und das Zerlegen alter Ausrüstung an der Salvage Bench. In Akt 2 sind Feuerschaden und Wüstenmonster häufig; achte jetzt schon auf Feuerresistenz auf neuen Items.",
+            "en": "Before you go, do a last vendor check and salvage old gear at the Salvage Bench. Fire damage and desert monsters are common in Act 2; start looking for Fire Resistance on new items now."
+          }
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "The Bloated Miller",
+      "zone": "riverbank",
+      "mechanics": [
+        {
+          "de": "Swipe: Schlag mit der linken Hand auf kurze Distanz.",
+          "en": "Swipe: short-range strike with his left hand."
+        },
+        {
+          "de": "Swing Combo („Die!“): zwei horizontale Schwünge mit dem Baumstamm.",
+          "en": "Swing Combo (\"Die!\"): two horizontal swings with the tree trunk."
+        },
+        {
+          "de": "Sunder („Split you!“): holt aus und schlägt auf den Boden, eine Schockwelle läuft nach vorn. Seitlich ausweichen.",
+          "en": "Sunder (\"Split you!\"): winds up and slams the ground, sending a shockwave forward. Dodge to the side."
+        },
+        {
+          "de": "Charge: kurzer Ansturm mit anschließendem Schlag. Schiebt dich seit 0.2 zur Seite und kann nicht geblockt werden.",
+          "en": "Charge: short rush followed by a slam. Since 0.2 it pushes you aside and can't be blocked."
+        },
+        {
+          "de": "Summon Drowned: brüllt und ruft mehrere Drowned-Zombies.",
+          "en": "Summon Drowned: roars and summons several Drowned zombies."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erster Boss: Hier die Ausweichrolle üben. Nach jedem Schlag hat er eine kurze Pause für deine Angriffe.",
+          "en": "First boss: practise the Dodge Roll here. After each slam he pauses briefly, giving you a window to attack."
+        }
+      ]
+    },
+    {
+      "name": "Beira of the Rotten Pack",
+      "zone": "clearfell",
+      "mechanics": [
+        {
+          "de": "Frostsplitter-Salve, die dich verfolgt, und Eisstacheln im Halbkreis vor ihr.",
+          "en": "A volley of frost shards that tracks you, and ice spikes in a semicircle in front of her."
+        },
+        {
+          "de": "Frost-Runen am Boden, die nach kurzer Zeit in Eisstacheln ausbrechen.",
+          "en": "Frost runes on the ground that erupt into ice spikes after a short delay."
+        },
+        {
+          "de": "Ab ca. 80 %: belebt untote Wölfe in der Arena wieder (Feeding Frenzy).",
+          "en": "From about 80%: revives undead wolves in the arena (Feeding Frenzy)."
+        },
+        {
+          "de": "Rotting Chill: bedeckt die Arena mit kleinen Frost-Runen, aus denen Stacheln brechen.",
+          "en": "Rotting Chill: covers the arena in small frost runes that spikes burst out of."
+        },
+        {
+          "de": "Frost Swell: Eisring um sie herum, danach schießen Stacheln nach außen. Die Lücken im Ring zeigen sichere Stellen.",
+          "en": "Frost Swell: ice ring around her, then spikes shoot outwards. The gaps in the ring show the safe spots."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ständig in Bewegung bleiben und Wölfe nicht anhäufen lassen. Belohnung: +10 % Kälteresistenz dauerhaft.",
+          "en": "Keep moving at all times and don't let the wolves pile up. Reward: permanent +10% Cold Resistance."
+        }
+      ]
+    },
+    {
+      "name": "The Devourer",
+      "zone": "mud-burrow",
+      "mechanics": [
+        {
+          "de": "Feuert kleine Blutprojektile und taucht mehrfach schnell hintereinander unter.",
+          "en": "Fires small blood projectiles and burrows several times in quick succession."
+        },
+        {
+          "de": "Eruption: bricht giftig aus dem Boden und spawnt Insekten.",
+          "en": "Eruption: bursts out of the ground in a poisonous eruption and spawns insects."
+        },
+        {
+          "de": "Ab ca. 75 % kommt der Schwanz dazu: fegt nahe Spieler weg und schlägt Insekten aus dem Boden.",
+          "en": "From about 75% the tail joins in: it sweeps away nearby players and knocks insects out of the ground."
+        },
+        {
+          "de": "Toxic Slam: Kopf wird grün, dann Giftschlag vor ihm. Weg vom Kopf.",
+          "en": "Toxic Slam: head turns green, then a poison slam in front of him. Get away from the head."
+        },
+        {
+          "de": "Poison Barrage: leuchtet rot und sprüht Gift von Seite zu Seite. Durchrollen.",
+          "en": "Poison Barrage: glows red and sprays poison from side to side. Roll through."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Optional. Wer ihn macht, bekommt einen Uncut Skill Gem Lv2 und bei Renly einen Uncut Support Gem plus 100 Gold.",
+          "en": "Optional. If you do him, you get an Uncut Skill Gem Lv2 plus an Uncut Support Gem and 100 Gold from Renly."
+        }
+      ]
+    },
+    {
+      "name": "Areagne, Forgotten Witch",
+      "zone": "grelwood",
+      "mechanics": [
+        {
+          "de": "Teleportiert sich häufig durch ihre Hütte.",
+          "en": "Frequently teleports around her hut."
+        },
+        {
+          "de": "Verflucht dich und legt Kälteflächen, die dauerhaft Schaden machen.",
+          "en": "Curses you and creates cold ground that deals constant damage."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Laut Leveling-Guide macht ein Frost-Wurfgeschoss (Frost Bomb) sie durch Kälte deutlich langsamer.",
+          "en": "According to a leveling guide, a frost throwable (Frost Bomb) slows her down significantly with Cold."
+        },
+        {
+          "de": "Den Kessel mit Medium Life/Mana Flask kannst du auch ohne Kill öffnen.",
+          "en": "You can open the cauldron with the Medium Life/Mana Flask without killing her."
+        }
+      ]
+    },
+    {
+      "name": "The Brambleghast",
+      "zone": "grelwood",
+      "mechanics": [
+        {
+          "de": "Zwei Streifhiebe und ein Ausfall-Biss als Grundangriffe.",
+          "en": "Two raking swipes and a lunging bite as basic attacks."
+        },
+        {
+          "de": "Volatile Orb: wirft eine rotierende Kugel, die Projektile verschießt.",
+          "en": "Volatile Orb: throws a spinning orb that fires projectiles."
+        },
+        {
+          "de": "Vine Screech: brüllt und lässt Ranken aus dem Boden schlagen. Ranken töten.",
+          "en": "Vine Screech: screeches and makes vines lash out of the ground. Kill the vines."
+        },
+        {
+          "de": "Volatile Vines: langsame explosive Kugeln aus Ranken.",
+          "en": "Volatile Vines: slow explosive orbs from vines."
+        },
+        {
+          "de": "Volatile Slam: beide Arme in den Boden, dann schlagen große lila Wucherungen zu. Kann wenig Leben sofort töten.",
+          "en": "Volatile Slam: both arms into the ground, then large purple growths strike. Can one-shot you at low Life."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Optional und ohne permanenten Bonus. Bei schwachem Gear auslassen.",
+          "en": "Optional and no permanent bonus. Skip it if your gear is weak."
+        }
+      ]
+    },
+    {
+      "name": "The Rust King",
+      "zone": "red-vale",
+      "mechanics": [
+        {
+          "de": "Hieb mit der linken Hand; Splitter in der rechten Hand verfolgen dich kurz und schlagen dann in einer Linie ein.",
+          "en": "Slash with the left hand; shards in the right hand track you briefly and then strike in a line."
+        },
+        {
+          "de": "Sword Scatter: Schwerter im Kreis um ihn, die nach außen fliegen.",
+          "en": "Sword Scatter: swords in a circle around him that fly outwards."
+        },
+        {
+          "de": "Shard Whip / Rust Volley: Splitter werden zur Peitsche, danach eine große Projektil-Salve nach vorn.",
+          "en": "Shard Whip / Rust Volley: shards form a whip, followed by a large projectile volley forward."
+        },
+        {
+          "de": "Eternal Army: ruft einen Schwarm Ezomyte-Krieger.",
+          "en": "Eternal Army: summons a swarm of Ezomyte warriors."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erscheint am dritten Obelisk of Rust. Diener unter ihn ziehen, seine Flächenangriffe treffen sie mit.",
+          "en": "Appears at the third Obelisk of Rust. Pull minions under him; his area attacks hit them too."
+        }
+      ]
+    },
+    {
+      "name": "Ervig, the Rotten Druid",
+      "zone": "grim-tangle",
+      "mechanics": [
+        {
+          "de": "Auf Distanz drei Projektile, die an deinen Füßen explodieren; im Nahkampf Armhieb.",
+          "en": "At range, three projectiles that explode at your feet; in melee, an arm swipe."
+        },
+        {
+          "de": "Teleportiert sich mit Ranken durch die Arena.",
+          "en": "Teleports across the arena via vines."
+        },
+        {
+          "de": "Fungal Slam: kurzes Kanalisieren, dann Flächenschaden um ihn.",
+          "en": "Fungal Slam: brief channel, then area damage around him."
+        },
+        {
+          "de": "Rock Smash: hebt einen Felsen und wirft ihn. Rollen, sobald der Arm nach unten geht.",
+          "en": "Rock Smash: lifts a rock and throws it. Roll as soon as his arm goes down."
+        },
+        {
+          "de": "Summon Vines: kanalisiert Ranken, die auf dich zuschnellen. Mit Schaden unterbrechen.",
+          "en": "Summon Vines: channels vines that lash towards you. Interrupt with damage."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Optional, gibt einen Uncut Support Gem.",
+          "en": "Optional, gives an Uncut Support Gem."
+        }
+      ]
+    },
+    {
+      "name": "Draven, the Eternal Praetor",
+      "zone": "mausoleum-of-the-praetor",
+      "mechanics": [
+        {
+          "de": "Schnelle Hiebe und eine Angriffsserie.",
+          "en": "Fast slashes and an attack combo."
+        },
+        {
+          "de": "Soul-rending Slash: aufgeladener Hieb mit mehreren Projektilen, manchmal doppelt.",
+          "en": "Soul-rending Slash: charged slash with several projectiles, sometimes twice."
+        },
+        {
+          "de": "Perishing Sunder: Warnton, dann Stampfer, dessen Schadenslinie sich zu den Seiten ausbreitet.",
+          "en": "Perishing Sunder: warning sound, then a stomp whose damage line spreads out to the sides."
+        },
+        {
+          "de": "Consort's Love: ruft einen Klon von Asinia mit ihren Todesrunen.",
+          "en": "Consort's Love: summons a clone of Asinia with her death runes."
+        },
+        {
+          "de": "Ab ca. 75 %: zieht Geister heran. Geister auf Gräbern erschaffen beim Darüberlaufen Eternal Knights.",
+          "en": "From about 75%: pulls spirits towards him. Spirits on graves create Eternal Knights when you walk over them."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Geister abseits der Gräber auflösen, damit keine Eternal Knights entstehen.",
+          "en": "Pop the spirits away from the graves so no Eternal Knights spawn."
+        }
+      ]
+    },
+    {
+      "name": "Asinia, the Praetor's Consort",
+      "zone": "tomb-of-the-consort",
+      "mechanics": [
+        {
+          "de": "Sichelhiebe im Nahkampf; auf Distanz bricht der Boden in einem Kegel auf.",
+          "en": "Sickle slashes in melee; at range, the ground cracks open in a cone."
+        },
+        {
+          "de": "Death Runes: vier Runen unter dir, drei schnell, die vierte größer und verzögert.",
+          "en": "Death Runes: four runes under you, three in quick succession, the fourth bigger and delayed."
+        },
+        {
+          "de": "Flicker Strike: teleportiert sich hinter dich, verlangsamt dich um 30 % für 5 Sekunden und schlägt zu.",
+          "en": "Flicker Strike: teleports behind you, slows you by 30% for 5 seconds and strikes."
+        },
+        {
+          "de": "Bone Storm: Knochenwand um dich, danach Speerregen. Wand sofort zerstören.",
+          "en": "Bone Storm: bone wall around you, followed by a rain of spears. Destroy the wall immediately."
+        },
+        {
+          "de": "Death Mortar und Praetor's Love (Draven-Klon mit Projektil-Hieb); ab ca. 75 % Geister wie bei Draven.",
+          "en": "Death Mortar and Praetor's Love (Draven clone with a projectile slash); from about 75%, spirits like with Draven."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Bei Bone Storm nicht zögern: Die Wand hat wenig Leben.",
+          "en": "Don't hesitate during Bone Storm: the wall has little Life."
+        }
+      ]
+    },
+    {
+      "name": "Lachlann of Endless Lament",
+      "zone": "cemetery-of-the-eternals",
+      "mechanics": [
+        {
+          "de": "Armschwung, Schwertschlag nach vorn und hinten, Doppelhieb.",
+          "en": "Arm swing, sword slam to the front and back, double slash."
+        },
+        {
+          "de": "Barrage: drei Geister auf dich, hinterlassen kühlenden Boden mit Schaden über Zeit und verlangsamen 2 Sekunden.",
+          "en": "Barrage: three spirits fly at you, leaving chilling ground that deals damage over time and slows you for 2 seconds."
+        },
+        {
+          "de": "Spirit Eruption und Spirit Burrow: Geister aus dem Boden bzw. ein Geist, der dich unterirdisch verfolgt.",
+          "en": "Spirit Eruption and Spirit Burrow: spirits from the ground, or a spirit that chases you underground."
+        },
+        {
+          "de": "Earthquake: großer Kegel aus aufgeworfener Erde. Kann wenig Leben sofort töten.",
+          "en": "Earthquake: large cone of upheaved earth. Can one-shot you at low Life."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Aus dem Kühlboden heraus kämpfen. Beim Erdbeben-Ausholen seitlich rollen, nicht rückwärts.",
+          "en": "Fight from outside the chilling ground. Roll sideways during the earthquake wind-up, not backwards."
+        }
+      ]
+    },
+    {
+      "name": "The Crowbell",
+      "zone": "hunting-grounds",
+      "mechanics": [
+        {
+          "de": "Klauenhieb und Überkopf-Schlag mit der Glocke in einer Linie.",
+          "en": "Claw swipe and an overhead slam with the bell in a line."
+        },
+        {
+          "de": "Mehrere Angriffe mit Warnton: Bodenschlag nach vorn, Sprung-Schlag, wütendes Dauerstampfen, doppelter Glocken-Schwung.",
+          "en": "Several attacks with a warning sound: ground slam forward, leap slam, furious continuous stomping, double bell swing."
+        },
+        {
+          "de": "Ein Teil seiner Doppelschläge lässt sich laut PoE2DB nicht per Rolle vermeiden: Abstand halten statt durchrollen.",
+          "en": "According to PoE2DB, some of his double strikes can't be avoided with a roll: keep your distance instead of rolling through."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Defensiv spielen und nur nach seinen Angriffen Schaden machen. Belohnung: Book of Specialisation (+2 Weapon Set Passive Skill Points).",
+          "en": "Play defensively and only deal damage after his attacks. Reward: Book of Specialisation (+2 Weapon Set Passive Skill Points)."
+        }
+      ]
+    },
+    {
+      "name": "The King in the Mists",
+      "zone": "freythorn",
+      "mechanics": [
+        {
+          "de": "Phase 1: kleines Projektil als Grundangriff, Afflicted Swarm (lila Insektenschwärme mit Chaos-Schaden über Zeit), Boiling Blood (Blutpfützen vom zentralen Totem).",
+          "en": "Phase 1: small projectile as a basic attack, Afflicted Swarm (purple insect swarms with Chaos damage over time), Boiling Blood (blood pools from the central totem)."
+        },
+        {
+          "de": "Explosive Spore: großer Orb, der explodiert, dich verstümmelt (Maim) und Pusteln hinterlässt.",
+          "en": "Explosive Spore: large orb that explodes, Maims you and leaves pustules behind."
+        },
+        {
+          "de": "Ritual of Dance (lila): in Bewegung bleiben, sonst festgehalten. Ritual of Meditation (rot): stillstehen, 1–2 Rollen sind okay.",
+          "en": "Ritual of Dance (purple): keep moving or you get held in place. Ritual of Meditation (red): stand still; 1–2 rolls are okay."
+        },
+        {
+          "de": "Thorngrip (mit Ruf „Thorngrip!“): Rankenkegel nach vorn. Vine Slam: Warnton, Schlag um ihn herum, aus dem Nahkampf raus.",
+          "en": "Thorngrip (with the shout \"Thorngrip!\"): cone of vines forward. Vine Slam: warning sound, slam around him; get out of melee range."
+        },
+        {
+          "de": "Affliction Totem: verstärkt Schaden über Zeit, solange es lebt. Ab ca. 25 % wird er kurz immun, Phase 2 mit drei Projektilen pro Grundangriff.",
+          "en": "Affliction Totem: boosts damage over time while it's alive. At about 25% he briefly becomes immune; phase 2 with three projectiles per basic attack."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Totems sofort zerstören, Sporen an den Arenarand locken.",
+          "en": "Destroy totems immediately and lure spores to the edge of the arena."
+        },
+        {
+          "de": "Bei der roten Markierung kannst du laut PoE2DB auch seinen Betäubungsbalken füllen und ihn betäuben.",
+          "en": "According to PoE2DB, during the red marker you can also fill his stun bar and stun him."
+        }
+      ]
+    },
+    {
+      "name": "The Executioner",
+      "zone": "ogham-village",
+      "mechanics": [
+        {
+          "de": "Große Axtschwünge und Faustschlag.",
+          "en": "Big axe swings and a punch."
+        },
+        {
+          "de": "Sunder: Schadenslinie nach vorn.",
+          "en": "Sunder: damage line forward."
+        },
+        {
+          "de": "Execution Sentence: Axt glüht rot in der Luft, dann große Explosion.",
+          "en": "Execution Sentence: the axe glows red in the air, then a big explosion."
+        },
+        {
+          "de": "Guillotine: Axt wie einen Hebel in den Boden, ein Fallbeil fällt vom Himmel.",
+          "en": "Guillotine: rams the axe into the ground like a lever, and a guillotine blade falls from the sky."
+        },
+        {
+          "de": "Leap Slam: Sprung auf dich, danach dreht er sich und schlägt erneut. Soldaten-Verstärkung während des Kampfes.",
+          "en": "Leap Slam: leaps at you, then spins and slams again. Soldier reinforcements during the fight."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nach dem Leap Slam nicht sofort angreifen, der zweite Schlag folgt.",
+          "en": "Don't attack right after the Leap Slam; the second slam follows."
+        }
+      ]
+    },
+    {
+      "name": "Candlemass, the Living Rite",
+      "zone": "ogham-manor",
+      "mechanics": [
+        {
+          "de": "Schwerthiebe; Flame Slash mit Täuschung, danach ein Feuerball.",
+          "en": "Sword slashes; Flame Slash with a feint, followed by a fireball."
+        },
+        {
+          "de": "Leap Slam mit feuriger Fläche.",
+          "en": "Leap Slam with fiery ground."
+        },
+        {
+          "de": "Flame Breath: Feueratem, der dir folgt.",
+          "en": "Flame Breath: fire breath that follows you."
+        },
+        {
+          "de": "Candle Mortar: duckt sich und feuert mehrere Feuerball-Salven aus dem Rücken.",
+          "en": "Candle Mortar: crouches and fires several fireball volleys from his back."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Belohnung +20 maximales Leben. Ruby Charm oder Feuerresistenz-Items helfen.",
+          "en": "Reward: +20 maximum Life. A Ruby Charm or Fire Resistance items help."
+        }
+      ]
+    },
+    {
+      "name": "Count Geonor",
+      "zone": "ogham-manor",
+      "mechanics": [
+        {
+          "de": "Mensch-Phase: Schwertkombos, Frost Breath, Frost Strike (Eisprojektil), Avalanche (zwei Frostwände, dann Überkopfschlag – durch die Wände rollen).",
+          "en": "Human phase: sword combos, Frost Breath, Frost Strike (ice projectile), Avalanche (two frost walls, then an overhead slam – roll through the walls)."
+        },
+        {
+          "de": "Counter Attack: Stehst du hinter ihm, dreht er sich mit großem Frost-Bogen. Impale: Ansturm, der dich an die Wand nagelt; verfehlt er, folgt ein Frost-Rundumschlag.",
+          "en": "Counter Attack: if you stand behind him, he spins around with a large frost arc. Impale: a charge that pins you to the wall; if he misses, a frost spinning slash follows."
+        },
+        {
+          "de": "Frozen Upheaval: Schwert in den Boden, Eisflächen brechen auf. Sofort aus dem Radius laufen. Pale Moon Requiem: Säulen aus kaltem Licht.",
+          "en": "Frozen Upheaval: sword into the ground, ice patches break open. Get out of the radius immediately. Pale Moon Requiem: pillars of cold light."
+        },
+        {
+          "de": "Wolfsverwandlung (laut PoE2DB unter 50 %, laut Maxroll ca. 25 %): Frost-Rune unter dem Schwert friert ein. Danach Nebelphase (Freezing Gale): Wölfe spawnen, nach jeder Sprachzeile springt er dich an.",
+          "en": "Wolf transformation (below 50% according to PoE2DB, around 25% according to Maxroll): a frost rune under the sword freezes you. Then the mist phase (Freezing Gale): wolves spawn, and after each voice line he leaps at you."
+        },
+        {
+          "de": "Wolfsphase: Bisse, Bloody Leap, Blood Burst (Blutsphären vor ihm), Blood Moon Requiem mit Corrupted Blood, Summon Pack (teils explodierende Werwölfe).",
+          "en": "Wolf phase: bites, Bloody Leap, Blood Burst (blood spheres in front of him), Blood Moon Requiem with Corrupted Blood, Summon Pack (some werewolves explode)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "In der Nebelphase im Takt seiner Sätze rollen und die Wölfe für Fläschchen-Ladungen töten.",
+          "en": "During the mist phase, roll in time with his lines and kill the wolves for Flask charges."
+        },
+        {
+          "de": "Nach einem verfehlten Impale auf den Rundumschlag warten, erst dann wieder ran.",
+          "en": "After a missed Impale, wait for the spinning slash before going back in."
+        }
+      ]
+    }
+  ]
+}

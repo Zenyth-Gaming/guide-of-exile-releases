@@ -1,0 +1,1198 @@
+{
+  "id": "endgame",
+  "order": 8,
+  "name": {
+    "de": "Endgame",
+    "en": "Endgame"
+  },
+  "title": {
+    "de": "Atlas-Einstieg",
+    "en": "Getting Started on the Atlas"
+  },
+  "levelRange": [
+    65,
+    90
+  ],
+  "summary": {
+    "de": "Nach der Kampagne landest du in der Ziggurat Refuge und betrittst über das Map Device den Atlas of Worlds. In Patch 0.5.5 führt die Storyline Origins of Divinity vom ersten Precursor Tower über die Precursor Fortress bis zu den Pinnacle-Bossen Arbiter of Ash und Arbiter of Divinity. Die Karten in der Fortress geben dir die Punkte für den Atlas-Passivbaum, die Liga-Mechaniken haben eigene Hubs und Questreihen. Nebenbei holst du die letzten Aufstiegspunkte, bringst deine Widerstände in Ordnung und lernst, mit Currency zu handeln.",
+    "en": "After the campaign you arrive in the Ziggurat Refuge and enter the Atlas of Worlds through the Map Device. In patch 0.5.5, the Origins of Divinity storyline takes you from the first Precursor Tower through the Precursor Fortress to the pinnacle bosses Arbiter of Ash and Arbiter of Divinity. Maps in the Fortress give you points for the Atlas passive tree, and the league mechanics have their own hubs and quest lines. Along the way you earn your last Ascendancy points, sort out your resistances and learn to trade currency."
+  },
+  "recommended": {
+    "level": 65,
+    "resistances": {
+      "fire": 75,
+      "cold": 75,
+      "lightning": 75,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Feuer-, Kälte- und Blitzwiderstand immer auf 75 % halten (ab Gebietsstufe 65 gilt −60 %). Chaoswiderstand mindestens auf 0 %, vor roten Karten deutlich ins Plus.",
+      "en": "Always keep Fire, Cold and Lightning Resistance at 75% (−60% applies from area level 65). Chaos Resistance at least 0%, well into the positives before red maps."
+    },
+    {
+      "de": "Story zuerst: Precursor Tower → Fortress → Ancient Gateway → Burning Monolith → West- und Ost-Gateway → Enigma Chambers (ab Tier 10) → Arbiter of Ash. Fortress-Karten geben die Atlaspunkte.",
+      "en": "Story first: Precursor Tower → Fortress → Ancient Gateway → Burning Monolith → Western and Eastern Gateway → Enigma Chambers (Tier 10+) → Arbiter of Ash. Fortress maps give the Atlas points."
+    },
+    {
+      "de": "In jeder Karte direkt zum Map-Boss: Nur der Boss-Kill schließt die Karte ab. Waystones vorher identifizieren und Ersatz-Waystones bei Doryani kaufen.",
+      "en": "In every map, go straight to the map boss: only the boss kill completes the map. Identify Waystones first and buy spare Waystones from Doryani."
+    },
+    {
+      "de": "3. Aufstieg mit Djinn Barya ab Gebietsstufe 60, 4. Aufstieg ab Gebietsstufe 75 (Trial of the Sekhemas) oder über den Trial of Chaos.",
+      "en": "3rd Ascendancy with a Djinn Barya of area level 60+, 4th Ascendancy from area level 75 (Trial of the Sekhemas) or via the Trial of Chaos."
+    },
+    {
+      "de": "Currency, Waystones, Tablets, Splitter und Trial-Schlüssel aufheben und über die Currency Exchange bei Ange verkaufen. Mit einem Lootfilter siehst du nur, was sich lohnt.",
+      "en": "Pick up currency, Waystones, Tablets, splinters and Trial keys and sell them via the Currency Exchange at Ange. A loot filter shows you only what's worth it."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Official Patch Notes: Content Update 0.5.0 – Return of the Ancients",
+      "url": "https://www.pathofexile.com/forum/view-thread/3932540",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Official Patch Notes: Content Update 0.5.5 – Forbidden Rites",
+      "url": "https://www.pathofexile.com/forum/view-thread/4000864",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Ziggurat Refuge",
+      "url": "https://www.poe2wiki.net/wiki/The_Ziggurat_Refuge",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Legacy of the Precursors (Quest)",
+      "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Precursors",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Waystone",
+      "url": "https://www.poe2wiki.net/wiki/Waystone",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Map Device",
+      "url": "https://www.poe2wiki.net/wiki/Map_Device",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Map",
+      "url": "https://www.poe2wiki.net/wiki/Map",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Character death",
+      "url": "https://www.poe2wiki.net/wiki/Character_death",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Precursor tablet",
+      "url": "https://www.poe2wiki.net/wiki/Precursor_tablet",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Atlas Passive Tree",
+      "url": "https://www.poe2wiki.net/wiki/Atlas_Passive_Tree",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Trial of the Sekhemas",
+      "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Sekhemas",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Trial of Chaos",
+      "url": "https://www.poe2wiki.net/wiki/The_Trial_of_Chaos",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Arbiter of Ash",
+      "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Ash",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Arbiter of Divinity",
+      "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Divinity",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Resistance",
+      "url": "https://www.poe2wiki.net/wiki/Resistance",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Currency exchange market",
+      "url": "https://www.poe2wiki.net/wiki/Currency_exchange_market",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Die Zikkurat-Zuflucht (G_Endgame_Town)",
+      "url": "https://poe2db.tw/de/The_Ziggurat_Refuge",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: The Ultimate Path of Exile 2 Endgame Progression Guide (0.5)",
+      "url": "https://mobalytics.gg/poe-2/guides/endgame-progression-asmodeus",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Atlas of Worlds and Mapping (0.5.4)",
+      "url": "https://maxroll.gg/poe2/resources/atlas-of-worlds-and-mapping",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "BoostRoom: PoE 2 Forbidden Rites Endgame Guide (0.5.5)",
+      "url": "https://boostroom.com/blog/poe-2-forbidden-rites-endgame-guide-maps-bosses-progression",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "ziggurat-refuge",
+      "name": "The Ziggurat Refuge",
+      "nameDe": "Die Zikkurat-Zuflucht",
+      "areaId": "G_Endgame_Town",
+      "level": 65,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "refuge-hooded-one",
+          "text": {
+            "de": "Sieh in der Ziggurat Refuge nach The Hooded One und sprich danach mit Doryani. Damit startet die Endgame-Quest Legacy of the Precursors.",
+            "en": "In the Ziggurat Refuge, check in with The Hooded One, then talk to Doryani. This starts the endgame quest Legacy of the Precursors."
+          },
+          "kind": "main",
+          "mechanic": "ziggurat-refuge",
+          "beginner": {
+            "de": "Die Ziggurat Refuge ist die Stadt des Endgames. Hier stehen Truhe, Wegpunkt, Brunnen, Salvage Bench und Reforging Bench. Doryani verkauft Waystones und identifiziert Items, Zolin und Zelina verkaufen Ausrüstung, Ange bietet Glücksspiel, die Currency Exchange und den Hideout-Wechsel. Von hier aus geht es nur noch über das Map Device weiter, Akte gibt es keine mehr.",
+            "en": "The Ziggurat Refuge is the endgame town. It has your stash, a Waypoint, a well, the Salvage Bench and the Reforging Bench. Doryani sells Waystones and identifies items, Zolin and Zelina sell gear, and Ange offers gambling, the Currency Exchange and hideout switching. From here on you only progress through the Map Device; there are no more Acts."
+          }
+        },
+        {
+          "id": "refuge-map-device",
+          "text": {
+            "de": "Benutze das Map Device, um zu prüfen, ob es funktioniert. Es öffnet den Atlas of Worlds.",
+            "en": "Use the Map Device to check that it works. It opens the Atlas of Worlds."
+          },
+          "kind": "main",
+          "mechanic": "atlas",
+          "beginner": {
+            "de": "Der Atlas ist eine riesige Weltkarte aus einzelnen Kartenknoten. Jeder Knoten ist ein eigenes Gebiet. Du kannst nur Knoten betreten, die an bereits abgeschlossene Knoten grenzen. Ab 0.5 gibt es feste Orte wie Türme, Hubs und die Fortress, die immer an derselben Stelle liegen.",
+            "en": "The Atlas is a huge world map made of individual map nodes. Each node is its own area. You can only enter nodes adjacent to nodes you've already completed. Since 0.5 there are fixed locations like towers, hubs and the Fortress that are always in the same place."
+          }
+        },
+        {
+          "id": "refuge-first-waystone",
+          "text": {
+            "de": "Nimm deinen ersten Waystone als Belohnung von Doryani.",
+            "en": "Take your first Waystone from Doryani as a reward."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Erster Waystone von Doryani",
+              "en": "First Waystone from Doryani"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "refuge-farrow",
+          "text": {
+            "de": "Optional: Sprich mit Farrow und Dannig in der Refuge. Seit 0.5.5 ist Expedition fester Teil des Spiels, Farrow kannst du nach dem Verisium Anvil auch in dein Hideout stellen.",
+            "en": "Optional: Talk to Farrow and Dannig in the Refuge. Since 0.5.5, Expedition is a permanent part of the game, and after the Verisium Anvil you can also place Farrow in your hideout."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "refuge-lootfilter",
+          "text": {
+            "de": "Richte spätestens jetzt einen Lootfilter ein (Optionen → Spiel → Item-Filter), z. B. einen NeverSink-Filter in der Stufe „Semi-Strict“ oder „Strict“.",
+            "en": "Set up a loot filter now at the latest (Options → Game → Item Filter), e.g. a NeverSink filter on the \"Semi-Strict\" or \"Strict\" level."
+          },
+          "kind": "tip",
+          "mechanic": "lootfilter",
+          "beginner": {
+            "de": "In Karten droppen sehr viel mehr Items als in der Kampagne. Ohne Filter übersiehst du wertvolle Currency zwischen hunderten wertlosen Items. Ein Filter blendet Unwichtiges aus und hebt Wertvolles farbig und mit Ton hervor. Fang mit einer weichen Stufe an und werde strenger, sobald du deine Ausrüstung nicht mehr aus Drops verbesserst.",
+            "en": "Maps drop far more items than the campaign. Without a filter you'll miss valuable currency among hundreds of worthless items. A filter hides the junk and highlights valuable drops with color and sound. Start with a lenient level and go stricter once you're no longer upgrading your gear from drops."
+          },
+          "verified": false
+        },
+        {
+          "id": "refuge-res-check",
+          "text": {
+            "de": "Öffne das Charakterfenster und prüfe deine Widerstände. Ab Gebietsstufe 65 gilt −60 % auf Feuer, Kälte und Blitz. Fehlt etwas, kaufe bei Zolin/Zelina oder tausche Ringe/Gürtel.",
+            "en": "Open the character panel and check your resistances. From area level 65, −60% applies to Fire, Cold and Lightning. If you're short, buy from Zolin/Zelina or swap rings/belts."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Der Malus wurde in der Kampagne schrittweise erhöht (−10 % in Akt 2 bis −50 % in den späten Interludes). Im Endgame kommt der volle Malus von −60 %. Ein Widerstand von z. B. 20 % im Charakterfenster bedeutet, dass dich Elementarschaden deutlich härter trifft. Die Obergrenze liegt standardmäßig bei 75 %.",
+            "en": "The penalty went up step by step during the campaign (−10% in Act 2 up to −50% in the late Interludes). In the endgame you get the full −60% penalty. A resistance of, say, 20% in the character panel means Elemental damage hits you much harder. The cap is 75% by default."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Doryani verkauft bis zu 10 Waystones, entweder Tier 1 oder eine Stufe unter deinem höchsten abgeschlossenen Tier. Kauf dir bei T6, T11 und T14 ein paar Ersatz-Waystones, falls dir die Drops ausgehen.",
+          "en": "Doryani sells up to 10 Waystones, either Tier 1 or one tier below your highest completed tier. Buy a few spare Waystones at T6, T11 and T14 in case you run out of drops."
+        },
+        {
+          "de": "Auf dem Atlas kannst du die Stadt anklicken, um per Wegpunkt hinzureisen (oder Strg+Klick auf den Schnellreise-Knopf am Rand des Atlas).",
+          "en": "On the Atlas you can click the town to travel there via Waypoint (or Ctrl+click the quick travel button at the edge of the Atlas)."
+        }
+      ]
+    },
+    {
+      "id": "first-maps",
+      "name": "First Maps",
+      "areaId": null,
+      "level": 65,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "maps-enter",
+          "text": {
+            "de": "Wähle auf dem Atlas einen erreichbaren Kartenknoten, lege den Waystone in das Map Device und betritt die Karte durch eines der Portale.",
+            "en": "Pick a reachable map node on the Atlas, put the Waystone into the Map Device and enter the map through one of the portals."
+          },
+          "kind": "main",
+          "mechanic": "wegsteine",
+          "beginner": {
+            "de": "Waystones sind die Eintrittskarten für Karten. Das Tier (1–16) bestimmt die Gebietsstufe: Tier 1 entspricht Stufe 65, jedes Tier eine Stufe mehr, Tier 15 ist Stufe 79, Tier 16 Stufe 80. Höhere Stufen bedeuten mehr Erfahrung und besseren Loot, aber auch stärkere Gegner. Der Waystone wird beim Öffnen verbraucht.",
+            "en": "Waystones are your entry tickets to maps. The tier (1–16) determines the area level: Tier 1 is level 65, each tier adds one level, Tier 15 is level 79, Tier 16 is level 80. Higher levels mean more experience and better loot, but also stronger monsters. The Waystone is consumed when you open the map."
+          }
+        },
+        {
+          "id": "maps-identify",
+          "text": {
+            "de": "Identifiziere Waystones, bevor du sie benutzt. Seit 0.5.0 lassen sich unidentifizierte Waystones nicht im Map Device aktivieren.",
+            "en": "Identify Waystones before using them. Since 0.5.0, unidentified Waystones can't be activated in the Map Device."
+          },
+          "kind": "tip"
+        },
+        {
+          "id": "maps-boss",
+          "text": {
+            "de": "Laufe zum Map-Boss und besiege ihn. Erst der Boss-Kill schließt die Karte ab und schaltet die angrenzenden Knoten frei.",
+            "en": "Head to the map boss and defeat it. Only the boss kill completes the map and unlocks the adjacent nodes."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Du musst nicht jede Ecke leeren. Neue Spieler verlieren oft viel Zeit, weil sie jede Karte komplett säubern. Nimm unterwegs mit, was auf dem Weg liegt (Truhen, seltene Monster, Schreine), und geh dann zum Boss. Map-Bosse lassen oft Waystones fallen, mächtige Map-Bosse (Powerful Map Bosses) häufig sogar ein Tier höher.",
+            "en": "You don't need to clear every corner. New players often waste a lot of time fully clearing every map. Grab what's along the way (chests, rare monsters, shrines), then go to the boss. Map bosses often drop Waystones, and Powerful Map Bosses frequently drop one a tier higher."
+          }
+        },
+        {
+          "id": "maps-portals",
+          "text": {
+            "de": "Achte auf die Portale: Ohne oder mit 1 Waystone-Modifikator hast du 6 Portale (5 Wiederbelebungen), mit 6 oder mehr Modifikatoren nur noch 1 Portal und keine Wiederbelebung.",
+            "en": "Watch your portals: with 0 or 1 Waystone modifier you get 6 portals (5 revives); with 6 or more modifiers only 1 portal and no revive."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Jeder Tod in einer Karte verbraucht ein Portal. Sind alle weg, gilt die Karte als gescheitert („Map Attempted“). Du kannst sie mit einem neuen Waystone erneut versuchen, aber ohne Zusatzinhalte, ohne Tablets, mit weniger Loot und 50 % weniger Erfahrung. Beim Bosskampf belebt nur der Kartenbesitzer die ganze Gruppe wieder, und der Boss startet mit vollem Leben.",
+            "en": "Each death in a map uses up a portal. Once they're all gone, the map counts as failed (\"Map Attempted\"). You can retry it with a new Waystone, but without extra content, without Tablets, with less loot and 50% less experience. In the boss fight, only the map owner revives the whole party, and the boss starts at full Life."
+          },
+          "verified": false
+        },
+        {
+          "id": "maps-death-penalty",
+          "text": {
+            "de": "Vermeide Tode: Ab Gebietsstufe 65 kostet jeder Tod 10 % der Erfahrung, die du für das nächste Level brauchst. Du kannst dabei kein Level verlieren.",
+            "en": "Avoid deaths: from area level 65, each death costs 10% of the experience you need for your next level. You can't lose a level this way."
+          },
+          "kind": "tip",
+          "mechanic": "checkpoints-tod",
+          "beginner": {
+            "de": "In der Kampagne kostete Sterben nur Zeit. Im Endgame verlierst du Erfahrung, und ab Level 85–90 dauert ein Level sehr lange. Mehrere Tode hintereinander können Stunden an Fortschritt kosten. Wenn du in einem Kartentyp öfter stirbst, geh lieber ein Tier zurück und verbessere deine Ausrüstung. Tode bei Pinnacle-Bossen kosten keine Erfahrung.",
+            "en": "In the campaign, dying only cost time. In the endgame you lose experience, and from level 85–90 each level takes a very long time. Several deaths in a row can cost hours of progress. If you keep dying in a certain kind of map, drop a tier and improve your gear first. Deaths to pinnacle bosses don't cost experience."
+          }
+        },
+        {
+          "id": "maps-sustain",
+          "text": {
+            "de": "Halte deinen Waystone-Vorrat: Lege 3 Waystones gleicher Stufe und Seltenheit in die Reforging Bench, um einen Waystone eine Stufe höher zu erhalten.",
+            "en": "Keep up your Waystone supply: put 3 Waystones of the same tier and rarity into the Reforging Bench to get one Waystone a tier higher."
+          },
+          "kind": "tip",
+          "mechanic": "reforge-bench"
+        },
+        {
+          "id": "maps-mods",
+          "text": {
+            "de": "Lies die Modifikatoren der Waystones. Präfixe verstärken meist den Schaden der Monster, Suffixe betreffen dich oder die Verteidigung der Monster. Lass Karten mit Mods liegen, die deinen Build blockieren.",
+            "en": "Read the Waystone modifiers. Prefixes mostly boost monster damage; suffixes affect you or monster defences. Skip maps with mods that brick your build."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Mehr Modifikatoren bedeuten mehr Belohnung (mehr Monster, mehr Rarität, mehr Waystone-Drops), aber auch weniger Portale. Für die ersten Karten sind Waystones mit 0–3 Mods sicherer. Später kannst du Waystones mit Currency aufwerten (z. B. Orb of Augmentation, Regal Orb, Exalted Orb), um mehr Loot zu bekommen.",
+            "en": "More modifiers mean more rewards (more monsters, more rarity, more Waystone drops), but also fewer portals. For your first maps, Waystones with 0–3 mods are safer. Later you can upgrade Waystones with currency (e.g. Orb of Augmentation, Regal Orb, Exalted Orb) to get more loot."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Rushe in niedrigen Tiers direkt zum Boss. Bis zur Fortress zählen nur Waystone-Sustain und Fortschritt.",
+          "en": "In low tiers, rush straight to the boss. Until the Fortress, only Waystone sustain and progress matter."
+        },
+        {
+          "de": "Tier 16 gibt es nur durch Korrumpieren (Vaal Orb) eines Tier-15-Waystones.",
+          "en": "Tier 16 is only available by corrupting (Vaal Orb) a Tier 15 Waystone."
+        }
+      ]
+    },
+    {
+      "id": "atlas-navigation",
+      "name": "Atlas of Worlds",
+      "areaId": null,
+      "level": 65,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "atlas-orientation",
+          "text": {
+            "de": "Orientiere dich auf dem Atlas: Nutze die Suchfunktion und den Zoom. Ab 0.5 liegen Ziele an festen Orten, z. B. die Hubs der Liga-Mechaniken rund um deinen Startpunkt.",
+            "en": "Get your bearings on the Atlas: use search and zoom. Since 0.5, objectives sit at fixed locations, e.g. the league mechanic hubs around your starting point."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Rund um die Ziggurat Refuge liegen die Hubs: Breach im Süden (Monastery of the Keepers), Delirium im Südwesten, Ritual im Westen (Caer Tarth), Expedition im Südosten (Ruins of Kingsmarch) und Fate of the Vaal im Nordosten (Lira Vaal mit Atziri's Temple). Karten in der Nähe eines Hubs enthalten fast immer dessen Mechanik.",
+            "en": "The hubs surround the Ziggurat Refuge: Breach to the south (Monastery of the Keepers), Delirium to the southwest, Ritual to the west (Caer Tarth), Expedition to the southeast (Ruins of Kingsmarch) and Fate of the Vaal to the northeast (Lira Vaal with Atziri's Temple). Maps near a hub almost always contain its mechanic."
+          }
+        },
+        {
+          "id": "atlas-hilda",
+          "text": {
+            "de": "Besuche Hilda's Campsite etwas südwestlich deines Startpunkts. Das startet die Questreihe Hilda's Hunting für den ersten Atlas Master.",
+            "en": "Visit Hilda's Campsite a bit southwest of your starting point. This starts the Hilda's Hunting quest line for your first Atlas Master."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Die Masters of the Atlas sind eine Art Aufstiegsklasse für das Endgame. Jado, Hilda und Doryani haben je 12 Knoten, von denen du 4 gleichzeitig aktiv haben kannst. Die Auswahl darfst du jederzeit zwischen den Karten ändern. Neue Reihen schaltest du über Missionen der Master frei.",
+            "en": "The Masters of the Atlas are a kind of Ascendancy class for the endgame. Jado, Hilda and Doryani each have 12 nodes, of which you can have 4 active at once. You can change your selection between maps at any time. New rows are unlocked through the Masters' missions."
+          }
+        },
+        {
+          "id": "atlas-jado",
+          "text": {
+            "de": "Schließe eine Anomaly-Karte nahe deinem Startpunkt ab, um die Questreihe Jado's Spycraft zu starten.",
+            "en": "Complete an Anomaly map near your starting point to start the Jado's Spycraft quest line."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "atlas-doryani",
+          "text": {
+            "de": "Säubere einen Corruption Nexus (korrumpierter Knoten), um die Questreihe Doryani's Science freizuschalten.",
+            "en": "Clear a Corruption Nexus (corrupted node) to unlock the Doryani's Science quest line."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Seit 0.5.5 kannst du gescheiterte Corrupted-Nexus-Karten erneut versuchen. Wer am Map-Boss stirbt und wiederbelebt wird, verhindert damit nicht mehr das Erscheinen des korrumpierten Bosses.",
+            "en": "Since 0.5.5 you can retry failed Corrupted Nexus maps. Dying at the map boss and being revived no longer prevents the corrupted boss from appearing."
+          }
+        },
+        {
+          "id": "atlas-hideout",
+          "text": {
+            "de": "Optional: Beanspruche ein Hideout. Hideout-Karten liegen auf dem Atlas; leere sie, um sie als persönliche Basis zu nutzen. Das Map Device kannst du dort als Dekoration aufstellen.",
+            "en": "Optional: Claim a hideout. Hideout maps are on the Atlas; clear one to use it as your personal base. You can place the Map Device there as decoration."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Im Hideout stellst du Truhe, Map Device und NPCs nach Belieben auf. Das spart viele Laufwege. Über Ange kannst du das Hideout später wechseln.",
+            "en": "In your hideout you can place your stash, Map Device and NPCs wherever you like. That saves a lot of walking. You can switch hideouts later via Ange."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Beim ersten Beast-Contract von Hilda den Knoten nehmen, der normale Bosse mit 25 % Chance zu Powerful Bosses aufwertet. Das hilft beim Waystone-Sustain (Empfehlung aus dem Mobalytics-Guide, nur eine Quelle).",
+          "en": "For Hilda's first Beast Contract, take the node that gives normal bosses a 25% chance to be upgraded to Powerful Bosses. It helps with Waystone sustain (recommendation from the Mobalytics guide, single source)."
+        },
+        {
+          "de": "Der Abschluss fester Atlas-Orte wird mit Gruppenmitgliedern geteilt. Im Duo kommt ihr deshalb schneller durch die Story.",
+          "en": "Completion of fixed Atlas locations is shared with party members. That's why you progress through the story faster as a duo."
+        }
+      ]
+    },
+    {
+      "id": "precursor-tower",
+      "name": "Precursor Tower",
+      "areaId": null,
+      "level": null,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "tower-travel",
+          "text": {
+            "de": "Sprich nach der ersten Karte mit Doryani, reise zum nächsten Precursor Tower und schließe die Turmkarte ab.",
+            "en": "After your first map, talk to Doryani, travel to the nearest Precursor Tower and complete the tower map."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Precursor Towers sind besondere Kartenknoten mit einem Turm. Schließt du sie ab, deckst du einen großen Bereich des Atlas rund um den Turm auf. Der erste Turm ist Teil der Story.",
+            "en": "Precursor Towers are special map nodes with a tower. Completing one reveals a large area of the Atlas around the tower. The first tower is part of the story."
+          }
+        },
+        {
+          "id": "tower-beacon",
+          "text": {
+            "de": "Aktiviere den Precursor Beacon oben auf dem Turm. Ein Irradiated Tablet droppt, und in einer Zwischensequenz erhebt sich die Precursor Fortress aus dem Boden.",
+            "en": "Activate the Precursor Beacon at the top of the tower. An Irradiated Tablet drops, and in a cutscene the Precursor Fortress rises from the ground."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "tower-tablet-reward",
+          "text": {
+            "de": "Hebe das Irradiated Tablet auf. Es ist dein erstes Precursor Tablet.",
+            "en": "Pick up the Irradiated Tablet. It's your first Precursor Tablet."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Irradiated Tablet (Precursor Tablet)",
+              "en": "Irradiated Tablet (Precursor Tablet)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "tower-tablets-howto",
+          "text": {
+            "de": "Lege Tablets zusammen mit dem Waystone in das Map Device. Die Zahl der Slots hängt von den Waystone-Mods ab: 1–2 Mods = 1 Slot, 3–5 Mods = 2 Slots, 6+ Mods = 3 Slots.",
+            "en": "Put Tablets into the Map Device together with the Waystone. The number of slots depends on the Waystone mods: 1–2 mods = 1 slot, 3–5 mods = 2 slots, 6+ mods = 3 slots."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Tablets fügen deiner Karte Inhalte hinzu, z. B. eine zusätzliche Breach oder mehr Schreine. Normale Tablets halten 10 Karten lang. Seit 0.5 verstärken sich mehrere Tablets desselben Typs gegenseitig. Jeder leere Slot erhöht dagegen die Chance auf zufällige Liga-Inhalte. Auf gescheiterte Karten und Unique Maps kannst du keine Tablets legen.",
+            "en": "Tablets add content to your map, e.g. an extra Breach or more shrines. Normal Tablets last for 10 maps. Since 0.5, multiple Tablets of the same type amplify each other. Each empty slot, on the other hand, increases the chance of random league content. You can't use Tablets on failed maps or Unique Maps."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Tablets lassen sich seit 0.5 auch mit Orbs of Chance bearbeiten. Rare-Tablets schaltest du über bestimmte Atlas-Passives frei.",
+          "en": "Since 0.5, Tablets can also be crafted with Orbs of Chance. Rare Tablets are unlocked through certain Atlas passives."
+        },
+        {
+          "de": "Weitere Precursor Towers stehen außerhalb und an der Mauer der Fortress. Sie decken neue Gebiete auf und sind gute Wegmarken zu den Hubs.",
+          "en": "More Precursor Towers stand outside and along the wall of the Fortress. They reveal new areas and are good landmarks on the way to the hubs."
+        }
+      ]
+    },
+    {
+      "id": "precursor-fortress",
+      "name": "Precursor Fortress",
+      "areaId": null,
+      "level": null,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "fortress-relays",
+          "text": {
+            "de": "Schließe Karten in der Precursor Fortress ab und aktiviere am Ende jeweils das Precursor Relay. So bekommst du Punkte für den Atlas-Passivbaum.",
+            "en": "Complete maps in the Precursor Fortress and activate the Precursor Relay at the end of each. This earns you points for the Atlas passive tree."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Atlas-Passivpunkte (1+ pro Fortress-Karte)",
+              "en": "Atlas passive points (1+ per Fortress map)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Seit 0.5 gibt es Atlaspunkte nur noch aus der Fortress: Jede Karte darin gibt mindestens einen Punkt, besondere Karten (Gateways, Enigma Chambers, Halls, Türme) mehr. Viele Fortress-Karten haben Ancient Modifiers, z. B. Karten voller Essences oder Strongboxes.",
+            "en": "Since 0.5, Atlas points only come from the Fortress: every map in it gives at least one point, special maps (Gateways, Enigma Chambers, Halls, towers) give more. Many Fortress maps have Ancient Modifiers, e.g. maps full of Essences or Strongboxes."
+          }
+        },
+        {
+          "id": "fortress-ancient-gateway",
+          "text": {
+            "de": "Reise zum Ancient Gateway und erkunde es. Sprich mit Doryani, finde und betätige die Hebel, erreiche die zentrale Plattform, rufe Doryani herbei und aktiviere den Precursor Beacon.",
+            "en": "Travel to the Ancient Gateway and explore it. Talk to Doryani, find and pull the levers, reach the central platform, summon Doryani and activate the Precursor Beacon."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "fortress-trial-keys",
+          "text": {
+            "de": "Optional: Links und rechts vom Weg zum Burning Monolith liegen Knoten mit garantierten Schlüsseln für den Trial of the Sekhemas oder den Trial of Chaos. Nimm sie für deinen 3. Aufstieg mit.",
+            "en": "Optional: Left and right of the path to the Burning Monolith are nodes with guaranteed keys for the Trial of the Sekhemas or the Trial of Chaos. Grab them for your 3rd Ascendancy."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "fortress-burning-monolith",
+          "text": {
+            "de": "Erreiche den Burning Monolith, erkunde ihn und sprich mit Doryani. Er schickt dich zum West- und zum Ost-Gateway.",
+            "en": "Reach the Burning Monolith, explore it and talk to Doryani. He sends you to the Western and Eastern Gateway."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "fortress-west-gateway",
+          "text": {
+            "de": "Erkunde das Western Gateway, betätige die Hebel, erreiche die zentrale Plattform und besiege den Precursor Separator. Fahre mit dem Aufzug nach oben und aktiviere den Precursor Beacon.",
+            "en": "Explore the Western Gateway, pull the levers, reach the central platform and defeat the Precursor Separator. Take the elevator up and activate the Precursor Beacon."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "fortress-east-gateway",
+          "text": {
+            "de": "Erreiche das Eastern Gateway, besiege dort den Precursor Refiner und aktiviere den zweiten Beacon. Damit sind beide Tore offen.",
+            "en": "Reach the Eastern Gateway, defeat the Precursor Refiner there and activate the second Beacon. Both gates are now open."
+          },
+          "kind": "boss",
+          "verified": false
+        },
+        {
+          "id": "fortress-enigma-west",
+          "text": {
+            "de": "Reise zur Western Enigma Chamber (braucht etwa Tier-10-Waystones), erkunde sie und besiege Count Geonor.",
+            "en": "Travel to the Western Enigma Chamber (needs roughly Tier 10 Waystones), explore it and defeat Count Geonor."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Sei beim Tod der Enigma-Chamber-Bosse selbst im Gebiet, sonst bekommst du das Crisis Fragment nicht. Bist du hier zu schwach, steige auf Liga-Mechaniken um und verbessere erst deine Ausrüstung. Fortress-Karten einzeln abzufarmen lohnt sich nicht.",
+            "en": "Be inside the area yourself when an Enigma Chamber boss dies, or you won't get the Crisis Fragment. If you're too weak here, switch to league mechanics and improve your gear first. Farming Fortress maps one by one isn't worth it."
+          }
+        },
+        {
+          "id": "fortress-crisis-fragments",
+          "text": {
+            "de": "Kehre zum Ancient Enigma zurück, hebe das Ancient Crisis Fragment auf und reise zum Eastern Gateway bzw. zur östlichen Enigma Chamber, um das zweite Crisis Fragment zu holen.",
+            "en": "Return to the Ancient Enigma, pick up the Ancient Crisis Fragment and travel to the Eastern Gateway / eastern Enigma Chamber to get the second Crisis Fragment."
+          },
+          "kind": "loot",
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nimm in der Fortress immer den kürzesten Weg zum nächsten Story-Ziel. Die Fortress-Karten, die du auslässt, holst du später über den Arbiter of Divinity nach.",
+          "en": "In the Fortress, always take the shortest path to the next story objective. You'll catch up on the Fortress maps you skip later via the Arbiter of Divinity."
+        },
+        {
+          "de": "Seit 0.5.1 geben Fortress-Türme, Gateways, Enigma Chambers und Halls mehr Atlaspunkte.",
+          "en": "Since 0.5.1, Fortress towers, Gateways, Enigma Chambers and Halls give more Atlas points."
+        }
+      ]
+    },
+    {
+      "id": "atlas-passive-tree",
+      "name": "Atlas Passive Tree",
+      "areaId": null,
+      "level": null,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "atlas-tree-spend",
+          "text": {
+            "de": "Öffne den Atlas-Passivbaum und verteile deine Punkte. Nimm zuerst Knoten für mehr Waystones von Map-Bossen und mehr Powerful Map Bosses.",
+            "en": "Open the Atlas passive tree and spend your points. Start with nodes for more Waystones from map bosses and more Powerful Map Bosses."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Der Atlasbaum verändert alle Karten: mehr Waystones, mehr seltene Monster, mehr Loot. Seit 0.5 kann er komplett ausgebaut werden (über 300 Knoten). Deshalb gibt es keinen Respec mehr. Bei Knoten mit mehreren Optionen kannst du die Option jederzeit wechseln. Seit 0.5.5 bekommst du eine Meldung, wenn neue Atlaspunkte da sind.",
+            "en": "The Atlas tree changes all your maps: more Waystones, more rare monsters, more loot. Since 0.5 it can be fully completed (over 300 nodes), which is why there's no respec anymore. For nodes with multiple options, you can switch the option at any time. Since 0.5.5 you get a notification when new Atlas points are available."
+          }
+        },
+        {
+          "id": "atlas-tree-side",
+          "text": {
+            "de": "Für die Nebenbäume (Breach, Delirium, Ritual, Abyss, Fate of the Vaal) schließt du Karten mit der Mechanik rund um deren Hub ab. Der jeweilige Pinnacle-Boss gibt 6 weitere Punkte.",
+            "en": "For the side trees (Breach, Delirium, Ritual, Abyss, Fate of the Vaal), complete maps with that mechanic around its hub. Each pinnacle boss gives 6 more points."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Jede Liga-Mechanik hat einen eigenen kleinen Baum mit eigenen Punkten. Du musst nur die Bäume der Mechaniken ausbauen, die du wirklich spielen willst. Ausnahme Expedition: Dort gibt es Punkte nur für die Expedition-Bosse (je 6).",
+            "en": "Each league mechanic has its own small tree with its own points. You only need to build up the trees for mechanics you actually want to play. Exception: Expedition only gives points for the Expedition bosses (6 each)."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Früh lohnen sich Waystone-Sustain-Knoten wie Pathkeepers, Atop the World, Archaeological Interest und Valuable Paths: Seit Hotfix 0.5.0b erhöhen sie auch die Menge an Waystones von Map-Bossen.",
+          "en": "Early on, Waystone sustain nodes like Pathkeepers, Atop the World, Archaeological Interest and Valuable Paths are worth it: since hotfix 0.5.0b they also increase the number of Waystones from map bosses."
+        },
+        {
+          "de": "Exceptional Items, Fracturing Orbs sowie Basic und Overseer Tablets gibt es seit 0.5 nur, wenn du die passenden Atlas-Passives nimmst.",
+          "en": "Since 0.5, Exceptional Items, Fracturing Orbs and Basic and Overseer Tablets only drop if you take the matching Atlas passives."
+        }
+      ]
+    },
+    {
+      "id": "currency-trade",
+      "name": "Currency Exchange",
+      "areaId": null,
+      "level": null,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "currency-pickup",
+          "text": {
+            "de": "Hebe in Karten immer auf: alle Orbs (Exalted, Chaos, Divine, Regal, Vaal, Annulment usw.), Waystones, Tablets, Breach-Splitter, Distilled Emotions, Omens, Essences, Runen, Soul Cores, Uncut Gems, Djinn Barya und Inscribed Ultimatums.",
+            "en": "Always pick up in maps: all orbs (Exalted, Chaos, Divine, Regal, Vaal, Annulment, etc.), Waystones, Tablets, Breach Splinters, Distilled Emotions, Omens, Essences, Runes, Soul Cores, Uncut Gems, Djinn Barya and Inscribed Ultimatums."
+          },
+          "kind": "loot",
+          "beginner": {
+            "de": "Diese Dinge kannst du alle stapeln und verkaufen, auch wenn du sie selbst nicht brauchst. Rare-Ausrüstung lohnt sich anfangs nur, wenn sie für dich ein Upgrade ist oder sehr gute Werte hat. Die meisten Rares sind ohne Handelserfahrung schwer einzuschätzen.",
+            "en": "All of these stack and can be sold, even if you don't need them yourself. Rare gear is only worth it early on if it's an upgrade for you or has very good stats. Most rares are hard to price without trading experience."
+          }
+        },
+        {
+          "id": "currency-exchange",
+          "text": {
+            "de": "Verkaufe überschüssige Currency und Stapelware über die Currency Exchange bei Ange (Ziggurat Refuge oder Hideout). Jede Order kostet Gold.",
+            "en": "Sell surplus currency and stackables via the Currency Exchange at Ange (Ziggurat Refuge or hideout). Each order costs Gold."
+          },
+          "kind": "main",
+          "mechanic": "waehrungsboerse",
+          "beginner": {
+            "de": "Die Currency Exchange ist ein Marktplatz für Stapelware: Du gibst an, was du abgibst und was du dafür willst. Passt ein Angebot, wird sofort getauscht, sonst bleibt deine Order offen. Ziehst du die Order zurück, bekommst du die Items zurück. Gold für die Gebühren sammelst du nebenbei in Karten. So tauschst du z. B. viele kleine Orbs gegen eine Divine Orb, die wertvollste gängige Währung.",
+            "en": "The Currency Exchange is a marketplace for stackable items: you set what you're giving and what you want for it. If an offer matches, the trade happens instantly; otherwise your order stays open. If you cancel the order, you get your items back. You collect Gold for the fees in maps as you go. That's how you trade e.g. lots of small orbs for a Divine Orb, the most valuable common currency."
+          }
+        },
+        {
+          "id": "currency-trade-items",
+          "text": {
+            "de": "Kaufe gezielt Ausrüstungs-Upgrades über die offizielle Trade-Seite oder biete eigene Items per Asynchronous Trade (Merchant-Tab bei Ange) an.",
+            "en": "Buy targeted gear upgrades on the official trade site or list your own items via Asynchronous Trade (Merchant tab at Ange)."
+          },
+          "kind": "tip",
+          "mechanic": "handel",
+          "beginner": {
+            "de": "Was nicht auf die Currency Exchange passt (Ausrüstung, Jewels), handelst du über die Trade-Seite. Für den Einstieg reichen günstige Rares mit Leben und Widerständen oft schon, um die −60 % auszugleichen. Vergleiche mehrere Angebote, bevor du kaufst.",
+            "en": "Anything that doesn't fit on the Currency Exchange (gear, Jewels) you trade via the trade site. To get started, cheap rares with Life and resistances are often enough to make up for the −60%. Compare several listings before you buy."
+          }
+        },
+        {
+          "id": "currency-salvage",
+          "text": {
+            "de": "Zerlege Ausrüstung mit Qualität oder Sockeln an der Salvage Bench zu Currency, statt sie liegen zu lassen.",
+            "en": "Salvage gear with quality or sockets at the Salvage Bench for currency instead of leaving it on the ground."
+          },
+          "kind": "tip",
+          "mechanic": "salvage-bench"
+        },
+        {
+          "id": "currency-highlight",
+          "text": {
+            "de": "Halte die Hervorheben-Taste (Standard: Alt) gedrückt, um alle Item-Namen am Boden zu sehen, falls dein Filter etwas ausblendet.",
+            "en": "Hold the highlight key (default: Alt) to see all item names on the ground in case your filter hides something."
+          },
+          "kind": "tip",
+          "mechanic": "tastenkuerzel",
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die besten frühen Einnahmen sind oft Breach-Splitter, Trial-Schlüssel (Djinn Barya, Inscribed Ultimatum), Tablets und Omens. Verkaufe sie in Mengen über die Exchange statt einzeln.",
+          "en": "The best early income is often Breach Splinters, Trial keys (Djinn Barya, Inscribed Ultimatum), Tablets and Omens. Sell them in bulk via the Exchange instead of one by one."
+        },
+        {
+          "de": "Seit 0.5.5 gibt es im Currency-Exchange-Fenster einen Knopf, der zwischen Truhe und Inventar umschaltet.",
+          "en": "Since 0.5.5, the Currency Exchange window has a button that toggles between stash and inventory."
+        }
+      ]
+    },
+    {
+      "id": "ascendancy-trials",
+      "name": "Ascendancy Trials",
+      "areaId": null,
+      "level": 60,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "trials-sekhemas-3",
+          "text": {
+            "de": "Lege eine Djinn Barya mit Gebietsstufe 60+ in den Relic Altar am Wegpunkt Trial of the Sekhemas (Akt 2) und schließe Etage 3 ab.",
+            "en": "Place a Djinn Barya of area level 60+ into the Relic Altar at the Trial of the Sekhemas Waypoint (Act 2) and complete floor 3."
+          },
+          "kind": "main",
+          "mechanic": "trial-sekhemas",
+          "beginner": {
+            "de": "Im Trial of the Sekhemas zählt nicht dein Leben, sondern deine Honour: Treffer ziehen Honour ab, bei 0 ist der Lauf gescheitert. Das ist kein Tod und kostet keine Erfahrung. Sammle Relics mit Honour Resistance (maximal 90 %), dann wird der Trial viel leichter. Dein Runic Ward wird seit 0.5 zur Start-Honour addiert, und am Eingang steht jetzt eine Reforging Bench für Relics.",
+            "en": "In the Trial of the Sekhemas, your Honour matters, not your Life: hits drain Honour, and at 0 the run fails. That's not a death and costs no experience. Collect Relics with Honour Resistance (max 90%) and the Trial gets much easier. Since 0.5, your Runic Ward is added to your starting Honour, and there's now a Reforging Bench for Relics at the entrance."
+          }
+        },
+        {
+          "id": "trials-ascend-3",
+          "text": {
+            "de": "Wähle nach dem Sieg deinen 3. Aufstieg.",
+            "en": "After winning, choose your 3rd Ascendancy."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "ascendancy",
+            "amount": 2,
+            "label": {
+              "de": "+2 Aufstiegspunkte (3. Aufstieg)",
+              "en": "+2 Ascendancy points (3rd Ascendancy)"
+            },
+            "permanent": true
+          }
+        },
+        {
+          "id": "trials-chaos",
+          "text": {
+            "de": "Alternative: Lege ein Inscribed Ultimatum passender Stufe in den Temple Offering im Temple of Chaos (Akt 3) und bestehe den Trial of Chaos mit der nötigen Anzahl Prüfungen.",
+            "en": "Alternative: Place an Inscribed Ultimatum of the right level into the Temple Offering in the Temple of Chaos (Act 3) and pass the Trial of Chaos with the required number of trials."
+          },
+          "kind": "side",
+          "optional": true,
+          "mechanic": "trial-chaos",
+          "beginner": {
+            "de": "Seit 0.5.5 kannst du einen Trial of Chaos jederzeit verlassen und später im selben Raum weitermachen. Nach jedem Raum gibt es eine Belohnungstruhe, ein Tod kostet also nicht mehr alles. Welcher Trial dir leichter fällt, hängt vom Build ab: Builds mit schwachen Verteidigungen kommen im Trial of Chaos oft besser zurecht als mit dem Honour-System.",
+            "en": "Since 0.5.5 you can leave a Trial of Chaos at any time and continue later in the same room. There's a reward chest after every room, so a death no longer costs you everything. Which Trial is easier depends on your build: builds with weak defences often do better in the Trial of Chaos than with the Honour system."
+          },
+          "verified": false
+        },
+        {
+          "id": "trials-sekhemas-4",
+          "text": {
+            "de": "Für den 4. Aufstieg: Schließe Etage 4 des Trial of the Sekhemas mit einer Djinn Barya ab Gebietsstufe 75 ab (oder den höchsten Trial of Chaos).",
+            "en": "For your 4th Ascendancy: complete floor 4 of the Trial of the Sekhemas with a Djinn Barya of area level 75+ (or the highest Trial of Chaos)."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "trials-ascend-4",
+          "text": {
+            "de": "Wähle deinen 4. und letzten Aufstieg. Damit hast du alle 8 Aufstiegspunkte.",
+            "en": "Choose your 4th and final Ascendancy. That gives you all 8 Ascendancy points."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "ascendancy",
+            "amount": 2,
+            "label": {
+              "de": "+2 Aufstiegspunkte (4. Aufstieg)",
+              "en": "+2 Ascendancy points (4th Ascendancy)"
+            },
+            "permanent": true
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Mach den 3. Aufstieg mit etwa Level 70. Dann ist der Trial leicht, und du bekommst die Kraft trotzdem früh genug für die Fortress.",
+          "en": "Do your 3rd Ascendancy at around level 70. The Trial is easy then, and you still get the power early enough for the Fortress."
+        },
+        {
+          "de": "Seit 0.5.5 haben beide Trials ab Gebietsstufe 65 eingebaute Boni (mehr magische/seltene Monster, bessere Boss-Drops), weil Atlas-Passives dort nicht wirken.",
+          "en": "Since 0.5.5, both Trials have built-in bonuses from area level 65 (more magic/rare monsters, better boss drops), because Atlas passives don't apply there."
+        }
+      ]
+    },
+    {
+      "id": "league-mechanics",
+      "name": "Endgame Mechanics",
+      "areaId": null,
+      "level": null,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "mech-overview",
+          "text": {
+            "de": "Wähle ein bis zwei Liga-Mechaniken, die du ausbauen willst. Jede hat einen Hub auf dem Atlas, eine Questreihe bis zum Pinnacle-Boss und einen eigenen Atlas-Baum.",
+            "en": "Choose one or two league mechanics to invest in. Each has a hub on the Atlas, a quest line leading to its pinnacle boss and its own Atlas tree."
+          },
+          "kind": "main",
+          "mechanic": "endgame-mechaniken",
+          "beginner": {
+            "de": "Liga-Mechaniken sind Zusatz-Events in Karten mit eigenen Belohnungen. Spiele mit Tablets und Atlas-Knoten gezielt die Mechanik, die dir Spaß macht oder gut verkaufbare Items bringt, statt alles gleichzeitig zu machen.",
+            "en": "League mechanics are extra events in maps with their own rewards. Use Tablets and Atlas nodes to target the mechanic you enjoy or that drops easy-to-sell items, instead of doing everything at once."
+          }
+        },
+        {
+          "id": "mech-breach",
+          "text": {
+            "de": "Breach: Reise zur Monastery of the Keepers (südlich des Starts). Berühre in Karten die Breach-Hand und töte Monster, bis der Balken 100 % erreicht. Dann folgt eine Stabilised Breach.",
+            "en": "Breach: Travel to the Monastery of the Keepers (south of the start). In maps, touch the Breach hand and kill monsters until the bar reaches 100%. A Stabilised Breach follows."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Breach-Monster lassen Hiveblood, Wombgifts und Breachstone-Splitter fallen. Am Genesis Tree im Hub verwandelst du sie in Ringe, Amulette, Gürtel, Currency und Breachstones. Ein Breachstone öffnet eine Breach Domain auf dem Atlas, an deren Ende Tul und Esh stehen (Schlüssel zum Breach-Pinnacle-Boss).",
+            "en": "Breach monsters drop Hiveblood, Wombgifts and Breachstone Splinters. At the Genesis Tree in the hub you turn them into rings, amulets, belts, currency and Breachstones. A Breachstone opens a Breach Domain on the Atlas with Tul and Esh at the end (keys to the Breach pinnacle boss)."
+          }
+        },
+        {
+          "id": "mech-delirium",
+          "text": {
+            "de": "Delirium: Reise zum Delirium-Hub südwestlich des Starts. Zerbrich in Karten den Spiegel und folge dem Nebel. Er zeigt immer in Richtung des Map-Bosses.",
+            "en": "Delirium: Travel to the Delirium hub southwest of the start. In maps, shatter the mirror and follow the fog. It always points toward the map boss."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Im Nebel werden Monster stärker und lohnender. Ein Balken zeigt, wie tief du drin bist. Grand Mirrors auf dem Atlas starten den Trial of Madness, an dessen Ende das Simulacrum (7 Wellen) wartet. Es gibt den Schlüssel zum Delirium-Pinnacle-Boss. Distilled Emotions aus Delirium nutzt du zum Salben (Instill) von Amuletten und Jewels.",
+            "en": "Inside the fog, monsters get stronger and more rewarding. A bar shows how deep in you are. Grand Mirrors on the Atlas start the Trial of Madness, which ends in the Simulacrum (7 waves). It gives the key to the Delirium pinnacle boss. You use Distilled Emotions from Delirium to Instill amulets and Jewels."
+          }
+        },
+        {
+          "id": "mech-ritual",
+          "text": {
+            "de": "Ritual: Reise nach Caer Tarth (westlich des Starts). Aktiviere Ritual-Altäre, töte die wiederbelebten Monster und gib Tribute für Uniques oder Omens aus.",
+            "en": "Ritual: Travel to Caer Tarth (west of the start). Activate Ritual altars, kill the revived monsters and spend Tribute on Uniques or Omens."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Nach einem Altar zeigen Heuschrecken den Weg zum nächsten. Übrigen Tribute kannst du für eine Audience with the King opfern. The King in the Mists droppt The Head of the King, das in Caer Tarth den Rite of the Nameless (5 Karten am Stück) startet. Seit 0.5.5 bekommen auch Gruppenmitglieder Tribute.",
+            "en": "After an altar, locusts show you the way to the next one. Leftover Tribute can be offered for an Audience with the King. The King in the Mists drops The Head of the King, which starts the Rite of the Nameless (5 maps in a row) in Caer Tarth. Since 0.5.5, party members also receive Tribute."
+          }
+        },
+        {
+          "id": "mech-expedition",
+          "text": {
+            "de": "Expedition: Reise zu den Ruins of Kingsmarch (südöstlich des Starts). Platziere Sprengladungen, lege Truhen und Monster frei und nutze Logbooks für Grand Expeditions im Ozean.",
+            "en": "Expedition: Travel to the Ruins of Kingsmarch (southeast of the start). Place explosives, uncover chests and monsters and use Logbooks for Grand Expeditions in the ocean."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Seit 0.5.5 ist Expedition (mit Farrow und Dannig) fester Teil des Spiels, auch in der Forbidden-Rites-Liga. Mehrere Expedition Tablets in einer Karte verstärken sich: Ab 2 Tablets erscheint zusätzlich ein Verisium Remnant. Atlaspunkte für Expedition gibt es nur für die Expedition-Bosse.",
+            "en": "Since 0.5.5, Expedition (with Farrow and Dannig) is a permanent part of the game, including in the Forbidden Rites league. Multiple Expedition Tablets in one map amplify each other: with 2 or more Tablets, an extra Verisium Remnant appears. Expedition Atlas points only come from the Expedition bosses."
+          }
+        },
+        {
+          "id": "mech-abyss",
+          "text": {
+            "de": "Abyss: Folge in Karten den Abyss-Rissen bis zu den Gruben. Große Abyss-Risse und seit 0.5.5 Abyssal Ravines auf dem Atlas garantieren Abysses und führen zu einer Abyssal Depths mit Boss.",
+            "en": "Abyss: In maps, follow the Abyss cracks to the pits. Large Abyss cracks and, since 0.5.5, Abyssal Ravines on the Atlas guarantee Abysses and lead to an Abyssal Depths with a boss."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "mech-vaal",
+          "text": {
+            "de": "Fate of the Vaal: Im Nordosten liegt Lira Vaal mit Atziri's Temple. Karten dort haben immer Energised Crystals, Temple Tablets garantieren Vaal Beacons in deinen Karten.",
+            "en": "Fate of the Vaal: Lira Vaal with Atziri's Temple lies to the northeast. Maps there always have Energised Crystals; Temple Tablets guarantee Vaal Beacons in your maps."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "mech-forbidden-rites",
+          "text": {
+            "de": "Nur in der Forbidden-Rites-Liga: Sacred Blooms aus Ritual-Belohnungen legen den Viridian Wildwood über eine Gruppe von Karten. Sammle dort Wisps, um die Monster der Karte stärker und lohnender zu machen.",
+            "en": "Forbidden Rites league only: Sacred Blooms from Ritual rewards lay the Viridian Wildwood over a group of maps. Collect Wisps there to make the map's monsters stronger and more rewarding."
+          },
+          "kind": "side",
+          "optional": true,
+          "mechanic": "liga-mechanik"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Fülle alle Tablet-Slots mit Tablets einer Mechanik, wenn du nur diese sehen willst. Leere Slots bringen zufällige andere Liga-Inhalte.",
+          "en": "Fill all Tablet slots with Tablets of one mechanic if that's all you want to see. Empty slots bring random other league content."
+        },
+        {
+          "de": "Bist du für die Fortress noch zu schwach, ist eine Mechanik plus Handel der schnellste Weg zu besserer Ausrüstung.",
+          "en": "If you're still too weak for the Fortress, one mechanic plus trading is the fastest route to better gear."
+        }
+      ]
+    },
+    {
+      "id": "burning-monolith",
+      "name": "The Burning Monolith",
+      "areaId": null,
+      "level": 74,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "monolith-insert",
+          "text": {
+            "de": "Kehre mit den Crisis Fragments zum Burning Monolith zurück. Bei der Quest ist ein Fragment schon eingesetzt, die anderen zwei bringst du aus den Enigma Chambers mit.",
+            "en": "Return to the Burning Monolith with the Crisis Fragments. For the quest, one Fragment is already inserted; you bring the other two from the Enigma Chambers."
+          },
+          "kind": "main",
+          "verified": false
+        },
+        {
+          "id": "monolith-arbiter-ash",
+          "text": {
+            "de": "Besiege The Arbiter of Ash (Quest-Version, Gebietsstufe 74).",
+            "en": "Defeat The Arbiter of Ash (quest version, area level 74)."
+          },
+          "kind": "boss",
+          "mechanic": "pinnacle-bosse",
+          "beginner": {
+            "de": "Der erste Pinnacle-Boss. Fast alle Angriffe sind lange angekündigt: Roter Nebel zeigt, wo gleich Feuer-Böen kommen, Ringe vom Himmel explodieren außerhalb des Rings. Ab 50 % Leben wird er kurz immun und wechselt in Phase 2. Danach nutzt er stärkere Kombos und Saat-Effekte, die Kälte-Boden oder Blackflame-Boden (keine Leben-/ES-Erholung) legen. Lerne die Muster in Ruhe, die Quest-Version ist schwächer als die Farm-Version.",
+            "en": "The first pinnacle boss. Almost all attacks are telegraphed well in advance: red fog shows where fire gales are about to hit, and rings falling from the sky explode outside the ring. At 50% Life he briefly becomes immune and switches to phase 2. After that he uses stronger combos and seed effects that create chilled ground or Blackflame ground (no Life/ES recovery). Learn the patterns calmly; the quest version is weaker than the farm version."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Seit 0.5.5 hat der Arbiter of Ash Feuerresistenz und Kälte-Verwundbarkeit statt Resistenz gegen alle Elemente. Kälte-Builds haben es hier leichter.",
+          "en": "Since 0.5.5, the Arbiter of Ash has Fire Resistance and Cold vulnerability instead of resistance to all elements. Cold builds have an easier time here."
+        },
+        {
+          "de": "Die Farm-Version (Gebietsstufe 82) öffnest du mit drei Crisis Fragments aus Citadels. Calamity Fragments gibt es seit 0.5 nicht mehr.",
+          "en": "You open the farm version (area level 82) with three Crisis Fragments from Citadels. Calamity Fragments no longer exist since 0.5."
+        }
+      ]
+    },
+    {
+      "id": "gear-check",
+      "name": "Gear Check before Tier 15",
+      "areaId": null,
+      "level": 79,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "gear-res",
+          "text": {
+            "de": "Bringe Feuer-, Kälte- und Blitzwiderstand jeweils auf 75 % (nach dem −60-%-Malus) und deinen Chaoswiderstand mindestens auf 0 %, besser deutlich ins Plus.",
+            "en": "Get Fire, Cold and Lightning Resistance to 75% each (after the −60% penalty) and your Chaos Resistance to at least 0%, ideally well into the positives."
+          },
+          "kind": "main",
+          "mechanic": "resistenzen",
+          "beginner": {
+            "de": "Rote Karten (ab Tier 11) und Bosse verursachen viel Elementar- und Chaosschaden. Jeder fehlende Prozentpunkt unter 75 % lässt mehr Schaden durch. Chaoswiderstand startet bei 0 % und kommt nicht von alleine. Plane dafür Ringe, Amulett, Gürtel oder Soul Cores ein (z. B. Soul Core of Tacati: +13 % Chaoswiderstand in Rüstung).",
+            "en": "Red maps (Tier 11+) and bosses deal a lot of Elemental and Chaos damage. Every percentage point below 75% lets more damage through. Chaos Resistance starts at 0% and doesn't come on its own. Plan rings, amulet, belt or Soul Cores for it (e.g. Soul Core of Tacati: +13% Chaos Resistance in body armour)."
+          },
+          "verified": false
+        },
+        {
+          "id": "gear-defense",
+          "text": {
+            "de": "Prüfe deine Verteidigung: genug Leben oder Energy Shield, dazu eine zweite Schicht wie Armour, Evasion, Deflection oder Block.",
+            "en": "Check your defences: enough Life or Energy Shield, plus a second layer like Armour, Evasion, Deflection or Block."
+          },
+          "kind": "tip",
+          "mechanic": "verteidigung"
+        },
+        {
+          "id": "gear-flasks",
+          "text": {
+            "de": "Prüfe Flasks und Charms: Life Flask mit guter Erholung, Charms gegen Freeze, Stun oder andere Zustände, die dich oft erwischen.",
+            "en": "Check your Flasks and Charms: a Life Flask with good recovery, Charms against Freeze, Stun or whatever other ailments keep catching you."
+          },
+          "kind": "tip"
+        },
+        {
+          "id": "gear-damage",
+          "text": {
+            "de": "Prüfe deinen Schaden: Waffe oder Zauberwaffe aktuell, Skill- und Support-Gems so hoch wie möglich, alle Sockel mit Runen oder Soul Cores belegt.",
+            "en": "Check your damage: weapon or caster weapon up to date, skill and support gems as high as possible, all sockets filled with Runes or Soul Cores."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Als Faustregel gilt: Wenn ein normaler Map-Boss in T10–T14 länger als ein paar Sekunden lebt oder seltene Monster dich regelmäßig in Bedrängnis bringen, ist dein Schaden für T15 noch zu niedrig. Investiere zuerst in die Waffe, sie bringt meist den größten Sprung.",
+            "en": "Rule of thumb: if a normal map boss in T10–T14 lives longer than a few seconds, or rare monsters regularly put you in trouble, your damage is still too low for T15. Invest in your weapon first; it usually gives the biggest jump."
+          }
+        },
+        {
+          "id": "gear-waystone-mods",
+          "text": {
+            "de": "Rolle Waystones für T15+ so, dass keine Mods dabei sind, die dein Build nicht verträgt (z. B. weniger Erholung oder viel zusätzlicher Elementarschaden gegen deinen schwächsten Widerstand).",
+            "en": "Roll Waystones for T15+ so they have no mods your build can't handle (e.g. reduced recovery or lots of extra Elemental damage against your weakest resistance)."
+          },
+          "kind": "tip"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Pinnacle-Bosse testen andere Dinge als Karten: Schaden zählt nur, wenn du ihn austeilen kannst, während du den Mechaniken ausweichst.",
+          "en": "Pinnacle bosses test different things than maps: damage only counts if you can deal it while dodging the mechanics."
+        },
+        {
+          "de": "Kein Fortschritt mehr? Geh ein, zwei Tiers zurück, farme eine Mechanik und tausche dir gezielt Upgrades. Das ist schneller als wiederholtes Sterben.",
+          "en": "Stuck? Drop a tier or two, farm a mechanic and trade for targeted upgrades. That's faster than dying over and over."
+        }
+      ]
+    },
+    {
+      "id": "origin-tower",
+      "name": "The Origin Tower",
+      "areaId": null,
+      "level": 79,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "origin-halls",
+          "text": {
+            "de": "Reise zu den Matriarch Halls und Patriarch Halls im Zentrum der Fortress. Die Matriarch droppt die Origin Cradle, der Patriarch den Origin Spark.",
+            "en": "Travel to the Matriarch Halls and Patriarch Halls in the center of the Fortress. The Matriarch drops the Origin Cradle, the Patriarch the Origin Spark."
+          },
+          "kind": "boss",
+          "verified": false
+        },
+        {
+          "id": "origin-core",
+          "text": {
+            "de": "Bringe Origin Cradle und Origin Spark in die Precursor-Schmiede (Engine Room) im Origin Tower, setze daraus den Origin Core zusammen und trage ihn an die Spitze des Turms.",
+            "en": "Bring the Origin Cradle and Origin Spark to the Precursor forge (Engine Room) in the Origin Tower, combine them into the Origin Core and carry it to the top of the tower."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "origin-arbiter-divinity",
+          "text": {
+            "de": "Besiege The Arbiter of Divinity, den Pinnacle-Boss der Storyline (Quest-Version, Gebietsstufe 79).",
+            "en": "Defeat The Arbiter of Divinity, the storyline's pinnacle boss (quest version, area level 79)."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "In Phase 1 greift er mit Dreifach-Schwüngen, Nahkampf-Kombos (am Ende ein Speerwurf, der eine Schadenspfütze hinterlässt) und einer Kugel an, die Projektile verschießt. Danach heilt er sich voll und kämpft flügellos weiter: Er markiert große Teile der Arena mit Kreisen für Blitzeinschläge und ruft Aspects of Divinity. Die kannst du nur verletzen, wenn du vorher Divine Power aus der Arena einsammelst.",
+            "en": "In phase 1 he attacks with triple swings, melee combos (ending in a spear throw that leaves a damaging pool) and an orb that fires projectiles. Then he fully heals and keeps fighting without wings: he marks large parts of the arena with circles for lightning strikes and calls Aspects of Divinity. You can only damage those after collecting Divine Power from the arena."
+          }
+        },
+        {
+          "id": "origin-fortress-complete",
+          "text": {
+            "de": "Für die restlichen Atlaspunkte: Besiege den Arbiter of Divinity mit einem Nicht-Quest-Origin-Core. Seit 0.5.5 schließt das sofort die komplette Precursor Fortress ab.",
+            "en": "For the remaining Atlas points: defeat the Arbiter of Divinity with a non-quest Origin Core. Since 0.5.5 this instantly completes the entire Precursor Fortress."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Ganze Precursor Fortress abgeschlossen (alle Atlas-Passivpunkte der Fortress)",
+              "en": "Entire Precursor Fortress completed (all Fortress Atlas passive points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Weitere Origin Cradles und Sparks findest du in Matriarch Halls und Patriarch Halls außerhalb der Fortress. Seit 0.5.5 können diese näher an der Ziggurat Refuge erscheinen. Die Quest-Version des Cores schließt seit 0.5.5 keinen Fortress-Abschnitt mehr ab.",
+            "en": "You'll find more Origin Cradles and Sparks in Matriarch Halls and Patriarch Halls outside the Fortress. Since 0.5.5 these can spawn closer to the Ziggurat Refuge. Since 0.5.5, the quest version of the Core no longer completes any Fortress section."
+          }
+        },
+        {
+          "id": "origin-citadels",
+          "text": {
+            "de": "Suche nach der Storyline Citadels (Iron, Copper und Stone Citadel) auf dem Atlas. Ihre Bosse droppen Crisis Fragments für die Farm-Version des Arbiter of Ash.",
+            "en": "After the storyline, look for Citadels (Iron, Copper and Stone Citadel) on the Atlas. Their bosses drop Crisis Fragments for the farm version of the Arbiter of Ash."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Citadels erkennst du an farbigen Lichtsäulen auf dem Atlas. Karten in Citadel-Biomen haben 50 % mehr Chance auf Essences, Strongboxes und Schreine. Für die Fragment-Drops brauchst du hohe Waystones mit vielen Modifikatoren.",
+            "en": "You can spot Citadels by the colored pillars of light on the Atlas. Maps in Citadel biomes have a 50% higher chance of Essences, Strongboxes and shrines. For the Fragment drops you need high-tier Waystones with lots of modifiers."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Seit 0.5.5 hat der Arbiter of Divinity Blitzresistenz und Feuer-Verwundbarkeit statt Resistenz gegen alle Elemente.",
+          "en": "Since 0.5.5, the Arbiter of Divinity has Lightning Resistance and Fire vulnerability instead of resistance to all elements."
+        },
+        {
+          "de": "Jede Liga-Mechanik hat zusätzlich eigene Pinnacle-Bosse mit Quest- und Farm-Version. Sie geben je 6 Punkte für den jeweiligen Nebenbaum.",
+          "en": "Each league mechanic also has its own pinnacle bosses with a quest and a farm version. Each gives 6 points for that mechanic's side tree."
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "The Arbiter of Ash",
+      "zone": "burning-monolith",
+      "mechanics": [
+        {
+          "de": "Phase 1: Feuerstrahl, Schwertkombos (2–3 Hiebe in Bewegung), Sprung mit langer Schockwelle nach vorn, großflächiger Flugsprung.",
+          "en": "Phase 1: fire beam, sword combos (2–3 slashes on the move), leap with a long shockwave forward, wide-area flying leap."
+        },
+        {
+          "de": "Flaming Gales: Roter Nebel bedeckt die Arena bis auf einen Streifen. Zeigt er mit der Waffe, brennt alles im Nebel, also in den freien Streifen stellen. Das wiederholt sich in mehreren Richtungen.",
+          "en": "Flaming Gales: red fog covers the arena except for one strip. When he points his weapon, everything in the fog burns, so stand in the clear strip. This repeats in several directions."
+        },
+        {
+          "de": "Falling Flame Seed: Feuersamen fallen und bilden einen Ring. Alles außerhalb explodiert kurz danach, also in den Ring laufen.",
+          "en": "Falling Flame Seed: fire seeds fall and form a ring. Everything outside explodes shortly after, so run into the ring."
+        },
+        {
+          "de": "Bullet Hell: Langsame Feuerkugeln verschießen regelmäßig kleine Projektile in alle Richtungen.",
+          "en": "Bullet Hell: slow fireballs regularly shoot small projectiles in all directions."
+        },
+        {
+          "de": "Phase 2 (unter 50 %): Kurz immun, dann Sword Beam, Donut Bullet Hell und Saaten. Chill Seed legt Kälteboden (30 % langsamer), Blackflame Seed verhindert Leben- und ES-Erholung, jeweils 20 Sekunden.",
+          "en": "Phase 2 (below 50%): briefly immune, then Sword Beam, Donut Bullet Hell and seeds. Chill Seed creates chilled ground (30% slower), Blackflame Seed prevents Life and ES recovery, each for 20 seconds."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Spare die Ausweichrolle für die Explosionen der Flame Seeds und die Schockwellen auf.",
+          "en": "Save your dodge roll for the Flame Seed explosions and the shockwaves."
+        },
+        {
+          "de": "Bei Blackflame zuerst ausweichen, statt Flasks zu trinken: Erholung wirkt in dieser Zeit nicht.",
+          "en": "During Blackflame, dodge first instead of drinking flasks: recovery doesn't work during that time."
+        },
+        {
+          "de": "Seit 0.5.5: Feuerresistenz, aber Kälte-Verwundbarkeit.",
+          "en": "Since 0.5.5: Fire Resistance, but Cold vulnerability."
+        }
+      ]
+    },
+    {
+      "name": "The Arbiter of Divinity",
+      "zone": "origin-tower",
+      "mechanics": [
+        {
+          "de": "Phase 1: Dreifach-Schwung, Nahkampfkombo mit Speerwurf, der eine Schadenspfütze hinterlässt, und eine Kugel, die einen Projektilstrom feuert.",
+          "en": "Phase 1: triple swing, melee combo with a spear throw that leaves a damaging pool, and an orb that fires a stream of projectiles."
+        },
+        {
+          "de": "Phase 2: Nach einer vollen Heilung kämpft er ohne Flügel weiter. Bombardment markiert fast die ganze Arena mit kleinen Kreisen für Blitzeinschläge.",
+          "en": "Phase 2: after a full heal he keeps fighting without wings. Bombardment marks almost the entire arena with small circles for lightning strikes."
+        },
+        {
+          "de": "Aspects of Divinity: Beschworene Helfer sind unverwundbar, bis du Divine Power aus der Arena aufsammelst.",
+          "en": "Aspects of Divinity: summoned helpers are invulnerable until you pick up Divine Power from the arena."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Bleib bei Bombardment in Bewegung und lauf durch die Lücken zwischen den Kreisen.",
+          "en": "Keep moving during Bombardment and run through the gaps between the circles."
+        },
+        {
+          "de": "Sammle Divine Power sofort ein, wenn Aspects erscheinen. Sonst kämpfst du gegen Gegner, die du nicht verletzen kannst.",
+          "en": "Collect Divine Power immediately when Aspects appear. Otherwise you're fighting enemies you can't damage."
+        },
+        {
+          "de": "Seit 0.5.5: Blitzresistenz, aber Feuer-Verwundbarkeit.",
+          "en": "Since 0.5.5: Lightning Resistance, but Fire vulnerability."
+        }
+      ]
+    }
+  ]
+}

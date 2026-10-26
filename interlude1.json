@@ -1,0 +1,746 @@
+{
+  "id": "interlude1",
+  "order": 7,
+  "name": {
+    "de": "Interlude 1",
+    "en": "Interlude 1"
+  },
+  "title": {
+    "de": "The Curse of Holten (Ogham) und Abschluss der Kampagne",
+    "en": "The Curse of Holten (Ogham) and Campaign Wrap-Up"
+  },
+  "levelRange": [
+    60,
+    65
+  ],
+  "summary": {
+    "de": "Zurück in Ogham: Thane Wulfric und Lady Elswyth verschleppen mit ihrem Kult die Dorfbewohner nach Holten. Im Spiel heißt es Interlude 1, empfohlen wird es aber als letztes, weil es das leichteste ist und nur 2 Weapon-Set-Punkte von Oswin bietet. Nach allen drei Interludes gibt The Hooded One in Kingsmarch 2 weitere Passivpunkte, und die Reise nach Oriath endet in The Ziggurat Refuge, dem Start des Endgames.",
+    "en": "Back in Ogham: Thane Wulfric and Lady Elswyth and their cult are dragging the villagers off to Holten. In-game it's called Interlude 1, but it's recommended last because it's the easiest and only offers 2 Weapon Set points from Oswin. After all three Interludes, The Hooded One in Kingsmarch grants 2 more passive points, and the journey to Oriath ends in The Ziggurat Refuge, the start of the endgame."
+  },
+  "recommended": {
+    "level": 64,
+    "resistances": {
+      "fire": 75,
+      "cold": 75,
+      "lightning": 75,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Pflicht-Mitnahmen: Oswin (Wolvenhold) → Warden's Ledger (2 Weapon-Set-Punkte) und danach The Hooded One in Kingsmarch (2 Weapon-Set-Punkte, Quest Siege of Oriath).",
+      "en": "Must-grabs: Oswin (Wolvenhold) → Warden's Ledger (2 Weapon Set points), then The Hooded One in Kingsmarch (2 Weapon Set points, quest Siege of Oriath)."
+    },
+    {
+      "de": "Als letztes Interlude liegen die Zonen bei ca. Gebietsstufe 62–64: Widerstandsstrafe −50 %. In Maps (ab Gebietsstufe 65) gilt −60 %, also Widerstände möglichst um 10 % überkappen.",
+      "en": "As your last Interlude, zones are around area level 62–64: resistance penalty −50%. In maps (area level 65+) it's −60%, so overcap your resistances by about 10% if you can."
+    },
+    {
+      "de": "Soul of the Ferryman in Holten verkauft Greater Runes für ca. 2.000 Gold pro Stück. Gute Gelegenheit, übriges Gold auszugeben.",
+      "en": "Soul of the Ferryman in Holten sells Greater Runes for about 2,000 Gold each. A good chance to spend leftover Gold."
+    },
+    {
+      "de": "Speed: Sigbert & Godwin, Omen-Altäre im Blackwood, Expedition/Abyss/Ritual und der Gem-Leichnam in den Scorched Farmlands sind optional.",
+      "en": "Speed: Sigbert & Godwin, the Omen altars in the Blackwood, Expedition/Abyss/Ritual and the gem corpse in the Scorched Farmlands are optional."
+    },
+    {
+      "de": "Abschluss: Nach allen drei Interludes in Kingsmarch The Hooded One (Siege of Oriath) → Reise nach Oriath endet in The Ziggurat Refuge (Endgame-Start, Gebietsstufe 65).",
+      "en": "Wrap-up: After all three Interludes, talk to The Hooded One in Kingsmarch (Siege of Oriath) → the journey to Oriath ends in The Ziggurat Refuge (endgame start, area level 65)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PoE2 Wiki: Interlude",
+      "url": "https://www.poe2wiki.net/wiki/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Recruit the Ezomytes",
+      "url": "https://www.poe2wiki.net/wiki/Recruit_the_Ezomytes",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Siege of Oriath",
+      "url": "https://www.poe2wiki.net/wiki/Siege_of_Oriath",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Weapon set",
+      "url": "https://www.poe2wiki.net/wiki/Weapon_set",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Passive Skill Tree",
+      "url": "https://www.poe2wiki.net/wiki/Passive_Skill_Tree",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Scorched Farmlands",
+      "url": "https://www.poe2wiki.net/wiki/Scorched_Farmlands",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Stones of Serle",
+      "url": "https://www.poe2wiki.net/wiki/Stones_of_Serle",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Holten",
+      "url": "https://www.poe2wiki.net/wiki/Holten",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Wolvenhold",
+      "url": "https://www.poe2wiki.net/wiki/Wolvenhold",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Holten Estate",
+      "url": "https://www.poe2wiki.net/wiki/Holten_Estate",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Ziggurat Refuge",
+      "url": "https://www.poe2wiki.net/wiki/The_Ziggurat_Refuge",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Resistance",
+      "url": "https://www.poe2wiki.net/wiki/Resistance",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Interlude Curse of Holten",
+      "url": "https://poe2db.tw/us/Interlude_Curse_of_Holten",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Interludes (Gebiete, Ziele, Belohnungen)",
+      "url": "https://poe2db.tw/us/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB (deutsch): Interludes",
+      "url": "https://poe2db.tw/de/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: PoE 0.5 Campaign Checklist (2026-06-02)",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "domistae: PoE 2 Interludes Guide (0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_interludes_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe-vault: Ogham Interlude Boss Guide",
+      "url": "https://www.poe-vault.com/poe2/guides/ogham-interlude-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Exile-UI Leveltracker (Route 0.5.5)",
+      "url": "https://github.com/Lailloken/Exile-UI",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Path of Building PoE2: WorldAreas.lua (Area-IDs, Gebietsstufen)",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "the-refuge",
+      "name": "The Refuge",
+      "nameDe": "Die Zuflucht",
+      "areaId": "P1_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hooded-one-ogham",
+          "text": {
+            "de": "Sprich mit The Hooded One (in Kingsmarch oder einer Interlude-Stadt) und wähle die Reise nach Ogham.",
+            "en": "Talk to The Hooded One (in Kingsmarch or an Interlude town) and choose to travel to Ogham."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Wenn du der empfohlenen Reihenfolge folgst, ist dies dein drittes und letztes Interlude. Durch die Skalierung liegen die Zonen jetzt etwa 8 Stufen über dem Grundwert, also bei ca. 62–64. Ab Gebietsstufe 60 beträgt die Widerstandsstrafe −50 %. Prüfe nach dem Betreten der ersten Zone im Charakterbildschirm, ob Feuer-, Kälte- und Blitzwiderstand bei 75 % liegen.",
+            "en": "If you're following the recommended order, this is your third and final Interlude. Thanks to scaling, the zones are now about 8 levels above their base, so around 62–64. From area level 60 the resistance penalty is −50%. After entering the first zone, check your character panel to make sure Fire, Cold and Lightning Resistance are at 75%."
+          }
+        },
+        {
+          "id": "speak-renly",
+          "text": {
+            "de": "Sprich mit Renly. Er bittet dich, Holten von Thane Wulfric und Lady Elswyth zu befreien.",
+            "en": "Talk to Renly. He asks you to free Holten from Thane Wulfric and Lady Elswyth."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "refuge-vendors",
+          "text": {
+            "de": "Prüfe die Händler (u. a. Renly, Finn, Una) auf Upgrades mit Widerständen und Leben.",
+            "en": "Check the vendors (Renly, Finn, Una and others) for upgrades with resistances and Life."
+          },
+          "kind": "tip",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "scorched-farmlands",
+      "name": "Scorched Farmlands",
+      "nameDe": "Verbrannte Felder",
+      "areaId": "P1_1",
+      "level": 54,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "farmlands-corpse",
+          "text": {
+            "de": "Optional: Durchsuche den Leichnam am Straßenrand nahe dem Start. Er gibt einen Uncut Skill Gem der Stufe 13, löst aber einen Hinterhalt von Flesh Larvae aus.",
+            "en": "Optional: Search the corpse by the roadside near the start. It gives a level 13 Uncut Skill Gem but triggers an ambush of Flesh Larvae."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Stufe 13)",
+              "en": "Uncut Skill Gem (level 13)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "isolde-heldra",
+          "text": {
+            "de": "Besiege Isolde of the White Shroud und Heldra of the Black Pyre in der kleinen Arena nahe der Wand aus Dunkelheit.",
+            "en": "Defeat Isolde of the White Shroud and Heldra of the Black Pyre in the small arena near the wall of darkness."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Zwei Hexen gleichzeitig: Isolde nutzt Kälte und beschwört Wölfe, Heldra wirft Feuer. Töte zuerst eine von beiden, statt den Schaden zu verteilen. Isoldes Frost-Siegel auf dem Boden explodieren nach kurzer Zeit zu Eisstacheln: rechtzeitig heraus. Bei Heldras Infernal Corridor erscheinen zwei Wände neben dir, durch die eine Feuerwand rollt: sofort aus dem Korridor laufen.",
+            "en": "Two witches at once: Isolde uses Cold and summons wolves, Heldra throws Fire. Kill one of them first instead of splitting your damage. Isolde's frost sigils on the ground explode into ice spikes after a short delay: get out in time. During Heldra's Infernal Corridor, two walls appear beside you and a wall of fire rolls through: leave the corridor immediately."
+          }
+        },
+        {
+          "id": "approach-darkness",
+          "text": {
+            "de": "Gehe zur Wand aus Dunkelheit. Sie versperrt den Weg in den Blackwood. Betritt stattdessen die Stones of Serle.",
+            "en": "Go to the wall of darkness. It blocks the way into the Blackwood. Enter the Stones of Serle instead."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "farmlands-shrine",
+          "text": {
+            "de": "Optional: Nutze den garantierten Schrein neben einem Checkpoint.",
+            "en": "Optional: Use the guaranteed shrine next to a Checkpoint."
+          },
+          "kind": "tip",
+          "optional": true,
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "stones-of-serle",
+      "name": "Stones of Serle",
+      "nameDe": "Steine von Serle",
+      "areaId": "P1_2",
+      "level": 54,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "runed-megaliths",
+          "text": {
+            "de": "Aktiviere die sechs Runed Megaliths am Rand der Zone und gehe dann zum Altar im Steinkreis in der Mitte.",
+            "en": "Activate the six Runed Megaliths around the edge of the zone, then go to the altar in the stone circle in the middle."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Die Megalithen stehen verteilt am Rand. Deine Minikarte (Tab) zeigt erkundete Bereiche, so findest du die fehlenden schneller. Erst wenn alle sechs aktiv sind, öffnet sich der Bosskampf im Zentrum.",
+            "en": "The Megaliths are spread around the edge. Your map overlay (Tab) shows explored areas, which helps you find the missing ones faster. The boss fight in the center only opens once all six are active."
+          }
+        },
+        {
+          "id": "siora",
+          "text": {
+            "de": "Besiege Siora, Blade of the Mists, am zentralen Steinkreis.",
+            "en": "Defeat Siora, Blade of the Mists, at the central stone circle."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Die Dunkelheit am Arenarand verursacht Schaden über Zeit, bleib im hellen Bereich. Ab ca. 90 % verschwindet Siora im Sturm und verdunkelt die Arena: Lauf zum leuchtenden Megalithen, um wieder Licht zu machen. Ihr Chaos Sunder (fünf Linien im Halbkreis) ist rot markiert: zur Seite ausweichen.",
+            "en": "The darkness at the edge of the arena deals damage over time, so stay in the lit area. At around 90%, Siora vanishes into the storm and darkens the arena: run to the glowing Megalith to bring the light back. Her Chaos Sunder (five lines in a semicircle) is marked red: dodge to the side."
+          }
+        },
+        {
+          "id": "speak-una",
+          "text": {
+            "de": "Warte, bis Una erscheint, und sprich mit ihr. Die befreiten Feengeister führen dich durch die Dunkelheit.",
+            "en": "Wait for Una to appear and talk to her. The freed fairy spirits guide you through the darkness."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "serle-optional",
+          "text": {
+            "de": "Optional: Expedition- und Abyss-Begegnungen in der Zone.",
+            "en": "Optional: Expedition and Abyss encounters in the zone."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "scorched-farmlands-2",
+      "name": "Scorched Farmlands",
+      "nameDe": "Verbrannte Felder",
+      "areaId": "P1_1",
+      "level": 54,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "back-to-darkness",
+          "text": {
+            "de": "Kehre in die Scorched Farmlands zurück (per Checkpoint zur Wand aus Dunkelheit), folge den Feengeistern durch die Dunkelheit und betritt den Blackwood.",
+            "en": "Return to the Scorched Farmlands (via the Checkpoint at the wall of darkness), follow the fairy spirits through the darkness and enter the Blackwood."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Warte nach dem Gespräch mit Una, bis die Quest dich zurückschickt (Quest-Text: Return to the Darkness). Am schnellsten geht es per Checkpoint-Reise zum Checkpoint an der Dunkelheitswand.",
+            "en": "After talking to Una, wait until the quest sends you back (quest text: Return to the Darkness). The fastest way is to travel to the Checkpoint at the wall of darkness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-blackwood",
+      "name": "The Blackwood",
+      "nameDe": "Der Schwarzforst",
+      "areaId": "P1_3",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "blackwood-traverse",
+          "text": {
+            "de": "Finde deinen Weg durch den Blackwood bis zum Eingang von Holten.",
+            "en": "Make your way through the Blackwood to the entrance of Holten."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "omen-altars",
+          "text": {
+            "de": "Optional: Benutze die Omen-Altäre (Dark Omens). Jeder gibt ein zufälliges Omen für Crafting.",
+            "en": "Optional: Use the Omen altars (Dark Omens). Each gives a random Omen for crafting."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Omen sind Verbrauchsgegenstände, die die nächste Anwendung einer bestimmten Currency verändern (z. B. welche Affixe hinzukommen oder entfernt werden). Für Anfänger vor allem als Handelsware interessant: einfach mitnehmen.",
+            "en": "Omens are consumables that change the next use of a specific currency (e.g. which affixes get added or removed). For beginners they're mostly interesting as trade goods: just grab them."
+          }
+        }
+      ]
+    },
+    {
+      "id": "holten",
+      "name": "Holten",
+      "nameDe": "Holten",
+      "areaId": "P1_4",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "holten-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und suche die Eingänge zu Wolvenhold und zum Holten Estate.",
+            "en": "Activate the Waypoint and find the entrances to Wolvenhold and the Holten Estate."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "ferryman",
+          "text": {
+            "de": "Optional: Kaufe beim Soul of the Ferryman Greater Runes (10 zufällige, je ca. 2.000 Gold). Laut Exile-UI am Wasser: Folge dem Rand bis zur Brücke und überquere sie.",
+            "en": "Optional: Buy Greater Runes from the Soul of the Ferryman (10 random, about 2,000 Gold each). According to Exile-UI he's by the water: follow the edge to the bridge and cross it."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Runen setzt du in Sockel deiner Ausrüstung, sie geben feste Boni (z. B. Widerstände oder Schaden). Greater Runes sind die stärkere Stufe. Wenn du viel Gold übrig hast, kannst du hier fehlende Widerstände auffüllen.",
+            "en": "Runes go into the sockets on your gear and give fixed bonuses (e.g. resistances or damage). Greater Runes are the stronger tier. If you have plenty of Gold left over, you can fill in missing resistances here."
+          }
+        },
+        {
+          "id": "sigbert-godwin",
+          "text": {
+            "de": "Optional: Besiege Sigbert of the Sullied Oath und Godwin of the Shattered Creed (erscheinen über den Psalm of Blood). Belohnung: Armourer's Scrap und etwas Loot.",
+            "en": "Optional: Defeat Sigbert of the Sullied Oath and Godwin of the Shattered Creed (summoned via the Psalm of Blood). Reward: Armourer's Scrap and some loot."
+          },
+          "kind": "boss",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Stirbt einer der beiden, übernimmt der andere dessen Kraft und heilt sich nach kurzer Zeit voll. Bring beide auf wenig Leben, töte einen und setze dem anderen sofort nach, während er die Kraft aufnimmt.",
+            "en": "If one of them dies, the other absorbs their power and fully heals after a short delay. Get both low, kill one and immediately finish the other while he's absorbing the power."
+          }
+        },
+        {
+          "id": "estate-wp-first",
+          "text": {
+            "de": "Tipp: Schau kurz ins Holten Estate und hol den Wegpunkt, dann zurück nach Holten und weiter nach Wolvenhold.",
+            "en": "Tip: Pop into the Holten Estate briefly to grab the Waypoint, then head back to Holten and on to Wolvenhold."
+          },
+          "kind": "tip",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Holten ist der Ort für übriges Gold: Greater Runes sind in diesem Spielabschnitt sonst selten.",
+          "en": "Holten is the place to dump leftover Gold: Greater Runes are otherwise rare at this point in the game."
+        },
+        {
+          "de": "Sigbert & Godwin zählen laut Wiki nicht für die Gebietsstufen-Skalierung der anderen Interludes. Für Speed überspringen.",
+          "en": "According to the wiki, Sigbert & Godwin don't count towards the area level scaling of the other Interludes. Skip them for speed."
+        }
+      ]
+    },
+    {
+      "id": "wolvenhold",
+      "name": "Wolvenhold",
+      "nameDe": "Wolfsfeste",
+      "areaId": "P1_5",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "oswin",
+          "text": {
+            "de": "Finde die achteckige Arena (oft am Ende der Zone) und besiege Oswin, the Dread Warden.",
+            "en": "Find the octagonal arena (often at the end of the zone) and defeat Oswin, the Dread Warden."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Oswin kämpft mit zwei Äxten und Kälte. Seine Spike Traps sind rot markiert: Wenn ein Bereich der Arena markiert wird, sofort raus. Die Eisstacheln seiner Back Attack bleiben in der Arena liegen und blockieren dich; nur seine eigenen Angriffe zerstören sie. Halte deshalb eine freie Fläche zum Ausweichen.",
+            "en": "Oswin fights with two axes and Cold. His Spike Traps are marked red: when part of the arena gets marked, get out immediately. The ice spikes from his Back Attack stay in the arena and block you; only his own attacks destroy them. So keep an open area to dodge into."
+          }
+        },
+        {
+          "id": "wardens-ledger",
+          "text": {
+            "de": "Heb den Warden's Ledger auf, den Oswin fallen lässt, und benutze ihn per Rechtsklick.",
+            "en": "Pick up the Warden's Ledger that Oswin drops and right-click it to use it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Der Warden's Ledger gibt zwei Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Oswin ist nicht für die Hauptquest nötig, aber diese Punkte willst du immer haben.",
+            "en": "The Warden's Ledger gives two Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. Oswin isn't required for the main quest, but you always want these points."
+          }
+        },
+        {
+          "id": "wolvenhold-back",
+          "text": {
+            "de": "Reise per Checkpoint oder Wegpunkt zurück nach Holten und gehe ins Holten Estate.",
+            "en": "Travel back to Holten via Checkpoint or Waypoint and enter the Holten Estate."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "holten-estate",
+      "name": "Holten Estate",
+      "nameDe": "Holten-Anwesen",
+      "areaId": "P1_6",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "find-thane-lady",
+          "text": {
+            "de": "Erkunde das Holten Estate. Der Hof ist zunächst versperrt: Suche über die Treppen einen anderen Zugang zum großen Innenhof.",
+            "en": "Explore the Holten Estate. The courtyard is blocked at first: use the stairs to find another way into the large inner courtyard."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "wulfric-elswyth",
+          "text": {
+            "de": "Besiege Thane Wulfric und Lady Elswyth im zentralen Innenhof.",
+            "en": "Defeat Thane Wulfric and Lady Elswyth in the central courtyard."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Wie ein Ehepaar-Kampf: Stirbt einer, bekommt der andere verstärkte Versionen seiner Angriffe. Elswyths Bone Cage sperrt dich in einen Käfig, in den Knochensplitter regnen: Zerstöre sofort eine Käfigwand und raus. Wulfrics Sunder (zwei Linien, die sich nach kurzer Zeit zu den Seiten ausdehnen) ist rot markiert: aus den Linien heraus, nicht zwischen ihnen stehen bleiben.",
+            "en": "A classic married-couple fight: when one dies, the other gets empowered versions of their attacks. Elswyth's Bone Cage traps you in a cage while bone shards rain down: break one cage wall right away and get out. Wulfric's Sunder (two lines that expand outward after a short delay) is marked red: get out of the lines, don't stay between them."
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-refuge-2",
+      "name": "The Refuge",
+      "nameDe": "Die Zuflucht",
+      "areaId": "P1_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "renly-complete",
+          "text": {
+            "de": "Öffne ein Portal in The Refuge und sprich mit Renly. Die Ezomyten schließen sich dir an.",
+            "en": "Open a portal to The Refuge and talk to Renly. The Ezomytes join your cause."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "all-interludes-check",
+          "text": {
+            "de": "Prüfe, ob alle drei Interludes abgeschlossen sind (Thane & Lady, Azmadi, Zolin & Zelina besiegt). Sprich dann mit The Hooded One oder reise per Wegpunkt nach Kingsmarch.",
+            "en": "Check that all three Interludes are done (Thane & Lady, Azmadi, Zolin & Zelina defeated). Then talk to The Hooded One or take the Waypoint to Kingsmarch."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Die Quest Siege of Oriath startet erst, wenn alle drei Hauptquests (Recruit the Ezomytes, Recruit the Maraketh, Recruit the Vaal) erledigt sind.",
+            "en": "The Siege of Oriath quest only starts once all three main quests (Recruit the Ezomytes, Recruit the Maraketh, Recruit the Vaal) are complete."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-finale",
+      "name": "Kingsmarch",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hooded-one-book",
+          "text": {
+            "de": "Sprich in Kingsmarch mit The Hooded One, nimm das Book of Specialisation und benutze es.",
+            "en": "In Kingsmarch, talk to The Hooded One, take the Book of Specialisation and use it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das sind die letzten Quest-Passivpunkte der Kampagne. Mit allen Akten und Interludes kommst du auf 24 Weapon Set Passive Skill Points. Fehlen dir welche, prüfe die einzelnen Akte. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind.",
+            "en": "These are the last quest passive points of the campaign. With all Acts and Interludes done you'll have 24 Weapon Set Passive Skill Points. If you're missing some, check the individual Acts. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2."
+          }
+        },
+        {
+          "id": "final-res-check",
+          "text": {
+            "de": "Bring vor der Abreise Feuer-, Kälte- und Blitzwiderstand auf 75 % und möglichst 10 % darüber. In Maps sinken sie um weitere 10 % (Strafe −60 %).",
+            "en": "Before leaving, get Fire, Cold and Lightning Resistance to 75%, ideally 10% above. In maps they drop by another 10% (penalty −60%)."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Die Widerstandsstrafe wächst mit dem Fortschritt: Akt 2 −10 %, Akt 3 −20 %, Akt 4 −30 %, Interludes −40 % bzw. −50 % (ab Gebietsstufe 60), Endgame −60 %. Der Charakterbildschirm zeigt immer den Wert für die aktuelle Zone. Wer mit 75 % aus dem letzten Interlude kommt, hat in den Maps nur noch 65 %. Überkappen (über 75 % auf Ausrüstung) gleicht das aus. Chaoswiderstand hat keine Strafe, bleibt aber für viele Builds niedrig; das ist am Anfang normal.",
+            "en": "The resistance penalty grows as you progress: Act 2 −10%, Act 3 −20%, Act 4 −30%, Interludes −40% or −50% (from area level 60), endgame −60%. The character panel always shows the value for your current zone. If you leave the last Interlude at 75%, you'll only have 65% in maps. Overcapping (going above 75% on gear) makes up for that. Chaos Resistance has no penalty, but stays low for many builds; that's normal early on."
+          }
+        },
+        {
+          "id": "travel-to-oriath",
+          "text": {
+            "de": "Sprich erneut mit The Hooded One und wähle die Reise nach Oriath (Quest Siege of Oriath). Statt in Oriath landest du in The Ziggurat Refuge: Die Kampagne ist beendet, weiter geht es im Endgame-Kapitel.",
+            "en": "Talk to The Hooded One again and choose to travel to Oriath (quest Siege of Oriath). Instead of Oriath you end up in The Ziggurat Refuge: the campaign is over, continue with the Endgame chapter."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "The Ziggurat Refuge (Gebietsstufe 65) ist die Stadt des Endgames mit Truhe, Händlern und dem Map Device. Dort sprichst du mit The Hooded One und Doryani, öffnest den Atlas und kaufst bei Doryani bei Bedarf die ersten Waystones (Tier 1). Ab hier spielst du keine festen Zonen mehr, sondern Maps.",
+            "en": "The Ziggurat Refuge (area level 65) is the endgame town with your stash, vendors and the Map Device. Talk to The Hooded One and Doryani there, open the Atlas and buy your first Waystones (Tier 1) from Doryani if needed. From here on you no longer play fixed zones, you play maps."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nach der Reise nach Oriath folgt das Endgame-Kapitel (The Ziggurat Refuge, Atlas, erste Maps).",
+          "en": "After the journey to Oriath comes the Endgame chapter (The Ziggurat Refuge, Atlas, first maps)."
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Isolde of the White Shroud & Heldra of the Black Pyre",
+      "zone": "scorched-farmlands",
+      "mechanics": [
+        {
+          "de": "Isolde (Kälte): Sichelhiebe im Nahkampf, fünf verfolgende Eissplitter in Reihe, Eissplitter im 180°-Bogen, beschwört fünf Wölfe, sprengt Wolfsleichen in deiner Nähe (Eisstacheln), bedeckt die Arena mit Frost-Siegeln, die zu Eisstacheln werden, und Ice Nova (Eisstacheln schießen strahlenförmig nach außen).",
+          "en": "Isolde (Cold): melee sickle slashes, five homing ice shards in a row, ice shards in a 180° arc, summons five wolves, detonates wolf corpses near you (ice spikes), covers the arena in frost sigils that turn into ice spikes, and Ice Nova (ice spikes shooting outward in rays)."
+        },
+        {
+          "de": "Heldra (Feuer): Feuerbälle, Infernal Corridor (zwei Wände neben dir, eine Feuerwand rollt hindurch und teilt sich V-förmig), zwei wandernde Feuerwände, Knochen-Eruption aus roten Siegeln, Feuersalve, Flammen-Dash und ein kanalisierter Flammenwerfer.",
+          "en": "Heldra (Fire): fireballs, Infernal Corridor (two walls beside you, a wall of fire rolls through and splits into a V), two wandering fire walls, bone eruptions from red sigils, a fire volley, a flame dash and a channelled flamethrower."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erst eine der beiden töten.",
+          "en": "Kill one of the two first."
+        },
+        {
+          "de": "Bei Ice Nova auf die Lücken im Stachelkreis achten, dort ist es sicher.",
+          "en": "During Ice Nova, look for the gaps in the spike ring; they're safe."
+        },
+        {
+          "de": "Isoldes Frost-Siegel treffen auch ihre Wölfe: Wölfe hineinziehen.",
+          "en": "Isolde's frost sigils also hit her wolves: pull the wolves into them."
+        }
+      ]
+    },
+    {
+      "name": "Siora, Blade of the Mists",
+      "zone": "stones-of-serle",
+      "mechanics": [
+        {
+          "de": "Sichel-Schwünge, Chaos Sunder (rot, ausweichpflichtig: fünf Linien im 180°-Bogen) und Whirling Slashes (Radschlag-Drehungen auf dich zu).",
+          "en": "Sickle swings, Chaos Sunder (red, must dodge: five lines in a 180° arc) and Whirling Slashes (cartwheel spins towards you)."
+        },
+        {
+          "de": "Ab ca. 90 %: Hide in the Storm. Sie verschwindet in den Sturm am Rand und verdunkelt die Arena; zum leuchtenden Megalithen laufen, um sie wieder zu erhellen.",
+          "en": "From around 90%: Hide in the Storm. She vanishes into the storm at the edge and darkens the arena; run to the glowing Megalith to light it up again."
+        },
+        {
+          "de": "Ab ca. 75 %: Chaos Cyclone auf dich zu. Mit sinkendem Leben kreisen Monster in der Dunkelheit und schießen, dazu Blitzeinschläge. Die Dunkelheit am Rand macht Schaden über Zeit.",
+          "en": "From around 75%: Chaos Cyclone towards you. As her Life drops, monsters circle in the darkness and shoot at you, plus lightning strikes. The darkness at the edge deals damage over time."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nie in die Dunkelheit am Arenarand laufen.",
+          "en": "Never run into the darkness at the edge of the arena."
+        },
+        {
+          "de": "Leuchtenden Megalithen sofort ansteuern, wenn es dunkel wird.",
+          "en": "Head for the glowing Megalith immediately when it gets dark."
+        }
+      ]
+    },
+    {
+      "name": "Sigbert of the Sullied Oath & Godwin of the Shattered Creed",
+      "zone": "holten",
+      "mechanics": [
+        {
+          "de": "Godwin (Feuer): Hieb mit der linken Hand, Sundering Slam (rot: Lava-Riss auf dich zu), Fiery Stomp (rot: drei sich verbreiternde Feuerwände, mit Lücken dazwischen). Nach Sigberts Tod: Supernova (große Explosion um ihn).",
+          "en": "Godwin (Fire): left-hand strike, Sundering Slam (red: lava crack towards you), Fiery Stomp (red: three widening fire walls with gaps between them). After Sigbert dies: Supernova (big explosion around him)."
+        },
+        {
+          "de": "Sigbert (Kälte): Hammerschläge, Ice Crash (rot: Eisstachel-Burst um den Einschlag), Ice Spikes aus kleinen Siegeln. Nach Godwins Tod: Dreifach-Slam-Kombo vor und hinter ihm mit Eisringen.",
+          "en": "Sigbert (Cold): hammer strikes, Ice Crash (red: ice spike burst around the impact), Ice Spikes from small sigils. After Godwin dies: triple slam combo in front of and behind him with ice rings."
+        },
+        {
+          "de": "Wer überlebt, nimmt die Kraft des anderen auf und ist nach kurzer Verzögerung wieder voll geheilt. Stirbst du, nachdem einer tot ist, bleibt dieser tot.",
+          "en": "The survivor absorbs the other's power and is fully healed after a short delay. If you die after one of them is dead, that one stays dead."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Beide niedrig bringen, einen töten und den anderen während des Kraft-Aufnehmens sofort burst-en.",
+          "en": "Get both low, kill one and burst the other immediately while he's absorbing the power."
+        },
+        {
+          "de": "Optional: für Speed überspringen.",
+          "en": "Optional: skip for speed."
+        }
+      ]
+    },
+    {
+      "name": "Oswin, the Dread Warden",
+      "zone": "wolvenhold",
+      "mechanics": [
+        {
+          "de": "Schwere Axtangriffe, Ice Cyclone (Drehangriff auf dich zu). Schaden: physisch und Kälte.",
+          "en": "Heavy axe attacks, Ice Cyclone (spin attack towards you). Damage: Physical and Cold."
+        },
+        {
+          "de": "Back Attack: Axt in den Boden, Drehung, dann schleudert er Eisstacheln, die in der Arena liegen bleiben und nur von seinen eigenen Angriffen zerstört werden.",
+          "en": "Back Attack: axe into the ground, a spin, then he hurls ice spikes that stay in the arena and are only destroyed by his own attacks."
+        },
+        {
+          "de": "Spike Traps (rot, ausweichpflichtig): Ein Arenabereich wird markiert, dort schießen Stacheln aus dem Boden.",
+          "en": "Spike Traps (red, must dodge): part of the arena gets marked and spikes shoot up from the ground there."
+        },
+        {
+          "de": "Ab ca. 90 %: Bell Smash (beschworene Glocke, Frostexplosion). Ab ca. 75 %: Ice Crash (wachsender Eisstachel-Ring um ihn).",
+          "en": "From around 90%: Bell Smash (summoned bell, frost explosion). From around 75%: Ice Crash (growing ring of ice spikes around him)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Eine freie Ausweichfläche behalten, liegende Eisstacheln engen die Arena ein.",
+          "en": "Keep an open area to dodge into; leftover ice spikes shrink the arena."
+        },
+        {
+          "de": "Bei Ice Crash nach außen laufen, nicht durch den Ring rollen.",
+          "en": "During Ice Crash, run outward; don't roll through the ring."
+        }
+      ]
+    },
+    {
+      "name": "Thane Wulfric & Lady Elswyth",
+      "zone": "holten-estate",
+      "mechanics": [
+        {
+          "de": "Lady Elswyth: Sensen-Schwung, Erd-Kegel auf Distanz, Dreifach-Kombo, Sigils (drei kleine und ein großer Kreis nacheinander), Teleport hinter dich mit Hindered (−30 % Bewegungstempo für 5 s) plus zwei Schwünge, Bone Cage (Käfig mit Knochenregen; eine Wand zerstören, um zu entkommen).",
+          "en": "Lady Elswyth: scythe swing, ranged earth cone, triple combo, Sigils (three small circles and one big one in sequence), teleport behind you with Hindered (−30% movement speed for 5 s) plus two swings, Bone Cage (cage with raining bones; destroy one wall to escape)."
+        },
+        {
+          "de": "Thane Wulfric: schwere Schwerthiebe, Ausfallhieb auf Distanz, Dreifach-Kombo (verstärkt vierfach), Soul Slash (Geschosse im 180°-Bogen, verstärkt zweimal), Sunder (rot: zwei Linien, die sich nach kurzer Zeit zu den Seiten ausdehnen).",
+          "en": "Thane Wulfric: heavy sword strikes, ranged lunge strike, triple combo (quadruple when empowered), Soul Slash (projectiles in a 180° arc, twice when empowered), Sunder (red: two lines that expand outward after a short delay)."
+        },
+        {
+          "de": "Stirbt einer, erhält der andere die verstärkten Versionen aller Angriffe. Schaden: physisch, Chaos und Feuer.",
+          "en": "When one dies, the other gets the empowered versions of all attacks. Damage: Physical, Chaos and Fire."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Beide gleichmäßig herunterbringen und dann kurz hintereinander töten, damit die verstärkte Phase kurz bleibt.",
+          "en": "Bring both down evenly, then kill them in quick succession so the empowered phase stays short."
+        },
+        {
+          "de": "Im Bone Cage nicht warten: sofort eine Wand zerschlagen.",
+          "en": "Don't wait inside the Bone Cage: smash a wall right away."
+        }
+      ]
+    }
+  ]
+}

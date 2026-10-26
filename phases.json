@@ -1,0 +1,65 @@
+{
+  "_hinweis": "levelRange ist das Gebietslevel (AreaLevel). Der Lootfilter schaltet daran automatisch um, ohne Dateiwechsel. Grenzen für Patch 0.5.5: Kampagne bis Gebietslevel 64, Waystones ab 65 (Tier 1). Für 1.0 (11.12.2026) neu prüfen.",
+  "phases": [
+    {
+      "id": "campaign-early",
+      "name": {
+        "de": "Kampagne: Akt 1–2",
+        "en": "Campaign: Acts 1–2"
+      },
+      "description": {
+        "de": "Fast alles aufheben, was beim Leveln hilft: Waffen-Upgrades, Gems, jede Currency. Nichts wird ausgeblendet.",
+        "en": "Pick up almost everything that helps levelling: weapon upgrades, gems, all currency. Nothing is hidden."
+      },
+      "levelRange": [
+        1,
+        30
+      ]
+    },
+    {
+      "id": "campaign-late",
+      "name": {
+        "de": "Kampagne: Akt 3 bis Interludes",
+        "en": "Campaign: Act 3 to Interludes"
+      },
+      "description": {
+        "de": "Resistenzen werden wichtig. Weiße Ausrüstung ohne Sockel und Qualität wird ausgeblendet.",
+        "en": "Resistances start to matter. White gear without sockets or quality is hidden."
+      },
+      "levelRange": [
+        31,
+        64
+      ]
+    },
+    {
+      "id": "endgame-early",
+      "name": {
+        "de": "Endgame: Waystone Tier 1–10",
+        "en": "Endgame: Waystone tier 1–10"
+      },
+      "description": {
+        "de": "Atlas freischalten. Weiße und blaue Ausrüstung ist fast wertlos und wird ausgeblendet, Currency und Fortschrittsitems bleiben.",
+        "en": "Unlock the Atlas. White and blue gear is almost worthless and hidden; currency and progression items stay."
+      },
+      "levelRange": [
+        65,
+        74
+      ]
+    },
+    {
+      "id": "endgame-late",
+      "name": {
+        "de": "Endgame: Farming ab Tier 11",
+        "en": "Endgame: farming from tier 11"
+      },
+      "description": {
+        "de": "Nur noch, was sich lohnt. Billige Currency wird nach aktuellen Marktpreisen ausgeblendet.",
+        "en": "Only what is worth it. Cheap currency is hidden based on current market prices."
+      },
+      "levelRange": [
+        75,
+        100
+      ]
+    }
+  ]
+}

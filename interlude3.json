@@ -1,0 +1,762 @@
+{
+  "id": "interlude3",
+  "order": 6,
+  "name": {
+    "de": "Interlude 3",
+    "en": "Interlude 3"
+  },
+  "title": {
+    "de": "Doryani's Contingency (Mount Kriar)",
+    "en": "Doryani's Contingency (Mount Kriar)"
+  },
+  "levelRange": [
+    56,
+    61
+  ],
+  "summary": {
+    "de": "Doryani schickt dich auf Mount Kriar zur Cuachic Vault, in der er einst Vaal-Krieger als Reserve versiegelt hat. Empfohlen als zweites Interlude nach The Stolen Barya (manche Guides spielen es zuerst, um die +40 Spirit früh zu haben). Hier gibt es die letzten +40 Spirit der Kampagne, 2 Weapon-Set-Punkte von Hilda und ein frei wählbares Unique von Elder Madox.",
+    "en": "Doryani sends you up Mount Kriar to the Cuachic Vault, where he once sealed away Vaal warriors as a reserve. Recommended as your second Interlude after The Stolen Barya (some guides play it first to get the +40 Spirit early). Here you get the last +40 Spirit of the campaign, 2 Weapon Set points from Hilda and a Unique of your choice from Elder Madox."
+  },
+  "recommended": {
+    "level": 61,
+    "resistances": {
+      "fire": 70,
+      "cold": 70,
+      "lightning": 70,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Pflicht-Mitnahmen: Lythara (Kriar Village) +40 Spirit, Abominable Yeti (Howling Caves) → Ice Tusks zu Hilda (2 Weapon-Set-Punkte), Elder Madox (Kriar Peaks) gratis Unique.",
+      "en": "Must-grabs: Lythara (Kriar Village) +40 Spirit, Abominable Yeti (Howling Caves) → Ice Tusks to Hilda (2 Weapon Set points), Elder Madox (Kriar Peaks) free Unique."
+    },
+    {
+      "de": "Einbahnstraße: Von Glacial Tarn führt kein Weg zu Fuß zurück nach Kriar Village. Erledige dort alles vorher, sonst nur per Wegpunkt zurück.",
+      "en": "One-way path: there's no walking route from Glacial Tarn back to Kriar Village. Finish everything there first, otherwise you have to return via Waypoint."
+    },
+    {
+      "de": "Viel Kälteschaden (Rakkar, Yeti) und Blitzschaden (Stormgore, Zolin): Kälte- und Blitzwiderstand vorher auffüllen. Als zweites Interlude liegen die Zonen bei ca. Gebietsstufe 58–60 (Strafe −40 %, ab 60 −50 %).",
+      "en": "Lots of Cold damage (Rakkar, Yeti) and Lightning damage (Stormgore, Zolin): top up Cold and Lightning Resistance beforehand. As your second Interlude, zones are around area level 58–60 (penalty −40%, −50% from 60)."
+    },
+    {
+      "de": "Freie Gems: Uncut Skill Gem (Stufe 13) am Ancient Monument im Ashen Forest, Uncut Spirit Gem (Stufe 14) aus Lytharas Gemcrust Skull.",
+      "en": "Free gems: Uncut Skill Gem (level 13) at the Ancient Monument in the Ashen Forest, Uncut Spirit Gem (level 14) from Lythara's Gemcrust Skull."
+    },
+    {
+      "de": "Speed: Vaal Beacons, Expedition, Essence, Ritual und die Ancient Treasures in der Cuachic Vault sind optional.",
+      "en": "Speed: Vaal Beacons, Expedition, Essence, Ritual and the Ancient Treasures in the Cuachic Vault are optional."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PoE2 Wiki: Interlude",
+      "url": "https://www.poe2wiki.net/wiki/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Recruit the Vaal",
+      "url": "https://www.poe2wiki.net/wiki/Recruit_the_Vaal",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Howling Winds",
+      "url": "https://www.poe2wiki.net/wiki/Howling_Winds",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Kriar Village",
+      "url": "https://www.poe2wiki.net/wiki/Kriar_Village",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Kriar Peaks",
+      "url": "https://www.poe2wiki.net/wiki/Kriar_Peaks",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Ashen Forest",
+      "url": "https://www.poe2wiki.net/wiki/Ashen_Forest",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Glacial Tarn",
+      "url": "https://www.poe2wiki.net/wiki/Glacial_Tarn",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Cuachic Vault",
+      "url": "https://www.poe2wiki.net/wiki/The_Cuachic_Vault",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Resistance",
+      "url": "https://www.poe2wiki.net/wiki/Resistance",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Interludes (Gebiete, Ziele, Belohnungen)",
+      "url": "https://poe2db.tw/us/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB (deutsch): Interludes",
+      "url": "https://poe2db.tw/de/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: PoE 0.5 Campaign Checklist (2026-06-02)",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "domistae: PoE 2 Interludes Guide (0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_interludes_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe-vault: Kriar Interlude Boss Guide",
+      "url": "https://www.poe-vault.com/poe2/guides/kriar-interlude-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Exile-UI Leveltracker (Route 0.5.5)",
+      "url": "https://github.com/Lailloken/Exile-UI",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Path of Building PoE2: WorldAreas.lua (Area-IDs, Gebietsstufen)",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "the-glade",
+      "name": "The Glade",
+      "nameDe": "Die Lichtung",
+      "areaId": "P3_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hooded-one-kriar",
+          "text": {
+            "de": "Sprich mit The Hooded One (in Kingsmarch oder in einer Interlude-Stadt) und wähle die Reise nach Mount Kriar.",
+            "en": "Talk to The Hooded One (in Kingsmarch or an Interlude town) and choose to travel to Mount Kriar."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Nach jedem erledigten Interlude steigen die Gebietsstufen der übrigen um etwa 4. Als zweites Interlude kämpfst du hier also auf ca. Stufe 58–60. Ab Gebietsstufe 60 steigt die Widerstandsstrafe von −40 % auf −50 %. Schau nach dem Betreten der ersten Zone in den Charakterbildschirm (Taste C) und gleiche fehlende Widerstände mit Ausrüstung aus.",
+            "en": "After each completed Interlude, the area levels of the remaining ones go up by about 4. As your second Interlude, you'll be fighting at around level 58–60 here. From area level 60 the resistance penalty rises from −40% to −50%. After entering the first zone, open your character panel (C key) and fix any missing resistances with gear."
+          }
+        },
+        {
+          "id": "speak-doryani",
+          "text": {
+            "de": "Sprich mit Doryani. Er erklärt dir das Losungswort für die Vaal in der Cuachic Vault.",
+            "en": "Talk to Doryani. He tells you the password for the Vaal in the Cuachic Vault."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "hilda-quest",
+          "text": {
+            "de": "Sprich mit Hilda, um die Nebenquest Howling Winds (Abominable Yeti töten) zu starten.",
+            "en": "Talk to Hilda to start the side quest Howling Winds (kill the Abominable Yeti)."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Optional, aber lohnend: Für die Ice Tusks des Yetis gibt dir Hilda ein Book of Specialisation mit 2 Weapon-Set-Punkten.",
+            "en": "Optional but worth it: for the Yeti's Ice Tusks, Hilda gives you a Book of Specialisation with 2 Weapon Set points."
+          }
+        },
+        {
+          "id": "glade-vendors",
+          "text": {
+            "de": "Prüfe die Händler, vor allem auf Ausrüstung mit Kälte- und Blitzwiderstand.",
+            "en": "Check the vendors, especially for gear with Cold and Lightning Resistance."
+          },
+          "kind": "tip",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "ashen-forest",
+      "name": "Ashen Forest",
+      "nameDe": "Aschfahler Wald",
+      "areaId": "P3_1",
+      "level": 54,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "ashen-traverse",
+          "text": {
+            "de": "Durchquere den Ashen Forest (kein Wegpunkt) bis Kriar Village.",
+            "en": "Cross the Ashen Forest (no Waypoint) to Kriar Village."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "ancient-monument",
+          "text": {
+            "de": "Optional: Klicke das Ancient Monument an (Statue einer gehörnten Schlange). Es droppt einen Uncut Skill Gem der Stufe 13.",
+            "en": "Optional: Click the Ancient Monument (statue of a horned serpent). It drops a level 13 Uncut Skill Gem."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Stufe 13)",
+              "en": "Uncut Skill Gem (level 13)"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Ungeschliffene Skill-Gems kannst du in einen beliebigen Skill deiner Wahl verwandeln. Stufe 13 ist für einen neuen Hauptskill oder einen zweiten Skill sehr brauchbar.",
+            "en": "Uncut Skill Gems can be turned into any skill of your choice. Level 13 is very handy for a new main skill or a second skill."
+          }
+        },
+        {
+          "id": "ashen-beacon",
+          "text": {
+            "de": "Optional: Vaal Beacon (Ancient Beacon) in der Zone. Für Speed überspringen.",
+            "en": "Optional: Vaal Beacon (Ancient Beacon) in the zone. Skip it for speed."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "kriar-village",
+      "name": "Kriar Village",
+      "nameDe": "Dorf Kriar",
+      "areaId": "P3_2",
+      "level": 54,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "kriar-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und erkunde Kriar Village.",
+            "en": "Activate the Waypoint and explore Kriar Village."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "lythara",
+          "text": {
+            "de": "Besiege Lythara, the Wayward Spear (die Crazed Azmeri).",
+            "en": "Defeat Lythara, the Wayward Spear (the Crazed Azmeri)."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Lythara kämpft mit Speer, Gift und Chaos. Achte auf den roten Aufblitz bei Serpent Strike: Wenn sie den Speer nach vorn stößt, sofort zur Seite rollen. Ab 50 % Leben erscheinen Irrlichter im Norden und Süden der Arena, die sie verstärken können. Töte sie zügig, bevor die Irrlichter aktiv werden.",
+            "en": "Lythara fights with a spear, Poison and Chaos. Watch for the red flash on Serpent Strike: when she thrusts the spear forward, roll to the side immediately. From 50% Life, wisps appear in the north and south of the arena that can empower her. Kill her quickly before the wisps become active."
+          }
+        },
+        {
+          "id": "lythara-spirit",
+          "text": {
+            "de": "Nimm die Belohnung für Lythara mit: dauerhaft +40 Spirit.",
+            "en": "Collect the reward for Lythara: a permanent +40 Spirit."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "spirit",
+            "amount": 40,
+            "label": {
+              "de": "+40 Spirit",
+              "en": "+40 Spirit"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Spirit ist die Ressource für dauerhafte Effekte wie Auren, Herolde oder Begleiter. Mit diesen +40 hast du die letzte Spirit-Belohnung der Kampagne. Prüfe danach, ob du einen weiteren Spirit-Gem (z. B. eine Aura oder einen Begleiter) aktivieren kannst.",
+            "en": "Spirit is the resource for persistent effects like auras, heralds or companions. These +40 are the last Spirit reward of the campaign. Afterwards, check whether you can activate another Spirit gem (e.g. an aura or a companion)."
+          }
+        },
+        {
+          "id": "gemcrust-skull",
+          "text": {
+            "de": "Heb den Gemcrust Skull auf, den Lythara fallen lässt, und benutze ihn: Er gibt einen Uncut Spirit Gem der Stufe 14.",
+            "en": "Pick up the Gemcrust Skull that Lythara drops and use it: it gives a level 14 Uncut Spirit Gem."
+          },
+          "kind": "loot",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Spirit Gem (Stufe 14)",
+              "en": "Uncut Spirit Gem (level 14)"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Aus dem ungeschliffenen Spirit-Gem wählst du einen Spirit-Skill (Aura, Herold, Begleiter usw.). Zusammen mit den +40 Spirit kannst du jetzt oft einen weiteren dauerhaften Buff laufen lassen.",
+            "en": "From the Uncut Spirit Gem you choose a Spirit skill (aura, herald, companion, etc.). Together with the +40 Spirit, you can often run another persistent buff now."
+          }
+        },
+        {
+          "id": "kriar-optional",
+          "text": {
+            "de": "Optional: Roving Wisps, Abyss, Vaal Beacon und Ritual in der Zone. Danach weiter nach Glacial Tarn.",
+            "en": "Optional: Roving Wisps, Abyss, Vaal Beacon and Ritual in the zone. Then continue to Glacial Tarn."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Zu Fuß gibt es von Glacial Tarn keinen Rückweg nach Kriar Village (seit 0.3.0b). Erledige Optionales vorher oder reise später per Wegpunkt zurück.",
+          "en": "There's no walking path back from Glacial Tarn to Kriar Village (since 0.3.0b). Do the optional stuff first, or travel back later via Waypoint."
+        }
+      ]
+    },
+    {
+      "id": "glacial-tarn",
+      "name": "Glacial Tarn",
+      "nameDe": "Gletschersee",
+      "areaId": "P3_3",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "tarn-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und betritt zuerst die Howling Caves (Yeti). Rakkars Höhle in der Felswand kommt danach.",
+            "en": "Activate the Waypoint and enter the Howling Caves (Yeti) first. Rakkar's cave in the cliff face comes after."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "tarn-optional",
+          "text": {
+            "de": "Optional: Expedition, Vaal Beacon und eine garantierte Essence nahe einem Checkpoint.",
+            "en": "Optional: Expedition, Vaal Beacon and a guaranteed Essence near a Checkpoint."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Route laut Exile-UI: erst Howling Caves (Yeti), per Portal zu Hilda, dann per Wegpunkt zurück und Rakkar töten. Andere Guides töten Rakkar zuerst; beides funktioniert.",
+          "en": "Route according to Exile-UI: Howling Caves (Yeti) first, portal to Hilda, then back via Waypoint to kill Rakkar. Other guides kill Rakkar first; both work."
+        }
+      ]
+    },
+    {
+      "id": "howling-caves",
+      "name": "Howling Caves",
+      "nameDe": "Heulende Höhlen",
+      "areaId": "P3_4",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "howling-waypoint",
+          "text": {
+            "de": "Betritt die Howling Caves von Glacial Tarn aus, aktiviere den Wegpunkt und suche den Yeti.",
+            "en": "Enter the Howling Caves from Glacial Tarn, activate the Waypoint and find the Yeti."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "abominable-yeti",
+          "text": {
+            "de": "Besiege The Abominable Yeti und heb die Ice Tusks auf.",
+            "en": "Defeat The Abominable Yeti and pick up the Ice Tusks."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Ein schlagkräftiger Nahkämpfer mit Kälteschaden. Seine Erdriss-Linie (Sunder) weicht man seitlich aus, nicht nach hinten. Die Roll-Attacke auf dich zu ist gut zu sehen: zur Seite rollen.",
+            "en": "A hard-hitting melee fighter with Cold damage. Dodge his ground crack line (Sunder) to the side, not backwards. His rolling attack towards you is easy to spot: roll to the side."
+          }
+        },
+        {
+          "id": "howling-optional",
+          "text": {
+            "de": "Optional: Vaal Beacon und Ritual in der Zone.",
+            "en": "Optional: Vaal Beacon and Ritual in the zone."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "the-glade-2",
+      "name": "The Glade",
+      "nameDe": "Die Lichtung",
+      "areaId": "P3_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hilda-book",
+          "text": {
+            "de": "Öffne ein Portal nach The Glade, gib Hilda die Ice Tusks, nimm das Book of Specialisation und benutze es.",
+            "en": "Open a portal to The Glade, give Hilda the Ice Tusks, take the Book of Specialisation and use it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Buch gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Vergiss den Rechtsklick auf das Buch nicht.",
+            "en": "The book gives you 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. Don't forget to right-click the book."
+          }
+        }
+      ]
+    },
+    {
+      "id": "glacial-tarn-2",
+      "name": "Glacial Tarn",
+      "nameDe": "Gletschersee",
+      "areaId": "P3_3",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "rakkar",
+          "text": {
+            "de": "Reise per Wegpunkt zurück nach Glacial Tarn und besiege Rakkar, the Frozen Talon, in der kleinen Höhle in der Felswand. Dahinter liegt der Weg zu den Kriar Peaks.",
+            "en": "Take the Waypoint back to Glacial Tarn and defeat Rakkar, the Frozen Talon, in the small cave in the cliff face. Behind it lies the way to the Kriar Peaks."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Rakkar ist ein fliegendes Eiswesen. Rot markierter Sturzflug: Er verschwindet vom Bildschirm und stürzt sich auf deine Position, also weiterlaufen und rollen. Ab ca. 70 % hüllt er sich in Eis und lässt Eisstacheln in der ganzen Arena hervorbrechen; zwischen den Pulsen siehst du, wo die nächsten kommen. Kältewiderstand ist hier besonders wichtig.",
+            "en": "Rakkar is a flying ice creature. Red-marked dive bomb: he flies off screen and plunges onto your position, so keep moving and rolling. From around 70% he encases himself in ice and makes ice spikes erupt across the whole arena; between pulses you can see where the next ones will come. Cold Resistance is especially important here."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kriar-peaks",
+      "name": "Kriar Peaks",
+      "nameDe": "Kriar-Gipfel",
+      "areaId": "P3_5",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "peaks-waypoint",
+          "text": {
+            "de": "Gehe durch Rakkars Höhle in die Kriar Peaks und aktiviere den Wegpunkt.",
+            "en": "Go through Rakkar's cave into the Kriar Peaks and activate the Waypoint."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "elder-madox",
+          "text": {
+            "de": "Folge den geisterhaften Eulen zu Elder Madox, der an einer Klippe sitzt (schmaler Pfad am Kartenrand). Wähle ein Unique aus seinem Angebot.",
+            "en": "Follow the ghostly owls to Elder Madox, who sits on a cliff (narrow path at the edge of the map). Pick a Unique from his offer."
+          },
+          "kind": "loot",
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "1 Unique-Gegenstand nach Wahl (einmal pro Charakter)",
+              "en": "1 Unique item of your choice (once per character)"
+            },
+            "permanent": false,
+            "choice": true
+          },
+          "beginner": {
+            "de": "Elder Madox schenkt dir einmal pro Charakter einen von mehreren Unique-Gegenständen. Nimm, was zu deinem Build passt; im Zweifel etwas mit Leben oder Widerständen. Der Weg ist leicht zu übersehen, er liegt abseits des Hauptpfads.",
+            "en": "Once per character, Elder Madox gives you one of several Unique items. Take whatever fits your build; if in doubt, something with Life or resistances. The path is easy to miss since it's off the main route."
+          }
+        },
+        {
+          "id": "peaks-beacon",
+          "text": {
+            "de": "Optional: Vaal Beacon in der Zone. Danach weiter ins Etched Ravine.",
+            "en": "Optional: Vaal Beacon in the zone. Then continue to the Etched Ravine."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "etched-ravine",
+      "name": "Etched Ravine",
+      "nameDe": "Ausgehöhlte Schlucht",
+      "areaId": "P3_6",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ravine-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und erkunde das Etched Ravine.",
+            "en": "Activate the Waypoint and explore the Etched Ravine."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "stormgore",
+          "text": {
+            "de": "Besiege Stormgore, the Guardian. Danach ist der Weg in die Cuachic Vault frei.",
+            "en": "Defeat Stormgore, the Guardian. Afterwards the way into the Cuachic Vault is open."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Je weniger Leben Stormgore hat, desto mehr Maschinen um ihn herum erwachen und greifen dich an. Gegen seine Dreifach-Schlag-Kombo hilft es, für die ersten zwei Schläge um ihn herumzulaufen und dem verzögerten dritten auszuweichen. Viel Blitzschaden: Blitzwiderstand prüfen.",
+            "en": "The lower Stormgore's Life, the more machines around him wake up and attack you. Against his triple-slam combo, run around him for the first two hits and dodge the delayed third. Lots of Lightning damage: check your Lightning Resistance."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cuachic-vault",
+      "name": "The Cuachic Vault",
+      "nameDe": "Die Cuachic-Schatzkammer",
+      "areaId": "P3_7",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "vault-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und erkunde die Cuachic Vault.",
+            "en": "Activate the Waypoint and explore the Cuachic Vault."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "ancient-treasures",
+          "text": {
+            "de": "Optional: Heb die Small Soul Core vom Boden auf und öffne damit einen der verschlossenen Räume (Ancient Treasures) mit magischen Truhen.",
+            "en": "Optional: Pick up the Small Soul Core from the ground and use it to open one of the locked rooms (Ancient Treasures) with magic chests."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "zolin-zelina",
+          "text": {
+            "de": "Besiege Zelina, Blood Priestess, und Zolin, Blood Priest.",
+            "en": "Defeat Zelina, Blood Priestess, and Zolin, Blood Priest."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Zelina kämpft im Nahkampf und heilt sich über Lebensraub, Zolin bleibt auf Distanz, wirft Blutgeschosse und zieht sich ab und zu Leben von Zelina ab, um sich zu heilen. Fokussiere deinen Schaden auf einen der beiden, statt ihn zu verteilen. Wenn er den Altar aktiviert, schießen große Blitzstrahlen durch die Arena. Ab 50 % zieht Zelina einen roten Kreis: Bist du darin, teleportiert sie sich hinter dich. Kreis sofort verlassen.",
+            "en": "Zelina fights in melee and heals via Life Leech; Zolin stays at range, throws blood projectiles and occasionally drains Life from Zelina to heal himself. Focus your damage on one of them instead of splitting it. When he activates the altar, huge lightning beams shoot through the arena. From 50%, Zelina draws a red circle: if you're inside, she teleports behind you. Leave the circle immediately."
+          }
+        },
+        {
+          "id": "summon-doryani",
+          "text": {
+            "de": "Beschwöre Doryani und sprich mit ihm. Die Vaal schließen sich dir an.",
+            "en": "Summon Doryani and talk to him. The Vaal join your cause."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "the-glade-3",
+      "name": "The Glade",
+      "nameDe": "Die Lichtung",
+      "areaId": "P3_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "doryani-next",
+          "text": {
+            "de": "Kehre nach The Glade zurück und lass dich von The Hooded One zum letzten Interlude schicken (empfohlen: Ogham, The Curse of Holten).",
+            "en": "Return to The Glade and have The Hooded One send you to the last Interlude (recommended: Ogham, The Curse of Holten)."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Das letzte Interlude liegt durch die Skalierung bei ca. Gebietsstufe 62–64: Widerstandsstrafe −50 %. Danach folgen die Maps mit −60 %. Spätestens jetzt lohnt es sich, Widerstände bewusst aufzubauen.",
+            "en": "Due to scaling, the last Interlude is at around area level 62–64: resistance penalty −50%. After that come maps at −60%. Now at the latest it pays to build up your resistances deliberately."
+          }
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Lythara, the Wayward Spear",
+      "zone": "kriar-village",
+      "mechanics": [
+        {
+          "de": "Speer-Kombos aus Schwüngen und Stößen, Ausfallschritt auf dich zu. Schaden: physisch und Chaos.",
+          "en": "Spear combos of swings and thrusts, lunge towards you. Damage: Physical and Chaos."
+        },
+        {
+          "de": "Chaos Throw: geworfener Speer, der beim Treffer in drei Blitze zerfällt und einen pulsierenden Sturm mit Chaos-Kugeln hinterlässt. Trifft er eine Wand, prallen die Blitze zurück in die Arena.",
+          "en": "Chaos Throw: a thrown spear that splits into three lightning bolts on impact and leaves a pulsing storm with Chaos orbs. If it hits a wall, the bolts bounce back into the arena."
+        },
+        {
+          "de": "Serpent Strike (rot, ausweichpflichtig): Sie stößt den Speer nach vorn und schickt zwei große Schlangen-Wellen los.",
+          "en": "Serpent Strike (red, must dodge): she thrusts her spear forward and sends out two large serpent waves."
+        },
+        {
+          "de": "Viper's Disengage: Rücksprung mit Giftgeschossen im Bogen, die Giftpfützen hinterlassen. Ab 50 % spawnen Irrlichter im Norden und Süden, die sie verstärken können.",
+          "en": "Viper's Disengage: a backflip with poison projectiles in an arc that leave poison pools. From 50%, wisps spawn in the north and south that can empower her."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Beim Speerstoß nach vorn sofort zur Seite rollen.",
+          "en": "When she thrusts the spear forward, roll to the side immediately."
+        },
+        {
+          "de": "Nicht nahe an Wänden kämpfen, wenn sie Chaos Throw wirft.",
+          "en": "Don't fight close to walls when she uses Chaos Throw."
+        },
+        {
+          "de": "Burst-Schaden ab 50 % aufheben, damit die Irrlichter keine Rolle spielen.",
+          "en": "Save your burst damage for 50% so the wisps don't matter."
+        }
+      ]
+    },
+    {
+      "name": "Rakkar, the Frozen Talon",
+      "zone": "glacial-tarn",
+      "mechanics": [
+        {
+          "de": "Nahkampf-Hiebe und schnelle Ausweich-Dashes. Schaden: physisch und Kälte.",
+          "en": "Melee slashes and quick evasive dashes. Damage: Physical and Cold."
+        },
+        {
+          "de": "Snowball: Schneeball, der sich spiralförmig bewegt und dabei wächst. Ice Shards: Eissplitter im 180°-Bogen.",
+          "en": "Snowball: a snowball that spirals and grows as it moves. Ice Shards: ice shards in a 180° arc."
+        },
+        {
+          "de": "Dive Bomb (rot, ausweichpflichtig): Er fliegt aus dem Bild und stürzt sich auf deine Position.",
+          "en": "Dive Bomb (red, must dodge): he flies off screen and plunges onto your position."
+        },
+        {
+          "de": "Ab ca. 70 %: Ice Armor (Eispanzer, der pulsierend Eisstacheln in der ganzen Arena auslöst, länger und schneller bei weniger Leben) und Wind Bursts (fünf Luftstöße in einer Linie, die dich verfolgen).",
+          "en": "From around 70%: Ice Armor (ice shell that pulses ice spikes across the whole arena, longer and faster at lower Life) and Wind Bursts (five air blasts in a line that follow you)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Während Ice Armor auf die Markierungen zwischen den Pulsen achten und in Lücken stehen.",
+          "en": "During Ice Armor, watch the markers between pulses and stand in the gaps."
+        },
+        {
+          "de": "Kältewiderstand möglichst nahe 75 % bringen.",
+          "en": "Get your Cold Resistance as close to 75% as possible."
+        }
+      ]
+    },
+    {
+      "name": "The Abominable Yeti",
+      "zone": "howling-caves",
+      "mechanics": [
+        {
+          "de": "Schwünge mit einer Säule. Schaden: physisch und Kälte.",
+          "en": "Swings with a pillar. Damage: Physical and Cold."
+        },
+        {
+          "de": "Sunder: Kälte-Erdriss in einer geraden Linie. Combo: Standardangriff gefolgt von Sunder.",
+          "en": "Sunder: a Cold ground crack in a straight line. Combo: basic attack followed by Sunder."
+        },
+        {
+          "de": "Roll: Er springt in eine Rolle auf dich zu.",
+          "en": "Roll: he leaps into a roll towards you."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Seitlich zur Sunder-Linie bewegen. Ein vergleichsweise einfacher Boss, gut für die 2 Weapon-Set-Punkte.",
+          "en": "Move sideways out of the Sunder line. A relatively easy boss, well worth it for the 2 Weapon Set points."
+        }
+      ]
+    },
+    {
+      "name": "Stormgore, the Guardian",
+      "zone": "etched-ravine",
+      "mechanics": [
+        {
+          "de": "Rückstoß, große Axtschwünge, Slam vor sich und Lightning Breath (Blitzatem im Bogen). Schaden: physisch und Blitz.",
+          "en": "Knockback, big axe swings, a slam in front of him and Lightning Breath (lightning breath in an arc). Damage: Physical and Lightning."
+        },
+        {
+          "de": "Ab ca. 65 %: Dreifach-Slam-Kombo (der letzte Schlag verzögert), Sprung-Slam und Lightning Sweep (Axt aufgeladen, Frontalschwung).",
+          "en": "From around 65%: triple-slam combo (last hit delayed), leap slam and Lightning Sweep (charged axe, frontal swing)."
+        },
+        {
+          "de": "Ab ca. 50 %: Lightning Frenzy (Blitzkreis um ihn, Blitzranken auf dich, Abschluss-Schwung). Mit sinkendem Leben erwachen immer mehr Maschinen in der Arena.",
+          "en": "From around 50%: Lightning Frenzy (lightning circle around him, lightning tendrils at you, finishing swing). As his Life drops, more and more machines in the arena wake up."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Bei der Dreifach-Kombo im Kreis um ihn laufen und erst beim dritten Schlag rollen.",
+          "en": "During the triple combo, circle around him and only roll on the third hit."
+        },
+        {
+          "de": "Lightning Frenzy kann man einfach auslaufen: Abstand halten oder um ihn kreisen.",
+          "en": "Lightning Frenzy is easy to outrun: keep your distance or circle around him."
+        },
+        {
+          "de": "Erwachte Maschinen nicht ignorieren, wenn sie dich bedrängen.",
+          "en": "Don't ignore awakened machines when they're pressuring you."
+        }
+      ]
+    },
+    {
+      "name": "Zelina, Blood Priestess & Zolin, Blood Priest",
+      "zone": "cuachic-vault",
+      "mechanics": [
+        {
+          "de": "Zelina (Nahkampf, Lebensraub): Wirbel-Dash, Dreifach-Krallen-Kombo, Burst Claws und Blood Slam (Blutmonster-Schlag). Ab 50 %: Blood Circle, ein großer roter Kreis, in dem sie sich wiederholt hinter dich teleportiert.",
+          "en": "Zelina (melee, Life Leech): whirling dash, triple claw combo, Burst Claws and Blood Slam (blood monster strike). From 50%: Blood Circle, a large red circle inside which she repeatedly teleports behind you."
+        },
+        {
+          "de": "Zolin (Distanz, heilt sich an Zelinas Leben): Blutgeschosse, Blood Dash, Altar Lightning (riesige Blitzstrahlen in schneller Folge), Fire Breath (Feueratem in einer Linie), Living Blood (wandernde Blutlache) und Blood Bending (drei Salven Blutgeschosse).",
+          "en": "Zolin (ranged, heals off Zelina's Life): blood projectiles, Blood Dash, Altar Lightning (huge lightning beams in rapid succession), Fire Breath (fire breath in a line), Living Blood (wandering pool of blood) and Blood Bending (three volleys of blood projectiles)."
+        },
+        {
+          "de": "Schaden: physisch, Feuer und Blitz.",
+          "en": "Damage: Physical, Fire and Lightning."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Schaden auf einen Boss fokussieren; Zolin heilt sich zeitweise an Zelinas Leben.",
+          "en": "Focus your damage on one boss; Zolin periodically heals himself off Zelina's Life."
+        },
+        {
+          "de": "Den Blood Circle sofort verlassen.",
+          "en": "Leave the Blood Circle immediately."
+        },
+        {
+          "de": "Feuer- und Blitzwiderstand vorher prüfen.",
+          "en": "Check your Fire and Lightning Resistance beforehand."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1948 @@
+{
+  "id": "act4",
+  "order": 4,
+  "name": {
+    "de": "Akt 4",
+    "en": "Act 4"
+  },
+  "title": {
+    "de": "Kingsmarch und die Karui-Inseln",
+    "en": "Kingsmarch and the Karui Isles"
+  },
+  "levelRange": [
+    43,
+    53
+  ],
+  "summary": {
+    "de": "Von der Hafenstadt Kingsmarch segelst du mit Kapitänin Makoru über das Karui-Archipel, um die drei Teile der Precursor-Waffe zu finden. Die Inseln sind weitgehend frei wählbar, ihr Gebietslevel steigt mit jeder abgeschlossenen Insel. Unterwegs gibt es viele dauerhafte Boni (Kaom's/Rakiata's Lesson, +5 % Mana, drei Tattoos, Fläschchen-Bonus, 4 Waffenset-Passivpunkte). Der Akt endet mit Tavakai, the Chieftain im Heart of the Tribe und schaltet die Interludes frei.",
+    "en": "From the port town of Kingsmarch you sail with Captain Makoru across the Karui archipelago to find the three parts of the Precursor weapon. You can mostly pick the islands in any order; their area level rises with every island you complete. Along the way there are many permanent bonuses (Kaom's/Rakiata's Lesson, +5% Mana, three Tattoos, a Flask bonus, 4 Weapon Set Passive Skill Points). The act ends with Tavakai, the Chieftain in the Heart of the Tribe and unlocks the Interludes."
+  },
+  "recommended": {
+    "level": 53,
+    "resistances": {
+      "fire": 60,
+      "cold": 60,
+      "lightning": 60,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "4 Waffenset-Passivpunkte: Dark Mists (Omniphobia, Mist-shrouded Tome) und Trial of the Ancestors (Tattoo of Hinekora nach Yama). Beide Ketten sind optional – nicht auslassen.",
+      "en": "4 Weapon Set Passive Skill Points: Dark Mists (Omniphobia, Mist-shrouded Tome) and Trial of the Ancestors (Tattoo of Hinekora after Yama). Both chains are optional – don't skip them."
+    },
+    {
+      "de": "Dauerhafte Wahlen: Kaom's oder Rakiata's Lesson (Hai-Flosse, endgültig), 3 Tattoos (+5 Attribut oder +5 % Res), Goddess of Justice (+30 % Fläschchen-Leben oder -Mana, später änderbar).",
+      "en": "Permanent choices: Kaom's or Rakiata's Lesson (Shark Fin, final), 3 Tattoos (+5 attribute or +5% res), Goddess of Justice (+30% Flask Life or Mana, can be changed later)."
+    },
+    {
+      "de": "Eye of Hinekora: Silent Hall gibt +5 % max. Mana und eine Greater Mind Rune. Matiki muss vorher befreit sein (0.5: bei Diamora, kann je Liga wechseln).",
+      "en": "Eye of Hinekora: the Silent Hall grants +5% maximum Mana and a Greater Mind Rune. Matiki must be freed first (0.5: held by Diamora, can change per league)."
+    },
+    {
+      "de": "Akt 4 hat −30 % Resistenzstrafe, die Interludes bis −50 %. Vor dem Wechsel Elementar-Res möglichst Richtung 75 % bringen (Pearlescent Amulet, Magma-Ring, Tattoos).",
+      "en": "Act 4 has a −30% resistance penalty, the Interludes up to −50%. Before moving on, get your Elemental Resistances as close to 75% as possible (Pearlescent Amulet, Magma ring, Tattoos)."
+    },
+    {
+      "de": "Arastas: Morning Bell (3 Regal Orbs) und Evening Bell (3 Exalted Orbs) mitnehmen – schnellste Währung des Akts.",
+      "en": "Arastas: ring the Morning Bell (3 Regal Orbs) and the Evening Bell (3 Exalted Orbs) – the fastest currency of the act."
+    },
+    {
+      "de": "Kein Aufstiegs-Trial in Akt 4: Punkte 1–4 kommen aus Akt 2/3, Punkte 5–8 erst im Endgame über höherstufige Trials.",
+      "en": "No Ascendancy trial in Act 4: points 1–4 come from Act 2/3, points 5–8 only in the endgame via higher-tier trials."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PoE2 Wiki: Act 4",
+      "url": "https://www.poe2wiki.net/wiki/Act_4",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Search",
+      "url": "https://www.poe2wiki.net/wiki/The_Search",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Trial of the Ancestors (quest)",
+      "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Ancestors_(quest)",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Halls of the Dead",
+      "url": "https://www.poe2wiki.net/wiki/Halls_of_the_Dead",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Eye of Hinekora",
+      "url": "https://www.poe2wiki.net/wiki/Eye_of_Hinekora",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Tribal Medicine",
+      "url": "https://www.poe2wiki.net/wiki/Tribal_Medicine",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Dark Mists",
+      "url": "https://www.poe2wiki.net/wiki/Dark_Mists",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: The Runeseeker (Forgotten Bounty)",
+      "url": "https://www.poe2wiki.net/wiki/Forgotten_Bounty",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Abandoned Prison",
+      "url": "https://www.poe2wiki.net/wiki/Abandoned_Prison",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Kingsmarch",
+      "url": "https://www.poe2wiki.net/wiki/Kingsmarch",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Resistance (Resistenzstrafe)",
+      "url": "https://www.poe2wiki.net/wiki/Resistance",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Act 4 (Gebiete, IDs, Level)",
+      "url": "https://poe2db.tw/us/Act_4",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Akt 4 (deutsche Namen)",
+      "url": "https://poe2db.tw/de/Act_4",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: 0.5 Campaign Checklist",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "domistae: PoE2 Act 4 Walkthrough (0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_act4_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Act 4 Boss Guide",
+      "url": "https://maxroll.gg/poe2/getting-started/act-4-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE Vault: Act 4 Boss Guide",
+      "url": "https://www.poe-vault.com/poe2/guides/act-4-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "GGG: 0.5.5c Patch Notes",
+      "url": "https://www.pathofexile.com/forum/view-thread/4006357",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "kingsmarch",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "talk-doryani",
+          "text": {
+            "de": "Sprich nach der Ankunft mit Doryani und The Hooded One. Das startet die Hauptquest The Search.",
+            "en": "After arriving, talk to Doryani and The Hooded One. This starts the main quest The Search."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "boat-charter",
+          "text": {
+            "de": "Triff Alva bei Rog, the Dealer und nimm von Rog den Boat Charter.",
+            "en": "Meet Alva at Rog, the Dealer and take the Boat Charter from Rog."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Alva verkauft eure Vaal-Schätze an Rog, damit ihr ein Schiff chartern könnt. Danach verabschiedet sie sich. Rog bleibt als Händler in der Stadt (Zauberwaffen, Fokusse, Fläschchen, Charms, Schmuck).",
+            "en": "Alva sells your Vaal treasures to Rog so you can charter a ship. Afterwards she says goodbye. Rog stays in town as a vendor (caster weapons, foci, Flasks, Charms, jewellery)."
+          }
+        },
+        {
+          "id": "accept-dark-mists",
+          "text": {
+            "de": "Sprich mit Tujen und nimm die Quest Dark Mists an (Nebel um Journey's End).",
+            "en": "Talk to Tujen and accept the quest Dark Mists (the mist around Journey's End)."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Tujen ist zugleich der Glücksspiel-Händler (Gambler) dieses Akts. Die Quest lohnt sich sehr: Am Ende gibt es 2 Weapon-Set-Punkte, ein Uncut Skill Gem und Gold.",
+            "en": "Tujen is also this act's gambling vendor (Gambler). The quest is very worth it: at the end you get 2 Weapon Set points, an Uncut Skill Gem and gold."
+          }
+        },
+        {
+          "id": "accept-runeseeker",
+          "text": {
+            "de": "Sprich mit Farrow und nimm die Quest The Runeseeker an (Kartenstücke sammeln, später Plunder's Point).",
+            "en": "Talk to Farrow and accept the quest The Runeseeker (collect map pieces, later Plunder's Point)."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "talk-ange",
+          "text": {
+            "de": "Sprich mit Ange. Sie sucht einen Ort für dein Versteck (Quest Hostile Takeover).",
+            "en": "Talk to Ange. She's looking for a place for your hideout (quest Hostile Takeover)."
+          },
+          "kind": "side",
+          "optional": true,
+          "mechanic": "waehrungsboerse",
+          "beginner": {
+            "de": "Ange betreibt die Currency Exchange (Strg + Linksklick auf sie): Dort tauschst du Währung direkt mit anderen Spielern zu Marktpreisen, ganz ohne Chat-Absprache (nicht in Solo Self-Found). Mit Alt + Linksklick öffnest du ihr Gambling-Angebot. Später kannst du sie in dein Versteck holen.",
+            "en": "Ange runs the Currency Exchange (Ctrl + left-click on her): there you trade currency directly with other players at market rates, with no chat negotiation needed (not in Solo Self-Found). Alt + left-click opens her gambling offer. Later you can bring her to your hideout."
+          }
+        },
+        {
+          "id": "charter-to-makoru",
+          "text": {
+            "de": "Gehe zum Schiff und gib Makoru den Boat Charter. Erst danach kannst du zu den Inseln segeln.",
+            "en": "Go to the ship and give Makoru the Boat Charter. Only then can you sail to the islands."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Seit Hotfix 0.5.5c ist die Abgabe des Boat Charter an Makoru Pflicht, bevor die Inseln zugänglich sind. Das Schiff ist dein Hub: Sprich mit Makoru, wähle auf der Seekarte eine Insel und du landest direkt dort. Jede Insel hat einen Wegpunkt, zurück kommst du per Portal oder Wegpunkt nach Kingsmarch.",
+            "en": "Since hotfix 0.5.5c, handing the Boat Charter to Makoru is required before the islands become accessible. The ship is your hub: talk to Makoru, pick an island on the sea chart and you land right there. Every island has a Waypoint; you get back to Kingsmarch via portal or Waypoint."
+          }
+        },
+        {
+          "id": "sail-whakapanu",
+          "text": {
+            "de": "Sprich mit Makoru und segle zur Whakapanu Island.",
+            "en": "Talk to Makoru and sail to Whakapanu Island."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Die fünf Inseln (Whakapanu, Shrike, Abandoned Prison, Isle of Kin, Kedge Bay) sind frei wählbar. Ihr Gebietslevel steigt mit jeder Insel, die du abschließt, also verpasst du keine Erfahrung durch die Reihenfolge. Diese Route folgt einem 0.5.5-Levelguide.",
+            "en": "You can do the five islands (Whakapanu, Shrike, Abandoned Prison, Isle of Kin, Kedge Bay) in any order. Their area level rises with every island you complete, so you don't miss out on experience because of the order. This route follows a 0.5.5 leveling guide."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "NPCs: Dannig (Nahkampfwaffen), Rog (Zauberwaffen, Schmuck, Fläschchen, Charms; Entzaubern), Tujen (Glücksspiel), Ange (Währungsbörse, später Versteck), The Hooded One (Identifizieren, Passivpunkte gegen Gold zurücksetzen), Makoru (Schiff).",
+          "en": "NPCs: Dannig (melee weapons), Rog (caster weapons, jewellery, Flasks, Charms; disenchanting), Tujen (gambling), Ange (Currency Exchange, later hideout), The Hooded One (identifying, resetting passive points for gold), Makoru (ship)."
+        },
+        {
+          "de": "Salvage- und Reforge-Bench stehen auch hier, sofern du sie in Akt 1 bzw. Akt 3 freigeschaltet hast. Prüfe direkt Rog und Dannig auf Resistenz-Schmuck und bessere Waffen.",
+          "en": "The Salvage Bench and Reforging Bench are here too, provided you unlocked them in Act 1 and Act 3 respectively. Check Rog and Dannig right away for resistance jewellery and better weapons."
+        },
+        {
+          "de": "Kein Aufstiegs-Trial in Akt 4. Hast du die zweite Aufstiegsprüfung (Punkte 3–4) aus Akt 2/3 noch offen, lohnt sie sich jetzt. Punkte 5–8 gibt es erst im Endgame über die höherstufigen Trial-of-the-Sekhemas-/Trial-of-Chaos-Versionen.",
+          "en": "No Ascendancy trial in Act 4. If you still haven't done the second Ascendancy trial (points 3–4) from Act 2/3, now is a good time. Points 5–8 only come in the endgame via the higher-tier versions of the Trial of the Sekhemas/Trial of Chaos."
+        },
+        {
+          "de": "Speedrun: Hideout, Runeseeker/Plunder's Point und alle optionalen Nebenräume kannst du auslassen. Die beiden Waffenset-Punkt-Ketten (Dark Mists, Trial of the Ancestors) und die Arastas-Glocken nimmst du trotzdem mit.",
+          "en": "Speedrun: you can skip the hideout, Runeseeker/Plunder's Point and all optional side areas. Still do both Weapon Set point chains (Dark Mists, Trial of the Ancestors) and the Arastas bells."
+        }
+      ]
+    },
+    {
+      "id": "whakapanu-island",
+      "name": "Whakapanu Island",
+      "nameDe": "Insel Whakapanu",
+      "areaId": "G4_3_1",
+      "level": 46,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "frayed-map-piece",
+          "text": {
+            "de": "Durchsuche den Petrified Pirate an der Küste: Er gibt einen Torn Map Piece (Frayed Map Piece) für The Runeseeker.",
+            "en": "Search the Petrified Pirate on the coast: it gives a Torn Map Piece (Frayed Map Piece) for The Runeseeker."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "great-white-one",
+          "text": {
+            "de": "Besiege den Great White One in der Shark Pit (Hai-Arena am Strand).",
+            "en": "Kill the Great White One in the Shark Pit (shark arena on the beach)."
+          },
+          "kind": "boss",
+          "optional": true
+        },
+        {
+          "id": "shark-fin",
+          "text": {
+            "de": "Hebe die Shark Fin auf. Damit startet Tribal Medicine; Kaimana in Ngakanu tauscht sie gegen eine dauerhafte Verteidigungs-Wahl.",
+            "en": "Pick up the Shark Fin. This starts Tribal Medicine; Kaimana in Ngakanu trades it for a permanent defensive choice."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Die Flosse ist der Schlüssel zu Kaom's oder Rakiata's Lesson, einem der stärksten dauerhaften Verteidigungsboni der Kampagne. Nimm sie unbedingt mit.",
+            "en": "The fin is the key to Kaom's or Rakiata's Lesson, one of the strongest permanent defensive bonuses in the campaign. Make sure to grab it."
+          }
+        },
+        {
+          "id": "clawcrunch",
+          "text": {
+            "de": "Optional: Töte Clawcrunch in der versteckten Crabshell Cavern für ein Uncut Support Gem (Stufe 4).",
+            "en": "Optional: Kill Clawcrunch in the hidden Crabshell Cavern for an Uncut Support Gem (level 4)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "enter-singing-caverns",
+          "text": {
+            "de": "Gehe weiter in die Singing Caverns.",
+            "en": "Continue to the Singing Caverns."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Sehenswürdigkeiten liegen am Außenrand der Insel. Wer nur die Hauptquest will, läuft direkt zum Höhleneingang.",
+          "en": "The points of interest are on the outer edge of the island. If you only want the main quest, run straight to the cave entrance."
+        }
+      ]
+    },
+    {
+      "id": "singing-caverns",
+      "name": "Singing Caverns",
+      "nameDe": "Singende Höhlen",
+      "areaId": "G4_3_2",
+      "level": 47,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "beckoning-clam",
+          "text": {
+            "de": "Öffne die Beckoning Clam, besiege den Hinterhalt mit Adelina, Guardian of the Pearl und nimm die Humming Pearl mit.",
+            "en": "Open the Beckoning Clam, defeat the ambush with Adelina, Guardian of the Pearl and take the Humming Pearl."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Die Perle tauschst du in Kingsmarch bei Rog gegen ein seltenes Pearlescent Amulet mit +7–10 % auf alle Elementarresistenzen. Gerade für die Resistenzstrafe am Aktende sehr wertvoll.",
+            "en": "In Kingsmarch, trade the pearl to Rog for a rare Pearlescent Amulet with +7–10% to all Elemental Resistances. Very valuable, especially for the resistance penalty at the end of the act."
+          }
+        },
+        {
+          "id": "egg-cave",
+          "text": {
+            "de": "Optional: Besiege die seltene Brine Maiden an der Egg Cave und zerschlage die Eier – garantiert ein Uncut Support Gem (Stufe 4).",
+            "en": "Optional: Kill the rare Brine Maiden at the Egg Cave and smash the eggs – guaranteed Uncut Support Gem (level 4)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "diamora",
+          "text": {
+            "de": "Besiege Diamora, Song of Death in der Chamber of Echoes.",
+            "en": "Kill Diamora, Song of Death in the Chamber of Echoes."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "free-matiki",
+          "text": {
+            "de": "Befreie Matiki aus seinem Käfig (in 0.5 hielt Diamora ihn gefangen). Trägt der Boss stattdessen ein Waffenteil, beschwöre The Hooded One und lass es ihn holen.",
+            "en": "Free Matiki from his cage (in 0.5 Diamora held him captive). If the boss carries a weapon part instead, summon The Hooded One and let him retrieve it."
+          },
+          "kind": "main",
+          "verified": false,
+          "beginner": {
+            "de": "Drei Inselbosse tragen je ein Teil der Precursor-Waffe, einer hält Matiki gefangen. Die Verteilung kann sich je Liga ändern; der Wiki-Stand für 0.5.0: Teile bei Krutog, Scourge of the Skies und The Prisoner, Matiki bei Diamora. Matiki freizulassen startet die optionale Kette Trial of the Ancestors (Eye of Hinekora).",
+            "en": "Three island bosses each carry one part of the Precursor weapon, and one holds Matiki captive. The distribution can change per league; wiki state for 0.5.0: parts on Krutog, Scourge of the Skies and The Prisoner, Matiki held by Diamora. Freeing Matiki starts the optional chain Trial of the Ancestors (Eye of Hinekora)."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Diamora: Stell dich bei ihrem Abtauch-Sprung nahe an den Arenaeingang, dann verfehlt sie dich meist.",
+          "en": "Diamora: during her diving leap, stand close to the arena entrance and she'll usually miss you."
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-2",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "pearl-to-rog",
+          "text": {
+            "de": "Gib Rog die Humming Pearl und nimm das Pearlescent Amulet (+7–10 % alle Elementarresistenzen).",
+            "en": "Give Rog the Humming Pearl and take the Pearlescent Amulet (+7–10% to all Elemental Resistances)."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Pearlescent Amulet (selten, +7–10 % alle Elementarresistenzen)",
+              "en": "Pearlescent Amulet (rare, +7–10% to all Elemental Resistances)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "map-piece-dannig-1",
+          "text": {
+            "de": "Bring den Kartenteil zu Dannig (Runeseeker-Kette). Er sammelt alle vier Teile.",
+            "en": "Bring the map piece to Dannig (Runeseeker chain). He collects all four pieces."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "ange-hideout",
+          "text": {
+            "de": "Sprich mit Ange: Nach Diamora schlägt sie die Shoreline Hideout vor und segelt dich hin.",
+            "en": "Talk to Ange: after Diamora she suggests the Shoreline Hideout and sails you there."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "shoreline-hideout",
+      "name": "Shoreline Hideout",
+      "areaId": "HideoutShoreline",
+      "level": null,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "clear-shoreline",
+          "text": {
+            "de": "Töte alle Monster am Strand und sprich danach mit Ange, um die Shoreline Hideout als Versteck zu übernehmen.",
+            "en": "Kill all monsters on the beach, then talk to Ange to claim the Shoreline Hideout as your hideout."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Versteck (Shoreline Hideout) freigeschaltet",
+              "en": "Hideout (Shoreline Hideout) unlocked"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Ein Versteck ist deine private Basis mit Truhe, Händlern und Ange (Währungsbörse, eigener Shop für asynchronen Handel). Im Endgame wirst du es ständig nutzen. Hast du in einer früheren Liga schon ein Versteck freigeschaltet, geht die Quest schneller.",
+            "en": "A hideout is your private base with a stash, vendors and Ange (Currency Exchange, your own shop for asynchronous trading). You'll use it constantly in the endgame. If you already unlocked a hideout in an earlier league, the quest goes faster."
+          },
+          "mechanic": "handel"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Speedrun: kann später nachgeholt werden, bringt keine Charakterwerte.",
+          "en": "Speedrun: can be done later, gives no character stats."
+        }
+      ]
+    },
+    {
+      "id": "ngakanu-early",
+      "name": "Ngakanu",
+      "nameDe": "Ngakanu",
+      "areaId": "G4_11_1a",
+      "level": 53,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "brew-breather",
+          "text": {
+            "de": "Segle früh nach Ngakanu, besiege im Medicine Circle den seltenen Blood-fevered Brew-breather und sprich mit Kaimana.",
+            "en": "Sail to Ngakanu early, kill the rare Blood-fevered Brew-breather in the Medicine Circle and talk to Kaimana."
+          },
+          "kind": "side",
+          "verified": false
+        },
+        {
+          "id": "tribal-medicine-reward",
+          "text": {
+            "de": "Gib Kaimana die Shark Fin und wähle Kaom's Lesson oder Rakiata's Lesson. Die Wahl ist endgültig.",
+            "en": "Give Kaimana the Shark Fin and choose Kaom's Lesson or Rakiata's Lesson. The choice is final."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "stat",
+            "choice": true,
+            "label": {
+              "de": "Kaom's Lesson (30 % mehr Rüstung, Ausweichen, Energieschild) ODER Rakiata's Lesson (15 % Rüstung gegen Elementarschaden, Deflection = 12 % Ausweichen, 12 % schnellerer ES-Aufladestart)",
+              "en": "Kaom's Lesson (30% more Armour, Evasion, Energy Shield) OR Rakiata's Lesson (15% of Armour applies to Elemental Damage, Deflection = 12% of Evasion, 12% faster start of Energy Shield Recharge)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Diese Wahl kannst du nie mehr ändern. Kaom's Lesson ist einfach und für jeden Build gut: 30 % mehr von allen deinen Verteidigungswerten. Rakiata's Lesson lohnt sich gezielter: Rüstungs-Builds schützen sich damit auch gegen Elementartreffer, Ausweich-Builds bekommen Deflection, Energieschild-Builds laden schneller auf. Im Zweifel nimm Kaom's.",
+            "en": "You can never change this choice. Kaom's Lesson is simple and good for every build: 30% more of all your defences. Rakiata's Lesson is more targeted: Armour builds also protect themselves against elemental hits, Evasion builds get Deflection, Energy Shield builds recharge faster. When in doubt, take Kaom's."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ngakanu hat Gebietslevel 53 – früh besucht ist der Brew-breather fordernd. Alternativ gibst du die Flosse nach Tavakai bei Kaimana am Karui-Boot in Kingsmarch ab.",
+          "en": "Ngakanu is area level 53 – the Brew-breather is tough if you come early. Alternatively, hand in the fin after Tavakai to Kaimana at the Karui boat in Kingsmarch."
+        },
+        {
+          "de": "Hier verkauft Ruhaki magische und seltene Nahkampfwaffen.",
+          "en": "Ruhaki sells magic and rare melee weapons here."
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-3",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sail-shrike",
+          "text": {
+            "de": "Sprich mit Makoru und segle nach Shrike Island.",
+            "en": "Talk to Makoru and sail to Shrike Island."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "shrike-island",
+      "name": "Shrike Island",
+      "nameDe": "Die Würgerinsel",
+      "areaId": "G4_7",
+      "level": 46,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "impaled-karui",
+          "text": {
+            "de": "Optional: Untersuche den Impaled Karui für eine seltene Jade Club oder Totemic Greatclub mit Qualität.",
+            "en": "Optional: Search the Impaled Karui for a rare Jade Club or Totemic Greatclub with quality."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "ragged-map-piece",
+          "text": {
+            "de": "Untersuche das Corpse Nest: Es enthält einen Torn Map Piece (Ragged Map Piece).",
+            "en": "Search the Corpse Nest: it contains a Torn Map Piece (Ragged Map Piece)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "scourge-of-the-skies",
+          "text": {
+            "de": "Besiege den Scourge of the Skies in den Corrupted Nests. Er droppt ein Uncut Spirit Gem (Stufe 11–12).",
+            "en": "Kill the Scourge of the Skies in the Corrupted Nests. He drops an Uncut Spirit Gem (level 11–12)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "shrike-weapon-piece",
+          "text": {
+            "de": "Hebe das Waffenteil auf und beschwöre The Hooded One (in 0.5 trug der Scourge ein Teil).",
+            "en": "Pick up the weapon part and summon The Hooded One (in 0.5 the Scourge carried a part)."
+          },
+          "kind": "main",
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Etwa in der Mitte liegt nahe einem Checkpoint ein zufälliger Schrein.",
+          "en": "Roughly in the middle, near a checkpoint, there's a random shrine."
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-4",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sail-prison",
+          "text": {
+            "de": "Gib den Kartenteil bei Dannig ab und segle mit Makoru zum Abandoned Prison.",
+            "en": "Hand in the map piece to Dannig and sail with Makoru to the Abandoned Prison."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "abandoned-prison",
+      "name": "Abandoned Prison",
+      "nameDe": "Aufgegebenes Gefängnis",
+      "areaId": "G4_5_1",
+      "level": 46,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "chapel-key",
+          "text": {
+            "de": "Töte Spined Necromancers, bis einer den Chapel Key fallen lässt.",
+            "en": "Kill Spined Necromancers until one drops the Chapel Key."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "forael",
+          "text": {
+            "de": "Öffne die Chapel und besiege den seltenen Spined Necromancer Forael, the Soulkeeper.",
+            "en": "Open the Chapel and kill the rare Spined Necromancer Forael, the Soulkeeper."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "goddess-of-justice",
+          "text": {
+            "de": "Nutze die Statue der Goddess of Justice: Wähle 30 % erhöhte Lebens- oder Mana-Erholung aus Fläschchen.",
+            "en": "Use the Goddess of Justice statue: choose 30% increased Life or Mana Recovery from Flasks."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "stat",
+            "choice": true,
+            "label": {
+              "de": "30 % erhöhte Lebenserholung ODER 30 % erhöhte Manaerholung aus Fläschchen (an der Statue wechselbar)",
+              "en": "30% increased Life Recovery OR 30% increased Mana Recovery from Flasks (switchable at the statue)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Der Bonus bleibt dauerhaft, du kannst ihn aber jederzeit an der Statue umstellen. Für die meisten Builds ist Lebenserholung richtig, weil die Lebensfläschchen dich am Leben halten. Manaerholung nur, wenn dir als Zauberer ständig das Mana ausgeht.",
+            "en": "The bonus is permanent, but you can switch it at the statue any time. For most builds Life Recovery is right, because Life Flasks keep you alive. Mana Recovery only if you're a caster who constantly runs out of mana."
+          }
+        },
+        {
+          "id": "prison-armoury",
+          "text": {
+            "de": "Optional: Besiege in der Armoury den Fallen Quartermaster und öffne die Riot-Armaments-Truhen (Waffen). Am Ende eines Gangs nahe einem Checkpoint steht eine Strongbox.",
+            "en": "Optional: Kill the Fallen Quartermaster in the Armoury and open the Riot Armaments chests (weapons). There's a Strongbox at the end of a corridor near a checkpoint."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "enter-solitary",
+          "text": {
+            "de": "Gehe weiter nach Solitary Confinement.",
+            "en": "Continue to Solitary Confinement."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Das Gefängnis ist ein Labyrinth mit Hebeln für verschlossene Türen. Speedrun: Chapel nur, wenn der Schlüssel unterwegs fällt – der Fläschchen-Bonus ist nett, aber verzichtbar.",
+          "en": "The prison is a maze with levers for locked doors. Speedrun: only do the Chapel if the key drops along the way – the Flask bonus is nice but optional."
+        }
+      ]
+    },
+    {
+      "id": "solitary-confinement",
+      "name": "Solitary Confinement",
+      "nameDe": "Ort der Abgeschiedenheit",
+      "areaId": "G4_5_2",
+      "level": 47,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "fortified-door",
+          "text": {
+            "de": "Folge den Zellen bis zur Fortified Door und öffne sie.",
+            "en": "Follow the cells to the Fortified Door and open it."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "the-prisoner",
+          "text": {
+            "de": "Besiege The Prisoner. Bei 50 % und erneut bei etwa 20–25 % feuerst du eine der Ballisten am Arenarand auf ihn ab.",
+            "en": "Kill The Prisoner. At 50% and again at around 20–25%, fire one of the ballistae at the edge of the arena at him."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "prison-weapon-piece",
+          "text": {
+            "de": "Hebe das Waffenteil auf und beschwöre The Hooded One (in 0.5 trug The Prisoner ein Teil).",
+            "en": "Pick up the weapon part and summon The Hooded One (in 0.5 The Prisoner carried a part)."
+          },
+          "kind": "main",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-5",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sail-kin",
+          "text": {
+            "de": "Sprich mit Makoru und segle zur Isle of Kin.",
+            "en": "Talk to Makoru and sail to the Isle of Kin."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "isle-of-kin",
+      "name": "Isle of Kin",
+      "nameDe": "Insel der Kin",
+      "areaId": "G4_1_1",
+      "level": 46,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "torn-map-piece-kin",
+          "text": {
+            "de": "Durchsuche den Flayed Sailor am Wrecked Boat nahe der Küste: Torn Map Piece.",
+            "en": "Search the Flayed Sailor at the Wrecked Boat near the coast: Torn Map Piece."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "voltaxic-spire",
+          "text": {
+            "de": "Berühre den Voltaxic Spire in der Kartenmitte für den Buff Sulphite Intoxication (10 % Tempo, +15 % alle Elementarres., 30 % Schaden als zusätzlicher Blitzschaden).",
+            "en": "Touch the Voltaxic Spire in the middle of the map for the Sulphite Intoxication buff (10% speed, +15% to all Elemental Resistances, 30% of damage as extra Lightning damage)."
+          },
+          "kind": "tip",
+          "optional": true,
+          "beginner": {
+            "de": "Das ist ein zeitlich begrenzter Buff, kein dauerhafter Bonus. Ideal direkt vor dem Kampf gegen The Blind Beast.",
+            "en": "This is a temporary buff, not a permanent bonus. Ideal right before the fight against The Blind Beast."
+          }
+        },
+        {
+          "id": "doomed-mine",
+          "text": {
+            "de": "Optional: Öffne im Doomed Mine (Abandoned Delving Site) die Fossilised Formation für einen Lesser Jeweller's Orb und Gold.",
+            "en": "Optional: Open the Fossilised Formation in the Doomed Mine (Abandoned Delving Site) for a Lesser Jeweller's Orb and gold."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Ein Lesser Jeweller's Orb gibt einem Skill-Gem einen dritten Support-Sockel – früh im Spiel extrem wertvoll für deine Hauptfähigkeit.",
+            "en": "A Lesser Jeweller's Orb gives a Skill Gem a third Support socket – extremely valuable early on for your main skill."
+          }
+        },
+        {
+          "id": "mimbok",
+          "text": {
+            "de": "Optional: Töte Mimbok, the Enslaved im Beast Pen: Uncut Support Gem (Stufe 4) und Uncut Skill Gem (Stufe 12).",
+            "en": "Optional: Kill Mimbok, the Enslaved in the Beast Pen: Uncut Support Gem (level 4) and Uncut Skill Gem (level 12)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "blind-beast",
+          "text": {
+            "de": "Optional: Besiege The Blind Beast in der Primal Arena. Er droppt eine Blank Greater Rune.",
+            "en": "Optional: Kill The Blind Beast in the Primal Arena. He drops a Blank Greater Rune."
+          },
+          "kind": "boss",
+          "optional": true
+        },
+        {
+          "id": "enter-volcanic-warrens",
+          "text": {
+            "de": "Gehe weiter in die Volcanic Warrens.",
+            "en": "Continue to the Volcanic Warrens."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Blank Greater Rune lässt du bei Dannig in eine Greater Rune deiner Wahl schmieden (Quest Greater Blank Runes).",
+          "en": "Have Dannig forge the Blank Greater Rune into a Greater Rune of your choice (quest Greater Blank Runes)."
+        }
+      ]
+    },
+    {
+      "id": "volcanic-warrens",
+      "name": "Volcanic Warrens",
+      "nameDe": "Vulkanische Baue",
+      "areaId": "G4_1_2",
+      "level": 47,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "magma-twins",
+          "text": {
+            "de": "Optional: Töte im Volcanic Nest die Golems Magmanore und Sulphirox. Wer zuletzt stirbt, bestimmt den Ring: Magmanore zuletzt = Ruby Ring (Feuer), Sulphirox zuletzt = Topaz Ring (Blitz).",
+            "en": "Optional: Kill the golems Magmanore and Sulphirox in the Volcanic Nest. Whichever dies last determines the ring: Magmanore last = Ruby Ring (Fire), Sulphirox last = Topaz Ring (Lightning)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Der seltene Ring hat 10 % Katalysator-Qualität und garantiert mindestens einen Feuer- bzw. Blitz-Affix, oft eine Resistenz. Wähle das Element, dessen Resistenz dir gerade fehlt.",
+            "en": "The rare ring has 10% catalyst quality and guarantees at least one Fire or Lightning affix, often a resistance. Pick the element whose resistance you're currently missing."
+          }
+        },
+        {
+          "id": "krutog",
+          "text": {
+            "de": "Besiege Krutog, Lord of Kin im Tyrant's Throne.",
+            "en": "Kill Krutog, Lord of Kin in the Tyrant's Throne."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "kin-weapon-piece",
+          "text": {
+            "de": "Hebe das Waffenteil auf und beschwöre The Hooded One (in 0.5 trug Krutog ein Teil).",
+            "en": "Pick up the weapon part and summon The Hooded One (in 0.5 Krutog carried a part)."
+          },
+          "kind": "main",
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "In einer großen Höhle an einem Checkpoint wartet ein Schrein.",
+          "en": "A shrine awaits in a large cave at a checkpoint."
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-6",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hooded-one-forge",
+          "text": {
+            "de": "Sprich mit allen drei Waffenteilen mit The Hooded One: Er erkennt eine Precursor-Schmiede. Damit wird Arastas voll zugänglich.",
+            "en": "Once you have all three weapon parts, talk to The Hooded One: he recognises a Precursor forge. This makes Arastas fully accessible."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "greater-rune",
+          "text": {
+            "de": "Lass Dannig die Blank Greater Rune zu einer Greater Rune deiner Wahl schmieden.",
+            "en": "Have Dannig forge the Blank Greater Rune into a Greater Rune of your choice."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Greater Rune nach Wahl (z. B. Desert/Glacial/Storm für Resistenzen)",
+              "en": "Greater Rune of your choice (e.g. Desert/Glacial/Storm for resistances)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "sail-eye",
+          "text": {
+            "de": "Sprich mit Makoru und segle zum Eye of Hinekora.",
+            "en": "Talk to Makoru and sail to the Eye of Hinekora."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "eye-of-hinekora",
+      "name": "Eye of Hinekora",
+      "nameDe": "Auge von Hinekora",
+      "areaId": "G4_4_1",
+      "level": 46,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "meet-matiki",
+          "text": {
+            "de": "Folge dem Weg zu Matiki und Navali, sprich mit Matiki und blicke in den Well of Passing.",
+            "en": "Follow the path to Matiki and Navali, talk to Matiki and look into the Well of Passing."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "tests-of-mettle",
+          "text": {
+            "de": "Bestehe Kaom's, Maata's und Rakiata's Test of Mettle: je drei immer stärkere Wellen, die letzte mit einem seltenen Gegner.",
+            "en": "Complete Kaom's, Maata's and Rakiata's Test of Mettle: three increasingly strong waves each, the last one with a rare enemy."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "shrouded-falls",
+          "text": {
+            "de": "Optional: Zwischen Maata's und Rakiata's Test steht hinter dem Wasserfall (Shrouded Falls) eine Truhe mit einem Uncut Spirit Gem (Stufe 12).",
+            "en": "Optional: Between Maata's and Rakiata's test, behind the waterfall (Shrouded Falls), there's a chest with an Uncut Spirit Gem (level 12)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "silent-hall",
+          "text": {
+            "de": "Erweise Navali in der Silent Hall die Ehre: +5 % maximales Mana und eine Greater Mind Rune.",
+            "en": "Pay your respects to Navali in the Silent Hall: +5% maximum Mana and a Greater Mind Rune."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "mana",
+            "amount": 5,
+            "label": {
+              "de": "+5 % erhöhtes maximales Mana",
+              "en": "+5% increased maximum Mana"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Dauerhafter Bonus, den viele übersehen, weil die Halle erst nach den drei Tests erreichbar ist. Die Greater Mind Rune (Mana) setzt du in einen Ausrüstungssockel.",
+            "en": "A permanent bonus that many players miss because the hall is only reachable after the three tests. Socket the Greater Mind Rune (Mana) into a gear socket."
+          }
+        },
+        {
+          "id": "enter-halls",
+          "text": {
+            "de": "Gehe weiter in die Halls of the Dead.",
+            "en": "Continue to the Halls of the Dead."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erst zugänglich, wenn Matiki befreit ist. Das Gebietslevel steigt wie bei den Inseln mit jeder abgeschlossenen Insel (bis 51).",
+          "en": "Only accessible once Matiki is freed. Like the islands, the area level rises with every island you complete (up to 51)."
+        }
+      ]
+    },
+    {
+      "id": "halls-of-the-dead",
+      "name": "Halls of the Dead",
+      "nameDe": "Hallen der Toten",
+      "areaId": "G4_4_2",
+      "level": 47,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ngamahus-test",
+          "text": {
+            "de": "Bestehe Ngamahu's Test und gib die Blank Tattoo am Totem im selben Raum ab: +5 Stärke oder +5 % Feuerresistenz.",
+            "en": "Complete Ngamahu's Test and hand in the Blank Tattoo at the totem in the same room: +5 Strength or +5% Fire Resistance."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "stat",
+            "choice": true,
+            "label": {
+              "de": "Strength Tattoo (+5 Stärke) ODER Fire Tattoo (+5 % Feuerresistenz)",
+              "en": "Strength Tattoo (+5 Strength) OR Fire Tattoo (+5% Fire Resistance)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Jedes der drei Tattoos ist eine dauerhafte Wahl. Für die meisten Builds sind die Resistenzen besser, weil die Strafe ab den Interludes weiter steigt. Nimm das Attribut nur, wenn dir genau dieser Wert für Ausrüstung oder Gems fehlt.",
+            "en": "Each of the three Tattoos is a permanent choice. For most builds the resistances are better, because the penalty keeps rising from the Interludes onward. Only take the attribute if you're missing exactly that stat for gear or gems."
+          }
+        },
+        {
+          "id": "tawhoas-test",
+          "text": {
+            "de": "Bestehe Tawhoa's Test und wähle am Totem: +5 Geschicklichkeit oder +5 % Blitzresistenz.",
+            "en": "Complete Tawhoa's Test and choose at the totem: +5 Dexterity or +5% Lightning Resistance."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "stat",
+            "choice": true,
+            "label": {
+              "de": "Dexterity Tattoo (+5 Geschicklichkeit) ODER Lightning Tattoo (+5 % Blitzresistenz)",
+              "en": "Dexterity Tattoo (+5 Dexterity) OR Lightning Tattoo (+5% Lightning Resistance)"
+            },
+            "permanent": true
+          }
+        },
+        {
+          "id": "tasalios-test",
+          "text": {
+            "de": "Bestehe Tasalio's Test und wähle am Totem: +5 Intelligenz oder +5 % Kälteresistenz.",
+            "en": "Complete Tasalio's Test and choose at the totem: +5 Intelligence or +5% Cold Resistance."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "stat",
+            "choice": true,
+            "label": {
+              "de": "Intelligence Tattoo (+5 Intelligenz) ODER Cold Tattoo (+5 % Kälteresistenz)",
+              "en": "Intelligence Tattoo (+5 Intelligence) OR Cold Tattoo (+5% Cold Resistance)"
+            },
+            "permanent": true
+          }
+        },
+        {
+          "id": "yama-the-white",
+          "text": {
+            "de": "Besiege Yama the White in Yama's Test (achteckige Arena mit Säulen) und hebe die Silver Coin auf.",
+            "en": "Kill Yama the White in Yama's Test (octagonal arena with pillars) and pick up the Silver Coin."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "portal-to-mother",
+          "text": {
+            "de": "Gehe tiefer in die Halls und betritt das Portal zur Mutter (Trial of the Ancestors).",
+            "en": "Go deeper into the Halls and enter the portal to the Mother (Trial of the Ancestors)."
+          },
+          "kind": "navigation",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die drei Test-Arenen liegen abseits des linearen Wegs; seit 0.5.1 sind sie leichter zu finden.",
+          "en": "The three test arenas are off the linear path; since 0.5.1 they're easier to find."
+        },
+        {
+          "de": "Für Yama lohnen sich Stiefel mit Bewegungstempo: Bei seinem Zeitstopp musst du zu einem Klon mit Sicherheitszone laufen.",
+          "en": "Boots with Movement Speed are worth it for Yama: during his time stop you have to run to a clone with a safe zone."
+        }
+      ]
+    },
+    {
+      "id": "trial-of-the-ancestors",
+      "name": "Trial of the Ancestors",
+      "nameDe": "Prüfung der Ahnen",
+      "areaId": "G4_4_3",
+      "level": 51,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "tattoo-of-hinekora",
+          "text": {
+            "de": "Sprich mit Navali vor Hinekora, gib die Silver Coin ab und benutze das Tattoo of Hinekora (Rechtsklick).",
+            "en": "Talk to Navali in front of Hinekora, hand in the Silver Coin and use the Tattoo of Hinekora (right-click)."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Tattoo gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Das Tattoo muss per Rechtsklick benutzt werden, sonst zählt der Bonus nicht.",
+            "en": "The Tattoo grants 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. You have to right-click the Tattoo to use it, otherwise the bonus doesn't count."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-7",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sail-kedge",
+          "text": {
+            "de": "Sprich mit Makoru und segle zur Kedge Bay (Dark Mists).",
+            "en": "Talk to Makoru and sail to Kedge Bay (Dark Mists)."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "kedge-bay",
+      "name": "Kedge Bay",
+      "nameDe": "Ankerbucht",
+      "areaId": "G4_2_1",
+      "level": 46,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "smugglers-stash",
+          "text": {
+            "de": "Öffne die Dead Man's Chest am Smuggler's Stash: Torn Map Piece (Ripped Map Piece). In der Höhle daneben liegt viel Gold.",
+            "en": "Open the Dead Man's Chest at the Smuggler's Stash: Torn Map Piece (Ripped Map Piece). The cave next to it has lots of gold."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "abandoned-ship",
+          "text": {
+            "de": "Optional: Plündere das Abandoned Ship (Gold, eine seltene und zwei normale Truhen; Gull Shrikes greifen an).",
+            "en": "Optional: Loot the Abandoned Ship (gold, one rare and two normal chests; Gull Shrikes attack)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "doran-the-deft",
+          "text": {
+            "de": "Optional: Nahe dem Eingang kann Doran, the Deft auftauchen, ein schneller, gefährlicher Rogue Exile.",
+            "en": "Optional: Doran, the Deft, a fast and dangerous Rogue Exile, can show up near the entrance."
+          },
+          "kind": "tip",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "enter-journeys-end",
+          "text": {
+            "de": "Folge der Küste nach Journey's End.",
+            "en": "Follow the coast to Journey's End."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Kedge Bay ist ein gerader Küstenpfad ohne Labyrinth. Die Tidal Cay mit dem Bloated Anchorman bringt nichts Besonderes – auslassen.",
+          "en": "Kedge Bay is a straight coastal path with no maze. The Tidal Cay with the Bloated Anchorman offers nothing special – skip it."
+        }
+      ]
+    },
+    {
+      "id": "journeys-end",
+      "name": "Journey's End",
+      "nameDe": "Ende der Welt",
+      "areaId": "G4_2_2",
+      "level": 47,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "summon-tujen",
+          "text": {
+            "de": "Beschwöre Tujen am Eingang und sprich mit ihm über Freya Hartlin, die in einem Kreis aus Karui-Totems gefangen ist.",
+            "en": "Summon Tujen at the entrance and talk to him about Freya Hartlin, who is trapped in a circle of Karui totems."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "booby-trapped-ship",
+          "text": {
+            "de": "Vorsicht: Die seltene Truhe auf dem präparierten Schiff startet einen 12-Sekunden-Timer. Verlasse das Schiff rechtzeitig, die Explosion tötet sofort.",
+            "en": "Careful: the rare chest on the rigged ship starts a 12-second timer. Leave the ship in time – the explosion kills instantly."
+          },
+          "kind": "tip",
+          "optional": true
+        },
+        {
+          "id": "captain-hartlin",
+          "text": {
+            "de": "Besiege Captain Hartlin auf The Captain's Chair und hebe die Verisium Ingots auf. Danach öffnet sich ein Portal zurück zu Freya.",
+            "en": "Kill Captain Hartlin on The Captain's Chair and pick up the Verisium Ingots. Afterwards, a portal back to Freya opens."
+          },
+          "kind": "boss"
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-8",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "verisium-spikes",
+          "text": {
+            "de": "Bring die Verisium Ingots zu Dannig und nimm die Verisium Spikes.",
+            "en": "Bring the Verisium Ingots to Dannig and take the Verisium Spikes."
+          },
+          "kind": "side"
+        }
+      ]
+    },
+    {
+      "id": "journeys-end-2",
+      "name": "Journey's End",
+      "nameDe": "Ende der Welt",
+      "areaId": "G4_2_2",
+      "level": 47,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "free-freya",
+          "text": {
+            "de": "Kehre zu Freya Hartlin zurück und schlage die Verisium Spikes in die Totems um sie.",
+            "en": "Return to Freya Hartlin and drive the Verisium Spikes into the totems around her."
+          },
+          "kind": "side"
+        },
+        {
+          "id": "omniphobia",
+          "text": {
+            "de": "Freya entpuppt sich als Tangmazu und öffnet ein Delirium. Überlebe den Wahnsinn und besiege Omniphobia, Fear Manifest.",
+            "en": "Freya turns out to be Tangmazu and opens a Delirium. Survive the madness and kill Omniphobia, Fear Manifest."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Das ist eine Einführung in Delirium, eine der Endgame-Mechaniken: Nebel und Spiegel lassen zusätzliche, gefährlichere Monster entstehen. Bleib in Bewegung, töte die kleinen Delirium-Monster nicht in großen Gruppen um dich herum, und konzentriere dich auf den Boss. Seit 0.5.5 hat Omniphobia keine Elementarresistenzen mehr.",
+            "en": "This is an introduction to Delirium, one of the endgame mechanics: fog and mirrors spawn additional, more dangerous monsters. Keep moving, don't kill the small Delirium monsters in big groups around you, and focus on the boss. Since 0.5.5, Omniphobia no longer has Elemental Resistances."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-9",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "dark-mists-reward",
+          "text": {
+            "de": "Sprich mit Tujen, nimm die Belohnung und benutze den Mist-shrouded Tome (Rechtsklick).",
+            "en": "Talk to Tujen, take the reward and use the Mist-shrouded Tome (right-click)."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Der Mist-shrouded Tome gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Dazu gibt es 7.500 Gold und ein Uncut Skill Gem (Stufe 13).",
+            "en": "The Mist-shrouded Tome grants 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. You also get 7,500 gold and an Uncut Skill Gem (level 13)."
+          }
+        },
+        {
+          "id": "map-to-makoru",
+          "text": {
+            "de": "Hast du alle vier Torn Map Pieces abgegeben, schickt dich Dannig mit der fertigen Karte zu Makoru. Segle nach Plunder's Point.",
+            "en": "Once you've handed in all four Torn Map Pieces, Dannig sends you to Makoru with the finished map. Sail to Plunder's Point."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Plunder's Point ist erst erreichbar, wenn alle vier Kartenstücke (Whakapanu, Shrike, Isle of Kin, Kedge Bay) abgegeben sind. Für die Kampagne ist die Insel nicht nötig.",
+            "en": "Plunder's Point is only reachable once all four map pieces (Whakapanu, Shrike, Isle of Kin, Kedge Bay) have been handed in. The island isn't needed for the campaign."
+          }
+        }
+      ]
+    },
+    {
+      "id": "plunders-point",
+      "name": "Plunder's Point",
+      "nameDe": "Plündererklippe",
+      "areaId": "G4_13",
+      "level": 53,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "summon-dannig",
+          "text": {
+            "de": "Erkunde Plunder's Point, beschwöre Dannig und platziere die Sprengladungen. Zünde sie bei Dannig und überlebe den Expedition-Kampf.",
+            "en": "Explore Plunder's Point, summon Dannig and place the explosives. Detonate them at Dannig and survive the Expedition fight."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "Das ist die Einführung in Expedition: Sprengladungen legen Monster und Schätze frei. Seit 0.5.5 ist Expedition mit Dannig und Farrow fester Bestandteil des Endgames, auch in Standard.",
+            "en": "This is the introduction to Expedition: explosives unearth monsters and treasure. Since 0.5.5, Expedition with Dannig and Farrow is a permanent part of the endgame, including in Standard."
+          }
+        },
+        {
+          "id": "deserted-post",
+          "text": {
+            "de": "Betritt den Deserted Post, erkunde ihn und beschwöre Farrow.",
+            "en": "Enter the Deserted Post, explore it and summon Farrow."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Gebietslevel 53 – deutlich höher als die Inseln. Speedrun: komplett auslassen, außer du willst die Verisium Anvil früh.",
+          "en": "Area level 53 – much higher than the islands. Speedrun: skip it entirely unless you want the Verisium Anvil early."
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-10",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "verisium-anvil",
+          "text": {
+            "de": "Sprich mit Farrow, nimm das Verisium und benutze die Verisium Anvil zum ersten Mal (Rüstung umschmieden).",
+            "en": "Talk to Farrow, take the Verisium and use the Verisium Anvil for the first time (reforge armour)."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Verisium Anvil und Runeforging freigeschaltet, dazu Verisium",
+              "en": "Verisium Anvil and Runeforging unlocked, plus Verisium"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Außerhalb der Liga Runes of Aldur (also in Forbidden Rites und Standard) ist diese Kette laut 0.5.5-Guide der einzige Weg zur Verisium Anvil. Farrow kannst du danach in dein Versteck holen.",
+            "en": "Outside the Runes of Aldur league (i.e. in Forbidden Rites and Standard), this chain is the only way to the Verisium Anvil according to a 0.5.5 guide. Afterwards you can bring Farrow to your hideout."
+          }
+        },
+        {
+          "id": "sail-arastas",
+          "text": {
+            "de": "Sprich mit Makoru und segle nach Arastas.",
+            "en": "Talk to Makoru and sail to Arastas."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "arastas",
+      "name": "Arastas",
+      "nameDe": "Arastas",
+      "areaId": "G4_8b",
+      "level": 52,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "missionary-lorandis",
+          "text": {
+            "de": "Frage Missionary Lorandis nach der Waffe und folge ihm in die Kirche.",
+            "en": "Ask Missionary Lorandis about the weapon and follow him into the church."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "destroy-forcefield",
+          "text": {
+            "de": "Untersuche den Tumult vor der Kirche, zerstöre den Schutzschild und überlebe den Hinterhalt von Benedictus' Truppen.",
+            "en": "Investigate the commotion in front of the church, destroy the protective shield and survive the ambush by Benedictus' troops."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Kanu, Makorus Maat, hat euch an den Twilight Order verraten. Ab jetzt sind alle Ordensmitglieder auf der Insel feindlich.",
+            "en": "Kanu, Makoru's first mate, has betrayed you to the Twilight Order. From now on, all members of the order on the island are hostile."
+          }
+        },
+        {
+          "id": "morning-bell",
+          "text": {
+            "de": "Läute die Morning Bell in der Kartenmitte: 3 Regal Orbs.",
+            "en": "Ring the Morning Bell in the middle of the map: 3 Regal Orbs."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "currency",
+            "amount": 3,
+            "label": {
+              "de": "3 Regal Orbs",
+              "en": "3 Regal Orbs"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "evening-bell",
+          "text": {
+            "de": "Läute die Evening Bell im Osten der Karte: 3 Exalted Orbs.",
+            "en": "Ring the Evening Bell in the east of the map: 3 Exalted Orbs."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "currency",
+            "amount": 3,
+            "label": {
+              "de": "3 Exalted Orbs",
+              "en": "3 Exalted Orbs"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "torvian",
+          "text": {
+            "de": "Besiege Torvian, Hand of the Saviour im Excavated Pit. Er droppt ein Uncut Skill Gem (Stufe 12).",
+            "en": "Kill Torvian, Hand of the Saviour in the Excavated Pit. He drops an Uncut Skill Gem (level 12)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "enter-excavation",
+          "text": {
+            "de": "Betritt The Excavation.",
+            "en": "Enter The Excavation."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Vor den drei Waffenteilen ist nur ein kleiner Teil von Arastas begehbar (eigene Gebiets-ID G4_8a); dort verkauft Servitor Marius seltene Zauberwaffen, Fokusse und Schmuck.",
+          "en": "Before you have the three weapon parts, only a small part of Arastas is accessible (its own area ID G4_8a); there, Servitor Marius sells rare caster weapons, foci and jewellery."
+        },
+        {
+          "de": "Die Glocken bringen die wertvollste Währung des Akts – unbedingt läuten, auch beim Speedrun.",
+          "en": "The bells give the most valuable currency of the act – always ring them, even when speedrunning."
+        }
+      ]
+    },
+    {
+      "id": "the-excavation",
+      "name": "The Excavation",
+      "nameDe": "Die Ausgrabungsstätte",
+      "areaId": "G4_10",
+      "level": 52,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "excavated-cache",
+          "text": {
+            "de": "Optional: Öffne den Excavated Cache am Checkpoint.",
+            "en": "Optional: Open the Excavated Cache at the checkpoint."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "benedictus",
+          "text": {
+            "de": "Stelle Kanu und den First Herald zur Rede und besiege Benedictus, First Herald of Utopia in der Precursor-Schmiede.",
+            "en": "Confront Kanu and the First Herald and kill Benedictus, First Herald of Utopia in the Precursor forge."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "reforge-weapon",
+          "text": {
+            "de": "Betritt die Excavated Site und sieh zu, wie The Hooded One die Waffe schmiedet. Tavakai raubt sie und entführt Makoru. Sprich danach mit The Hooded One.",
+            "en": "Enter the Excavated Site and watch The Hooded One forge the weapon. Tavakai steals it and kidnaps Makoru. Then talk to The Hooded One."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-11",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "talk-rhodri",
+          "text": {
+            "de": "Kehre nach Kingsmarch zurück, sprich mit The Hooded One und dann mit Rhodri, der Makoru am Steuer vertritt. Segle nach Ngakanu.",
+            "en": "Return to Kingsmarch, talk to The Hooded One and then to Rhodri, who takes the helm in place of Makoru. Sail to Ngakanu."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "ngakanu",
+      "name": "Ngakanu",
+      "nameDe": "Ngakanu",
+      "areaId": "G4_11_1b",
+      "level": 53,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "mad-butcher",
+          "text": {
+            "de": "Besiege Harano, the Meat Carver (Mad Butcher) am Anfang des Gebiets: Uncut Spirit Gem (Stufe 13).",
+            "en": "Kill Harano, the Meat Carver (Mad Butcher) at the start of the area: Uncut Spirit Gem (level 13)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "ngakanu-abyss",
+          "text": {
+            "de": "Optional: Das garantierte Abyss-Ereignis führt beim ersten Mal in die Abyssal Depths (Beute).",
+            "en": "Optional: The guaranteed Abyss event leads into the Abyssal Depths the first time (loot)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "find-heart",
+          "text": {
+            "de": "Kämpfe dich durch die vom Blutfieber befallenen Karui und betritt das Heart of the Tribe.",
+            "en": "Fight your way through the blood-fevered Karui and enter the Heart of the Tribe."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "In den Beast Pens nahe einem Checkpoint warten mehrere magische Blood-fevered Tuskbeasts im Hinterhalt.",
+          "en": "In the Beast Pens near a checkpoint, several magic Blood-fevered Tuskbeasts lie in ambush."
+        }
+      ]
+    },
+    {
+      "id": "heart-of-the-tribe",
+      "name": "Heart of the Tribe",
+      "nameDe": "Herz des Stammes",
+      "areaId": "G4_11_2",
+      "level": 53,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "meeting-house",
+          "text": {
+            "de": "Optional: Im Meeting House stehen Truhen.",
+            "en": "Optional: There are chests in the Meeting House."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "tavakai",
+          "text": {
+            "de": "Finde und besiege Tavakai, the Chieftain (drei Phasen).",
+            "en": "Find and kill Tavakai, the Chieftain (three phases)."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Der Endboss des Akts ist ein langer Kampf mit drei Phasen und Arena-Gefahren der Karui-Götter. Fülle vorher Fläschchen und prüfe deine Resistenzen: Er teilt Feuer-, Kälte-, Blitz- und physischen Schaden aus. Rote Angriffe mit Warnton musst du ausweichen. Seit Hotfix 0.5.5c bleibt er beim Phasenwechsel nicht mehr an Begleitern hängen.",
+            "en": "The act's final boss is a long fight with three phases and arena hazards from the Karui gods. Refill your Flasks and check your resistances beforehand: he deals Fire, Cold, Lightning and Physical damage. Red attacks with a warning sound must be dodged. Since hotfix 0.5.5c, he no longer gets stuck on companions during phase transitions."
+          }
+        },
+        {
+          "id": "witness-sin",
+          "text": {
+            "de": "Sieh zu, wie The Hooded One Tavakai und Makoru heilt.",
+            "en": "Watch The Hooded One heal Tavakai and Makoru."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "kingsmarch-12",
+      "name": "Kingsmarch",
+      "nameDe": "Königsmark",
+      "areaId": "G4_town",
+      "level": 53,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "finish-the-search",
+          "text": {
+            "de": "Kehre nach Kingsmarch zurück und sprich mit The Hooded One. The Search ist abgeschlossen, die Interludes sind freigeschaltet.",
+            "en": "Return to Kingsmarch and talk to The Hooded One. The Search is complete and the Interludes are unlocked."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Als Nächstes sammelst du in drei Interludes Verbündete gegen Oriath (Reihenfolge im Spiel: The Stolen Barya, Doryani's Contingency, The Curse of Holten). Die Resistenzstrafe richtet sich dort nach dem Gebietslevel und steigt auf −40 % bis −50 %.",
+            "en": "Next, you gather allies against Oriath across three Interludes (in-game order: The Stolen Barya, Doryani's Contingency, The Curse of Holten). The resistance penalty there depends on the area level and rises to −40% to −50%."
+          }
+        },
+        {
+          "id": "kaimana-late",
+          "text": {
+            "de": "Noch keine Lesson gewählt? Gib die Shark Fin jetzt Kaimana am Karui-Boot in Kingsmarch.",
+            "en": "Haven't chosen a Lesson yet? Give the Shark Fin to Kaimana at the Karui boat in Kingsmarch now."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "stat",
+            "choice": true,
+            "label": {
+              "de": "Kaom's Lesson ODER Rakiata's Lesson (nur falls nicht schon in Ngakanu gewählt)",
+              "en": "Kaom's Lesson OR Rakiata's Lesson (only if not already chosen in Ngakanu)"
+            },
+            "permanent": true
+          },
+          "alternativeTo": "tribal-medicine-reward"
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Great White One",
+      "zone": "whakapanu-island",
+      "mechanics": [
+        {
+          "de": "Physischer Schaden. Biss-Hieb-Kombo endet mit einem breiten Schwanzschlag nach vorn; auf Distanz springt er dich an.",
+          "en": "Physical damage. Bite-and-slash combo ending in a wide tail swipe forward; at range he leaps at you."
+        },
+        {
+          "de": "Taucht in den Sand und bricht mehrmals unter dir hervor. Jede Stelle hinterlässt einen Piranha-Pool mit Schaden über Zeit – sofort raus.",
+          "en": "Dives into the sand and bursts out beneath you several times. Each spot leaves a piranha pool with damage over time – get out immediately."
+        },
+        {
+          "de": "Ab etwa der Hälfte: Sand-Tornados, die in alle Richtungen Piranhas schleudern.",
+          "en": "From around half life: sand tornadoes that fling piranhas in all directions."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Kämpfe am Rand der Pools und halte die Arenamitte frei, damit dir nicht der Platz ausgeht.",
+          "en": "Fight at the edge of the pools and keep the middle of the arena clear so you don't run out of space."
+        }
+      ]
+    },
+    {
+      "name": "Diamora, Song of Death",
+      "zone": "singing-caverns",
+      "mechanics": [
+        {
+          "de": "Physisch und Kälte, ringförmige Arena. Tidal Waves (Warnton): zwei Wellen krachen von beiden Seiten auf deine Position – seitlich wegrollen.",
+          "en": "Physical and Cold, ring-shaped arena. Tidal Waves (warning sound): two waves crash onto your position from both sides – roll away to the side."
+        },
+        {
+          "de": "Geysire unter deinen Füßen chillen dich; Water Bubble verfolgt dich und schlägt dann ein (ausweichen).",
+          "en": "Geysers under your feet chill you; Water Bubble follows you and then slams down (dodge it)."
+        },
+        {
+          "de": "Abtauch-Sprünge hinterlassen Geysir-Linien. Bei etwa 65 % und 35 % singt sie aus der Mitte: Wer in ihren Blick oder ihre Spiegelbilder schaut, sammelt Versteinerung (bei 5 Stapeln 4 Sekunden versteinert), dazu kommen Diener.",
+          "en": "Diving leaps leave geyser lines. At around 65% and 35% she sings from the middle: looking into her gaze or her reflections builds up Petrification (at 5 stacks you're petrified for 4 seconds), and minions join in."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Lege die Geysir-Linien ihrer Sprünge nah beieinander, dann bleibt mehr Arena frei. Beim Lied außerhalb ihres Blickkegels bleiben.",
+          "en": "Place the geyser lines from her leaps close together so more of the arena stays free. During the song, stay outside her gaze cone."
+        }
+      ]
+    },
+    {
+      "name": "Scourge of the Skies",
+      "zone": "shrike-island",
+      "mechanics": [
+        {
+          "de": "Rein physisch. Head Slam (Warnton) hinterlässt eine Blutlache mit Schaden über Zeit.",
+          "en": "Purely Physical. Head Slam (warning sound) leaves a pool of blood with damage over time."
+        },
+        {
+          "de": "Beak Spikes: Spiralförmige Stacheln, die Blutung und Maim (langsamer) verursachen. Blood Barrage und Blutspucken (links, rechts, Mitte).",
+          "en": "Beak Spikes: spiralling spikes that cause Bleeding and Maim (slow). Blood Barrage and blood spit (left, right, middle)."
+        },
+        {
+          "de": "Ab ca. 75 % spawnt ein schneller Plagueling, und ein Blutregen verfolgt dich – ständig in Bewegung bleiben.",
+          "en": "From around 75%, a fast Plagueling spawns and a blood rain follows you – keep moving constantly."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Steh nicht hinter ihm: Dann rollt er sich herum und verschießt Blutprojektile.",
+          "en": "Don't stand behind him: he'll roll around and fire blood projectiles."
+        }
+      ]
+    },
+    {
+      "name": "The Prisoner",
+      "zone": "solitary-confinement",
+      "mechanics": [
+        {
+          "de": "Physisch und Kälte. Phase 1: Eislinie nach vorn, Frost Slam mit Eisstacheln in der Arena, die er danach sprengt, Sturmangriff mit Faustschlag.",
+          "en": "Physical and Cold. Phase 1: ice line forward, Frost Slam with ice spikes in the arena that he then shatters, charge with a punch."
+        },
+        {
+          "de": "Bei 50 % beginnt er sich zu heilen: Feuere eine Ballista am Arenarand auf ihn. Danach kämpft er mit dem Bolzen (Kraftwelle, wachsender Frostring).",
+          "en": "At 50% he starts healing himself: fire a ballista at the edge of the arena at him. Afterwards he fights with the bolt (force wave, expanding frost ring)."
+        },
+        {
+          "de": "Bei etwa 20–25 % die nächste Ballista: Er wird mit verdorbenem Blut verstärkt und schießt verfolgende Blutranken.",
+          "en": "At around 20–25%, the next ballista: he gets empowered by corrupted blood and shoots chasing blood tendrils."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Merke dir beim Betreten, wo die drei Ballisten stehen. Den Frostring überspringst du mit einer Ausweichrolle, statt ihm davonzulaufen.",
+          "en": "Note where the three ballistae are when you enter. Jump over the frost ring with a Dodge Roll instead of running away from it."
+        }
+      ]
+    },
+    {
+      "name": "The Blind Beast",
+      "zone": "isle-of-kin",
+      "mechanics": [
+        {
+          "de": "Physisch und Blitz. Schlägt und fegt im Nahkampf, springt dich auf Distanz an; Slam mit kegelförmigem Riss.",
+          "en": "Physical and Lightning. Strikes and sweeps in melee, leaps at you at range; slam with a cone-shaped fissure."
+        },
+        {
+          "de": "Raging Combo (Warnton): vier Schläge, die Risse mit Voltaxic Sulphite Ground (Physisch + Blitz über Zeit) hinterlassen.",
+          "en": "Raging Combo (warning sound): four strikes that leave fissures with Voltaxic Sulphite Ground (Physical + Lightning over time)."
+        },
+        {
+          "de": "Ab der Hälfte von Sulphit beschleunigt: alle Angriffe schneller.",
+          "en": "From half life, accelerated by sulphite: all attacks are faster."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Den Voltaxic-Spire-Buff (+15 % Elementarres.) vorher abholen, Blitzresistenz hilft hier spürbar.",
+          "en": "Pick up the Voltaxic Spire buff (+15% Elemental Resistances) beforehand; Lightning Resistance helps noticeably here."
+        }
+      ]
+    },
+    {
+      "name": "Krutog, Lord of Kin",
+      "zone": "volcanic-warrens",
+      "mechanics": [
+        {
+          "de": "Physisch und Blitz. Dreifacher Faustschlag (nicht blockbar), Stampfmarsch auf dich zu, Leichenwürfe auf Distanz.",
+          "en": "Physical and Lightning. Triple punch (unblockable), stomping march towards you, corpse throws at range."
+        },
+        {
+          "de": "Ab ca. 80 % frisst er Sulphit: Erbrochenes bildet Sulphit-Pfützen mit Schaden über Zeit, dazu ein kegelförmiger Sulphit-Atem.",
+          "en": "From around 80% he eats sulphite: his vomit forms sulphite pools with damage over time, plus a cone-shaped sulphite breath."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Seine Trefferzone liegt an den Füßen – du kannst zwischen seinen Beinen hindurchrollen.",
+          "en": "His hitbox is at his feet – you can roll between his legs."
+        }
+      ]
+    },
+    {
+      "name": "Yama the White",
+      "zone": "halls-of-the-dead",
+      "mechanics": [
+        {
+          "de": "Physisch und Chaos. Soulrend-Projektile (Chaos über Zeit), Augen-Glyphe, die zu ätzendem Boden wird, Chaos-Flammenwerfer im Fächer.",
+          "en": "Physical and Chaos. Soulrend projectiles (Chaos over time), an eye glyph that turns into caustic ground, Chaos flamethrower in a fan."
+        },
+        {
+          "de": "Rückzugssprünge mit je zwei Chaos-Bolzen – hinter Säulen in Deckung gehen oder mehrfach rollen.",
+          "en": "Retreating leaps, each with two Chaos bolts – take cover behind pillars or roll several times."
+        },
+        {
+          "de": "Monkey Business: Er verschwindet, Klone schießen von den sechs Säulen. Lauf die Säulen ab, bis du den echten findest, und rolle vor seinem Sprung weg.",
+          "en": "Monkey Business: he vanishes and clones shoot from the six pillars. Check the pillars until you find the real one, and roll away before his leap."
+        },
+        {
+          "de": "Zeitstopp: Vier Klone deines Charakters rennen herum. Lauf zu dem, unter dem eine Sicherheitszone entsteht, bevor es explodiert.",
+          "en": "Time stop: four clones of your character run around. Run to the one that has a safe zone forming under it before it explodes."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Bewegungstempo auf Stiefeln macht den Zeitstopp viel leichter. Chaos-Schaden trifft dich ungeschützt – Lebensfläschchen bereithalten.",
+          "en": "Movement Speed on boots makes the time stop much easier. Chaos damage hits you unmitigated – keep your Life Flask ready."
+        }
+      ]
+    },
+    {
+      "name": "Captain Hartlin",
+      "zone": "journeys-end",
+      "mechanics": [
+        {
+          "de": "Physisch, Kälte und Feuer. Ankerhiebe im Nahkampf, langsame Wellen auf Distanz, Anchor Sunder in einer Linie.",
+          "en": "Physical, Cold and Fire. Anchor swings in melee, slow waves at range, Anchor Sunder in a line."
+        },
+        {
+          "de": "Spectral Anchor (Warnton): Ein Kreis erscheint unter dir, dann schlägt ein riesiger Geisteranker ein – sofort raus.",
+          "en": "Spectral Anchor (warning sound): a circle appears under you, then a giant ghostly anchor slams down – get out immediately."
+        },
+        {
+          "de": "Cannon Barrage: Geisterkanonen im Kreis um dich feuern nacheinander im Uhrzeigersinn. Ruft außerdem Skelette und ab ca. 80 % verfolgende Geistermörser.",
+          "en": "Cannon Barrage: ghostly cannons in a circle around you fire one after another clockwise. Also summons skeletons and, from around 80%, chasing ghostly mortars."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Gegen die Kanonen gegen den Uhrzeigersinn aus dem Kreis laufen.",
+          "en": "Against the cannons, run out of the circle counter-clockwise."
+        }
+      ]
+    },
+    {
+      "name": "Omniphobia, Fear Manifest",
+      "zone": "journeys-end-2",
+      "mechanics": [
+        {
+          "de": "Delirium-Boss mit Prankenhieben, Schlägen und einem Projektil-Erbrechen.",
+          "en": "Delirium boss with claw swipes, strikes and a projectile vomit."
+        },
+        {
+          "de": "Davor erscheinen Delirium-Monster aus berstenden Spiegeln; seit 0.5.5 hat Omniphobia keine Elementarresistenzen mehr.",
+          "en": "Before the fight, Delirium monsters emerge from shattering mirrors; since 0.5.5, Omniphobia no longer has Elemental Resistances."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erst die Delirium-Adds um dich ausdünnen, dann auf den Boss konzentrieren. Nicht vor dem Erbrechen stehen bleiben.",
+          "en": "Thin out the Delirium adds around you first, then focus on the boss. Don't stand in front of the vomit."
+        }
+      ]
+    },
+    {
+      "name": "Torvian, Hand of the Saviour",
+      "zone": "arastas",
+      "mechanics": [
+        {
+          "de": "Physisch und Feuer, baut trotzdem Einfrieren auf. Axtwurf, Sprungangriff, Dreier-Kombo mit Bodenexplosion.",
+          "en": "Physical and Fire, yet still builds up Freeze. Axe throw, leap attack, three-hit combo with a ground explosion."
+        },
+        {
+          "de": "Drei Priester auf Gerüsten verstärken Sprung, Kombo oder Axtwurf. Sein Steinwurf unterbricht sie: Stell dich an den Fuß des aktiven Gerüsts, damit er den Stein dorthin wirft.",
+          "en": "Three priests on scaffolds empower his leap, combo or axe throw. His rock throw interrupts them: stand at the foot of the active scaffold so he throws the rock there."
+        },
+        {
+          "de": "Heilige Wände nach dem Sprung: Wer hindurchläuft, wird leichter kritisch getroffen. Ab ca. 25 %: rotierender Lichtstrahl (Feuer über Zeit) und Axt-Explosionskaskade (Warnton).",
+          "en": "Holy walls after the leap: walking through them makes you easier to critically hit. From around 25%: rotating beam of light (Fire over time) and an axe explosion cascade (warning sound)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Laufe um die heiligen Wände herum, nicht hindurch. Den Lichtstrahl gegen den Uhrzeigersinn vor dir herschieben.",
+          "en": "Walk around the holy walls, not through them. Stay ahead of the beam of light by moving counter-clockwise."
+        }
+      ]
+    },
+    {
+      "name": "Benedictus, First Herald of Utopia",
+      "zone": "the-excavation",
+      "mechanics": [
+        {
+          "de": "Physisch, Blitz (und Feuer). Schlangenpeitsche im Nahkampf, Steinkugeln auf Distanz, Erdsäulen, die er mit Blitzen sprengt.",
+          "en": "Physical, Lightning (and Fire). Serpent whip in melee, stone orbs at range, earth pillars that he blows up with lightning."
+        },
+        {
+          "de": "Earthen Maze: Er springt in die Mitte – stell dich unter ihn, dann renne durch die leuchtenden Lücken aus allen Steinringen, bevor er sie sprengt.",
+          "en": "Earthen Maze: he leaps into the middle – stand under him, then run through the glowing gaps out of all the stone rings before he blows them up."
+        },
+        {
+          "de": "Ab ca. 65 %: Meteor/Boulder Slam (Warnton) und geladene Felsen, die explodieren, wenn du zu nah kommst. Ab ca. 60 % schrumpft die Arena; ab ca. 40 % teleportiert er sich und feuert Blitzstrahlen (ausweichen oder hinter ihn).",
+          "en": "From around 65%: Meteor/Boulder Slam (warning sound) and charged rocks that explode if you get too close. From around 60% the arena shrinks; from around 40% he teleports and fires lightning beams (dodge or get behind him)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Halte Abstand zu den Blitzfelsen und nutze die Lücken in den Erdwänden. Blitzresistenz ist hier Pflicht.",
+          "en": "Keep your distance from the lightning rocks and use the gaps in the earth walls. Lightning Resistance is a must here."
+        }
+      ]
+    },
+    {
+      "name": "Tavakai, the Chieftain",
+      "zone": "heart-of-the-tribe",
+      "mechanics": [
+        {
+          "de": "Phase 1: Grappling Hook (Warnton) zieht dich heran – seitlich ausweichen. Jade Slam mit Tukohama-Erscheinung (Warnton): schnell weg vom Boss. Jade Leap hinterlässt eine Statue, die mit seiner Landung explodiert; Jade-Krieger erwachen nach kurzer Zeit.",
+          "en": "Phase 1: Grappling Hook (warning sound) pulls you in – dodge to the side. Jade Slam with a Tukohama apparition (warning sound): get away from the boss fast. Jade Leap leaves a statue that explodes when he lands; jade warriors awaken after a short time."
+        },
+        {
+          "de": "Bei 50 % wird er zu Tavakai, the Fallen, heilt sich voll und flieht in eine zweite Arena: mehr Jade-Krieger, Blutsalven (Schock, Entzündung, Feuer-Res-Fluch), Blutpfützen, Feuerregen und Götter-Gefahren (Tawhoa-Pflanzen senken deinen Schaden, Ramakos Sonnenkugel, Arohonguis Mondstrahl, Kitavas Mal heilt ihn bei Treffern).",
+          "en": "At 50% he becomes Tavakai, the Fallen, heals fully and flees to a second arena: more jade warriors, blood volleys (Shock, Ignite, Fire Resistance curse), blood pools, fire rain and god hazards (Tawhoa's plants lower your damage, Ramako's sun orb, Arohongui's moon beam, Kitava's mark heals him on hit)."
+        },
+        {
+          "de": "Bei etwa 20 % wird er unverwundbar, ruft vergeblich Tukohama und wird zu Tavakai, the Consumed: Sunder-Kombos mit Stachelspuren, Fünfer-Kombo mit Sprüngen (Warnton), Stachelfeld in der ganzen Arena, das bei Nähe explodiert.",
+          "en": "At around 20% he becomes invulnerable, calls on Tukohama in vain and turns into Tavakai, the Consumed: Sunder combos with spike trails, a five-hit combo with leaps (warning sound), and a spike field across the whole arena that explodes when you get close."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Längster Kampf des Akts: Fläschchen und Charms voll, Resistenzen prüfen (Feuer, Kälte, Blitz und viel physischer Schaden).",
+          "en": "Longest fight of the act: Flasks and Charms full, check your resistances (Fire, Cold, Lightning and lots of Physical damage)."
+        },
+        {
+          "de": "In Phase 3 einen freien Fleck ohne Blutkristalle suchen und dort die Explosionen abwarten. Nicht in Tawhoas Pflanzenring kämpfen.",
+          "en": "In phase 3, find a free spot without blood crystals and wait out the explosions there. Don't fight inside Tawhoa's ring of plants."
+        }
+      ]
+    }
+  ]
+}

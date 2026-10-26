@@ -1,0 +1,1960 @@
+{
+  "id": "act2",
+  "order": 2,
+  "name": {
+    "de": "Akt 2",
+    "en": "Act 2"
+  },
+  "title": {
+    "de": "Vastiri-Wüste bis zur Dreadnought",
+    "en": "Vastiri Desert to the Dreadnought"
+  },
+  "levelRange": [
+    14,
+    30
+  ],
+  "summary": {
+    "de": "Du folgst der Spur der Korruption in die Vastiri-Wüste und reist mit der Ardura Caravan, einer fahrenden Stadt, von Region zu Region. Nach dem ersten Kampf gegen Jamanra an den Halani Gates erledigst du drei Routen in freier Reihenfolge (Mastodon Badlands, Keth, Valley of the Titans), um das Horn of the Vastiri zu bauen und den Sandsturm zu vertreiben. Hier wartet die erste Aufstiegsprüfung, die Trial of the Sekhemas. Der Akt endet mit Jamanra, the Abomination auf der Dreadnought.",
+    "en": "You follow the trail of corruption into the Vastiri Desert and travel from region to region with the Ardura Caravan, a moving town. After the first fight against Jamanra at the Halani Gates, you complete three routes in any order (Mastodon Badlands, Keth, Valley of the Titans) to assemble the Horn of the Vastiri and drive away the sandstorm. This is also where your first Ascendancy trial awaits: the Trial of the Sekhemas. The act ends with Jamanra, the Abomination on the Dreadnought."
+  },
+  "recommended": {
+    "level": 30,
+    "resistances": {
+      "fire": 30,
+      "cold": 30,
+      "lightning": 40,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Dauerhafte Boni: +2 Weapon-Set-Punkte (Kabala), +2 Weapon-Set-Punkte (Final Letter an Shambrin), +1 Charm-Slot mit Wahlbonus (Relic Altar im Valley of the Titans), +10 % Blitzresistenz (Sisters of Garukhan).",
+      "en": "Permanent bonuses: +2 Weapon Set Points (Kabala), +2 Weapon Set Points (Final Letter to Shambrin), +1 Charm slot with a bonus of your choice (Relic Altar in the Valley of the Titans), +10% Lightning Resistance (Sisters of Garukhan)."
+    },
+    {
+      "de": "Erster Aufstieg: Etage 1 der Trial of the Sekhemas = +2 Aufstiegspunkte. Balbala's Barya kommt bei Misserfolg zurück, die Djinn Barya der Watchful Twins in Deshar (Stufe 28) nicht.",
+      "en": "First Ascendancy: floor 1 of the Trial of the Sekhemas = +2 Ascendancy points. Balbala's Barya comes back if you fail; the Djinn Barya from the Watchful Twins in Deshar (level 28) does not."
+    },
+    {
+      "de": "Routenreihenfolge Mastodon Badlands → Keth → Valley of the Titans: Die Gebiete der noch offenen Routen steigen im Level, sobald du die Bosse der anderen Routen besiegt hast.",
+      "en": "Route order Mastodon Badlands → Keth → Valley of the Titans: the areas of the routes still open go up in level once you've killed the bosses of the other routes."
+    },
+    {
+      "de": "Relikte gezielt farmen: Sun Clan Relic von Hyänen (Bone Pits), Kabala Clan Relic von Schlangen (Keth). Beide brauchst du für den Relic Altar.",
+      "en": "Farm the relics on purpose: Sun Clan Relic from hyenas (Bone Pits), Kabala Clan Relic from snakes (Keth). You need both for the Relic Altar."
+    },
+    {
+      "de": "Feuerresistenz für Rudja und Azarian, Blitzresistenz für Jamanra (beide Kämpfe) und Tor Gul. Ziel am Aktende etwa Level 29–30.",
+      "en": "Fire Resistance for Rudja and Azarian, Lightning Resistance for Jamanra (both fights) and Tor Gul. Aim for about level 29–30 at the end of the act."
+    },
+    {
+      "de": "Speedrunner überspringen Balbala, Lightless Passage, Well of Souls und die meisten Truhen und steigen erst mit Level ~28 nach den Spires of Deshar auf.",
+      "en": "Speedrunners skip Balbala, the Lightless Passage, the Well of Souls and most chests, and only ascend at level ~28 after the Spires of Deshar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PoE2 Wiki: Act 2",
+      "url": "https://www.poe2wiki.net/wiki/Act_2",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Trial of the Sekhemas",
+      "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Sekhemas",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Weapon set",
+      "url": "https://www.poe2wiki.net/wiki/Weapon_set",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Act 2 (Gebiete, Quests, Area-IDs)",
+      "url": "https://poe2db.tw/us/Act_2",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: The Trail of Corruption (Questschritte)",
+      "url": "https://poe2db.tw/us/The_Trail_of_Corruption",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Tradition's Toll",
+      "url": "https://poe2db.tw/us/Traditions_Toll",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Valley of the Titans (Relic Altar)",
+      "url": "https://poe2db.tw/us/Valley_of_the_Titans",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "domistae: PoE 2 Act 2 Walkthrough (Patch 0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_act2_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: 0.5 Campaign Checklist",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Act 2 Boss Guide (Stand 0.2)",
+      "url": "https://maxroll.gg/poe2/getting-started/act-2-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Campaign Guide (Stand Early Access)",
+      "url": "https://maxroll.gg/poe2/getting-started/path-of-exile-2-campaign-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: 0.5.5 Forbidden Rites Patch Notes",
+      "url": "https://maxroll.gg/poe2/news/0-5-5-forbidden-rites-patch-notes",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "vastiri-outskirts",
+      "name": "Vastiri Outskirts",
+      "nameDe": "Vastiri Randgebiete",
+      "areaId": "G2_1",
+      "level": 16,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "outskirts-hooded-one",
+          "text": {
+            "de": "Sprich am Zonenanfang mit The Hooded One. Die Vastiri Outskirts sind eine Kampf-Stadt: Die Karawane wird gerade von Hyänen-Plünderern angegriffen.",
+            "en": "Talk to The Hooded One at the start of the zone. The Vastiri Outskirts are a combat town: the caravan is being attacked by hyena raiders."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Akt 2 beginnt nicht in einer sicheren Stadt, sondern mitten in einem Überfall. Der vordere Bereich mit den NPCs ist sicher, dahinter liegt ein normales Kampfgebiet. Erst wenn du den Anführer besiegt hast, öffnet sich die eigentliche Stadt, die Ardura Caravan.",
+            "en": "Act 2 doesn't start in a safe town but in the middle of a raid. The front area with the NPCs is safe; behind it is a normal combat area. Only once you've killed the leader does the actual town, the Ardura Caravan, open up."
+          }
+        },
+        {
+          "id": "forbidden-rites-ritual",
+          "text": {
+            "de": "Nur in der Forbidden-Rites-Liga (0.5.5): Jedes Kampagnengebiet hat einen Ritual-Altar. Zweimal pro Akt liegen die Ritual-Bildnisse direkt auf dem Bosskampf eines Gebiets – besiegte Bosse kehren im nächsten Ritual der Kette als Welle zurück.",
+            "en": "Forbidden Rites league (0.5.5) only: every campaign area has a Ritual altar. Twice per act, the Ritual effigies sit right on an area's boss fight – defeated bosses return as a wave in the next Ritual of the chain."
+          },
+          "kind": "tip",
+          "optional": true,
+          "mechanic": "liga-mechanik",
+          "beginner": {
+            "de": "Rituale in der Kampagne geben vor allem Leveling-Beute: Währung und Ausrüstung. Wer die ganze Boss-Kette eines Akts schafft, kann seinen Tribut am Ende für Unique-Gegenstände ausgeben. In Akt 2 gehören dazu die Quests Desert Omens und Ash and Bone. Im Standard- und im Runes-of-Aldur-Modus gibt es das nicht.",
+            "en": "Campaign Rituals mainly give leveling loot: currency and gear. If you complete an act's entire boss chain, you can spend your Tribute on unique items at the end. In Act 2 this includes the quests Desert Omens and Ash and Bone. This doesn't exist in Standard or in Runes of Aldur mode."
+          }
+        },
+        {
+          "id": "rathbreaker",
+          "text": {
+            "de": "Kämpfe dich durch die Hyänen-Plünderer und besiege Rathbreaker. Nach seinem Tod springen noch Speerwerfer von den Klippen in die Arena – erst danach ist der Kampf vorbei.",
+            "en": "Fight through the hyena raiders and kill Rathbreaker. After he dies, spear throwers still jump down from the cliffs into the arena – the fight is only over once they're dead."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Rathbreaker teilt vor allem physischen Schaden aus. Rüstung hilft dagegen, Feuerresistenz nicht. Ab etwa 60 % Leben ruft er Hyänenrudel – halte dafür einen Flächenskill bereit. Wird es zu schwer, sammle erst im Kampfbereich etwas Erfahrung und Ausrüstung.",
+            "en": "Rathbreaker mostly deals Physical damage. Armour helps against it; Fire Resistance doesn't. From about 60% Life he calls hyena packs – have an AoE skill ready for them. If it's too hard, first gather some experience and gear in the combat area."
+          }
+        },
+        {
+          "id": "outskirts-devastated-camp",
+          "text": {
+            "de": "Optional: Plündere unterwegs das verwüstete Lager (Devastated Camp) für ein Uncut Support Gem.",
+            "en": "Optional: loot the Devastated Camp on the way for an Uncut Support Gem."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "earning-passage-reward",
+          "text": {
+            "de": "Teleportiere zum Zonenanfang und sprich mit Zarka, um Earning Passage abzuschließen.",
+            "en": "Teleport to the start of the zone and talk to Zarka to complete Earning Passage."
+          },
+          "kind": "main",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Stufe 5) + 200 Gold",
+              "en": "Uncut Skill Gem (Level 5) + 200 Gold"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "enter-caravan",
+          "text": {
+            "de": "Betritt The Ardura Caravan.",
+            "en": "Enter The Ardura Caravan."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Rathbreaker ist rein physisch: Wer in Akt 1 nur auf Energieschild gesetzt hat, sollte hier ein Rüstungs- oder Ausweichteil prüfen.",
+          "en": "Rathbreaker is purely physical: if you went all-in on Energy Shield in Act 1, check for an Armour or Evasion piece here."
+        },
+        {
+          "de": "Hole dir das Uncut Skill Gem bei Zarka sofort ab – Stufe 5 erlaubt bereits einen stärkeren Hauptskill oder einen zweiten Skill.",
+          "en": "Collect the Uncut Skill Gem from Zarka right away – level 5 already allows a stronger main skill or a second skill."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "caravan-asala",
+          "text": {
+            "de": "Sprich mit The Hooded One und mit Sekhema Asala am vorderen Wagen (Lead Cart), um die Desert Map freizuschalten.",
+            "en": "Talk to The Hooded One and to Sekhema Asala at the Lead Cart to unlock the Desert Map."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Die Ardura Caravan ist eine fahrende Stadt. Statt zu Fuß von Gebiet zu Gebiet zu laufen, wählst du an der Desert Map (neben Asala) ein Ziel – die ganze Karawane fährt dorthin, und ihr Ausgang führt dann ins erste Gebiet dieser Region. Bereits entdeckte Wegpunkte in den Gebieten funktionieren wie gewohnt, um Regionen wechselst du aber über die Desert Map.",
+            "en": "The Ardura Caravan is a moving town. Instead of walking from area to area, you pick a destination on the Desert Map (next to Asala) – the whole caravan travels there, and its exit then leads into the first area of that region. Waypoints you've discovered in areas work as usual, but you switch regions via the Desert Map."
+          }
+        },
+        {
+          "id": "caravan-desert-map",
+          "text": {
+            "de": "Achte auf der Desert Map auf den goldenen Meißel über einem Ziel: Er markiert, wohin deine aktuelle Quest führt.",
+            "en": "On the Desert Map, look for the golden chisel above a destination: it marks where your current quest leads."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Die Desert Map heißt im deutschen Client „Wüstenkarte“. Fährst du am Wegpunkt mit der Maus über die Karawanen-Symbole, verweist das Spiel seit 0.5.3 ebenfalls auf die Desert Map bei Asala.",
+            "en": "Since 0.5.3, hovering over the caravan icons at a Waypoint also points you to the Desert Map at Asala."
+          }
+        },
+        {
+          "id": "caravan-vendors",
+          "text": {
+            "de": "Prüfe die Händler: Shambrin (Waffen, Rüstungen, Gürtel) und Zarka (Zauberwaffen, Fläschchen, Schmuck, Charms). The Hooded One identifiziert kostenlos und setzt Passivpunkte gegen Gold zurück.",
+            "en": "Check the vendors: Shambrin (weapons, armour, belts) and Zarka (caster weapons, Flasks, jewellery, Charms). The Hooded One identifies items for free and refunds passive points for Gold."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Zu Beginn jedes Akts lohnt sich ein Blick zu den Händlern: Neue Gegenstände haben höhere Grundwerte. Achte besonders auf Waffen mit mehr Schaden und auf Resistenzen an Schmuck und Stiefeln. Zarka kann außerdem magische und seltene Gegenstände in Splitter zerlegen.",
+            "en": "At the start of every act, check the vendors: new items have higher base values. Look especially for weapons with more damage and for resistances on jewellery and boots. Zarka can also break magic and rare items down into shards."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Karawane ist dein Hub für den ganzen Akt: Jede Quest-Abgabe (Zarka, Asala, Shambrin, Risu) passiert hier. Jeder Karawanenbesuch steht in diesem Guide als eigener Abschnitt in Routenreihenfolge.",
+          "en": "The caravan is your hub for the whole act: every quest turn-in (Zarka, Asala, Shambrin, Risu) happens here. Each caravan visit has its own section in this guide, in route order."
+        }
+      ]
+    },
+    {
+      "id": "halani-gates-closed",
+      "name": "The Halani Gates",
+      "nameDe": "Die Halani-Tore",
+      "areaId": "G2_3a",
+      "level": 20,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "halani-gates-closed",
+          "text": {
+            "de": "Reise per Desert Map zu den Halani Gates. Die Tore sind verschlossen: Sprich dort mit Asala.",
+            "en": "Use the Desert Map to travel to the Halani Gates. The gates are locked: talk to Asala there."
+          },
+          "kind": "main",
+          "verified": false,
+          "beginner": {
+            "de": "Die Quest lässt dir die Wahl, ob du zuerst die Halani Gates oder die Mawdun Quarry besuchst. Beides führt zum selben Ergebnis: Du brauchst einen anderen Weg durch die Tore, den dir später der Überläufer Risu verrät.",
+            "en": "The quest lets you choose whether to visit the Halani Gates or the Mawdun Quarry first. Both lead to the same result: you need another way through the gates, which the defector Risu reveals to you later."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Hier gibt es keinen Kampf. Wer zuerst zur Mawdun Quarry fährt, erledigt diesen Abstecher einfach nach Rudja.",
+          "en": "There's no fight here. If you go to the Mawdun Quarry first, just do this detour after Rudja."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-2",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "halani-closed-asala",
+          "text": {
+            "de": "Sprich in der Karawane erneut mit Asala und reise dann per Desert Map zur Mawdun Quarry.",
+            "en": "Talk to Asala again in the caravan, then use the Desert Map to travel to the Mawdun Quarry."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "mawdun-quarry",
+      "name": "Mawdun Quarry",
+      "nameDe": "Mawdun-Steinbruch",
+      "areaId": "G2_10_1",
+      "level": 17,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "quarry-travel",
+          "text": {
+            "de": "Reise per Desert Map zur Mawdun Quarry und folge den Checkpoints zum Eingang der Mawdun Mine.",
+            "en": "Use the Desert Map to travel to the Mawdun Quarry and follow the Checkpoints to the entrance of the Mawdun Mine."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "faridun-war-cache",
+          "text": {
+            "de": "Optional: Öffne die Faridun War Cache (ein Lager am Rand der Zone, laut 0.5.5-Guide nahe einem Checkpoint) für einen Artificer's Orb.",
+            "en": "Optional: open the Faridun War Cache (a cache at the edge of the zone, near a Checkpoint according to a 0.5.5 guide) for an Artificer's Orb."
+          },
+          "kind": "loot",
+          "optional": true,
+          "mechanic": "runen-sockel",
+          "beginner": {
+            "de": "Ein Artificer's Orb fügt einem Ausrüstungsteil einen Sockel hinzu. In diesen Sockel setzt du eine Rune ein, die dauerhaft Werte wie Resistenzen oder Schaden gibt.",
+            "en": "An Artificer's Orb adds a socket to a piece of gear. You put a Rune into that socket, which permanently grants stats such as resistances or damage."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Kiste liegt schwer auffindbar an der Außenwand. Nicht zurücklaufen, wenn du sie verpasst hast – der Orb ist nett, aber kein Muss.",
+          "en": "The chest is hard to find, against the outer wall. Don't walk back if you missed it – the orb is nice but not a must."
+        }
+      ]
+    },
+    {
+      "id": "mawdun-mine",
+      "name": "Mawdun Mine",
+      "nameDe": "Mawdun-Mine",
+      "areaId": "G2_10_2",
+      "level": 18,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "mine-rails",
+          "text": {
+            "de": "Folge den Schienen durch die Mine. Nimm an jeder Kreuzung die Weiche, deren Gleise verbunden sind – so bleibst du auf dem Hauptweg.",
+            "en": "Follow the rails through the mine. At every junction, take the switch whose tracks are connected – that keeps you on the main path."
+          },
+          "kind": "navigation",
+          "verified": false
+        },
+        {
+          "id": "mine-essence",
+          "text": {
+            "de": "Optional: Befreie die in Kristall gefangenen Monster (Essence) und besiege sie für eine Essenz.",
+            "en": "Optional: free the monsters trapped in crystal (Essence) and kill them for an Essence."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "rudja",
+          "text": {
+            "de": "Besiege Rudja, the Dread Engineer. Bleib aus Öl-Pfützen und Flammenwerferstrahl heraus und weiche Granatensalven mit der Ausweichrolle aus.",
+            "en": "Kill Rudja, the Dread Engineer. Stay out of oil puddles and the flamethrower beam, and Dodge Roll away from grenade volleys."
+          },
+          "kind": "boss",
+          "mechanic": "elementar-zustaende",
+          "beginner": {
+            "de": "Rudja wirft Öl, das dich verlangsamt und deine Feuerresistenz senkt (Fire Exposure). Entzündet ihr Flammenwerfer das Öl, entsteht brennender Boden. Feuerresistenz oder ein Ruby Charm machen den Kampf deutlich leichter. Brennen ist ein Elementarzustand: Er verursacht Schaden über Zeit, solange du darin stehst.",
+            "en": "Rudja throws oil that slows you and lowers your Fire Resistance (Fire Exposure). When her flamethrower ignites the oil, it becomes burning ground. Fire Resistance or a Ruby Charm makes the fight much easier. Burning is an elemental ailment: it deals damage over time while you stand in it."
+          }
+        },
+        {
+          "id": "rudja-gem",
+          "text": {
+            "de": "Hebe die Belohnung von Rudja auf (laut 0.5.5-Guide ein Uncut Skill Gem Stufe 6).",
+            "en": "Pick up Rudja's reward (according to a 0.5.5 guide, an Uncut Skill Gem level 6)."
+          },
+          "kind": "loot",
+          "verified": false,
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Stufe 6)",
+              "en": "Uncut Skill Gem (Level 6)"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "risu-cage",
+          "text": {
+            "de": "Befreie Risu, Faridun Defector, aus dem Käfig und sprich mit ihr. Teleportiere danach in die Karawane.",
+            "en": "Free Risu, Faridun Defector, from the cage and talk to her. Then teleport to the caravan."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Rudjas Granatensalven werden mit sinkendem Leben größer. Bleib in Bewegung und zieh sie nicht durch die eigenen Öl-Flächen.",
+          "en": "Rudja's grenade volleys get bigger as her Life drops. Keep moving and don't drag them through your own oil patches."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-3",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "risu-asala",
+          "text": {
+            "de": "Sprich am vorderen Wagen mit Risu und Asala. Reise danach per Desert Map zum Traitor's Passage (falls noch nicht geschehen, vorher kurz zu den verschlossenen Halani Gates).",
+            "en": "Talk to Risu and Asala at the Lead Cart. Then use the Desert Map to travel to the Traitor's Passage (if you haven't yet, make a quick stop at the locked Halani Gates first)."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "risu-gamble",
+          "text": {
+            "de": "Risu bleibt in der Karawane und verkauft gegen Gold Gegenstände unbekannter Seltenheit (Glücksspiel).",
+            "en": "Risu stays in the caravan and sells items of unknown rarity for Gold (gambling)."
+          },
+          "kind": "tip",
+          "optional": true,
+          "mechanic": "haendler",
+          "beginner": {
+            "de": "Beim Glücksspiel siehst du nur den Grundtyp eines Gegenstands, nicht seine Werte oder Seltenheit. Das ist ein Weg, überschüssiges Gold loszuwerden – etwa für einen Ring oder ein Amulett, wenn dir Resistenzen fehlen. Rechne aber damit, meist nur normale oder magische Gegenstände zu bekommen.",
+            "en": "When gambling, you only see an item's base type, not its stats or rarity. It's a way to spend excess Gold – e.g. on a ring or amulet if you're missing resistances. But expect to mostly get normal or magic items."
+          }
+        }
+      ]
+    },
+    {
+      "id": "traitors-passage",
+      "name": "Traitor's Passage",
+      "nameDe": "Klamm der Verräterin",
+      "areaId": "G2_2",
+      "level": 19,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "traitors-fork",
+          "text": {
+            "de": "An der Gabelung führt der mit Pergament behängte Gang zu Balbala, der andere zum Ausgang.",
+            "en": "At the fork, the corridor hung with parchment leads to Balbala; the other leads to the exit."
+          },
+          "kind": "navigation",
+          "verified": false
+        },
+        {
+          "id": "bell-chest",
+          "text": {
+            "de": "Optional: Öffne die Bell Chest in einer Sackgasse (zufällige Beute, laut einer Quelle ein Uncut Skill Gem).",
+            "en": "Optional: open the Bell Chest in a dead end (random loot; according to one source, an Uncut Skill Gem)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "balbala",
+          "text": {
+            "de": "Optional: Besiege Balbala, the Traitor. Schwerer Kampf mit viel Chaos- und Feuerschaden – nur angehen, wenn du gut ausgerüstet bist.",
+            "en": "Optional: kill Balbala, the Traitor. A tough fight with lots of Chaos and Fire damage – only take it on if you're well geared."
+          },
+          "kind": "boss",
+          "optional": true,
+          "beginner": {
+            "de": "Balbala teleportiert sich hinter dich, verschwindet zeitweise im Giftnebel (finde sie, dann löst sich der Nebel auf) und wirft goldene Münzen, aus denen Schattenkopien entstehen, wenn du die Rune nicht betrittst. Der Kampf ist optional: Eine Ersatz-Barya bekommst du später in Deshar.",
+            "en": "Balbala teleports behind you, periodically vanishes into poison mist (find her and the mist dissolves) and throws golden coins that spawn shadow copies if you don't step on the rune. The fight is optional: you get a replacement Barya later in Deshar."
+          }
+        },
+        {
+          "id": "balbala-barya",
+          "text": {
+            "de": "Nimm Balbala's Barya auf. Damit startest du die erste Trial of the Sekhemas (Quest Ascent to Power).",
+            "en": "Pick up Balbala's Barya. It lets you start your first Trial of the Sekhemas (quest Ascent to Power)."
+          },
+          "kind": "reward",
+          "optional": true,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Balbala's Barya (Schlüssel für Etage 1 der Trial of the Sekhemas)",
+              "en": "Balbala's Barya (key for floor 1 of the Trial of the Sekhemas)"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Eine Barya ist ein Münz-Schlüssel für die Aufstiegsprüfung. Balbala's Barya hat Gebietsstufe 22, öffnet genau eine Etage und kommt zurück, wenn du die Prüfung nicht schaffst. Mit dem Aufstieg wählst du deine Aufstiegsklasse (Ascendancy) und bekommst die ersten 2 Aufstiegspunkte – einer der größten Kraftsprünge im Spiel.",
+            "en": "A Barya is a coin key for the Ascendancy trial. Balbala's Barya is area level 22, opens exactly one floor and comes back if you fail the trial. When you ascend, you choose your Ascendancy class and get your first 2 Ascendancy points – one of the biggest power spikes in the game."
+          }
+        },
+        {
+          "id": "traitors-ascend",
+          "text": {
+            "de": "Steig die Treppen hinauf zu den Halani Gates.",
+            "en": "Climb the stairs up to the Halani Gates."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die meisten Speedrunner lassen Balbala aus und holen sich die Barya der Watchful Twins in Deshar – weniger mobiler Kampf und der Aufstieg passiert ohnehin erst mit Level ~28.",
+          "en": "Most speedrunners skip Balbala and get the Watchful Twins' Barya in Deshar instead – a less mobile fight, and they only ascend at level ~28 anyway."
+        },
+        {
+          "de": "Für Anfänger lohnt Balbala trotzdem: Ihre Barya geht bei einem Fehlschlag nicht verloren.",
+          "en": "For beginners Balbala is still worth it: her Barya isn't lost if you fail."
+        }
+      ]
+    },
+    {
+      "id": "halani-gates",
+      "name": "The Halani Gates",
+      "nameDe": "Die Halani-Tore",
+      "areaId": "G2_3",
+      "level": 20,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "summon-asala",
+          "text": {
+            "de": "Rufe Asala (Summon Asala) und beschütze sie, während sie nacheinander die Hebel der drei Tore öffnet.",
+            "en": "Summon Asala and protect her while she opens the levers of the three gates one after another."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Asala ist eine Begleiterin, die eigenständig kämpft. Bleibt sie an Gegnern hängen, kannst du am Checkpoint neu starten – sie erscheint dann wieder bei dir.",
+            "en": "Asala is a companion who fights on her own. If she gets stuck on enemies, you can restart at the Checkpoint – she'll reappear next to you."
+          }
+        },
+        {
+          "id": "command-tents",
+          "text": {
+            "de": "Optional: Lauf vor dem Öffnen der Tore zu den Forward Command Tents und besiege die seltenen Gegner dort für zusätzliche Beute.",
+            "en": "Optional: before opening the gates, run to the Forward Command Tents and kill the rare enemies there for extra loot."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Seltene Monster (gelber Name) haben mehrere zufällige Modifikatoren, die unter ihrem Namen stehen – etwa schnellere Angriffe, Elementarschaden oder Auren. Lies die Mods, bevor du angreifst, und meide gefährliche Kombinationen. Dafür lassen sie deutlich bessere Beute fallen.",
+            "en": "Rare monsters (yellow name) have several random modifiers listed under their name – e.g. faster attacks, elemental damage or auras. Read the mods before attacking and avoid dangerous combinations. In return, they drop much better loot."
+          }
+        },
+        {
+          "id": "jamanra-risen-king",
+          "text": {
+            "de": "Das dritte Tor ist zerstört: Kämpfe dich weiter und besiege Jamanra, the Risen King. Bei wenig Leben flieht er zur verderbten Karawane; nimm die Treppe in der Ecke der Arena und folge ihm bis zum Sandsturm.",
+            "en": "The third gate is destroyed: fight onwards and kill Jamanra, the Risen King. At low Life he flees to the corrupted caravan; take the stairs in the corner of the arena and follow him into the sandstorm."
+          },
+          "kind": "boss"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Jamanras Flameblast: Wenn er sein Schwert in den Boden rammt, lauf in den kleinen Kreis direkt am Schwert – das ist der sichere Bereich.",
+          "en": "Jamanra's Flameblast: when he rams his sword into the ground, run into the small circle right at the sword – that's the safe zone."
+        },
+        {
+          "de": "Nach dem Kampf kannst du direkt zur Trial of the Sekhemas fahren und nur den Wegpunkt holen.",
+          "en": "After the fight you can travel straight to the Trial of the Sekhemas and just grab the Waypoint."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-4",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "halani-return",
+          "text": {
+            "de": "Sprich mit Zarka (Belohnung) und mit Asala. Damit werden drei neue Ziele auf der Desert Map frei: Mastodon Badlands, Keth und Valley of the Titans.",
+            "en": "Talk to Zarka (reward) and to Asala. This unlocks three new destinations on the Desert Map: Mastodon Badlands, Keth and Valley of the Titans."
+          },
+          "kind": "main",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Skill Gem (Stufe 7)",
+              "en": "Uncut Skill Gem (Level 7)"
+            },
+            "permanent": false
+          },
+          "verified": false
+        },
+        {
+          "id": "three-routes",
+          "text": {
+            "de": "Erledige die drei Routen in beliebiger Reihenfolge. Empfohlen: Mastodon Badlands → Keth → Valley of the Titans.",
+            "en": "Complete the three routes in any order. Recommended: Mastodon Badlands → Keth → Valley of the Titans."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Für das Horn of the Vastiri brauchst du drei Teile, je eines am Ende jeder Route. Sobald du den Endboss einer Route besiegt hast, steigen die Gebiete der übrigen Routen im Level. Die empfohlene Reihenfolge sammelt unterwegs beide Relikte für den Relic Altar im Valley of the Titans ein.",
+            "en": "You need three pieces for the Horn of the Vastiri, one at the end of each route. Once you've killed a route's final boss, the areas of the remaining routes go up in level. The recommended order collects both relics for the Relic Altar in the Valley of the Titans along the way."
+          }
+        }
+      ]
+    },
+    {
+      "id": "trial-of-the-sekhemas",
+      "name": "Trial of the Sekhemas",
+      "nameDe": "Prüfung der Sekhemas",
+      "areaId": "G2_13",
+      "level": 22,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "trial-waypoint",
+          "text": {
+            "de": "Reise per Desert Map zur Trial of the Sekhemas und aktiviere den Wegpunkt. Den eigentlichen Lauf kannst du jetzt machen oder später (Speedrun: mit Level ~28 nach den Spires of Deshar).",
+            "en": "Use the Desert Map to travel to the Trial of the Sekhemas and activate the Waypoint. You can do the actual run now or later (speedrun: at level ~28 after the Spires of Deshar)."
+          },
+          "kind": "navigation",
+          "mechanic": "trial-sekhemas",
+          "beginner": {
+            "de": "Die Trial of the Sekhemas ist eine von drei Aufstiegsprüfungen. Du läufst durch eine Etage aus 8 zufälligen Räumen und besiegst am Ende einen Boss. Statt nur deines Lebens zählt hier Ehre (Honour): Ein Teil des erlittenen Schadens zieht Ehre ab, bei 0 ist der Lauf gescheitert. Das zählt nicht als Tod und kostet keine Erfahrung.",
+            "en": "The Trial of the Sekhemas is one of three Ascendancy trials. You run through a floor of 8 random rooms and kill a boss at the end. Instead of just your Life, Honour is what counts here: part of the damage you take reduces your Honour, and at 0 the run fails. That doesn't count as a death and costs no experience."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Willst du früher aufsteigen (z. B. direkt mit Balbala's Barya), mach mit dem zweiten Besuch der Prüfung weiter unten weiter – die Schritte sind dieselben.",
+          "en": "If you want to ascend earlier (e.g. right away with Balbala's Barya), continue with the second trial visit further down – the steps are the same."
+        }
+      ]
+    },
+    {
+      "id": "mastodon-badlands",
+      "name": "Mastodon Badlands",
+      "nameDe": "Mastodon-Ödlande",
+      "areaId": "G2_5_1",
+      "level": 21,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "badlands-travel",
+          "text": {
+            "de": "Reise per Desert Map zu den Mastodon Badlands (Quest A Theft of Ivory) und suche den Eingang zu den Bone Pits.",
+            "en": "Use the Desert Map to travel to the Mastodon Badlands (quest A Theft of Ivory) and find the entrance to the Bone Pits."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "shrine-of-bones",
+          "text": {
+            "de": "Optional: Plündere den Shrine of Bones (Bildnis nahe einem Checkpoint) für ein Support Gem.",
+            "en": "Optional: loot the Shrine of Bones (an effigy near a Checkpoint) for a support gem."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "badlands-abyss",
+          "text": {
+            "de": "Optional: Folge den Rissen im Boden zu einem Abyss und weiter zum Lightless Passage (Quest The Well of Souls).",
+            "en": "Optional: follow the cracks in the ground to an Abyss and on to the Lightless Passage (quest The Well of Souls)."
+          },
+          "kind": "side",
+          "optional": true,
+          "mechanic": "endgame-mechaniken",
+          "beginner": {
+            "de": "Ein Abyss ist ein Riss im Boden, aus dem Wellen von Abyss-Monstern kommen. Folgst du ihm, findest du Truhen und manchmal einen Durchgang in tiefere Höhlen. Abyss gibt es seit 0.4 fest im Spiel, auch im Endgame.",
+            "en": "An Abyss is a crack in the ground that spawns waves of Abyss monsters. If you follow it, you'll find chests and sometimes a passage into deeper caves. Abyss has been a permanent part of the game since 0.4, including in the endgame."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Zuerst diese Route spielen: Danach liegt Keth eine Stufe höher, und Kabala lässt laut 0.5.5-Guide ein Gem der Stufe 7 fallen.",
+          "en": "Play this route first: afterwards Keth is one level higher, and according to a 0.5.5 guide Kabala drops a level 7 gem."
+        }
+      ]
+    },
+    {
+      "id": "lightless-passage",
+      "name": "Lightless Passage",
+      "nameDe": "Lichtlose Passage",
+      "areaId": "Abyss_Intro",
+      "level": 22,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lightless-explore",
+          "text": {
+            "de": "Optional: Erkunde den Lightless Passage und betritt am Ende The Well of Souls.",
+            "en": "Optional: explore the Lightless Passage and enter The Well of Souls at the end."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Reine Zusatzzone ohne Pflichtbelohnung. Lohnt sich vor allem für Erfahrung und Abyss-Beute.",
+          "en": "Purely a bonus zone with no required reward. Mainly worth it for experience and Abyss loot."
+        }
+      ]
+    },
+    {
+      "id": "well-of-souls",
+      "name": "The Well of Souls",
+      "nameDe": "Der Brunnen der Seelen",
+      "areaId": "Abyss_Hub",
+      "level": 22,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "well-of-souls-use",
+          "text": {
+            "de": "Optional: Benutze den Well of Souls, um die Quest abzuschließen. Danach kannst du hier Desecrated Modifiers auf Gegenständen enthüllen.",
+            "en": "Optional: use the Well of Souls to complete the quest. Afterwards you can reveal Desecrated Modifiers on items here."
+          },
+          "kind": "side",
+          "optional": true,
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Well of Souls: Desecrated Modifiers enthüllen",
+              "en": "Well of Souls: reveal Desecrated Modifiers"
+            },
+            "permanent": false
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Der Well of Souls ist vor allem fürs Endgame relevant (Abyss-Crafting). In der Kampagne kannst du ihn ignorieren.",
+          "en": "The Well of Souls is mainly relevant for the endgame (Abyss crafting). You can ignore it during the campaign."
+        }
+      ]
+    },
+    {
+      "id": "bone-pits",
+      "name": "The Bone Pits",
+      "nameDe": "Die Knochengruben",
+      "areaId": "G2_5_2",
+      "level": 22,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sun-clan-relic",
+          "text": {
+            "de": "Töte Hyänen (Sun Clan), bis das Sun Clan Relic fällt. Die großen Hyänen haben eine höhere Chance. Behalte das Relikt für den Relic Altar.",
+            "en": "Kill hyenas (Sun Clan) until the Sun Clan Relic drops. The large hyenas have a higher chance. Keep the relic for the Relic Altar."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Das Relikt gehört zur optionalen Quest Ancient Vows. Zusammen mit dem Kabala Clan Relic aus Keth bekommst du dafür im Valley of the Titans einen zusätzlichen Charm-Slot – das lohnt sich für jeden Build.",
+            "en": "The relic is part of the optional quest Ancient Vows. Together with the Kabala Clan Relic from Keth, it gets you an extra Charm slot in the Valley of the Titans – worth it for every build."
+          }
+        },
+        {
+          "id": "iktab-ekbab",
+          "text": {
+            "de": "Besiege Iktab, the Deathlord und Ekbab, Ancient Steed, und nimm die Mastodon Tusks.",
+            "en": "Kill Iktab, the Deathlord and Ekbab, Ancient Steed, and take the Mastodon Tusks."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Zwei Bosse gleichzeitig: Iktab zaubert Blitz- und Meteor-Runen aus der Ferne, Ekbab greift mit Stoßzähnen und Ansturm im Nahkampf an. Wer übrig bleibt, wird stärker. Meist ist es leichter, zuerst Iktab zu töten.",
+            "en": "Two bosses at once: Iktab casts Lightning and meteor runes from range, Ekbab attacks in melee with tusks and charges. Whoever is left gets stronger. It's usually easier to kill Iktab first."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Fehlt das Sun Clan Relic noch, wenn Iktab und Ekbab tot sind, kläre weiter Hyänen in der Zone – später zurückzukommen kostet mehr Zeit.",
+          "en": "If the Sun Clan Relic still hasn't dropped once Iktab and Ekbab are dead, keep clearing hyenas in the zone – coming back later costs more time."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-5",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "bone-pits-return",
+          "text": {
+            "de": "Gib die Mastodon Tusks bei Zarka ab (A Theft of Ivory) und reise dann nach Keth.",
+            "en": "Hand the Mastodon Tusks to Zarka (A Theft of Ivory), then travel to Keth."
+          },
+          "kind": "main",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem + 400 Gold",
+              "en": "Uncut Support Gem + 400 Gold"
+            },
+            "permanent": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "keth",
+      "name": "Keth",
+      "nameDe": "Keth",
+      "areaId": "G2_4_1",
+      "level": 23,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "keth-travel",
+          "text": {
+            "de": "Reise per Desert Map nach Keth (Quest The City of Seven Waters) und suche den Eingang zur Lost City.",
+            "en": "Use the Desert Map to travel to Keth (quest The City of Seven Waters) and find the entrance to the Lost City."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "kabala-clan-relic",
+          "text": {
+            "de": "Töte Schlangen-Monster (Kabala-Clan), bis das Kabala Clan Relic fällt.",
+            "en": "Kill snake monsters (Kabala Clan) until the Kabala Clan Relic drops."
+          },
+          "kind": "side",
+          "verified": false,
+          "beginner": {
+            "de": "Ältere Guides nennen auch die Lost City und die Buried Shrines als Fundort. Hast du das Relikt in Keth nicht bekommen, achte in den nächsten beiden Gebieten darauf.",
+            "en": "Older guides also list the Lost City and the Buried Shrines as drop locations. If you didn't get the relic in Keth, keep an eye out for it in the next two areas."
+          }
+        },
+        {
+          "id": "keth-shrine",
+          "text": {
+            "de": "Optional: Plündere den Schrein die Treppe hinunter (Abandoned Shrine) für ein Amulett.",
+            "en": "Optional: loot the shrine down the stairs (Abandoned Shrine) for an amulet."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "kabala",
+          "text": {
+            "de": "Besiege Kabala, Constrictor Queen. Wenn sie im Sand verschwindet und Knochenwände hochzieht, lauf durch die einzige offene Lücke aus der Arena oder zerstöre eine Wand.",
+            "en": "Kill Kabala, Constrictor Queen. When she disappears into the sand and raises bone walls, run out of the arena through the only open gap or destroy a wall."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Kabala ist technisch optional, aber ihre Belohnung ist dauerhaft – mach sie immer. Ihre Knochenkäfig-Explosion trifft die ganze Arena und belegt dich 20 Sekunden mit Verwundbarkeit. Außerhalb der Wände bist du sicher.",
+            "en": "Kabala is technically optional, but her reward is permanent – always do her. Her bone cage explosion hits the whole arena and applies Vulnerability to you for 20 seconds. You're safe outside the walls."
+          }
+        },
+        {
+          "id": "kabala-reward",
+          "text": {
+            "de": "Nimm das Book of Specialisation auf, das Kabala fallen lässt, und benutze es per Rechtsklick.",
+            "en": "Pick up the Book of Specialisation that Kabala drops and right-click to use it."
+          },
+          "kind": "reward",
+          "mechanic": "waffenset-punkte",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Buch gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Zugewiesene Punkte sind nur aktiv, solange das jeweilige Set ausgerüstet ist.",
+            "en": "The book gives you 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Skarabäen und Käfer in Keth sind mit Blitz verstärkt – Blitzresistenz hilft schon hier.",
+          "en": "The scarabs and beetles in Keth are empowered with Lightning – Lightning Resistance already helps here."
+        },
+        {
+          "de": "Kabalas Schlangenschwarm kommt aus den Krügen am Rand: Flächenschaden bereithalten.",
+          "en": "Kabala's snake swarm comes out of the jars at the edge: have AoE damage ready."
+        }
+      ]
+    },
+    {
+      "id": "lost-city",
+      "name": "The Lost City",
+      "nameDe": "Die Verlorene Stadt",
+      "areaId": "G2_4_2",
+      "level": 24,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "lost-city-nav",
+          "text": {
+            "de": "Durchquere die unterirdische Lost City bis zum Eingang der Buried Shrines.",
+            "en": "Cross the underground Lost City to the entrance of the Buried Shrines."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "galleria",
+          "text": {
+            "de": "Optional: Besiege den seltenen Gegner in der Galleria (Ninth Treasure of Keth) für ein Juwel.",
+            "en": "Optional: kill the rare enemy in the Galleria (Ninth Treasure of Keth) for a jewel."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "golden-tomb",
+          "text": {
+            "de": "Optional: Öffne das Golden Tomb (laut 0.5.5-Guide ein Spirit Gem).",
+            "en": "Optional: open the Golden Tomb (according to a 0.5.5 guide, a Spirit gem)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Keine Pflichtkämpfe. Wer schnell ist, läuft direkt durch.",
+          "en": "No required fights. If you're fast, run straight through."
+        }
+      ]
+    },
+    {
+      "id": "buried-shrines",
+      "name": "Buried Shrines",
+      "nameDe": "Verschüttete Schreine",
+      "areaId": "G2_4_3",
+      "level": 25,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "guarded-sarcophagus",
+          "text": {
+            "de": "Optional: Besiege die Wächter am Guarded Sarcophagus für zusätzliche Beute.",
+            "en": "Optional: kill the guardians at the Guarded Sarcophagus for extra loot."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "elemental-offering",
+          "text": {
+            "de": "Wähle im Elementarschrein eine der drei Opfergaben: Feuer (Ruby Ring + Desert Rune), Blitz (Topaz Ring + Storm Rune) oder Kälte (Sapphire Ring + Glacial Rune).",
+            "en": "At the elemental shrine, choose one of three offerings: Fire (Ruby Ring + Desert Rune), Lightning (Topaz Ring + Storm Rune) or Cold (Sapphire Ring + Glacial Rune)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Du bekommst nur eine Opfergabe. Für den Boss Azarian ist die Feuer-Opfergabe am nützlichsten, weil er viel Feuerschaden macht. Fehlt dir eine andere Resistenz stark, nimm diese.",
+            "en": "You only get one offering. For the boss Azarian the Fire offering is the most useful, because he deals a lot of Fire damage. If you're badly missing a different resistance, take that one instead."
+          }
+        },
+        {
+          "id": "heart-of-keth",
+          "text": {
+            "de": "Steige in das Herz von Keth (Heart of Keth) hinab, vorbei an einstürzenden Böden, bis zum Halani-Schrein, wo Azarian wartet.",
+            "en": "Descend into the Heart of Keth, past collapsing floors, to the Halani shrine where Azarian waits."
+          },
+          "kind": "navigation",
+          "verified": false
+        },
+        {
+          "id": "azarian",
+          "text": {
+            "de": "Besiege Azarian, the Forsaken Son. Zieh ihn möglichst nicht in die Ecken: Dort stehen Töpfe, die beim Zerbrechen brennenden Boden erzeugen.",
+            "en": "Kill Azarian, the Forsaken Son. Try not to drag him into the corners: that's where the pots are, which create burning ground when they break."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Azarians Wirbelangriff (Infernal Cyclone) ist der gefährlichste Angriff – rolle seitlich weg, wenn er die Waffen entzündet. Wenn alle vier Töpfe kaputt sind, ist nur noch die Mitte sicher. Feuerresistenz und Lebensregeneration machen den Kampf viel einfacher.",
+            "en": "Azarian's spinning attack (Infernal Cyclone) is the most dangerous one – roll sideways when he ignites his weapons. Once all four pots are broken, only the centre is safe. Fire Resistance and Life regeneration make the fight much easier."
+          }
+        },
+        {
+          "id": "water-goddess",
+          "text": {
+            "de": "Sprich mit der Water Goddess, benutze die Everburning Cinders, um sie zu erlösen, und nimm The Essence of Water.",
+            "en": "Talk to the Water Goddess, use the Everburning Cinders to release her, and take The Essence of Water."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Das Kabala Clan Relic kann auch hier noch fallen – Schlangen nicht ignorieren, wenn es fehlt.",
+          "en": "The Kabala Clan Relic can still drop here – don't ignore the snakes if you're missing it."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-6",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "keth-return",
+          "text": {
+            "de": "Gib The Essence of Water bei Zarka ab und reise zum Valley of the Titans.",
+            "en": "Hand The Essence of Water to Zarka and travel to the Valley of the Titans."
+          },
+          "kind": "main",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem + 400 Gold",
+              "en": "Uncut Support Gem + 400 Gold"
+            },
+            "permanent": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "valley-of-the-titans",
+      "name": "Valley of the Titans",
+      "nameDe": "Tal der Titanen",
+      "areaId": "G2_6",
+      "level": 26,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ancient-seals",
+          "text": {
+            "de": "Aktiviere die drei Ancient Seals am Rand der Zone. Jeder liegt in einer kurzen Schlucht bei einem der riesigen Titanenköpfe. Das dritte Siegel öffnet den Eingang zur Titan Grotto.",
+            "en": "Activate the three Ancient Seals at the edge of the zone. Each one is in a short gorge by one of the giant titan heads. The third seal opens the entrance to the Titan Grotto."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "relic-altar",
+          "text": {
+            "de": "Setze Sun Clan Relic und Kabala Clan Relic in den Relic Altar (Medallion, an einem Seitenweg zu einem der Siegel) und wähle deinen Bonus.",
+            "en": "Place the Sun Clan Relic and Kabala Clan Relic in the Relic Altar (Medallion, on a side path to one of the seals) and choose your bonus."
+          },
+          "kind": "reward",
+          "mechanic": "charms",
+          "reward": {
+            "type": "charm-slot",
+            "amount": 1,
+            "choice": true,
+            "label": {
+              "de": "+1 Charm-Slot + Wahl: 30 % erhöhte Charm-Ladungen ODER 30 % erhöhte Charm-Wirkungsdauer",
+              "en": "+1 Charm slot + choice: 30% increased Charm charges OR 30% increased Charm effect duration"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Charms sind kleine Fläschchen im Gürtel, die automatisch auslösen, etwa wenn du eingefroren, betäubt oder in Brand gesetzt wirst. Ein zusätzlicher Slot heißt: ein Schutz mehr gleichzeitig. Die Wahl zwischen mehr Ladungen und längerer Wirkung kannst du später am Altar ändern. Ältere Guides nennen noch eine Mana-Option – die gibt es in 0.5 nicht mehr.",
+            "en": "Charms are small flasks on your belt that trigger automatically, e.g. when you're frozen, stunned or ignited. An extra slot means one more protection active at the same time. You can change the choice between more charges and longer duration later at the altar. Older guides still mention a mana option – it no longer exists in 0.5."
+          }
+        },
+        {
+          "id": "valley-abyss",
+          "text": {
+            "de": "Optional: Schließe den Abyss in der Zone ab – gute Erfahrung und seltene Beute.",
+            "en": "Optional: complete the Abyss in the zone – good experience and rare loot."
+          },
+          "kind": "loot",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Titanenköpfe sind schon vom Eingang aus sichtbar – lauf sie direkt nacheinander ab, statt die ganze Zone zu erkunden.",
+          "en": "The titan heads are visible from the entrance – run to them one after another instead of exploring the whole zone."
+        },
+        {
+          "de": "Fehlt dir ein Relikt, kannst du später zurückkehren: Der Altar bleibt verfügbar.",
+          "en": "If you're missing a relic, you can come back later: the altar stays available."
+        }
+      ]
+    },
+    {
+      "id": "titan-grotto",
+      "name": "The Titan Grotto",
+      "nameDe": "Die Grotte der Titanen",
+      "areaId": "G2_7",
+      "level": 27,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "zalmarath",
+          "text": {
+            "de": "Besiege Zalmarath, the Colossus, und nimm The Flame Ruby. Stell dich bei der Arena-Laser-Attacke hinter seinen Dolch in der Mitte.",
+            "en": "Kill Zalmarath, the Colossus, and take The Flame Ruby. During the arena laser attack, stand behind his dagger in the middle."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Zalmarath ist riesig und steht am Rand der Arena. Ziele auf Körper oder Hand. Er wischt mit dem Arm über den Boden, lässt Steine von der Decke fallen und schießt Laserstrahlen. Ab etwa 35 % kommen fliegende Konstrukte, die explodieren – zerstöre sie, bevor sie dich erreichen.",
+            "en": "Zalmarath is huge and stands at the edge of the arena. Aim for his body or hand. He sweeps his arm across the floor, drops rocks from the ceiling and fires laser beams. From about 35%, flying constructs arrive and explode – destroy them before they reach you."
+          }
+        },
+        {
+          "id": "grotto-treasure",
+          "text": {
+            "de": "Optional: Öffne in der Grotte Titans' Treasure und The Titan's Fall für zusätzliche Beute.",
+            "en": "Optional: open Titans' Treasure and The Titan's Fall in the grotto for extra loot."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Das Horn wird oben auf der Karawane benutzt, nicht in einem Kampfgebiet – nicht versehentlich in den Traitor's Passage laufen.",
+          "en": "The Horn is used on top of the caravan, not in a combat area – don't accidentally walk into the Traitor's Passage."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-7",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "horn-of-the-vastiri",
+          "text": {
+            "de": "Gib The Flame Ruby bei Zarka ab und nimm The Horn of the Vastiri. Sprich mit Asala.",
+            "en": "Hand The Flame Ruby to Zarka and take The Horn of the Vastiri. Talk to Asala."
+          },
+          "kind": "main",
+          "reward": {
+            "type": "gem",
+            "label": {
+              "de": "Uncut Support Gem + 400 Gold",
+              "en": "Uncut Support Gem + 400 Gold"
+            },
+            "permanent": false
+          }
+        },
+        {
+          "id": "sound-the-horn",
+          "text": {
+            "de": "Fahre per Desert Map zurück zum Sandsturm (Traitor's Passage / Halani Gates), betritt das Gebiet aber nicht. Steig auf das Dach der Karawane und blase das Horn. Sprich danach mit Asala und reise nach Deshar.",
+            "en": "Use the Desert Map to travel back to the sandstorm (Traitor's Passage / Halani Gates), but don't enter the area. Climb onto the caravan's roof and blow the Horn. Then talk to Asala and travel to Deshar."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "deshar",
+      "name": "Deshar",
+      "nameDe": "Deshar",
+      "areaId": "G2_8",
+      "level": 28,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "deshar-nav",
+          "text": {
+            "de": "Steig durch Deshar nach oben bis zum Eingang des Path of Mourning.",
+            "en": "Climb up through Deshar to the entrance of the Path of Mourning."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "final-letter",
+          "text": {
+            "de": "Suche am Fuß der Türme nach dem toten Fallen Dekhara und nimm den Final Letter (Quest Tradition's Toll, startet beim verlassenen Rhoa am Eingang).",
+            "en": "At the foot of the towers, look for the dead Fallen Dekhara and take the Final Letter (quest Tradition's Toll, starts at the abandoned Rhoa at the entrance)."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Ein verlassenes Reittier (Rhoa) am Anfang von Deshar zeigt, dass hier jemand aus der Karawane verunglückt ist. Die Leiche liegt am Fuß eines der Türme. Halte die Augen offen, die Belohnung ist dauerhaft.",
+            "en": "An abandoned mount (Rhoa) at the start of Deshar shows that someone from the caravan met with misfortune here. The body lies at the foot of one of the towers. Keep your eyes open; the reward is permanent."
+          }
+        },
+        {
+          "id": "watchful-twins",
+          "text": {
+            "de": "Optional: Besiege die Watchful Twins (zwei Geier in einem Seitenbereich) für eine Djinn Barya (Stufe 28) und seltene Beute.",
+            "en": "Optional: kill the Watchful Twins (two vultures in a side area) for a Djinn Barya (level 28) and rare loot."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Djinn Barya (Stufe 28) für die Trial of the Sekhemas",
+              "en": "Djinn Barya (level 28) for the Trial of the Sekhemas"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Das ist dein Ersatzschlüssel für die Aufstiegsprüfung, falls du Balbala ausgelassen hast. Anders als Balbala's Barya wird diese Barya bei einem Fehlschlag verbraucht.",
+            "en": "This is your backup key for the Ascendancy trial in case you skipped Balbala. Unlike Balbala's Barya, this Barya is consumed if you fail."
+          }
+        },
+        {
+          "id": "deshar-artificer",
+          "text": {
+            "de": "Optional: Plündere den Behälter an der Seitenwand (gegenüber den Watchful Twins) für einen Artificer's Orb.",
+            "en": "Optional: loot the container on the side wall (opposite the Watchful Twins) for an Artificer's Orb."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Deshar springt im Level deutlich (Gebietsstufe 28). Wer hier unterlevelt ankommt, sollte die Watchful Twins und Seitenwege für Erfahrung mitnehmen.",
+          "en": "Deshar jumps noticeably in level (area level 28). If you arrive underleveled, do the Watchful Twins and side paths for experience."
+        },
+        {
+          "de": "Giftige Geier und Stachel-Goliaths: Chaosschaden ist hier häufig.",
+          "en": "Poisonous vultures and spiked goliaths: Chaos damage is common here."
+        }
+      ]
+    },
+    {
+      "id": "path-of-mourning",
+      "name": "Path of Mourning",
+      "nameDe": "Pfad der Trauernden",
+      "areaId": "G2_9_1",
+      "level": 29,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "mourning-nav",
+          "text": {
+            "de": "Folge den Wehrgängen und verbundenen Räumen bis zum Eingang der Spires of Deshar. Die Übersichtskarte zeigt die Richtung zuverlässig.",
+            "en": "Follow the ramparts and connected rooms to the entrance of the Spires of Deshar. The minimap reliably shows the way."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "shifting-vases",
+          "text": {
+            "de": "Optional: Löse das Shifting-Vases-Ereignis aus (seltene Gegner und ein Support Gem).",
+            "en": "Optional: trigger the Shifting Vases event (rare enemies and a support gem)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Kurze Durchgangszone ohne Boss und ohne Pflichtbelohnung.",
+          "en": "Short transit zone with no boss and no required reward."
+        }
+      ]
+    },
+    {
+      "id": "spires-of-deshar",
+      "name": "The Spires of Deshar",
+      "nameDe": "Die Spitzen von Deshar",
+      "areaId": "G2_9_2",
+      "level": 30,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "garukhan",
+          "text": {
+            "de": "Aktiviere den Schrein Sisters of Garukhan. Du musst dafür nichts töten.",
+            "en": "Activate the Sisters of Garukhan shrine. You don't need to kill anything for it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "resistance",
+            "element": "lightning",
+            "amount": 10,
+            "label": {
+              "de": "+10 % Blitzresistenz",
+              "en": "+10% Lightning Resistance"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Ein dauerhafter Bonus, den man leicht übersieht, weil er nicht in der Quest-Liste steht. Hol ihn vor dem Boss – Jamanra macht im Finale viel Blitzschaden.",
+            "en": "A permanent bonus that's easy to miss because it isn't in the quest list. Grab it before the boss – Jamanra deals a lot of Lightning damage in the finale."
+          }
+        },
+        {
+          "id": "tor-gul",
+          "text": {
+            "de": "Besiege Tor Gul, the Defiler. Weiche seinem Feueratem seitlich aus und bleib aus Gift- und Brandflächen heraus.",
+            "en": "Kill Tor Gul, the Defiler. Dodge his fire breath sideways and stay out of poison and burning ground."
+          },
+          "kind": "boss",
+          "mechanic": "zustaende-schutz",
+          "beginner": {
+            "de": "Tor Gul kombiniert physischen, Feuer- und Chaosschaden: Sein Gift-Erbrochenes ruft Skelette, sein Feueratem verbrennt ein Drittel der Arena. Unter 50 % erzeugen seine Feuerrunen zusätzlich Flammenwirbel. Ein Charm oder Fläschchen gegen Brennen bzw. Gift nimmt dir viel Druck – Zustände abzuwehren ist oft wichtiger als mehr Schaden.",
+            "en": "Tor Gul combines Physical, Fire and Chaos damage: his toxic vomit summons skeletons, and his fire breath burns a third of the arena. Below 50%, his fire runes also create flame vortexes. A Charm or Flask against Ignite or Poison takes a lot of pressure off – preventing ailments is often more important than more damage."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Tor Gul gilt als einer der härtesten Kämpfe des Akts. Prüfe vorher Blitz- und Feuerresistenz und tausche bei Zarka/Shambrin nach.",
+          "en": "Tor Gul is considered one of the hardest fights of the act. Check your Lightning and Fire Resistance beforehand and upgrade at Zarka/Shambrin."
+        },
+        {
+          "de": "Speedrun: Hier mit Level ~28 die Trial of the Sekhemas laufen, dann zur Dreadnought.",
+          "en": "Speedrun: do the Trial of the Sekhemas here at level ~28, then head to the Dreadnought."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-8",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "final-letter-reward",
+          "text": {
+            "de": "Gib den Final Letter bei Shambrin ab und benutze das Book of Specialisation, das sie dir gibt.",
+            "en": "Hand the Final Letter to Shambrin and use the Book of Specialisation she gives you."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Buch gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Den Brief kannst du auch schon direkt nach Deshar abgeben, wenn du ohnehin in der Karawane bist.",
+            "en": "The book gives you 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. You can also hand in the letter right after Deshar if you're in the caravan anyway."
+          }
+        },
+        {
+          "id": "spires-return",
+          "text": {
+            "de": "Sprich mit Asala. Jetzt ist ein guter Zeitpunkt für die Trial of the Sekhemas, falls du noch nicht aufgestiegen bist.",
+            "en": "Talk to Asala. Now is a good time for the Trial of the Sekhemas if you haven't ascended yet."
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "id": "trial-of-the-sekhemas-2",
+      "name": "Trial of the Sekhemas",
+      "nameDe": "Prüfung der Sekhemas",
+      "areaId": "G2_13",
+      "level": 22,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "trial-relic-altar",
+          "text": {
+            "de": "Lege am Relic Altar am Eingang eine Barya ein. Beim ersten Freischalten bekommst du ein Urn Relic – setze es in den Altar, bevor du startest.",
+            "en": "Place a Barya in the Relic Altar at the entrance. The first time you unlock it you get an Urn Relic – put it in the altar before you start."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Relikte wirken nur, wenn sie vor dem Start im Altar liegen, nicht im Inventar. Sie geben Boni wie Ehre-Resistenz (weniger Ehreverlust) oder Lauftempo. Später gefundene Relikte nimmst du für den nächsten Lauf mit. Achtung: Hast du die Trial über ein Portal verlassen, kannst du den Lauf nicht fortsetzen.",
+            "en": "Relics only work if they're in the altar before you start, not in your inventory. They give bonuses such as Honour resistance (less Honour loss) or movement speed. Take relics you find later along for the next run. Note: if you left the trial through a portal, you can't continue the run."
+          }
+        },
+        {
+          "id": "trial-barya-choice",
+          "text": {
+            "de": "Wähle beim Einlegen bewusst die Barya: Balbala's Barya (Stufe 22, kommt bei Misserfolg zurück) oder die Djinn Barya der Watchful Twins aus Deshar (Stufe 28, wird verbraucht).",
+            "en": "Choose your Barya carefully when placing it: Balbala's Barya (level 22, comes back if you fail) or the Djinn Barya from the Watchful Twins in Deshar (level 28, consumed)."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Die Stufe der Barya bestimmt die Gebietsstufe der Prüfung. Eine niedrigere Barya mit einem höherstufigen Charakter ist leichter. Für den ersten Aufstiegssatz genügt eine Barya ab Gebietsstufe 22; die weiteren Etagen brauchen Barya ab Stufe 45, 60 und 75 und kommen erst im Endgame.",
+            "en": "The Barya's level determines the trial's area level. A lower-level Barya with a higher-level character is easier. For the first Ascendancy set, a Barya of area level 22 or higher is enough; the further floors need Barya of level 45, 60 and 75 and only come in the endgame."
+          }
+        },
+        {
+          "id": "trial-prepare",
+          "text": {
+            "de": "Bereite dich vor: Deine Ehre entspricht maximalem Leben + Energieschild (+ Runic Ward). Mehr Leben/ES, Bewegungstempo und Ausweichen sind wichtiger als Schaden.",
+            "en": "Prepare: your Honour equals maximum Life + Energy Shield (+ Runic Ward). More Life/ES, movement speed and Evasion matter more than damage."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Jeder Treffer kostet Ehre, auch wenn du ihn locker überlebst. Spiele deshalb vorsichtiger als sonst: Weiche Fallen aus (rolle rechtzeitig aus ihrem Wirkungsbereich), kämpfe nah statt weit weg (bis zu 35 % weniger Ehreverlust in Nahdistanz) und nutze Sacred Water bei Schreinen und beim Händler, um Ehre wiederherzustellen.",
+            "en": "Every hit costs Honour, even if you easily survive it. So play more carefully than usual: avoid traps (roll out of their area in time), fight up close rather than from far away (up to 35% less Honour loss at close range) and use Sacred Water at shrines and the merchant to restore Honour."
+          }
+        },
+        {
+          "id": "trial-rooms",
+          "text": {
+            "de": "Plane deine Route auf der Prüfungskarte. Raumtypen: Ritual, Chalice, Hourglass, Gauntlet, Escape. Speedrun-Priorität: Ritual > Chalice > Hourglass > Gauntlet.",
+            "en": "Plan your route on the trial map. Room types: Ritual, Chalice, Hourglass, Gauntlet, Escape. Speedrun priority: Ritual > Chalice > Hourglass > Gauntlet."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Chalice: alle seltenen Monster töten. Ritual: die Ritual-Wirker töten, um die Portale zu schließen. Hourglass: 90 Sekunden überleben, seltene Monster verkürzen den Timer. Gauntlet: Fallenparcours mit farbigen Hebeln. Escape: Kristalle vor Ablauf des Timers abschalten. Jeder Raum zeigt außerdem seine Belohnung (z. B. Händler, Sacred Water, Schrein, Schlüssel). Lila umrandete Räume geben dir eine Affliction (Nachteil).",
+            "en": "Chalice: kill all rare monsters. Ritual: kill the Ritual casters to close the portals. Hourglass: survive for 90 seconds; rare monsters shorten the timer. Gauntlet: trap course with coloured levers. Escape: shut down crystals before the timer runs out. Each room also shows its reward (e.g. merchant, Sacred Water, shrine, key). Rooms with a purple border give you an Affliction (a drawback)."
+          }
+        },
+        {
+          "id": "rattlecage",
+          "text": {
+            "de": "Besiege den Etagen-Boss Rattlecage, the Earthbreaker. Halte zu Beginn Abstand, er startet mit einer großen Explosion.",
+            "en": "Kill the floor boss Rattlecage, the Earthbreaker. Keep your distance at the start; he opens with a big explosion."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "ascendancy-reward",
+          "text": {
+            "de": "Aktiviere im Belohnungsraum den Ascension-Schrein, wähle deine Aufstiegsklasse und verteile die ersten 2 Aufstiegspunkte. Öffne danach die Truhen mit gefundenen Schlüsseln.",
+            "en": "In the reward room, activate the Ascension shrine, choose your Ascendancy class and spend your first 2 Ascendancy points. Then open the chests with any keys you found."
+          },
+          "kind": "reward",
+          "mechanic": "aufstieg",
+          "reward": {
+            "type": "ascendancy",
+            "amount": 2,
+            "label": {
+              "de": "+2 Aufstiegspunkte (Aufstiegsklasse wählen)",
+              "en": "+2 Ascendancy points (choose Ascendancy class)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Jede Klasse hat mehrere Aufstiegsklassen mit eigenem kleinen Talentbaum. Die Wahl ist wichtig – lies vorher, was deine Aufstiegsklasse für deinen Build tut. Insgesamt gibt es 8 Aufstiegspunkte in 4 Zweiersätzen; die nächsten holst du in der Trial of Chaos (Akt 3) oder in höheren Etagen dieser Prüfung.",
+            "en": "Each class has several Ascendancy classes, each with its own small skill tree. The choice matters – read up beforehand on what your Ascendancy does for your build. There are 8 Ascendancy points in total, in 4 sets of two; you get the next ones in the Trial of Chaos (Act 3) or on higher floors of this trial."
+          }
+        },
+        {
+          "id": "trial-reforge-bench",
+          "text": {
+            "de": "Nutze die Reforging Bench am Eingang der Prüfung, um unbrauchbare Gegenstände gleichen Typs umzuschmieden.",
+            "en": "Use the Reforging Bench at the trial entrance to reforge unwanted items of the same type."
+          },
+          "kind": "tip",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Mit Level 28 und einer Stufe-22-Barya ist Etage 1 für die meisten Builds entspannt.",
+          "en": "At level 28 with a level 22 Barya, floor 1 is relaxed for most builds."
+        },
+        {
+          "de": "Schlüssel (Bronze/Silber/Gold) aus der Prüfung öffnen die Truhen im Belohnungsraum. Übriges Sacred Water kannst du dort an der Keth-Schmiede in Schlüssel umwandeln.",
+          "en": "Keys (bronze/silver/gold) from the trial open the chests in the reward room. You can convert leftover Sacred Water into keys there at the Keth forge."
+        },
+        {
+          "de": "Du kannst auch zuerst die Trial of Chaos in Akt 3 machen: Jede der beiden Prüfungen gibt den ersten Aufstiegssatz.",
+          "en": "You can also do the Trial of Chaos in Act 3 first: either trial gives the first Ascendancy set."
+        }
+      ]
+    },
+    {
+      "id": "dreadnought",
+      "name": "The Dreadnought",
+      "nameDe": "Festungskarawane",
+      "areaId": "G2_12",
+      "level": 31,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "dreadnought-nav",
+          "text": {
+            "de": "Reise per Desert Map zur Dreadnought und kämpfe dich über die fahrenden Wagen bis zum Thron vor.",
+            "en": "Use the Desert Map to travel to the Dreadnought and fight your way across the moving wagons to the throne."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Seit 0.5 gibt es nur noch ein Dreadnought-Gebiet; der Bosskampf findet direkt hier statt. Die Monsterdichte ist hoch – gut, um vor dem Endboss noch ein Level zu holen.",
+            "en": "Since 0.5 there's only one Dreadnought area; the boss fight takes place right here. Monster density is high – good for picking up one more level before the final boss."
+          }
+        },
+        {
+          "id": "jamanra-abomination",
+          "text": {
+            "de": "Besiege Jamanra, the Abomination. Stell dich beim Sandsturm hinter Asalas Schild und lauf an Blitz-Leuchtfeuern vorbei statt hindurch.",
+            "en": "Kill Jamanra, the Abomination. During the sandstorm, stand behind Asala's shield, and walk around lightning beacons instead of through them."
+          },
+          "kind": "boss",
+          "mechanic": "betaeubung",
+          "beginner": {
+            "de": "Der Endboss des Akts. Viel Blitzschaden: Leuchtfeuer (Beacons) bilden Blitzwände, die dich verfolgen oder schocken – Schock erhöht deinen erlittenen Schaden. Der Sandsturm tötet dich schnell, wenn du nicht in Asalas Schutz stehst. Bosse haben eine Betäubungsleiste: Füllst du sie mit schweren Treffern, ist er kurz wehrlos.",
+            "en": "The act's final boss. Lots of Lightning damage: Beacons form lightning walls that chase you or Shock you – Shock increases the damage you take. The sandstorm kills you quickly if you're not inside Asala's protection. Bosses have a stun bar: fill it with heavy hits and he's briefly helpless."
+          }
+        },
+        {
+          "id": "dreadnought-asala",
+          "text": {
+            "de": "Sprich nach dem Kampf mit Asala, damit sie den letzten Schlag ausführt. Teleportiere danach in die Karawane.",
+            "en": "After the fight, talk to Asala so she can deliver the final blow. Then teleport to the caravan."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ziel: Level 29 für Jamanra, Level ~30 beim Start von Akt 3.",
+          "en": "Goal: level 29 for Jamanra, level ~30 at the start of Act 3."
+        },
+        {
+          "de": "Der 0.5.5-Guide nennt, dass Jamanra den Kampf bereits mit gebrochener Rüstung beginnt: Builds mit hohem physischem Treffer-Schaden können ihn betäuben, bevor die Blitzzaun-Phase beginnt.",
+          "en": "The 0.5.5 guide states that Jamanra starts the fight with broken armour: builds with high Physical hit damage can stun him before the lightning fence phase begins."
+        }
+      ]
+    },
+    {
+      "id": "ardura-caravan-9",
+      "name": "The Ardura Caravan",
+      "nameDe": "Die Ardura-Karawane",
+      "areaId": "G2_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "act2-end",
+          "text": {
+            "de": "Geh die Rampe nordwestlich der Wagenmitte hinunter zum Schrein und sprich mit The Hooded One. Sprich danach mit Asala und wähle „Travel to the Sandswept Marsh“.",
+            "en": "Go down the ramp northwest of the middle of the wagons to the shrine and talk to The Hooded One. Then talk to Asala and choose \"Travel to the Sandswept Marsh\"."
+          },
+          "kind": "main"
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Rathbreaker",
+      "zone": "vastiri-outskirts",
+      "mechanics": [
+        {
+          "de": "Normale Angriffe: Schwerthiebe (teils mit nachfolgendem Überkopfschlag) und Klauenhiebe – rein physischer Schaden.",
+          "en": "Basic attacks: sword slashes (sometimes followed by an overhead slam) and claw swipes – purely Physical damage."
+        },
+        {
+          "de": "Drive By: Er stürmt nach vorn, neben ihm regnet eine Linie aus Speeren herab. Seitlich ausweichen.",
+          "en": "Drive By: he charges forward while a line of spears rains down beside him. Dodge to the side."
+        },
+        {
+          "de": "Forcewave: Bodenschlag mit einer großen Druckwelle nach vorn.",
+          "en": "Forcewave: ground slam with a large shockwave forward."
+        },
+        {
+          "de": "Wind Slice: Bist du weit weg, schickt er Windstöße und lädt dann einen geraden Sunder-Schlag auf – aus der Linie gehen.",
+          "en": "Wind Slice: if you're far away, he sends gusts of wind and then charges up a straight Sunder slam – step out of the line."
+        },
+        {
+          "de": "Call the Pack (ab ca. 60 % Leben): Hyänenrudel stürmen auf dich zu. Nach seinem Tod springen die Speerwerfer von den Klippen.",
+          "en": "Call the Pack (from about 60% Life): hyena packs rush at you. After he dies, the spear throwers jump down from the cliffs."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Halte dich von den Klippenrändern fern, von dort werfen Gegner Speere.",
+          "en": "Stay away from the cliff edges; enemies throw spears from there."
+        },
+        {
+          "de": "Flächenskill für die Hyänen, Einzelzielskill für ihn bereithalten.",
+          "en": "Have an AoE skill ready for the hyenas and a single-target skill for him."
+        }
+      ]
+    },
+    {
+      "name": "Rudja, the Dread Engineer",
+      "zone": "mawdun-mine",
+      "mechanics": [
+        {
+          "de": "Explosive Granaten in Dreiersalven, die nach kurzer Verzögerung explodieren; mit sinkendem Leben mehr pro Salve.",
+          "en": "Explosive grenades in volleys of three that explode after a short delay; more per volley as her Life drops."
+        },
+        {
+          "de": "Öl-Granaten verlangsamen und geben -10 % Fire Exposure. Ihr Flammenwerfer entzündet Öl zu brennendem Boden.",
+          "en": "Oil grenades slow you and apply -10% Fire Exposure. Her flamethrower ignites oil into burning ground."
+        },
+        {
+          "de": "Gas-Granaten hinterlassen Giftwolken; Flashbang schleudert nahe Granaten weg.",
+          "en": "Gas grenades leave poison clouds; Flashbang knocks nearby grenades away."
+        },
+        {
+          "de": "Explosive Engineering: Sie steckt eine Zeitgranate an ihre Waffe und jagt dich, bis die Granate explodiert – oder bis du sie durch eine liegende Granate ziehst, dann taumelt sie.",
+          "en": "Explosive Engineering: she attaches a time grenade to her weapon and chases you until it explodes – or until you lure her through a grenade on the ground, which makes her stagger."
+        },
+        {
+          "de": "Scorched Earth: Wirft viele Öl-Granaten und dreht sich zweimal mit dem Flammenwerfer durch den Raum.",
+          "en": "Scorched Earth: throws lots of oil grenades and spins twice through the room with her flamethrower."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Feuerresistenz oder ein Ruby Charm machen den Kampf deutlich leichter.",
+          "en": "Fire Resistance or a Ruby Charm makes the fight much easier."
+        },
+        {
+          "de": "Kämpfe außerhalb der Ölflächen und weiche den Granatensalven mit der Ausweichrolle aus.",
+          "en": "Fight outside the oil patches and Dodge Roll away from the grenade volleys."
+        }
+      ]
+    },
+    {
+      "name": "Balbala, the Traitor",
+      "zone": "traitors-passage",
+      "mechanics": [
+        {
+          "de": "Doppelte Dolchhiebe; Flicker Strike teleportiert sie hinter dich, Whirling Blades lässt sie vorwärts wirbeln.",
+          "en": "Double dagger slashes; Flicker Strike teleports her behind you, Whirling Blades makes her spin forward."
+        },
+        {
+          "de": "Golden Barya: Eine Münze erzeugt eine Rune. Bleibt sie unberührt, erscheint ein Schatten von Balbala. Betrittst du sie, schlägt Balbala dort mit brennendem Boden ein – sofort herausrollen.",
+          "en": "Golden Barya: a coin creates a rune. If it's left untouched, a shadow of Balbala appears. If you step on it, Balbala crashes down there with burning ground – roll out immediately."
+        },
+        {
+          "de": "Hide and Seek: Sie verschwindet, Giftgas breitet sich von der Mitte aus. Finde sie, dann verschwindet das Gas; danach sofort wegrollen.",
+          "en": "Hide and Seek: she vanishes and poison gas spreads from the centre. Find her and the gas disappears; then roll away immediately."
+        },
+        {
+          "de": "Blazing Dagger Barrage, Poison Dagger Flurry und Explosive Daggers: Verfolgende Feuer- und Giftdolche sowie Dolche, die im Boden explodieren.",
+          "en": "Blazing Dagger Barrage, Poison Dagger Flurry and Explosive Daggers: tracking fire and poison daggers, plus daggers that explode in the ground."
+        },
+        {
+          "de": "Spinning Glaive Volley: Glefen fliegen nach außen und kehren zurück – auch auf dem Rückweg ausweichen.",
+          "en": "Spinning Glaive Volley: glaives fly outwards and come back – dodge them on the way back too."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Optionaler Kampf mit viel Chaosschaden. Lieber überleveln oder auslassen und die Barya in Deshar holen.",
+          "en": "Optional fight with lots of Chaos damage. Better to overlevel or skip it and get the Barya in Deshar."
+        }
+      ]
+    },
+    {
+      "name": "Jamanra, the Risen King",
+      "zone": "halani-gates",
+      "mechanics": [
+        {
+          "de": "Schnelle Hiebe, die ihn auf dich zutragen.",
+          "en": "Fast slashes that carry him towards you."
+        },
+        {
+          "de": "Obsidian Storm: Ein kleiner Tornado zerplatzt in wirbelnde Obsidiansplitter – aus dem Radius gehen.",
+          "en": "Obsidian Storm: a small tornado bursts into whirling obsidian shards – get out of the radius."
+        },
+        {
+          "de": "Flameblast: Mit deutlichem Warnton rammt er sein Schwert in den Boden. Lauf in den kleinen Kreis am Schwert, außerhalb nimmst du massiven Schaden.",
+          "en": "Flameblast: with a clear warning sound, he rams his sword into the ground. Run into the small circle at the sword; outside it you take massive damage."
+        },
+        {
+          "de": "Lightning Beam: Er zieht den linken Arm zurück und feuert einen Blitzstrahl – seitlich ausrollen.",
+          "en": "Lightning Beam: he pulls back his left arm and fires a lightning beam – roll out to the side."
+        },
+        {
+          "de": "Bei ca. 25 % Leben: Sandsturm und Schwärme explosiver Skarabäen; danach flieht er zur verderbten Karawane.",
+          "en": "At about 25% Life: sandstorm and swarms of explosive scarabs; then he flees to the corrupted caravan."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Der Kampf endet nicht mit seinem Tod: Folge ihm über die Treppe in der Arenaecke.",
+          "en": "The fight doesn't end with his death: follow him up the stairs in the corner of the arena."
+        }
+      ]
+    },
+    {
+      "name": "Rattlecage, the Earthbreaker",
+      "zone": "trial-of-the-sekhemas-2",
+      "mechanics": [
+        {
+          "de": "Vierbeiniger Golem mit feurigen Schlagangriffen.",
+          "en": "Four-legged golem with fiery slam attacks."
+        },
+        {
+          "de": "Zu Kampfbeginn löst er eine große Explosion um sich aus, die Balbala ankündigt – Abstand halten.",
+          "en": "At the start of the fight he triggers a big explosion around himself, announced by Balbala – keep your distance."
+        },
+        {
+          "de": "Fissure Slam erzeugt Vulkane auf dem Boden, die eine Weile bleiben.",
+          "en": "Fissure Slam creates volcanoes on the ground that stay for a while."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Jeder Treffer kostet Ehre: lieber langsam und sauber kämpfen als schnell und riskant.",
+          "en": "Every hit costs Honour: fight slowly and cleanly rather than fast and risky."
+        }
+      ]
+    },
+    {
+      "name": "Iktab, the Deathlord & Ekbab, Ancient Steed",
+      "zone": "bone-pits",
+      "mechanics": [
+        {
+          "de": "Iktab: Blitz-Explosionen als Grundangriff, Lightning Runes über die ganze Arena, drei Meteor-Runen nacheinander und eine große Blitzkugel in der Mitte, die Projektile verschießt.",
+          "en": "Iktab: lightning explosions as a basic attack, Lightning Runes across the whole arena, three meteor runes in a row and a large lightning orb in the middle that fires projectiles."
+        },
+        {
+          "de": "Ekbab: Stoßzahn-Wischer, frontaler Stampfer und Ansturm, der erst an der Wand stoppt.",
+          "en": "Ekbab: tusk swipes, a frontal stomp and a charge that only stops at the wall."
+        },
+        {
+          "de": "Stirbt Iktab, bekommt Ekbab schnellere Wischer und größere Stampfer, dazu erscheinen eine verfolgende und eine umherziehende Blitzkugel.",
+          "en": "If Iktab dies, Ekbab gets faster swipes and bigger stomps, plus a tracking and a roaming lightning orb appear."
+        },
+        {
+          "de": "Stirbt Ekbab zuerst, wirft Iktab Knochenstacheln und belegt große Teile der Arena mit Meteor- und Blitzrunen.",
+          "en": "If Ekbab dies first, Iktab throws bone spikes and covers large parts of the arena with meteor and lightning runes."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Töte zuerst Iktab – Ekbabs verstärkte Angriffe sind leichter zu lesen.",
+          "en": "Kill Iktab first – Ekbab's empowered attacks are easier to read."
+        },
+        {
+          "de": "Ekbabs Ansturm seitlich ausweichen und ihn gegen die Wand laufen lassen.",
+          "en": "Dodge Ekbab's charge sideways and let him run into the wall."
+        }
+      ]
+    },
+    {
+      "name": "Kabala, Constrictor Queen",
+      "zone": "keth",
+      "mechanics": [
+        {
+          "de": "Explosive cyanfarbene Projektile aus der Hand und Dolchhiebe.",
+          "en": "Explosive cyan projectiles from her hand and dagger slashes."
+        },
+        {
+          "de": "Tail Whip: Schwanzfeger im Nahkampf, wird mit sinkendem Leben größer.",
+          "en": "Tail Whip: melee tail sweep that gets bigger as her Life drops."
+        },
+        {
+          "de": "Snake Swarm: Beschwört Knochenschlangen aus den Krügen am Rand.",
+          "en": "Snake Swarm: summons bone snakes from the jars at the edge."
+        },
+        {
+          "de": "Death Nova: Ein Ring ihrer explosiven Projektile, der kurz danach detoniert.",
+          "en": "Death Nova: a ring of her explosive projectiles that detonates shortly after."
+        },
+        {
+          "de": "Bone Cage: Sie taucht ab, Knochenwände schließen alle Eingänge bis auf einen, dann folgt eine arenaweite Explosion mit 20 Sekunden Verwundbarkeit.",
+          "en": "Bone Cage: she submerges, bone walls close off all exits but one, then an arena-wide explosion follows with 20 seconds of Vulnerability."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Bei Bone Cage sofort die offene Lücke suchen; mit hohem Schaden kannst du auch eine Wand zerschlagen.",
+          "en": "During Bone Cage, look for the open gap immediately; with high damage you can also smash a wall."
+        }
+      ]
+    },
+    {
+      "name": "Azarian, the Forsaken Son",
+      "zone": "buried-shrines",
+      "mechanics": [
+        {
+          "de": "Grundangriff: Hiebe mit allen vier Waffen, die in einem Bodenschlag enden.",
+          "en": "Basic attack: slashes with all four weapons, ending in a ground slam."
+        },
+        {
+          "de": "Infernal Cyclone: Er entzündet seine Waffen und wirbelt auf dich zu.",
+          "en": "Infernal Cyclone: he ignites his weapons and spins towards you."
+        },
+        {
+          "de": "Burning Pitch: Feuerbombe in eine Ecke, dort breitet sich brennender Boden aus.",
+          "en": "Burning Pitch: fire bomb into a corner, where burning ground spreads."
+        },
+        {
+          "de": "Infernal Cleave (Feuerball), Infernal Ground Slam (Lava-Kegel nach vorn) und Rubble Toss, in der Feuer-Variante mit Flammenwänden entlang der Flugbahn.",
+          "en": "Infernal Cleave (fireball), Infernal Ground Slam (lava cone forward) and Rubble Toss, whose fire variant leaves flame walls along its path."
+        },
+        {
+          "de": "Vier Töpfe in den Arenaecken erzeugen beim Zerbrechen brennenden Boden – sind alle kaputt, ist nur noch die Mitte sicher.",
+          "en": "Four pots in the arena corners create burning ground when they break – once they're all broken, only the centre is safe."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Feuer-Opfergabe im Elementarschrein nehmen (Ruby Ring) und die Ecken schonen.",
+          "en": "Take the Fire offering at the elemental shrine (Ruby Ring) and spare the corners."
+        },
+        {
+          "de": "Rolle erst, wenn er den Wirbel beginnt, nicht vorher.",
+          "en": "Only roll once he starts the spin, not before."
+        }
+      ]
+    },
+    {
+      "name": "Zalmarath, the Colossus",
+      "zone": "titan-grotto",
+      "mechanics": [
+        {
+          "de": "Sweep Slam und Dagger Drag: Armwischer über die Arena, dann sticht er den Dolch in den Boden und zieht ihn zu sich zurück.",
+          "en": "Sweep Slam and Dagger Drag: arm sweep across the arena, then he stabs his dagger into the ground and drags it back towards himself."
+        },
+        {
+          "de": "Chisel Slam reißt den Boden auf; Roof Shatter lässt Felsen von der Decke fallen.",
+          "en": "Chisel Slam tears the ground open; Roof Shatter drops rocks from the ceiling."
+        },
+        {
+          "de": "Walking Flame: Feuer schlängelt sich vom Arenarand zu dir und bricht dann aus. Laser: ein Strahl, der sich kegelförmig aufspaltet.",
+          "en": "Walking Flame: fire snakes from the arena edge towards you and then erupts. Laser: a beam that splits into a cone."
+        },
+        {
+          "de": "Ab 50 %: Decimation Beam – Dolch in der Mitte, ein Strahl deckt die Arena ab. Stell dich hinter den Dolch.",
+          "en": "From 50%: Decimation Beam – dagger in the middle, a beam covers the arena. Stand behind the dagger."
+        },
+        {
+          "de": "Ab ca. 35 %: Fliegende Konstrukte kommen vom Rand und explodieren an dir.",
+          "en": "From about 35%: flying constructs come in from the edge and explode on you."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ist sein Körper schwer anzuvisieren, ziele auf seine Hand.",
+          "en": "If his body is hard to target, aim at his hand."
+        }
+      ]
+    },
+    {
+      "name": "Tor Gul, the Defiler",
+      "zone": "spires-of-deshar",
+      "mechanics": [
+        {
+          "de": "Kopfstoß auf deine Position, Armwischer über die Arena und Handschlag im Nahbereich.",
+          "en": "Headbutt at your position, arm sweep across the arena and a hand slam at close range."
+        },
+        {
+          "de": "Toxic Spew: Giftlache vor ihm, aus der Skelette entstehen.",
+          "en": "Toxic Spew: poison pool in front of him that spawns skeletons."
+        },
+        {
+          "de": "Flame Breath: Feueratem über ein Drittel der Arena mit brennendem Boden; die Drehrichtung hängt von deiner Position ab.",
+          "en": "Flame Breath: fire breath over a third of the arena with burning ground; the direction it turns depends on your position."
+        },
+        {
+          "de": "Flame Runes: Feuerrunen rund um dich, die kurz danach ausbrechen. Ribcage Barrage: Feuerball-Salve aus dem Brustkorb.",
+          "en": "Flame Runes: fire runes around you that erupt shortly after. Ribcage Barrage: fireball volley from his ribcage."
+        },
+        {
+          "de": "Unter 50 %: Runen erzeugen Flammenwirbel, die Salve ruft verfolgende brennende Schädel.",
+          "en": "Below 50%: runes create flame vortexes, and the volley summons tracking burning skulls."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Vorher Sisters of Garukhan mitnehmen und Resistenzen prüfen.",
+          "en": "Grab the Sisters of Garukhan beforehand and check your resistances."
+        },
+        {
+          "de": "Nach dem Wutanfall (Enrage-Stampfen) folgt Feueratem nach vorn – nicht vor ihm stehen bleiben.",
+          "en": "After his enrage (enrage stomp), fire breath follows to the front – don't stay in front of him."
+        }
+      ]
+    },
+    {
+      "name": "Jamanra, the Abomination",
+      "zone": "dreadnought",
+      "mechanics": [
+        {
+          "de": "Blitzbolzen auf Distanz und Blitzspray im Nahkampf; später Luftpeitschen mit Rückstoß.",
+          "en": "Lightning bolts at range and a lightning spray in melee; later, air lashes with knockback."
+        },
+        {
+          "de": "Beacons: Er wirft Leuchtfeuer, die Kettenblitze nach vorn oder Explosionen auslösen; Beacon Waltz erzeugt eine wandernde Blitzwand, die dich verfolgt. Lauf an ihm vorbei statt durch die Leuchtfeuer.",
+          "en": "Beacons: he throws beacons that trigger chain lightning forward or explosions; Beacon Waltz creates a moving lightning wall that chases you. Walk around him instead of through the beacons."
+        },
+        {
+          "de": "Obsidian Storm (Tornados aus Splittern), Obsidian Axe Sweep (Blitz-Hieb nach vorn) und Obsidian Sword Slam (lange angekündigter feuriger Bodenschlag).",
+          "en": "Obsidian Storm (tornados of shards), Obsidian Axe Sweep (lightning slash forward) and Obsidian Sword Slam (long-telegraphed fiery ground slam)."
+        },
+        {
+          "de": "Unter 50 % ersetzen Obsidiansplitter mit Blitzeinschlägen die Leuchtfeuer, unter 25 % feuert ein ringförmiger Sturm ständig Splitter über die Arena.",
+          "en": "Below 50%, obsidian shards with lightning strikes replace the beacons; below 25%, a ring-shaped storm constantly fires shards across the arena."
+        },
+        {
+          "de": "Sandstorm: Stell dich hinter Asalas Schild, sonst stirbst du schnell; währenddessen stürmen Zombies heran.",
+          "en": "Sandstorm: stand behind Asala's shield or you'll die quickly; zombies rush in meanwhile."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Beschreibung stammt aus Guides vor 0.5; seit 0.5 findet der Kampf direkt in The Dreadnought statt, Details können abweichen.",
+          "en": "This description comes from pre-0.5 guides; since 0.5 the fight takes place directly in The Dreadnought, so details may differ."
+        },
+        {
+          "de": "Zombies im Sandsturm schnell töten – sie füllen auch deine Fläschchen wieder auf.",
+          "en": "Kill the zombies quickly during the sandstorm – they also refill your Flasks."
+        }
+      ]
+    }
+  ]
+}

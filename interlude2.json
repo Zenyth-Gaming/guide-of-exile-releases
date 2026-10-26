@@ -1,0 +1,788 @@
+{
+  "id": "interlude2",
+  "order": 5,
+  "name": {
+    "de": "Interlude 2",
+    "en": "Interlude 2"
+  },
+  "title": {
+    "de": "The Stolen Barya (Vastiri)",
+    "en": "The Stolen Barya (Vastiri)"
+  },
+  "levelRange": [
+    52,
+    57
+  ],
+  "summary": {
+    "de": "Nach Akt 4 schickt dich The Hooded One in Kingsmarch los, um Verbündete für den Krieg gegen Oriath zu sammeln. Die drei Interludes sind frei wählbar; empfohlen ist, mit The Stolen Barya zu beginnen: Es ist das schwerste Interlude und wird mit jedem bereits erledigten Interlude um rund 4 Gebietsstufen schwerer. Du jagst Prinz Azmadi nach Qimah und holst unterwegs +5 % maximales Leben, 2 Weapon-Set-Punkte und einen frei wechselbaren Bonus an den Seven Pillars.",
+    "en": "After Act 4, The Hooded One in Kingsmarch sends you out to gather allies for the war against Oriath. You can do the three Interludes in any order; starting with The Stolen Barya is recommended: it's the hardest Interlude and gets about 4 area levels harder for each Interlude you've already completed. You hunt Prince Azmadi to Qimah and pick up +5% maximum Life, 2 Weapon Set points and a freely swappable bonus at the Seven Pillars along the way."
+  },
+  "recommended": {
+    "level": 57,
+    "resistances": {
+      "fire": 60,
+      "cold": 60,
+      "lightning": 60,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Reihenfolge-Empfehlung: Stolen Barya → Doryani's Contingency → Curse of Holten. Jedes erledigte Interlude hebt die Gebietsstufe der anderen um ca. +4, das letzte ist also ca. 8 Stufen höher.",
+      "en": "Recommended order: Stolen Barya → Doryani's Contingency → Curse of Holten. Each completed Interlude raises the area level of the others by about +4, so the last one is about 8 levels higher."
+    },
+    {
+      "de": "Pflicht-Mitnahmen: Skullmaw Stairway (Molten One's Gift, +5 % Leben), Akthi & Anundr → Risu (2 Weapon-Set-Punkte), Seven Pillars in Qimah (frei wechselbarer Bonus).",
+      "en": "Must-grabs: Skullmaw Stairway (Molten One's Gift, +5% Life), Akthi & Anundr → Risu (2 Weapon Set points), Seven Pillars in Qimah (freely swappable bonus)."
+    },
+    {
+      "de": "Widerstände: Ab Gebietsstufe 54 gilt −40 %, ab 60 −50 %, in Maps −60 %. Prüfe nach dem Betreten jeder Zone den Charakterbildschirm.",
+      "en": "Resistances: −40% from area level 54, −50% from 60, −60% in maps. Check your character panel after entering each zone."
+    },
+    {
+      "de": "Sel Khari Sanctuary: Yoon's und Rangeen's Barya auf die Sockel legen = zwei frei wählbare seltene Schmuckstücke (Ring/Amulett/Juwel). Lohnt sich fast immer.",
+      "en": "Sel Khari Sanctuary: place Yoon's and Rangeen's Barya on the pedestals = two rare jewellery pieces of your choice (Ring/Amulet/Jewel). Almost always worth it."
+    },
+    {
+      "de": "Speed: Torbik, Wells im Qimah Reservoir, Expedition/Ritual/Abyss und Schatzräume sind optional und überspringbar.",
+      "en": "Speed: Torbik, the wells in the Qimah Reservoir, Expedition/Ritual/Abyss and the treasure rooms are optional and skippable."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PoE2 Wiki: Interlude",
+      "url": "https://www.poe2wiki.net/wiki/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Recruit the Maraketh",
+      "url": "https://www.poe2wiki.net/wiki/Recruit_the_Maraketh",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Clearing the Way",
+      "url": "https://www.poe2wiki.net/wiki/Clearing_the_Way",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Qimah",
+      "url": "https://www.poe2wiki.net/wiki/Qimah",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Sel Khari Sanctuary",
+      "url": "https://www.poe2wiki.net/wiki/Sel_Khari_Sanctuary",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Resistance",
+      "url": "https://www.poe2wiki.net/wiki/Resistance",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2 Wiki: Weapon set",
+      "url": "https://www.poe2wiki.net/wiki/Weapon_set",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Interludes (Gebiete, Ziele, Belohnungen)",
+      "url": "https://poe2db.tw/us/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: The Khari Crossing",
+      "url": "https://poe2db.tw/us/The_Khari_Crossing",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB: Interlude The Stolen Barya",
+      "url": "https://poe2db.tw/sp/Interlude_The_Stolen_Barya",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "PoE2DB (deutsch): Interludes",
+      "url": "https://poe2db.tw/de/Interlude",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: PoE 0.5 Campaign Checklist (2026-06-02)",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "domistae: PoE 2 Interludes Guide (0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_interludes_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe-vault: Vastiri Interlude Boss Guide",
+      "url": "https://www.poe-vault.com/poe2/guides/vastiri-interlude-boss-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Exile-UI Leveltracker (Route 0.5.5)",
+      "url": "https://github.com/Lailloken/Exile-UI",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Path of Building PoE2: WorldAreas.lua (Area-IDs, Gebietsstufen)",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "khari-bazaar",
+      "name": "The Khari Bazaar",
+      "nameDe": "Der Khari-Basar",
+      "areaId": "P2_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "hooded-one-vastiri",
+          "text": {
+            "de": "Sprich in Kingsmarch nach dem Ende von Akt 4 mit The Hooded One und wähle die Reise in die Vastiri-Wüste (The Stolen Barya).",
+            "en": "After finishing Act 4, talk to The Hooded One in Kingsmarch and choose to travel to the Vastiri Desert (The Stolen Barya)."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Nach Akt 4 öffnen sich drei Interludes. Du startest jedes über The Hooded One in Kingsmarch, später auch direkt in den Interlude-Städten. Alle drei sind Pflicht für das Endgame, die Reihenfolge ist frei. Wichtig: Jedes erledigte Interlude macht die anderen schwerer (Gebietsstufe steigt um etwa 4). Deshalb lohnt es sich, das schwerste (dieses hier) zuerst zu spielen. Prüfe vorher deine Widerstände: In den Interludes sinken sie je nach Gebietsstufe um 40 % bzw. 50 %.",
+            "en": "After Act 4, three Interludes open up. You start each one via The Hooded One in Kingsmarch, and later directly from the Interlude towns as well. All three are required for the endgame, in any order. Important: each completed Interlude makes the others harder (area level goes up by about 4). That's why it pays to play the hardest one (this one) first. Check your resistances beforehand: in the Interludes they drop by 40% or 50% depending on area level."
+          }
+        },
+        {
+          "id": "asala-zarka",
+          "text": {
+            "de": "Sprich mit Sekhema Asala und danach mit Zarka. Zarka schickt dich zum Turm von Ab Binayi in der Khari Crossing.",
+            "en": "Talk to Sekhema Asala, then to Zarka. Zarka sends you to the tower of Ab Binayi in the Khari Crossing."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "risu-quest",
+          "text": {
+            "de": "Sprich mit Risu, um die Nebenquest Clearing the Way (Akthi und Anundr töten) zu starten.",
+            "en": "Talk to Risu to start the side quest Clearing the Way (kill Akthi and Anundr)."
+          },
+          "kind": "side",
+          "beginner": {
+            "de": "Diese Nebenquest ist optional, gibt aber 2 Weapon-Set-Punkte (Book of Specialisation). Nimm sie immer mit.",
+            "en": "This side quest is optional, but it gives 2 Weapon Set points (Book of Specialisation). Always do it."
+          }
+        },
+        {
+          "id": "bazaar-vendors",
+          "text": {
+            "de": "Prüfe die Händler auf Upgrades, besonders Waffen und Schmuck mit Widerständen.",
+            "en": "Check the vendors for upgrades, especially weapons and jewellery with resistances."
+          },
+          "kind": "tip",
+          "optional": true,
+          "beginner": {
+            "de": "Neue Stadt = neues Händlerangebot. Die Widerstandsstrafe steigt in den Interludes stark; ein Ring oder Gürtel mit Feuer-, Kälte- oder Blitzwiderstand vom Händler ist oft das günstigste Upgrade. Gold hast du nach vier Akten meist genug.",
+            "en": "New town = new vendor stock. The resistance penalty climbs steeply in the Interludes; a vendor ring or belt with Fire, Cold or Lightning Resistance is often the cheapest upgrade. After four Acts you usually have plenty of Gold."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "The Hooded One steht in jeder Interlude-Stadt und kann dich direkt zum nächsten Interlude schicken, du musst nicht über Kingsmarch.",
+          "en": "The Hooded One is in every Interlude town and can send you straight to the next Interlude; you don't have to go through Kingsmarch."
+        },
+        {
+          "de": "Die Stadt hat Gebietsstufe 64, die Kampfzonen starten bei 54 (bei erstem Interlude).",
+          "en": "The town is area level 64, the combat zones start at 54 (if this is your first Interlude)."
+        }
+      ]
+    },
+    {
+      "id": "khari-crossing",
+      "name": "The Khari Crossing",
+      "nameDe": "Die Khari-Querung",
+      "areaId": "P2_1",
+      "level": 54,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "ab-binayi-wayfinder",
+          "text": {
+            "de": "Steige auf den Turm von Ab Binayi und aktiviere den Wayfinder. Folge dem Pfeil zu den weiteren Wayfindern bis zum Eingang der Pools of Khatal.",
+            "en": "Climb the tower of Ab Binayi and activate the Wayfinder. Follow the arrow to the other Wayfinders until you reach the entrance to the Pools of Khatal."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Die Khari Crossing ist eine große, offene Wüstenzone ohne Wegpunkt. Der Wayfinder zeigt dir per Pfeil den Weg. Nutze die Checkpoints (leuchtende Steine): Du kannst zwischen ihnen hin- und herreisen und spawnst nach dem Tod dort.",
+            "en": "The Khari Crossing is a large, open desert zone with no Waypoint. The Wayfinder shows you the way with an arrow. Use the Checkpoints (glowing stones): you can travel back and forth between them, and you respawn there after dying."
+          }
+        },
+        {
+          "id": "skullmaw-stairway",
+          "text": {
+            "de": "Suche im Norden der Zone den Eingang zur Skullmaw Stairway (große Schädel-Höhle). Am Ende steht der Molten Shrine: Nimm Molten One's Gift und benutze es.",
+            "en": "In the north of the zone, find the entrance to the Skullmaw Stairway (large skull cave). The Molten Shrine is at the end: take Molten One's Gift and use it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "life",
+            "amount": 5,
+            "label": {
+              "de": "+5 % maximales Leben (Molten One's Gift)",
+              "en": "+5% maximum Life (Molten One's Gift)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Dieser Bonus ist nicht als Quest markiert und wird deshalb oft übersehen. +5 % maximales Leben gelten für immer und skalieren mit deinem ganzen Leben, also ein sehr wertvoller Fund. Die Treppe ist eine Sackgasse: Danach am einfachsten per Checkpoint zurückreisen. Falls die Wayfinder-Siegel verbuggt wirken, hilft eine neue Instanz.",
+            "en": "This bonus isn't marked as a quest, so it's often missed. +5% maximum Life is permanent and scales with your entire Life pool, so it's a very valuable find. The stairway is a dead end: afterwards it's easiest to travel back via Checkpoint. If the Wayfinder sigils seem bugged, a new instance helps."
+          }
+        },
+        {
+          "id": "torbik",
+          "text": {
+            "de": "Optional: Rette den Händler Torbik (Hilferufe in der Zone) und prüfe sein Angebot, unter anderem Caster-Waffen und Schmuck.",
+            "en": "Optional: Rescue the merchant Torbik (cries for help in the zone) and check his stock, which includes caster weapons and jewellery."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "galai-gates-wp",
+          "text": {
+            "de": "Gehe kurz in The Galai Gates und aktiviere dort den Wegpunkt, dann zurück in die Khari Crossing.",
+            "en": "Pop into The Galai Gates briefly and activate the Waypoint there, then go back to the Khari Crossing."
+          },
+          "kind": "navigation",
+          "optional": true,
+          "beginner": {
+            "de": "Die Khari Crossing hat keinen eigenen Wegpunkt. Wenn du den Wegpunkt der Galai Gates früh holst, sparst du dir später den langen Weg durch die Wüste.",
+            "en": "The Khari Crossing has no Waypoint of its own. Grabbing the Galai Gates Waypoint early saves you the long walk through the desert later."
+          }
+        },
+        {
+          "id": "akthi-anundr",
+          "text": {
+            "de": "Besiege Akthi, the Final Sting, und Anundr, the Sandworm, in ihrer Arena.",
+            "en": "Defeat Akthi, the Final Sting, and Anundr, the Sandworm, in their arena."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Ein Doppelboss: ein riesiger Skorpion und ein Sandwurm. Konzentriere dich auf einen der beiden, statt den Schaden zu verteilen. Viel Gift (Chaos): Ein Fläschchen oder Charm gegen Gift hilft. Treibsand verlangsamt dich stapelbar und verschwindet nur, wenn du weiterläufst.",
+            "en": "A double boss: a giant scorpion and a sandworm. Focus on one of them instead of splitting your damage. Lots of Poison (Chaos): a flask or Charm against Poison helps. Quicksand slows you, stacks, and only goes away if you keep moving."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Route (Exile-UI 0.5.5): zuerst Skullmaw Stairway, dann Galai-Gates-Wegpunkt holen, danach Akthi & Anundr, Portal zu Risu, zurück und weiter in die Pools of Khatal.",
+          "en": "Route (Exile-UI 0.5.5): Skullmaw Stairway first, then grab the Galai Gates Waypoint, then Akthi & Anundr, portal to Risu, back and on to the Pools of Khatal."
+        },
+        {
+          "de": "Akthi & Anundr zählen wie alle Interlude-Bosse für die Gebietsstufen-Skalierung der anderen Interludes.",
+          "en": "Like all Interlude bosses, Akthi & Anundr count towards the area level scaling of the other Interludes."
+        }
+      ]
+    },
+    {
+      "id": "khari-bazaar-2",
+      "name": "The Khari Bazaar",
+      "nameDe": "Der Khari-Basar",
+      "areaId": "P2_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "risu-book",
+          "text": {
+            "de": "Sprich im Khari Bazaar mit Risu (per Portal), nimm das Book of Specialisation und benutze es.",
+            "en": "In the Khari Bazaar, talk to Risu (via portal), take the Book of Specialisation and use it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Book of Specialisation gibt dir zwei Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Rechtsklick auf das Buch im Inventar, sonst bekommst du die Punkte nicht.",
+            "en": "The Book of Specialisation gives you two Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. Right-click the book in your inventory, otherwise you won't get the points."
+          }
+        }
+      ]
+    },
+    {
+      "id": "khari-crossing-2",
+      "name": "The Khari Crossing",
+      "nameDe": "Die Khari-Querung",
+      "areaId": "P2_1",
+      "level": 54,
+      "town": false,
+      "waypoint": false,
+      "steps": [
+        {
+          "id": "to-pools-of-khatal",
+          "text": {
+            "de": "Zurück in der Khari Crossing: Folge den Wayfindern zum Temple of the Water Guard und betritt die Pools of Khatal.",
+            "en": "Back in the Khari Crossing: follow the Wayfinders to the Temple of the Water Guard and enter the Pools of Khatal."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "crossing-ritual",
+          "text": {
+            "de": "Optional: Erledige die Ritual-Altäre der Zone für zusätzliche Belohnungen.",
+            "en": "Optional: Do the zone's Ritual altars for extra rewards."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "pools-of-khatal",
+      "name": "Pools of Khatal",
+      "nameDe": "Becken von Khatal",
+      "areaId": "P2_2",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "khatal-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und durchquere die Pools of Khatal bis zum Eingang des Sel Khari Sanctuary.",
+            "en": "Activate the Waypoint and cross the Pools of Khatal to the entrance of the Sel Khari Sanctuary."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "khatal-expedition",
+          "text": {
+            "de": "Optional: Erledige die Expedition-Begegnung der Zone.",
+            "en": "Optional: Do the zone's Expedition encounter."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Reine Durchgangszone. Speedrunner laufen direkt durch.",
+          "en": "Pure transit zone. Speedrunners run straight through."
+        }
+      ]
+    },
+    {
+      "id": "sel-khari-sanctuary",
+      "name": "Sel Khari Sanctuary",
+      "nameDe": "Sel-Khari-Heiligtum",
+      "areaId": "P2_3",
+      "level": 55,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sel-khari-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und suche nach dem Water Guard Envoy und der Grand Barya.",
+            "en": "Activate the Waypoint and look for the Water Guard Envoy and the Grand Barya."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "two-wishes",
+          "text": {
+            "de": "Optional: Sammle Yoon's Barya und Rangeen's Barya (Drops von Serpent-Gegnern) und lege sie auf die zwei Sockel am Rand der Karte. Wähle bei jedem Djinn einen Wunsch: Ring, Amulett oder Juwel.",
+            "en": "Optional: Collect Yoon's Barya and Rangeen's Barya (dropped by Serpent enemies) and place them on the two pedestals at the edge of the map. Make a wish at each Djinn: Ring, Amulet or Jewel."
+          },
+          "kind": "loot",
+          "optional": true,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "2 seltene, identifizierte Gegenstände zur Wahl (Ring / Amulett / Juwel)",
+              "en": "Choice of 2 rare, identified items (Ring / Amulet / Jewel)"
+            },
+            "permanent": false,
+            "choice": true
+          },
+          "beginner": {
+            "de": "Jeder Djinn bietet dir einen seltenen, bereits identifizierten Gegenstand an: Ring (Ruby, Sapphire, Topaz, Prismatic), Amulett (Amber, Jade, Lapis, Stellar) oder Juwel (Ruby, Sapphire, Emerald). Was du beim ersten Djinn wählst, fällt beim zweiten weg; die Wahl ist endgültig. Lies die Affixe genau: Für Anfänger sind Leben und Widerstände meist wertvoller als Schaden.",
+            "en": "Each Djinn offers you a rare, already identified item: Ring (Ruby, Sapphire, Topaz, Prismatic), Amulet (Amber, Jade, Lapis, Stellar) or Jewel (Ruby, Sapphire, Emerald). Whatever you pick at the first Djinn is unavailable at the second; the choice is final. Read the affixes carefully: for beginners, Life and resistances are usually worth more than damage."
+          },
+          "mechanic": "item-affixe"
+        },
+        {
+          "id": "sel-khari-treasure",
+          "text": {
+            "de": "Optional: Plündere die zwei Schatzräume nahe dem Eingang (Truhen und Gold). Beim Nehmen erscheinen Stone Soldiers.",
+            "en": "Optional: Loot the two treasure rooms near the entrance (chests and Gold). Stone Soldiers appear when you loot them."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "elzarah",
+          "text": {
+            "de": "Besiege Elzarah, the Cobra Lord, in der Kammer am Ende des Tempels.",
+            "en": "Defeat Elzarah, the Cobra Lord, in the chamber at the end of the temple."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Elzarah füllt die Arena nach und nach mit Staubbällen und Tornados. Tornados, die über einen Staubball laufen, fangen Feuer. Halte die Arena-Mitte möglichst frei und bleib in Bewegung. Er beschwört Skelettschlangen: Räume sie schnell weg, bevor sie dich einkesseln.",
+            "en": "Elzarah gradually fills the arena with dust balls and tornadoes. Tornadoes that pass over a dust ball catch fire. Keep the middle of the arena as clear as you can and keep moving. He summons skeletal snakes: clear them quickly before they surround you."
+          }
+        },
+        {
+          "id": "djinn-barya",
+          "text": {
+            "de": "Sammle die Djinn Barya ein, die Elzarah fallen lässt (Schlüssel für die Trial of the Sekhemas, Gebietsstufe 60+, 3 Etagen).",
+            "en": "Pick up the Djinn Barya that Elzarah drops (key for the Trial of the Sekhemas, area level 60+, 3 floors)."
+          },
+          "kind": "loot",
+          "verified": false,
+          "beginner": {
+            "de": "Eine Djinn Barya startet einen Lauf in der Trial of the Sekhemas (Aufstiegsprüfung aus Akt 2). Bewahre sie auf, damit kannst du später weitere Aufstiegspunkte holen.",
+            "en": "A Djinn Barya starts a run in the Trial of the Sekhemas (the Ascendancy trial from Act 2). Hold on to it: you can use it later to earn more Ascendancy points."
+          }
+        },
+        {
+          "id": "asala-jado",
+          "text": {
+            "de": "Sprich mit Sekhema Asala und Jado. Gehe danach zurück in den Khari Bazaar.",
+            "en": "Talk to Sekhema Asala and Jado. Then head back to the Khari Bazaar."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Baryas droppen nicht garantiert vom ersten Gegner; wer schnell ist, sammelt sie nebenbei beim Weg zum Boss.",
+          "en": "The Baryas aren't guaranteed to drop from the first enemy; if you're quick, collect them on the way to the boss."
+        }
+      ]
+    },
+    {
+      "id": "galai-gates",
+      "name": "The Galai Gates",
+      "nameDe": "Die Galai-Tore",
+      "areaId": "P2_5",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "galai-traverse",
+          "text": {
+            "de": "Reise per Wegpunkt in The Galai Gates und durchquere die Zone.",
+            "en": "Take the Waypoint to The Galai Gates and cross the zone."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "vornas",
+          "text": {
+            "de": "Besiege Vornas, the Fell Flame, und betritt danach Qimah.",
+            "en": "Defeat Vornas, the Fell Flame, then enter Qimah."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Vornas ist ein Nahkämpfer mit Sprungangriff, wenn du auf Abstand bist. Gefährlich ist seine Vierfach-Schlag-Kombo nach einem Brüllen: Sie hinterlässt Risse mit Voltaxic Sulphite, die Physisch- und Blitzschaden über Zeit machen. Nicht in diesen Flächen stehen bleiben.",
+            "en": "Vornas is a melee fighter who leaps at you when you keep your distance. The dangerous part is his four-hit combo after a roar: it leaves cracks with Voltaxic Sulphite that deal Physical and Lightning damage over time. Don't stand in those areas."
+          }
+        },
+        {
+          "id": "galai-optional",
+          "text": {
+            "de": "Optional: Abyss- und Ritual-Begegnungen in der Zone.",
+            "en": "Optional: Abyss and Ritual encounters in the zone."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "qimah",
+      "name": "Qimah",
+      "nameDe": "Qimah",
+      "areaId": "P2_6",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "qimah-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und erkunde Qimah auf der Suche nach dem Ceremony Site.",
+            "en": "Activate the Waypoint and explore Qimah in search of the Ceremony Site."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "seven-pillars",
+          "text": {
+            "de": "Suche den versteckten Seitenraum The Seven Pillars (schmaler Durchgang am Kartenrand) und wähle eine Säule. Die Wahl ist jederzeit dort änderbar.",
+            "en": "Find the hidden side room The Seven Pillars (narrow passage at the edge of the map) and pick a pillar. You can change your choice there at any time."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "stat",
+            "label": {
+              "de": "1 von 7: +5 % Ele-Widerst. / 3 % Tempo / 15 % Verteidigung / 20 % Präsenz-Bereich / 12 % Abklingzeit / +5 Attribute / +5 % EP mit Abzügen",
+              "en": "1 of 7: +5% Elemental Res / 3% Movement Speed / 15% Defences / 20% Presence Area / 12% Cooldown / +5 Attributes / +5% XP with penalties"
+            },
+            "permanent": true,
+            "choice": true
+          },
+          "beginner": {
+            "de": "Du hast immer genau einen Bonus aktiv und kannst ihn jederzeit an den Säulen wechseln. Für Anfänger meist am besten: Tabana (+5 % auf alle Elementarwiderstände), weil 75 % Widerstand im Endgame Pflicht sind. Orbala (+3 % Bewegungstempo) mögen schnelle Spieler und Mapper. Kochai (+5 alle Attribute) hilft, wenn dir Attribute für Ausrüstung oder Gems fehlen. Ahkeli für Rüstung/Ausweichen/ES-Builds, Galai für Aura-, Banner- oder Minion-Builds (Präsenz), Halani für Builds mit Abklingzeit-Skills. Alima's Disgrace gibt +5 % Erfahrung, aber Abzüge auf alle anderen Werte: nur für erfahrene Spieler.",
+            "en": "You always have exactly one bonus active and can swap it at the pillars any time. Usually best for beginners: Tabana (+5% to all Elemental Resistances), since 75% resistance is mandatory in the endgame. Orbala (+3% Movement Speed) is popular with fast players and mappers. Kochai (+5 to all Attributes) helps if you're short on Attributes for gear or gems. Ahkeli for Armour/Evasion/ES builds, Galai for aura, banner or minion builds (Presence), Halani for builds with cooldown skills. Alima's Disgrace gives +5% experience but penalties to all other stats: experienced players only."
+          }
+        },
+        {
+          "id": "qimah-strongboxes",
+          "text": {
+            "de": "Optional: Öffne die zwei garantierten Strongboxes in der Nähe der Checkpoints.",
+            "en": "Optional: Open the two guaranteed Strongboxes near the Checkpoints."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "summon-jado",
+          "text": {
+            "de": "Der Ausgang ist versperrt: Suche am Ceremony Site den Water Guard Envoy, beschwöre Jado, sprich mit ihm und betritt das Qimah Reservoir.",
+            "en": "The exit is blocked: find the Water Guard Envoy at the Ceremony Site, summon Jado, talk to him and enter the Qimah Reservoir."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Seven Pillars sind leicht zu übersehen und auf der Weltkarte nur als kleines Symbol markiert: Laut Exile-UI liegt der Seitenraum entweder an einem Kartenrand oder neben dem Ein-/Ausgang der Arena.",
+          "en": "The Seven Pillars are easy to miss and only marked with a small icon on the world map: according to Exile-UI, the side room is either at an edge of the map or next to the arena entrance/exit."
+        },
+        {
+          "de": "Wer später schneller mappen will, wechselt nach dem Widerstandsausgleich auf Orbala (+3 % Bewegungstempo).",
+          "en": "If you want to map faster later, switch to Orbala (+3% Movement Speed) once your resistances are sorted."
+        }
+      ]
+    },
+    {
+      "id": "qimah-reservoir",
+      "name": "Qimah Reservoir",
+      "nameDe": "Qimah-Reservoir",
+      "areaId": "P2_7",
+      "level": 56,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "reservoir-waypoint",
+          "text": {
+            "de": "Aktiviere den Wegpunkt und erkunde das Qimah Reservoir.",
+            "en": "Activate the Waypoint and explore the Qimah Reservoir."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "sacred-wells",
+          "text": {
+            "de": "Optional: Finde die zwei Phiolen (Vials) und benutze sie an den Sacred Wells für Currency. Die erste Phiole droppt, die zweite liegt in einer Truhe in einem Seitenraum.",
+            "en": "Optional: Find the two Vials and use them at the Sacred Wells for currency. The first Vial drops; the second is in a chest in a side room."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "bloodbilge",
+          "text": {
+            "de": "Optional: Töte den seltenen Gegner Bloodbilge.",
+            "en": "Optional: Kill the rare enemy Bloodbilge."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "azmadi",
+          "text": {
+            "de": "Besiege Azmadi, the Faridun Prince. Bei etwa 75 % Leben greift Zarokh, the Temporal, ein und verstärkt ihn.",
+            "en": "Defeat Azmadi, the Faridun Prince. At around 75% Life, Zarokh, the Temporal, steps in and empowers him."
+          },
+          "kind": "boss",
+          "beginner": {
+            "de": "Der Endboss dieses Interludes. In Phase 1 kämpft Azmadi mit Schwertkombos, Bumerang-Schwert und Ausfallschritten. Ab ca. 75 % Leben verleiht Zarokh ihm Zeitmagie: eine Zeitblase, die dich verlangsamt, Windschnitte und Klon-Angriffe. Verlasse die Blase sofort per Ausweichrolle. Ab ca. 60 % umringt er dich mit vier Klonen in Sternform: Rolle aus der Mitte heraus, sobald die Klone erscheinen.",
+            "en": "The final boss of this Interlude. In phase 1, Azmadi fights with sword combos, a boomerang sword and lunges. From around 75% Life, Zarokh grants him time magic: a time bubble that slows you, wind slashes and clone attacks. Leave the bubble immediately with a dodge roll. From around 60% he surrounds you with four clones in a star pattern: roll out of the middle as soon as the clones appear."
+          }
+        },
+        {
+          "id": "grand-barya",
+          "text": {
+            "de": "Interagiere mit der Grand Barya und sprich mit Jado und Sekhema Asala. Öffne danach ein Portal in den Khari Bazaar.",
+            "en": "Interact with the Grand Barya and talk to Jado and Sekhema Asala. Then open a portal to the Khari Bazaar."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Wer die Seven Pillars noch nicht hat, kann per Wegpunkt nach Qimah zurück; die Säulen bleiben dauerhaft zugänglich.",
+          "en": "If you haven't done the Seven Pillars yet, you can take the Waypoint back to Qimah; the pillars stay accessible permanently."
+        }
+      ]
+    },
+    {
+      "id": "khari-bazaar-3",
+      "name": "The Khari Bazaar",
+      "nameDe": "Der Khari-Basar",
+      "areaId": "P2_Town",
+      "level": 64,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "barya-next",
+          "text": {
+            "de": "Sprich im Khari Bazaar mit Sekhema Asala und The Hooded One und reise zum nächsten Interlude (empfohlen: Mount Kriar, Doryani's Contingency).",
+            "en": "In the Khari Bazaar, talk to Sekhema Asala and The Hooded One and travel to the next Interlude (recommended: Mount Kriar, Doryani's Contingency)."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Ab jetzt sind die anderen beiden Interludes ca. 4 Gebietsstufen höher. Prüfe deine Widerstände, bevor du losziehst: Ab Gebietsstufe 60 beträgt die Strafe −50 %.",
+            "en": "From now on, the other two Interludes are about 4 area levels higher. Check your resistances before heading out: from area level 60 the penalty is −50%."
+          }
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Akthi, the Final Sting & Anundr, the Sandworm",
+      "zone": "khari-crossing",
+      "mechanics": [
+        {
+          "de": "Anundr gräbt sich viermal schnell ein und wieder aus und lässt dabei Körpersegmente am Arenarand liegen. Ab 75 %: Eruption (taucht auf, spawnt vier Larven, spuckt Giftgeschosse) und Tail Sunder, ein roter (ausweichpflichtiger) Erdriss in einer Linie auf dich zu. Ab 30 %: Giftsalve im 180°-Bogen.",
+          "en": "Anundr quickly burrows in and out four times, leaving body segments at the edge of the arena. From 75%: Eruption (surfaces, spawns four larvae, spits poison projectiles) and Tail Sunder, a red (must dodge) ground crack in a line towards you. From 30%: poison volley in a 180° arc."
+        },
+        {
+          "de": "Akthi schlägt mit Scheren und Schwanz, macht einen 270°-Schwanzschwung (kurzes Zittern vorher) und eine Tumbling-Barrage: Giftgeschosse, dann vier Sprünge unter dem Sand mit Treibsand-Pfützen. Treibsand verlangsamt bis zu 10-fach gestapelt und verschwindet nur durch Weiterlaufen.",
+          "en": "Akthi strikes with pincers and tail, does a 270° tail sweep (brief trembling beforehand) and a Tumbling Barrage: poison projectiles, then four leaps under the sand that leave quicksand pools. Quicksand slows you, stacking up to 10 times, and only goes away if you keep moving."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Erst einen Boss fokussieren, nicht den Schaden verteilen.",
+          "en": "Focus one boss first; don't split your damage."
+        },
+        {
+          "de": "Anundrs Körpersegmente blockieren seine Giftspucke: dahinter in Deckung gehen.",
+          "en": "Anundr's body segments block his poison spit: take cover behind them."
+        },
+        {
+          "de": "Der Schwanz für Tail Sunder erscheint immer am ältesten Körpersegment. Nicht direkt danebenstehen.",
+          "en": "The tail for Tail Sunder always appears at the oldest body segment. Don't stand right next to it."
+        }
+      ]
+    },
+    {
+      "name": "Elzarah, the Cobra Lord",
+      "zone": "sel-khari-sanctuary",
+      "mechanics": [
+        {
+          "de": "Nahkampf: Anker-Schläge und Doppel-Schwung; auf Distanz langsame Wellen, Anchor Sunder (Erdriss in einer Linie) und Volcanic Sunder mit kleinen Vulkanen.",
+          "en": "Melee: anchor strikes and a double swing; at range, slow waves, Anchor Sunder (ground crack in a line) and Volcanic Sunder with small volcanoes."
+        },
+        {
+          "de": "Cannon Shot: Er schwingt das Steuerrad über dem Kopf und feuert einen dreigeteilten Kanonenschuss auf deine Position.",
+          "en": "Cannon Shot: he swings the ship's wheel over his head and fires a three-way cannon shot at your position."
+        },
+        {
+          "de": "Arena-Kontrolle: Staubbälle kreisen gegen den Uhrzeigersinn, Tornados ziehen zufällig umher und entzünden sich an Staubbällen. Dazu Sand-Hände um dich herum, beschworene Schlangenskelette und Spirit Barrage (grüne Mörser, die dich verfolgen).",
+          "en": "Arena control: dust balls circle counter-clockwise, tornadoes wander randomly and ignite on dust balls. Plus sand hands around you, summoned snake skeletons and Spirit Barrage (green mortars that follow you)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ständig in Bewegung bleiben, besonders bei Sand Hands und Spirit Barrage.",
+          "en": "Keep moving at all times, especially during Sand Hands and Spirit Barrage."
+        },
+        {
+          "de": "Skelett-Adds früh töten, damit die Arena nicht zu voll wird.",
+          "en": "Kill the skeleton adds early so the arena doesn't get too crowded."
+        },
+        {
+          "de": "Feuer- und Blitzwiderstand vor dem Kampf prüfen.",
+          "en": "Check your Fire and Lightning Resistance before the fight."
+        }
+      ]
+    },
+    {
+      "name": "Vornas, the Fell Flame",
+      "zone": "galai-gates",
+      "mechanics": [
+        {
+          "de": "Nahkampf-Schwünge, Sprung auf dich bei Abstand.",
+          "en": "Melee swings, leaps at you if you keep your distance."
+        },
+        {
+          "de": "Slam: Schlag vor sich, danach Drehangriff mit Erdriss im Kegel.",
+          "en": "Slam: a strike in front of him, followed by a spin attack with a ground crack in a cone."
+        },
+        {
+          "de": "Raging Combo (rot, ausweichpflichtig): Brüllen, dann vier Schläge hintereinander, die Risse mit Voltaxic Sulphite Ground hinterlassen (Physisch- und Blitzschaden über Zeit).",
+          "en": "Raging Combo (red, must dodge): a roar, then four strikes in a row that leave cracks with Voltaxic Sulphite Ground (Physical and Lightning damage over time)."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Beim Brüllen sofort Abstand gewinnen und die Sulphite-Flächen meiden; danach ist er kurz offen für Schaden.",
+          "en": "When he roars, get distance immediately and avoid the Sulphite areas; afterwards he's briefly open for damage."
+        }
+      ]
+    },
+    {
+      "name": "Azmadi, the Faridun Prince (mit Zarokh, the Temporal)",
+      "zone": "qimah-reservoir",
+      "mechanics": [
+        {
+          "de": "Phase 1 (rein physisch): Schwertkombos (vier Schläge), Ausfallschritt, Bumerang-Schwert in einer Linie (kommt zurück!) und Sunder in einer Linie.",
+          "en": "Phase 1 (pure Physical): sword combos (four hits), lunge, boomerang sword in a line (it comes back!) and Sunder in a line."
+        },
+        {
+          "de": "Ab ca. 75 %: Zarokh verstärkt ihn. Bumerang-Schwert mit Teleport (mehrfach wiederholt), längerer Ausfallschritt, Wind Slashes (drei Luftwellen), Temporal Bubble (verlangsamende Zeitblase, er teleportiert hinein), Temporal Sunder (bleibende Linie aus Zeitenergie) und Temporal Dash (Klinge-Kopien, Dash-Serie mit abschließendem Sunder).",
+          "en": "From around 75%: Zarokh empowers him. Boomerang sword with teleport (repeated several times), longer lunge, Wind Slashes (three air waves), Temporal Bubble (slowing time bubble, he teleports into it), Temporal Sunder (lingering line of temporal energy) and Temporal Dash (blade copies, a dash series ending in a Sunder)."
+        },
+        {
+          "de": "Ab ca. 60 %: Omnislash. Er teleportiert um dich herum, vier Klone in Sternform schlagen gleichzeitig Linien auf deine Position.",
+          "en": "From around 60%: Omnislash. He teleports around you while four clones in a star pattern slash lines at your position simultaneously."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Aus der Temporal Bubble sofort herausrollen, darin bist du verlangsamt und ein leichtes Ziel.",
+          "en": "Roll out of the Temporal Bubble immediately; inside it you're slowed and an easy target."
+        },
+        {
+          "de": "Bei Omnislash nicht stehen bleiben: Die Linien kreuzen sich an deiner Position.",
+          "en": "Don't stand still during Omnislash: the lines cross at your position."
+        },
+        {
+          "de": "Nach dem Bumerang-Wurf auf die Rückkehrbahn achten.",
+          "en": "After the boomerang throw, watch its return path."
+        }
+      ]
+    }
+  ]
+}

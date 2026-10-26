@@ -1,0 +1,1874 @@
+{
+  "id": "act3",
+  "order": 3,
+  "name": {
+    "de": "Akt 3",
+    "en": "Act 3"
+  },
+  "title": {
+    "de": "Sandswept Marsh bis Black Chambers",
+    "en": "Sandswept Marsh to The Black Chambers"
+  },
+  "levelRange": [
+    30,
+    42
+  ],
+  "summary": {
+    "de": "Akt 3 führt dich durch den Dschungel von Utzaal: Mit Alva suchst du in Vaal-Ruinen, Maschinenhallen und überfluteten Städten nach dem Wissen der Vaal und reist am Ende durch ein Zeitportal in die Vergangenheit, kurz vor die Katastrophe. Hier holst du deinen zweiten Aufstieg in der Trial of Chaos, +30 Spirit, +10 % Feuerresistenz, die Reforging Bench und über ein Buch (Silverfist) und ein Opfer (Aggorat) insgesamt +4 Weapon-Set-Punkte. Akt-Boss ist Doryani in den Black Chambers.",
+    "en": "Act 3 takes you through the jungle of Utzaal: together with Alva you search Vaal ruins, machine halls and flooded cities for the knowledge of the Vaal, and at the end you travel through a time portal into the past, shortly before the cataclysm. Here you get your second Ascendancy in the Trial of Chaos, +30 Spirit, +10% Fire Resistance, the Reforging Bench, and a total of +4 Weapon Set points from a book (Silverfist) and a sacrifice (Aggorat). The act boss is Doryani in the Black Chambers."
+  },
+  "recommended": {
+    "level": 42,
+    "resistances": {
+      "fire": 50,
+      "cold": 40,
+      "lightning": 50,
+      "chaos": 0
+    }
+  },
+  "checklist": [
+    {
+      "de": "Permanente Boni: Mighty Silverfist (+2 Weapon-Set-Punkte), Sacrificial Heart in Aggorat (+2), Ignagduk (+30 Spirit + Uncut Spirit Gem), Blackjaw (+10 % Feuerresistenz), Servis Giftwahl (permanent!), Mektul → Reforging Bench.",
+      "en": "Permanent bonuses: Mighty Silverfist (+2 Weapon Set points), Sacrificial Heart in Aggorat (+2), Ignagduk (+30 Spirit + Uncut Spirit Gem), Blackjaw (+10% Fire Resistance), Servi's venom choice (permanent!), Mektul → Reforging Bench."
+    },
+    {
+      "de": "Trial of Chaos (Eingang in den Chimeral Wetlands, Schlüssel Chimeral Inscribed Ultimatum von Xyclucian) gibt Aufstiegspunkte 3–4 bzw. deinen Aufstieg, falls du die Sekhemas in Akt 2 ausgelassen hast.",
+      "en": "The Trial of Chaos (entrance in the Chimeral Wetlands, key: Chimeral Inscribed Ultimatum from Xyclucian) grants Ascendancy points 3–4, or your Ascendancy itself if you skipped the Sekhemas in Act 2."
+    },
+    {
+      "de": "Servis Venom-Wahl ist endgültig: Die meisten Builds nehmen +25 % Stun Threshold; Mana-Regeneration nur für manahungrige Caster.",
+      "en": "Servi's venom choice is final: most builds take +25% Stun Threshold; Mana Regeneration only for mana-hungry casters."
+    },
+    {
+      "de": "Vaal Goliaths (Kanister auf der Schulter) in Utzaal und Aggorat töten, bis das Sacrificial Heart fällt – ohne Herz keine +2 Punkte am Altar in Aggorat.",
+      "en": "Kill Vaal Goliaths (canister on their shoulder) in Utzaal and Aggorat until the Sacrificial Heart drops – no heart, no +2 points at the altar in Aggorat."
+    },
+    {
+      "de": "Vor Akt 4 Resistenzen prüfen: Ketzuli, Mektul und Doryani machen viel Feuer-, Zicoatl und Doryani viel Blitzschaden, die Eye-of-Winter-Caster in Utzaal Kälteschaden.",
+      "en": "Check your resistances before Act 4: Ketzuli, Mektul and Doryani deal a lot of Fire damage, Zicoatl and Doryani a lot of Lightning damage, and the Eye of Winter casters in Utzaal deal Cold damage."
+    }
+  ],
+  "sources": [
+    {
+      "title": "poe2db: Act 3 (Gebiete, Quests, Belohnungen)",
+      "url": "https://poe2db.tw/us/Act_3",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe2db: Act 3 (deutsche Namen)",
+      "url": "https://poe2db.tw/de/Act_3",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe2db: The Trial of Chaos",
+      "url": "https://poe2db.tw/us/The_Trial_of_Chaos",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe2db: Book of Specialisation",
+      "url": "https://poe2db.tw/us/Book_of_Specialisation",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "poe2db: Gemrot Skull",
+      "url": "https://poe2db.tw/Gemrot_Skull",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Domistae PoE2 Leveling Guide – Act 3 (0.5.5)",
+      "url": "https://domistae.github.io/poe2-leveling/poe2_act3_guide.html",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Mobalytics: 0.5 Campaign Checklist",
+      "url": "https://mobalytics.gg/poe-2/guides/0-5-campaign-checklist-stats-rewards-skillpoints-and-more",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Trials of Ascendancy Guide (Stand Juni 2026)",
+      "url": "https://maxroll.gg/poe2/getting-started/trials-of-ascendancy",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Maxroll: Campaign Guide (Bossmechaniken, Stand Dez. 2024)",
+      "url": "https://maxroll.gg/poe2/getting-started/path-of-exile-2-campaign-guide",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "Timesaver: Ascendancy Points (0.5.4b)",
+      "url": "https://timesaver.gg/tools/poe-2/ascendancy/points",
+      "checked": "2026-10-26"
+    },
+    {
+      "title": "allthings.how: 0.5.5 Patch Notes (Trial of Chaos Rework)",
+      "url": "https://allthings.how/path-of-exile-2-0-5-5-patch-notes-trial-of-chaos-rework-and-forbidden-rites-event/",
+      "checked": "2026-10-26"
+    }
+  ],
+  "zones": [
+    {
+      "id": "sandswept-marsh",
+      "name": "Sandswept Marsh",
+      "nameDe": "Sandgetränkte Sümpfe",
+      "areaId": "G3_1",
+      "level": 33,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sandswept-hooded-one",
+          "text": {
+            "de": "Sprich am Startpunkt mit The Hooded One und nimm den Wegpunkt mit.",
+            "en": "Talk to The Hooded One at the starting point and grab the Waypoint."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Akt 3 beginnt in einem Kampfgebiet mit Wegpunkt, die eigentliche Stadt (Ziggurat Encampment) liegt am anderen Ende des Sumpfs. Die Monster sind spürbar stärker als am Ende von Akt 2 – wenn du Probleme hast, schau zuerst bei den Händlern in der nächsten Stadt nach besseren Waffen.",
+            "en": "Act 3 starts in a combat zone with a Waypoint; the actual town (Ziggurat Encampment) is at the other end of the marsh. Monsters are noticeably stronger than at the end of Act 2 – if you're struggling, check the vendors in the next town for better weapons first."
+          }
+        },
+        {
+          "id": "rootdredge",
+          "text": {
+            "de": "Optional: Besiege Rootdredge, einen Physisch-/Feuer-Boss abseits des Weges. Er lässt ein Uncut Skill Gem (Stufe 9) fallen.",
+            "en": "Optional: Kill Rootdredge, a Physical/Fire boss off the main path. He drops an Uncut Skill Gem (level 9)."
+          },
+          "kind": "boss",
+          "optional": true
+        },
+        {
+          "id": "orok-campfire",
+          "text": {
+            "de": "Optional: Plündere den Korb am Orok Campfire – er enthält ein Lesser Jeweller's Orb.",
+            "en": "Optional: Loot the basket at the Orok Campfire – it contains a Lesser Jeweller's Orb."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Ein Lesser Jeweller's Orb fügt einem Skill Gem einen weiteren Sockel für Support Gems hinzu. Das ist früh im Spiel sehr wertvoll – heb dir den Orb für deinen Hauptskill auf.",
+            "en": "A Lesser Jeweller's Orb adds another socket for Support Gems to a Skill Gem. That's very valuable early on – save the orb for your main skill."
+          }
+        },
+        {
+          "id": "hanging-tree",
+          "text": {
+            "de": "Optional: Untersuche die Leichen am Hanging Tree für magische Ringe.",
+            "en": "Optional: Search the corpses at the Hanging Tree for magic rings."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "sandswept-to-ziggurat",
+          "text": {
+            "de": "Durchquere den Sumpf bis zum Ziggurat Encampment.",
+            "en": "Cross the marsh to the Ziggurat Encampment."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Rootdredge und die beiden Secrets kosten nur wenig Zeit; Speedrunner nehmen das Uncut Gem mit, wenn der Boss nahe am Weg liegt.",
+          "en": "Rootdredge and the two secrets only take a little time; speedrunners grab the Uncut Gem if the boss spawns close to the path."
+        }
+      ]
+    },
+    {
+      "id": "ziggurat-encampment",
+      "name": "Ziggurat Encampment",
+      "nameDe": "Zikkurat-Lager",
+      "areaId": "G3_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ziggurat-talk",
+          "text": {
+            "de": "Sprich mit Alva, Oswald und The Hooded One, um die Hauptquest „Legacy of the Vaal“ fortzusetzen.",
+            "en": "Talk to Alva, Oswald and The Hooded One to continue the main quest “Legacy of the Vaal”."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Die Stadt hat vier wichtige NPCs: The Hooded One (Passivpunkte gegen Gold zurücksetzen), Alva (Story-Begleiterin), Oswald (Waffen und Rüstungen, kauft Goldidole) und Servi (Caster-Waffen, Flasks, Charms, Ringe und Amulette; zerlegt magische und seltene Gegenstände in Shards).",
+            "en": "The town has four important NPCs: The Hooded One (resets passive points for gold), Alva (story companion), Oswald (weapons and armour, buys gold idols) and Servi (caster weapons, Flasks, Charms, rings and amulets; disenchants magic and rare items into shards)."
+          }
+        },
+        {
+          "id": "ziggurat-vendors",
+          "text": {
+            "de": "Prüfe Oswald und Servi auf Upgrades, vor allem Waffen und bessere Life-/Mana-Flasks.",
+            "en": "Check Oswald and Servi for upgrades, especially weapons and better Life/Mana Flasks."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Neue Akte bedeuten neue Basistypen bei den Händlern. Eine bessere Waffe ist meist das größte Upgrade, das du für Gold kaufen kannst. Auch die Flasks lohnen sich: Höherstufige Flasks heilen deutlich mehr.",
+            "en": "New acts mean new base types at vendors. A better weapon is usually the biggest upgrade you can buy for gold. Flasks are worth it too: higher-tier Flasks heal a lot more."
+          }
+        },
+        {
+          "id": "oswald-treasures",
+          "text": {
+            "de": "Oswald startet die Nebenquest „Treasures of Utzaal“: Halte nach Gebäuden mit Affenstatuen Ausschau und suche The Molten Vault (in der Drowned City).",
+            "en": "Oswald starts the side quest “Treasures of Utzaal”: keep an eye out for buildings with monkey statues and look for The Molten Vault (in The Drowned City)."
+          },
+          "kind": "side",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Servis „Local Knowledge“ zeigt eine Weltkarte mit Infosymbolen zu jeder Zone – praktisch, wenn du nicht weißt, wo es weitergeht.",
+          "en": "Servi's “Local Knowledge” shows a world map with info icons for every zone – handy if you don't know where to go next."
+        }
+      ]
+    },
+    {
+      "id": "jungle-ruins",
+      "name": "Jungle Ruins",
+      "nameDe": "Dschungelruinen",
+      "areaId": "G3_3",
+      "level": 34,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "jungle-ruins-waypoint",
+          "text": {
+            "de": "Nimm den Wegpunkt. Der Eingang zu The Venom Crypts liegt in der Nähe des Wegpunkts.",
+            "en": "Grab the Waypoint. The entrance to The Venom Crypts is near the Waypoint."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "vaal-beacon-1",
+          "text": {
+            "de": "Optional: Töte die verderbte Gruppe rund um das Ancient Beacon (Vaal Beacon), um es zu aktivieren (1 von 6 in Akt 3).",
+            "en": "Optional: Kill the corrupted pack around the Ancient Beacon (Vaal Beacon) to activate it (1 of 6 in Act 3)."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false,
+          "beginner": {
+            "de": "Die Ancient Beacons gehören zur Nebenquest „Ancient Beacons“: Du besiegst die Monster um ein Vaal-Leuchtfeuer, um sie ihm zu opfern. Laut Leveling-Guide öffnen die Beacons aus Akt 3 und den Interludes gemeinsam ein Portal zu den Vaal Ruins. Für die Story ist das nicht nötig.",
+            "en": "The Ancient Beacons belong to the side quest “Ancient Beacons”: you defeat the monsters around a Vaal beacon to sacrifice them to it. According to a leveling guide, the beacons from Act 3 and the Interludes together open a portal to the Vaal Ruins. Not needed for the story."
+          }
+        },
+        {
+          "id": "silverfist",
+          "text": {
+            "de": "Besiege Mighty Silverfist, einen großen Affenboss. Weiche seinen Schwüngen und Slams seitlich aus.",
+            "en": "Kill Mighty Silverfist, a large ape boss. Dodge his swings and slams to the side."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "silverfist-reward",
+          "text": {
+            "de": "Hebe das Book of Specialisation auf, das Silverfist fallen lässt, und lies es per Rechtsklick.",
+            "en": "Pick up the Book of Specialisation that Silverfist drops and right-click to read it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Buch gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind. Lass den Boss nicht aus – Bücher wie dieses sind eine der wenigen Quellen für Weapon-Set-Punkte.",
+            "en": "The book grants 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2. Don't skip the boss – books like this are one of the few sources of Weapon Set points."
+          }
+        },
+        {
+          "id": "jungle-troubled-camp",
+          "text": {
+            "de": "Optional: Plündere das Troubled Camp – die Truhe enthält garantiert seltene Handschuhe, ein Händler steht ebenfalls dort.",
+            "en": "Optional: Loot the Troubled Camp – the chest contains guaranteed rare gloves, and there's also a vendor."
+          },
+          "kind": "loot",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Silverfists Roll-Angriff trifft hart, wenn du wenig Rüstung hast – halte Abstand, wenn er sich zusammenrollt.",
+          "en": "Silverfist's roll attack hits hard if you have little Armour – keep your distance when he curls up."
+        },
+        {
+          "de": "Die Forscher in den Camps markieren beim Ansprechen das nächste Ziel auf der Minimap.",
+          "en": "Talking to the researchers in the camps marks the next objective on the minimap."
+        }
+      ]
+    },
+    {
+      "id": "venom-crypts",
+      "name": "The Venom Crypts",
+      "nameDe": "Die Giftgrüfte",
+      "areaId": "G3_4",
+      "level": 35,
+      "town": false,
+      "steps": [
+        {
+          "id": "venom-crypts-enter",
+          "text": {
+            "de": "Betritt The Venom Crypts über die Jungle Ruins. Servi gibt dir die Nebenquest „The Slithering Dead“: Finde die Quelle des Orok-Gifts.",
+            "en": "Enter The Venom Crypts from the Jungle Ruins. Servi gives you the side quest “The Slithering Dead”: find the source of the Orok venom."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "venom-crypts-sarcophagus",
+          "text": {
+            "de": "Optional: Löse das Sarkophag-Event aus – laut Leveling-Guide gibt es ein garantiertes Support Gem (Stufe 3).",
+            "en": "Optional: Trigger the sarcophagus event – according to a leveling guide it gives a guaranteed Support Gem (level 3)."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "venom-vial",
+          "text": {
+            "de": "Finde die Leiche mit dem Orok-Gift (Venom Vial) und hebe es auf.",
+            "en": "Find the corpse with the Orok venom (Venom Vial) and pick it up."
+          },
+          "kind": "side",
+          "optional": true,
+          "beginner": {
+            "de": "In den Grüften gibt es Kobras, Ratten und Tentakelwesen mit Gift. Gift (Poison) ist Chaosschaden über Zeit – halte Abstand zu großen Gruppen und nutze deine Life-Flask rechtzeitig.",
+            "en": "The crypts have cobras, rats and tentacle creatures with poison. Poison is Chaos damage over time – keep your distance from large packs and use your Life Flask in time."
+          }
+        },
+        {
+          "id": "venom-crypts-portal",
+          "text": {
+            "de": "Öffne ein Portal und kehre ins Ziggurat Encampment zurück.",
+            "en": "Open a portal and return to the Ziggurat Encampment."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die meisten aktuellen Guides empfehlen die Stun Threshold: Betäubungen sind für viele Builds im Kampagnenverlauf gefährlicher als Elementarzustände.",
+          "en": "Most current guides recommend the Stun Threshold: for many builds, stuns are more dangerous than elemental ailments during the campaign."
+        },
+        {
+          "de": "Die Grüfte haben keinen Boss; nach dem Gift geht es per Portal in die Stadt und danach per Wegpunkt zurück in die Jungle Ruins.",
+          "en": "The crypts have no boss; after the venom, portal to town and then take the Waypoint back to the Jungle Ruins."
+        }
+      ]
+    },
+    {
+      "id": "ziggurat-encampment-2",
+      "name": "Ziggurat Encampment",
+      "nameDe": "Zikkurat-Lager",
+      "areaId": "G3_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "servi-venom-choice",
+          "text": {
+            "de": "Gib Servi das Gift (Venom Vial) und wähle einen permanenten Bonus: 25 % erhöhte Stun Threshold, 30 % erhöhte Elemental Ailment Threshold oder 25 % erhöhte Mana-Regeneration.",
+            "en": "Give Servi the venom (Venom Vial) and choose a permanent bonus: 25% increased Stun Threshold, 30% increased Elemental Ailment Threshold or 25% increased Mana Regeneration."
+          },
+          "kind": "reward",
+          "mechanic": "zustaende-schutz",
+          "reward": {
+            "type": "stat",
+            "label": {
+              "de": "Wahl: +25 % Stun Threshold / +30 % Elemental Ailment Threshold / +25 % Mana-Regeneration",
+              "en": "Choice: +25% Stun Threshold / +30% Elemental Ailment Threshold / +25% Mana Regeneration"
+            },
+            "permanent": true,
+            "choice": true
+          },
+          "beginner": {
+            "de": "Achtung, die Wahl lässt sich nicht ändern! Stun Threshold bedeutet, dass du seltener betäubt wirst – für fast alle Builds die sicherste Wahl, besonders im Nahkampf. Die Ailment Threshold macht dich widerstandsfähiger gegen Freeze, Shock und Ignite. Mana-Regeneration lohnt sich nur, wenn dein Skill ständig dein Mana leert.",
+            "en": "Careful, this choice can't be changed! Stun Threshold means you get stunned less often – the safest choice for almost every build, especially melee. Ailment Threshold makes you more resistant to Freeze, Shock and Ignite. Mana Regeneration is only worth it if your skill constantly drains your mana."
+          }
+        },
+        {
+          "id": "servi-venom-orb",
+          "text": {
+            "de": "Zusätzlich zur Wahl gibt Servi für diese Quest laut poe2db ein Artificer's Orb.",
+            "en": "On top of the choice, Servi also gives you an Artificer's Orb for this quest, according to poe2db."
+          },
+          "kind": "reward",
+          "optional": true,
+          "verified": false,
+          "reward": {
+            "type": "currency",
+            "amount": 1,
+            "label": {
+              "de": "Artificer's Orb",
+              "en": "Artificer's Orb"
+            },
+            "permanent": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "jungle-ruins-2",
+      "name": "Jungle Ruins",
+      "nameDe": "Dschungelruinen",
+      "areaId": "G3_3",
+      "level": 34,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "jungle-ruins-to-barrens",
+          "text": {
+            "de": "Reise per Wegpunkt zurück in die Jungle Ruins und gehe weiter in die Infested Barrens.",
+            "en": "Take the Waypoint back to the Jungle Ruins and continue to the Infested Barrens."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "infested-barrens",
+      "name": "Infested Barrens",
+      "nameDe": "Verseuchtes Brachland",
+      "areaId": "G3_2_1",
+      "level": 35,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "infested-barrens-alva",
+          "text": {
+            "de": "Nimm in den Infested Barrens den Wegpunkt und rufe Alva herbei. Sprich mit ihr und suche die Chimeral Wetlands.",
+            "en": "Grab the Waypoint in the Infested Barrens and summon Alva. Talk to her and look for the Chimeral Wetlands."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "barrens-troubled-camp",
+          "text": {
+            "de": "Optional: Plündere das Troubled Camp – garantiert seltene Stiefel, dazu ein Händler.",
+            "en": "Optional: Loot the Troubled Camp – guaranteed rare boots, plus a vendor."
+          },
+          "kind": "loot",
+          "optional": true,
+          "beginner": {
+            "de": "Stiefel mit Bewegungsgeschwindigkeit sind eines der wichtigsten Upgrades in PoE2. Wenn deine Stiefel noch keine erhöhte Bewegungsgeschwindigkeit haben, lohnt sich der Abstecher.",
+            "en": "Boots with Movement Speed are one of the most important upgrades in PoE2. If your boots don't have increased Movement Speed yet, the detour is worth it."
+          }
+        },
+        {
+          "id": "vaal-beacon-3",
+          "text": {
+            "de": "Optional: Aktiviere das Ancient Beacon dieser Zone.",
+            "en": "Optional: Activate this zone's Ancient Beacon."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Hier zweigt auch die Mystic Refuge ab (Expedition-Nebengebiet); für die Story ist sie nicht nötig.",
+          "en": "The Mystic Refuge (Expedition side area) also branches off here; it's not needed for the story."
+        }
+      ]
+    },
+    {
+      "id": "mystic-refuge",
+      "name": "Mystic Refuge",
+      "nameDe": "Mystische Zuflucht",
+      "areaId": "ExpeditionSubArea_Kalguur_Act3",
+      "level": 35,
+      "town": false,
+      "steps": [
+        {
+          "id": "mystic-refuge-pool",
+          "text": {
+            "de": "Optional: Untersuche in der Mystic Refuge (Abzweig der Infested Barrens) den Scrying Pool. Das Gebiet gehört zu den Expedition-Inhalten und ist für die Story nicht nötig.",
+            "en": "Optional: Inspect the Scrying Pool in the Mystic Refuge (branch off the Infested Barrens). The area is part of the Expedition content and not needed for the story."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "chimeral-wetlands",
+      "name": "Chimeral Wetlands",
+      "nameDe": "Feuchtlande der Chimären",
+      "areaId": "G3_5",
+      "level": 36,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ravaged-camp",
+          "text": {
+            "de": "Optional: Plündere das Ravaged Camp – Goldtruhe, garantiert seltene Rüstung und das Lost Temple Logbook, das den Temple of Chaos auf der Karte zeigt.",
+            "en": "Optional: Loot the Ravaged Camp – gold chest, guaranteed rare armour and the Lost Temple Logbook, which reveals the Temple of Chaos on the map."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "toxic-bloom",
+          "text": {
+            "de": "Optional: Töte das seltene Monster an der Toxic Bloom für ein magisches Amulett.",
+            "en": "Optional: Kill the rare monster at the Toxic Bloom for a magic amulet."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "chimeral-find-temple",
+          "text": {
+            "de": "Suche am Rand der Zone einen schmalen Durchgang mit Steintreppen: Das ist der Eingang zum Temple of Chaos.",
+            "en": "Look for a narrow passage with stone stairs at the edge of the zone: that's the entrance to the Temple of Chaos."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "temple-of-chaos",
+      "name": "The Temple of Chaos",
+      "nameDe": "Der Tempel des Chaos",
+      "areaId": "G3_10_Airlock",
+      "level": 38,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "temple-of-chaos-entrance",
+          "text": {
+            "de": "Nimm im Temple of Chaos den Wegpunkt mit und gehe zurück in die Chimeral Wetlands.",
+            "en": "Grab the Waypoint in the Temple of Chaos and go back to the Chimeral Wetlands."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Den Wegpunkt jetzt zu holen spart später Zeit: Den Schlüssel für die Prüfung bekommst du erst vom Boss dieser Zone, danach kannst du per Wegpunkt direkt zurückreisen.",
+            "en": "Grabbing the Waypoint now saves time later: you only get the key for the trial from this zone's boss, and afterwards you can travel straight back via Waypoint."
+          }
+        }
+      ]
+    },
+    {
+      "id": "chimeral-wetlands-2",
+      "name": "Chimeral Wetlands",
+      "nameDe": "Feuchtlande der Chimären",
+      "areaId": "G3_5",
+      "level": 36,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "xyclucian",
+          "text": {
+            "de": "Besiege Xyclucian, the Chimera, der den Eingang zu Jiquani's Machinarium bewacht.",
+            "en": "Kill Xyclucian, the Chimera, who guards the entrance to Jiquani's Machinarium."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "chimeral-ultimatum",
+          "text": {
+            "de": "Hebe das Chimeral Inscribed Ultimatum auf, das Xyclucian fallen lässt. Es ist der Schlüssel zur Trial of Chaos (Quest „The Trials of Chaos“).",
+            "en": "Pick up the Chimeral Inscribed Ultimatum that Xyclucian drops. It's the key to the Trial of Chaos (quest “The Trials of Chaos”)."
+          },
+          "kind": "loot"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Xyclucian lässt sich vom Pfeiler holen: Zerstöre die Plattform unter ihm, dann stürzt er ab und ist kurz wehrlos – ideal für Stun- oder Freeze-Builds.",
+          "en": "You can knock Xyclucian off his pillar: destroy the platform under him and he crashes down and is briefly defenceless – ideal for Stun or Freeze builds."
+        }
+      ]
+    },
+    {
+      "id": "temple-of-chaos-2",
+      "name": "The Temple of Chaos",
+      "nameDe": "Der Tempel des Chaos",
+      "areaId": "G3_10_Airlock",
+      "level": 38,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "trial-of-chaos-start",
+          "text": {
+            "de": "Reise per Wegpunkt zum Temple of Chaos und setze das Chimeral Inscribed Ultimatum ein, um die Trial of Chaos zu starten.",
+            "en": "Take the Waypoint to the Temple of Chaos and use the Chimeral Inscribed Ultimatum to start the Trial of Chaos."
+          },
+          "kind": "main",
+          "mechanic": "trial-chaos",
+          "beginner": {
+            "de": "Die Trial of Chaos ist eine von zwei Aufstiegsprüfungen (die andere ist die Trial of the Sekhemas aus Akt 2). Du kämpfst dich durch mehrere Räume; vor jedem Raum wählst du eine von drei „Tribulations“ – negative Modifikatoren, die bis zum Ende des Laufs bleiben. Je mehr Räume, desto gefährlicher wird es. Wähle Modifikatoren, die dein Build verkraftet. Das Kampagnen-Ultimatum kannst du laut Maxroll so oft verwenden, bis du es schaffst.",
+            "en": "The Trial of Chaos is one of two Ascendancy trials (the other is the Trial of the Sekhemas from Act 2). You fight through several rooms; before each room you pick one of three “Tribulations” – negative modifiers that stay until the end of the run. The more rooms, the more dangerous it gets. Pick modifiers your build can handle. According to Maxroll, you can reuse the campaign Ultimatum until you succeed."
+          }
+        },
+        {
+          "id": "trial-of-chaos-when",
+          "text": {
+            "de": "Entscheide, ob du die Prüfung jetzt oder später machst: Sie hat Gebietsstufe 38 (zwei mehr als die Wetlands) und wird durch die gewählten Modifikatoren zusätzlich schwerer. Maxroll empfiehlt, vorher ein paar Level und bessere Ausrüstung zu holen; der Wegpunkt bringt dich jederzeit zurück.",
+            "en": "Decide whether to do the trial now or later: it's area level 38 (two higher than the Wetlands) and gets even harder with the chosen modifiers. Maxroll recommends getting a few levels and better gear first; the Waypoint brings you back any time."
+          },
+          "kind": "tip",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Sekhemas oder Chaos? In der Kampagne brauchst du beide, wenn du bis Akt 4 vier Aufstiegspunkte haben willst. Die Reihenfolge ist egal; welche Prüfung zuerst den Aufstieg gibt, bestimmt nur, wann du deine Klasse wählst.",
+          "en": "Sekhemas or Chaos? In the campaign you need both if you want four Ascendancy points by Act 4. The order doesn't matter; whichever trial grants the Ascendancy first only determines when you choose your class."
+        },
+        {
+          "de": "Chaos liegt robusten Nahkampf-Builds, die Sekhemas schnellen Fernkämpfern (Ehre-System, Fallen).",
+          "en": "Chaos suits tanky melee builds, the Sekhemas suit fast ranged characters (Honour system, traps)."
+        }
+      ]
+    },
+    {
+      "id": "trial-of-chaos",
+      "name": "The Trial of Chaos",
+      "nameDe": "Die Prüfung des Chaos",
+      "areaId": "G3_10",
+      "level": 38,
+      "town": false,
+      "steps": [
+        {
+          "id": "trial-of-chaos-rooms",
+          "text": {
+            "de": "Schließe alle 4 Prüfungen (Räume) ab. Wähle vor jedem Raum eine der drei Tribulations; meide Blitz-Modifikatoren (z. B. Shocking Turrets), wenn deine Blitzresistenz niedrig ist.",
+            "en": "Complete all 4 trials (rooms). Pick one of the three Tribulations before each room; avoid Lightning modifiers (e.g. Shocking Turrets) if your Lightning Resistance is low."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Laut Itemtext hat das Chimeral Inscribed Ultimatum 4 Prüfungen. Seit Patch 0.5.5 endet jeder Raum mit einer eigenen Belohnungstruhe und du kannst einen Lauf jederzeit verlassen und später im selben Raum fortsetzen. Wenn du stirbst, verlierst du also nicht mehr alle bisherigen Belohnungen.",
+            "en": "According to its item text, the Chimeral Inscribed Ultimatum has 4 trials. Since patch 0.5.5, each room ends with its own reward chest, and you can leave a run at any time and resume it later in the same room. So if you die, you no longer lose all the rewards you've earned so far."
+          }
+        },
+        {
+          "id": "trial-of-chaos-boss",
+          "text": {
+            "de": "Besiege den Boss am Ende der Prüfung. Er ist zufällig: Uxmal, the Beastlord, Chetza, the Feathered Plague oder Bahlak, the Sky Seer.",
+            "en": "Kill the boss at the end of the trial. It's random: Uxmal, the Beastlord, Chetza, the Feathered Plague or Bahlak, the Sky Seer."
+          },
+          "kind": "boss",
+          "verified": false
+        },
+        {
+          "id": "trial-of-chaos-reward",
+          "text": {
+            "de": "Interagiere nach dem Sieg mit dem Altar des Aufstiegs und verteile deine 2 neuen Aufstiegspunkte (Punkte 3–4). Hast du die Sekhemas in Akt 2 ausgelassen, wählst du hier deine Aufstiegsklasse.",
+            "en": "After the win, interact with the Altar of Ascendancy and spend your 2 new Ascendancy points (points 3–4). If you skipped the Sekhemas in Act 2, you choose your Ascendancy class here."
+          },
+          "kind": "reward",
+          "mechanic": "aufstieg",
+          "reward": {
+            "type": "ascendancy",
+            "amount": 2,
+            "label": {
+              "de": "+2 Aufstiegspunkte (2. Aufstieg)",
+              "en": "+2 Ascendancy points (2nd Ascendancy)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Aufstiegspunkte schalten die starken Knoten deiner Aufstiegsklasse frei. Insgesamt gibt es 8: zwei aus der ersten Kampagnenprüfung, zwei aus der zweiten und vier aus Endgame-Prüfungen. Die Wahl der Aufstiegsklasse ist dauerhaft – lies dir die Klassen vorher kurz durch.",
+            "en": "Ascendancy points unlock the powerful nodes of your Ascendancy class. There are 8 in total: two from the first campaign trial, two from the second and four from endgame trials. Your Ascendancy class choice is permanent – read up on the classes briefly beforehand."
+          }
+        },
+        {
+          "id": "trial-of-chaos-return",
+          "text": {
+            "de": "Reise per Wegpunkt zurück in die Chimeral Wetlands und betritt hinter Xyclucians Arena Jiquani's Machinarium.",
+            "en": "Take the Waypoint back to the Chimeral Wetlands and enter Jiquani's Machinarium behind Xyclucian's arena."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ein weiteres Inscribed Ultimatum gibt es später an der Chaos Statue in Utzaal – falls dir das Kampagnen-Ultimatum ausgeht oder du noch einen Lauf für Beute willst.",
+          "en": "You can get another Inscribed Ultimatum later at the Chaos Statue in Utzaal – in case you run out of campaign Ultimatums or want another run for loot."
+        },
+        {
+          "de": "Belohnungen der Trial of Chaos sind vor allem Currency und Soul Cores (sockelbar wie Runen).",
+          "en": "Trial of Chaos rewards are mainly currency and Soul Cores (socketable like runes)."
+        }
+      ]
+    },
+    {
+      "id": "jiquanis-machinarium",
+      "name": "Jiquani's Machinarium",
+      "nameDe": "Jiquanis Machinarium",
+      "areaId": "G3_6_1",
+      "level": 37,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "machinarium-alva",
+          "text": {
+            "de": "Betritt Jiquani's Machinarium hinter Xyclucians Arena, rufe Alva herbei und sprich mit ihr.",
+            "en": "Enter Jiquani's Machinarium behind Xyclucian's arena, summon Alva and talk to her."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "small-soul-cores",
+          "text": {
+            "de": "Sammle alle Small Soul Cores (insgesamt 4). Setze einen in den Mechanismus, der den Weg zu Jiquani's Sanctum öffnet.",
+            "en": "Collect all Small Soul Cores (4 in total). Insert one into the mechanism that opens the way to Jiquani's Sanctum."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Die Small Soul Cores sind Quest-Gegenstände und dienen als Schlüssel für Türen und Generatoren. Die übrigen Cores öffnen optionale Türen – deshalb lohnt es sich, alle mitzunehmen.",
+            "en": "The Small Soul Cores are quest items and act as keys for doors and generators. The remaining cores open optional doors – so it's worth grabbing all of them."
+          }
+        },
+        {
+          "id": "blackjaw",
+          "text": {
+            "de": "Öffne mit den übrigen Small Soul Cores die Tür zu Blackjaw, the Remnant und besiege ihn (Physisch/Feuer, Slams und Feuerzauber).",
+            "en": "Use the remaining Small Soul Cores to open the door to Blackjaw, the Remnant and kill him (Physical/Fire, slams and fire spells)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "blackjaw-reward",
+          "text": {
+            "de": "Hebe The Flame Core auf, das Blackjaw fallen lässt, und benutze es.",
+            "en": "Pick up The Flame Core that Blackjaw drops and use it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "resistance",
+            "element": "fire",
+            "amount": 10,
+            "label": {
+              "de": "+10 % Feuerresistenz",
+              "en": "+10% Fire Resistance"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Dauerhafte Resistenzen aus der Kampagne sparen dir Platz auf der Ausrüstung. Im Rest von Akt 3 machen viele Bosse Feuerschaden (Ignagduk, Mektul, Ketzuli, Doryani) – diese +10 % merkst du sofort.",
+            "en": "Permanent resistances from the campaign free up space on your gear. In the rest of Act 3, many bosses deal Fire damage (Ignagduk, Mektul, Ketzuli, Doryani) – you'll notice this +10% right away."
+          }
+        },
+        {
+          "id": "machinarium-secret-room",
+          "text": {
+            "de": "Optional: Öffne mit einem übrigen Core den geheimen Beuteraum.",
+            "en": "Optional: Use a leftover core to open the secret loot room."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        }
+      ],
+      "tips": [
+        {
+          "de": "Das Machinarium ist U-förmig, die Generatoren stehen an den Enden – lauf systematisch ab, statt hin und her zu rennen.",
+          "en": "The Machinarium is U-shaped and the generators are at the ends – clear it systematically instead of running back and forth."
+        }
+      ]
+    },
+    {
+      "id": "jiquanis-sanctum",
+      "name": "Jiquani's Sanctum",
+      "nameDe": "Jiquanis Heiligtum",
+      "areaId": "G3_6_2",
+      "level": 38,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "sanctum-alva",
+          "text": {
+            "de": "Rufe Alva am Anfang des Sanctum herbei und sprich mit ihr.",
+            "en": "Summon Alva at the start of the Sanctum and talk to her."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "medium-soul-cores",
+          "text": {
+            "de": "Finde die zwei Medium Soul Cores (zufällig platziert) und setze sie in die zwei Generatoren. Sprich danach wieder mit Alva und aktiviere den Large Soul Core.",
+            "en": "Find the two Medium Soul Cores (randomly placed) and insert them into the two generators. Then talk to Alva again and activate the Large Soul Core."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "paquate-mechanism",
+          "text": {
+            "de": "Optional: Paquate's Mechanism ist ein Korruptionsaltar, mit dem du einen Gegenstand unvorhersehbar verändern kannst – nur für Gegenstände, die du verlieren könntest.",
+            "en": "Optional: Paquate's Mechanism is a corruption altar that lets you modify an item unpredictably – only use it on items you can afford to lose."
+          },
+          "kind": "tip",
+          "optional": true,
+          "beginner": {
+            "de": "Korruption kann einen Gegenstand verbessern (z. B. zusätzliche Eigenschaften), ihn aber auch verschlechtern. Danach lässt er sich nicht mehr verändern. Nutze den Altar nicht für deine besten Teile.",
+            "en": "Corruption can improve an item (e.g. extra properties) but can also make it worse. Afterwards it can't be modified anymore. Don't use the altar on your best pieces."
+          }
+        },
+        {
+          "id": "zicoatl",
+          "text": {
+            "de": "Besiege Zicoatl, Warden of the Core (Physisch/Blitz).",
+            "en": "Kill Zicoatl, Warden of the Core (Physical/Lightning)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "large-soul-core",
+          "text": {
+            "de": "Hebe den Large Soul Core auf, den Zicoatl fallen lässt.",
+            "en": "Pick up the Large Soul Core that Zicoatl drops."
+          },
+          "kind": "loot"
+        },
+        {
+          "id": "vaal-beacon-5",
+          "text": {
+            "de": "Optional: Aktiviere das Ancient Beacon im Sanctum.",
+            "en": "Optional: Activate the Ancient Beacon in the Sanctum."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "sanctum-to-jungle-ruins",
+          "text": {
+            "de": "Reise per Wegpunkt zu den Jungle Ruins.",
+            "en": "Take the Waypoint to the Jungle Ruins."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "jungle-ruins-3",
+      "name": "Jungle Ruins",
+      "nameDe": "Dschungelruinen",
+      "areaId": "G3_3",
+      "level": 34,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "jungle-ruins-altar",
+          "text": {
+            "de": "Setze den Large Soul Core in den Steinaltar der Jungle Ruins. Dadurch taucht der Eingang zu The Matlan Waterways auf.",
+            "en": "Insert the Large Soul Core into the stone altar in the Jungle Ruins. This reveals the entrance to The Matlan Waterways."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Ältere Guides nennen für den Altar die Infested Barrens – in 0.5 schließen die Matlan Waterways an die Jungle Ruins an.",
+          "en": "Older guides list the Infested Barrens for the altar – in 0.5, The Matlan Waterways connect to the Jungle Ruins."
+        }
+      ]
+    },
+    {
+      "id": "matlan-waterways",
+      "name": "The Matlan Waterways",
+      "nameDe": "Die Matlan-Wasserwege",
+      "areaId": "G3_2_2",
+      "level": 39,
+      "town": false,
+      "steps": [
+        {
+          "id": "waterways-drain",
+          "text": {
+            "de": "Lege die Kanäle trocken, indem du die Mechanismen (Hebel bzw. Druckplatten) entlang des Wegs aktivierst, und arbeite dich zum Ende der Zone vor.",
+            "en": "Drain the canals by activating the mechanisms (levers or pressure plates) along the way, and work your way to the end of the zone."
+          },
+          "kind": "navigation",
+          "verified": false
+        },
+        {
+          "id": "narags-hut",
+          "text": {
+            "de": "Optional: Töte Narag in Narag's Hut für eine seltene Waffe.",
+            "en": "Optional: Kill Narag in Narag's Hut for a rare weapon."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "grave-findings",
+          "text": {
+            "de": "Optional: Untersuche das Grab (Grave Findings, Hinweis auf Servis Sohn). Laut Mobalytics erscheint Servi und lässt dich einen unidentifizierten seltenen Gürtel auswählen.",
+            "en": "Optional: Inspect the grave (Grave Findings, a clue about Servi's son). According to Mobalytics, Servi appears and lets you pick an unidentified rare belt."
+          },
+          "kind": "loot",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "azak-bog-entrance",
+          "text": {
+            "de": "Biege in The Azak Bog ab (Nebengebiet) und erledige dort Ignagduk, bevor du die Waterways abschließt.",
+            "en": "Turn off into The Azak Bog (side area) and deal with Ignagduk there before finishing the Waterways."
+          },
+          "kind": "navigation",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": "azak-bog",
+      "name": "The Azak Bog",
+      "nameDe": "Das Azak-Moor",
+      "areaId": "G3_7",
+      "level": 40,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "tribal-vengeance-start",
+          "text": {
+            "de": "Rufe am Eingang Servi herbei und sprich mit ihr: Die Nebenquest „Tribal Vengeance“ beginnt – töte Ignagduk, the Bog Witch.",
+            "en": "Summon Servi at the entrance and talk to her: the side quest “Tribal Vengeance” starts – kill Ignagduk, the Bog Witch."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "flameskin-ritual",
+          "text": {
+            "de": "Optional, aber empfohlen: Aktiviere alle Figuren am Flameskin Ritual. Du erhältst vorübergehend Ignagduk's Harvest (stark erhöhte Feuerresistenz).",
+            "en": "Optional but recommended: Activate all the figures at the Flameskin Ritual. You temporarily gain Ignagduk's Harvest (greatly increased Fire Resistance)."
+          },
+          "kind": "tip",
+          "optional": true,
+          "beginner": {
+            "de": "Ignagduk macht viel Feuerschaden. Der Buff aus dem Ritual hält nicht ewig – aktiviere ihn kurz vor dem Bosskampf. Ein Ruby Charm (Feuer) hilft zusätzlich.",
+            "en": "Ignagduk deals a lot of Fire damage. The ritual buff doesn't last forever – activate it shortly before the boss fight. A Ruby Charm (fire) helps as well."
+          }
+        },
+        {
+          "id": "ignagduk",
+          "text": {
+            "de": "Besiege Ignagduk, the Bog Witch (Physisch/Feuer, mehrere Phasen).",
+            "en": "Kill Ignagduk, the Bog Witch (Physical/Fire, multiple phases)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "ignagduk-spirit",
+          "text": {
+            "de": "Hebe den Gemrot Skull auf und zerbrich ihn per Rechtsklick.",
+            "en": "Pick up the Gemrot Skull and right-click to shatter it."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "spirit",
+            "amount": 30,
+            "label": {
+              "de": "+30 Spirit",
+              "en": "+30 Spirit"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Spirit ist die Ressource für dauerhafte Buffs, Auren und Begleiter. Mehr Spirit bedeutet, dass du einen weiteren dauerhaften Skill aktiv halten kannst – für fast jeden Build einer der wichtigsten Boni des Akts.",
+            "en": "Spirit is the resource for permanent buffs, auras and companions. More Spirit means you can keep another persistent skill active – for almost every build one of the most important bonuses of the act."
+          }
+        },
+        {
+          "id": "ignagduk-spirit-gem",
+          "text": {
+            "de": "Hebe das Uncut Spirit Gem auf, das Ignagduk fallen lässt, und schneide es zu einem Spirit-Gem deiner Wahl.",
+            "en": "Pick up the Uncut Spirit Gem that Ignagduk drops and cut it into a Spirit Gem of your choice."
+          },
+          "kind": "reward",
+          "mechanic": "spirit-gems",
+          "reward": {
+            "type": "gem",
+            "amount": 1,
+            "label": {
+              "de": "Uncut Spirit Gem",
+              "en": "Uncut Spirit Gem"
+            },
+            "permanent": false
+          },
+          "beginner": {
+            "de": "Ein Uncut Spirit Gem wird zu einem Skill, der dauerhaft läuft und Spirit reserviert (z. B. Auren, Herolde oder Begleiter). Prüfe nach der Wahl, ob dein Spirit für den Gem reicht.",
+            "en": "An Uncut Spirit Gem becomes a skill that runs permanently and reserves Spirit (e.g. auras, heralds or companions). After choosing, check that you have enough Spirit for the gem."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "de": "Das Gebiet um das Flame Ritual gilt als sehr guter XP-Spot, falls du vor der Trial of Chaos oder Akt-Ende ein paar Level brauchst.",
+          "en": "The area around the Flame Ritual is considered a very good XP spot if you need a few levels before the Trial of Chaos or the end of the act."
+        },
+        {
+          "de": "Laut Leveling-Guide steht der Servi-Beschwörungspunkt nur am Eingang aus den Waterways, nicht weiter im Moor.",
+          "en": "According to a leveling guide, the Servi summoning point is only at the entrance from the Waterways, not further into the bog."
+        }
+      ]
+    },
+    {
+      "id": "matlan-waterways-2",
+      "name": "The Matlan Waterways",
+      "nameDe": "Die Matlan-Wasserwege",
+      "areaId": "G3_2_2",
+      "level": 39,
+      "town": false,
+      "steps": [
+        {
+          "id": "azak-bog-return",
+          "text": {
+            "de": "Gehe aus dem Azak Bog zurück in die Matlan Waterways und weiter zum Ende der Zone.",
+            "en": "Go back from The Azak Bog to The Matlan Waterways and continue to the end of the zone."
+          },
+          "kind": "navigation"
+        },
+        {
+          "id": "vaal-beacon-6",
+          "text": {
+            "de": "Optional: Aktiviere das letzte Ancient Beacon und nutze das Portal zu den Vaal Ruins zügig, da der Eingang verschwinden kann.",
+            "en": "Optional: Activate the last Ancient Beacon and use the portal to the Vaal Ruins quickly, as the entrance can disappear."
+          },
+          "kind": "side",
+          "optional": true,
+          "verified": false
+        },
+        {
+          "id": "waterways-final-lever",
+          "text": {
+            "de": "Ziehe am Ende der Zone den Canal Lever. Damit wird Utzaal (The Drowned City) freigelegt. Kehre danach ins Ziggurat Encampment zurück.",
+            "en": "Pull the Canal Lever at the end of the zone. This drains Utzaal (The Drowned City). Then return to the Ziggurat Encampment."
+          },
+          "kind": "main",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "ziggurat-encampment-3",
+      "name": "Ziggurat Encampment",
+      "nameDe": "Zikkurat-Lager",
+      "areaId": "G3_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "ignagduk-charm",
+          "text": {
+            "de": "Bring Ignagduk's Ghastly Spear zu Servi und wähle einen magischen Charm (Thawing, Staunching, Antidote, Dousing oder Grounding Charm).",
+            "en": "Bring Ignagduk's Ghastly Spear to Servi and choose a magic Charm (Thawing, Staunching, Antidote, Dousing or Grounding Charm)."
+          },
+          "kind": "reward",
+          "optional": true,
+          "verified": false,
+          "reward": {
+            "type": "item",
+            "label": {
+              "de": "Wahl: magischer Charm (Thawing/Staunching/Antidote/Dousing/Grounding)",
+              "en": "Choice: magic Charm (Thawing/Staunching/Antidote/Dousing/Grounding)"
+            },
+            "choice": true,
+            "permanent": false
+          }
+        },
+        {
+          "id": "alva-drowned-city",
+          "text": {
+            "de": "Sprich mit Alva am Fuß der Zikkurat. Der Weg in The Drowned City ist nun offen.",
+            "en": "Talk to Alva at the foot of the ziggurat. The way into The Drowned City is now open."
+          },
+          "kind": "main",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "drowned-city",
+      "name": "The Drowned City",
+      "nameDe": "Die Versunkene Stadt",
+      "areaId": "G3_8",
+      "level": 40,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "drowned-city-enter",
+          "text": {
+            "de": "Betritt The Drowned City aus dem Ziggurat Encampment. Ziel ist die Apex of Filth; nimm unterwegs die Wegpunkte beim Molten Vault und bei der Apex of Filth mit.",
+            "en": "Enter The Drowned City from the Ziggurat Encampment. Your goal is the Apex of Filth; grab the Waypoints near The Molten Vault and at the Apex of Filth along the way."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "drowning-orb",
+          "text": {
+            "de": "Meide die wandernden türkisen Kugeln: Sie verringern die Sicht und töten dich, wenn du zu lange darin stehst.",
+            "en": "Avoid the wandering turquoise orbs: they reduce your vision and kill you if you stand in them too long."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Die Ertrinkungs-Kugeln sind eine Umgebungsgefahr dieser Zone. Bleib in Bewegung und lauf ihnen aus dem Weg. Pass auch auf die großen, aufgeblähten Gegner auf: Sie explodieren beim Tod.",
+            "en": "The drowning orbs are an environmental hazard in this zone. Keep moving and get out of their way. Also watch out for the big bloated enemies: they explode on death."
+          }
+        },
+        {
+          "id": "oswald-monkey-statues",
+          "text": {
+            "de": "Achte in der Drowned City auf Gebäude mit Affenstatuen. Rufe dort Oswald herbei und sprich mit ihm – er schickt dich in The Molten Vault.",
+            "en": "Look out for buildings with monkey statues in The Drowned City. Summon Oswald there and talk to him – he sends you into The Molten Vault."
+          },
+          "kind": "side",
+          "optional": true
+        },
+        {
+          "id": "gold-cellars",
+          "text": {
+            "de": "Optional: Suche die versteckten Keller (Secret Gold Cellars) mit Gegnern, Gold und Truhen.",
+            "en": "Optional: Look for the hidden cellars (Secret Gold Cellars) with enemies, gold and chests."
+          },
+          "kind": "loot",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Drowned City hat ein festes Layout, das Utzaal in der Vergangenheit spiegelt – was du dir hier merkst, hilft später.",
+          "en": "The Drowned City has a fixed layout that mirrors Utzaal in the past – what you memorise here helps later."
+        },
+        {
+          "de": "Nach der Checkpoint-Brücke kommt ein großer Schwarm Krabbler: Flächenschaden bereithalten.",
+          "en": "After the checkpoint bridge comes a big swarm of crawlers: have area damage ready."
+        }
+      ]
+    },
+    {
+      "id": "molten-vault",
+      "name": "The Molten Vault",
+      "nameDe": "Das Geschmolzene Gewölbe",
+      "areaId": "G3_9",
+      "level": 41,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "molten-vault-path",
+          "text": {
+            "de": "Suche den großen Bottich mit flüssigem Gold, ziehe den Hebel daneben und folge dem Goldstrom. Ziehe am Ende den Sluice Gate Lever und fahre mit dem Aufzug zu Mektul.",
+            "en": "Find the big vat of liquid gold, pull the lever next to it and follow the stream of gold. At the end, pull the Sluice Gate Lever and take the lift up to Mektul."
+          },
+          "kind": "navigation",
+          "optional": true
+        },
+        {
+          "id": "mektul",
+          "text": {
+            "de": "Besiege Mektul, the Forgemaster (Physisch/Feuer). Du hast knapp 4 Minuten, bevor flüssiges Gold das Aquädukt flutet.",
+            "en": "Kill Mektul, the Forgemaster (Physical/Fire). You have just under 4 minutes before liquid gold floods the aqueduct."
+          },
+          "kind": "boss",
+          "optional": true
+        },
+        {
+          "id": "hammer-of-kamasa",
+          "text": {
+            "de": "Hebe The Hammer of Kamasa auf, den Mektul fallen lässt. Reise dann per Wegpunkt zur Apex of Filth (den Wegpunkt hast du in der Drowned City geholt).",
+            "en": "Pick up The Hammer of Kamasa that Mektul drops. Then take the Waypoint to the Apex of Filth (you grabbed that Waypoint in The Drowned City)."
+          },
+          "kind": "loot",
+          "optional": true
+        }
+      ],
+      "tips": [
+        {
+          "de": "Hast du die Reforging Bench schon mit einem anderen Charakter freigeschaltet, kannst du Mektul laut Leveling-Guide überspringen (nicht von zweiter Quelle bestätigt).",
+          "en": "If you've already unlocked the Reforging Bench on another character, you can skip Mektul according to a leveling guide (not confirmed by a second source)."
+        },
+        {
+          "de": "Mektul hat laut poe2db 75 % Feuer- und -30 % Kälteresistenz: Kälte-Builds haben es hier leichter, reine Feuer-Builds schwerer.",
+          "en": "According to poe2db, Mektul has 75% Fire and -30% Cold Resistance: Cold builds have an easier time here, pure Fire builds a harder one."
+        }
+      ]
+    },
+    {
+      "id": "apex-of-filth",
+      "name": "Apex of Filth",
+      "nameDe": "Gipfel des Unflats",
+      "areaId": "G3_11",
+      "level": 41,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "cauldron-keeper",
+          "text": {
+            "de": "Optional: Sammle je einen Red, Green und Blue Mushroom und wirf sie in den Kessel des Cauldron Keeper – dafür gibt es eine Life- und eine Mana-Flask. Der Cauldron Keeper ist auch Händler (Caster-Ausrüstung, Schmuck).",
+            "en": "Optional: Collect one each of the Red, Green and Blue Mushroom and throw them into the Cauldron Keeper's cauldron – you get a Life Flask and a Mana Flask for it. The Cauldron Keeper is also a vendor (caster gear, jewellery)."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "queen-of-filth",
+          "text": {
+            "de": "Besiege The Queen of Filth in der Mitte der Zone (Physisch/Chaos).",
+            "en": "Kill The Queen of Filth in the middle of the zone (Physical/Chaos)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "temple-door-idol",
+          "text": {
+            "de": "Hebe das Temple Door Idol auf, das die Queen of Filth fallen lässt, und kehre in die Stadt zurück.",
+            "en": "Pick up the Temple Door Idol that the Queen of Filth drops and return to town."
+          },
+          "kind": "main"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die Filthy Crones verfluchen Bodenflächen – nicht in den Kreisen stehen bleiben.",
+          "en": "The Filthy Crones curse areas of the ground – don't stand in the circles."
+        }
+      ]
+    },
+    {
+      "id": "ziggurat-encampment-4",
+      "name": "Ziggurat Encampment",
+      "nameDe": "Zikkurat-Lager",
+      "areaId": "G3_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "alva-temple-idol",
+          "text": {
+            "de": "Gib Alva das Temple Door Idol. Damit öffnet sich der Eingang zum Temple of Kopec.",
+            "en": "Give Alva the Temple Door Idol. This opens the entrance to the Temple of Kopec."
+          },
+          "kind": "main"
+        },
+        {
+          "id": "reforging-bench",
+          "text": {
+            "de": "Gib Oswald The Hammer of Kamasa. Damit schaltest du die Reforging Bench frei (Quest „Treasures of Utzaal“).",
+            "en": "Give Oswald The Hammer of Kamasa. This unlocks the Reforging Bench (quest “Treasures of Utzaal”)."
+          },
+          "kind": "reward",
+          "mechanic": "reforge-bench",
+          "reward": {
+            "type": "other",
+            "label": {
+              "de": "Reforging Bench freigeschaltet",
+              "en": "Reforging Bench unlocked"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "An der Reforging Bench legst du drei Gegenstände gleicher Art (z. B. drei Ringe oder drei Kerne) hinein und erhältst einen zufälligen neuen. So wird Beute, die du sonst verkaufen würdest, noch nützlich.",
+            "en": "At the Reforging Bench you put in three items of the same kind (e.g. three rings or three cores) and get a random new one. This way, loot you'd otherwise sell still becomes useful."
+          }
+        },
+        {
+          "id": "treasures-of-utzaal-reward",
+          "text": {
+            "de": "Oswald gibt dir bei der Abgabe des Hammers zusätzlich ein Uncut Skill Gem, ein Artificer's Orb und 1000 Gold.",
+            "en": "When you hand in the hammer, Oswald also gives you an Uncut Skill Gem, an Artificer's Orb and 1000 gold."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "gem",
+            "amount": 1,
+            "label": {
+              "de": "Uncut Skill Gem + Artificer's Orb + 1000 Gold",
+              "en": "Uncut Skill Gem + Artificer's Orb + 1000 gold"
+            },
+            "permanent": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "temple-of-kopec",
+      "name": "Temple of Kopec",
+      "nameDe": "Tempel von Kopec",
+      "areaId": "G3_12",
+      "level": 42,
+      "town": false,
+      "steps": [
+        {
+          "id": "kopec-sun",
+          "text": {
+            "de": "Bleib im Schatten: Das Licht der Tempelsonne legt einen stapelnden Brennen-Debuff auf dich. Suche in den Ecken der Etagen die Treppen nach oben.",
+            "en": "Stay in the shade: the light of the temple sun puts a stacking burning debuff on you. Look for the stairs up in the corners of each floor."
+          },
+          "kind": "navigation",
+          "beginner": {
+            "de": "Jede Etage ist dreieckig; laut Leveling-Guide ist die hintere Ecke in etwa der Hälfte der Fälle die richtige – schau dort zuerst nach. Zwischen den Gegnergruppen kurz im Schatten warten baut den Debuff wieder ab.",
+            "en": "Each floor is triangular; according to a leveling guide, the back corner is the right one about half the time – check there first. Waiting briefly in the shade between enemy packs lets the debuff wear off."
+          }
+        },
+        {
+          "id": "ketzuli",
+          "text": {
+            "de": "Besiege Ketzuli, High Priest of the Sun auf der obersten Etage (Feuer).",
+            "en": "Kill Ketzuli, High Priest of the Sun on the top floor (Fire)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "kopec-portal",
+          "text": {
+            "de": "Folge Alva durch das Zeitportal in das Vaal-Reich kurz vor der Katastrophe und steige die Stufen hinab nach Utzaal.",
+            "en": "Follow Alva through the time portal into the Vaal empire shortly before the cataclysm and descend the steps to Utzaal."
+          },
+          "kind": "main",
+          "beginner": {
+            "de": "Ab hier spielst du in der Vergangenheit. Die Zonen Utzaal, Aggorat und die Black Chambers haben eigene Wegpunkte; du kannst jederzeit in die Stadt zurück, um zu handeln.",
+            "en": "From here on you play in the past. The zones Utzaal, Aggorat and The Black Chambers have their own Waypoints; you can return to town any time to trade."
+          }
+        }
+      ]
+    },
+    {
+      "id": "utzaal",
+      "name": "Utzaal",
+      "nameDe": "Utzaal",
+      "areaId": "G3_14",
+      "level": 43,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "utzaal-dangers",
+          "text": {
+            "de": "Achte auf die Eye-of-Winter-Caster (Kälte) und die großen Vaal Overseers und Vaal Goliaths (hoher physischer Schaden).",
+            "en": "Watch out for the Eye of Winter casters (Cold) and the big Vaal Overseers and Vaal Goliaths (high Physical damage)."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Gegen die Kälte-Caster hilft ein Sapphire Charm oder Kälteresistenz auf der Ausrüstung. Lauf nicht in der Schusslinie ihrer Projektile, sondern seitlich auf sie zu.",
+            "en": "A Sapphire Charm or Cold Resistance on your gear helps against the Cold casters. Don't run in the line of fire of their projectiles; approach them from the side."
+          }
+        },
+        {
+          "id": "sacrificial-heart",
+          "text": {
+            "de": "Töte Vaal Goliaths (erkennbar am Kanister auf der Schulter), bis einer ein Sacrificial Heart fallen lässt. Es wird in Aggorat gebraucht.",
+            "en": "Kill Vaal Goliaths (recognisable by the canister on their shoulder) until one drops a Sacrificial Heart. It's needed in Aggorat."
+          },
+          "kind": "loot",
+          "beginner": {
+            "de": "Das Herz ist kein garantierter Drop von einem bestimmten Gegner. Vaal Goliaths gibt es in Utzaal und Aggorat – nimm das erste Herz mit und heb es bis zum Altar in Aggorat auf.",
+            "en": "The heart isn't a guaranteed drop from a specific enemy. Vaal Goliaths appear in Utzaal and Aggorat – take the first heart and keep it until the altar in Aggorat."
+          }
+        },
+        {
+          "id": "chaos-statue",
+          "text": {
+            "de": "Optional: Die Chaos Statue gibt dir ein Inscribed Ultimatum für einen weiteren Lauf in der Trial of Chaos.",
+            "en": "Optional: The Chaos Statue gives you an Inscribed Ultimatum for another run of the Trial of Chaos."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "utzaal-fortunes",
+          "text": {
+            "de": "Optional: Öffne die Peculiar Fortunes hinter Seitentüren (Goldidole, bei Oswald gegen Gold verkaufen) und plündere Napuatzi's Quarters.",
+            "en": "Optional: Open the Peculiar Fortunes behind side doors (gold idols, sell them to Oswald for gold) and loot Napuatzi's Quarters."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "napuatzi",
+          "text": {
+            "de": "Folge der gepflasterten Straße und besiege Viper Napuatzi.",
+            "en": "Follow the paved road and kill Viper Napuatzi."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "utzaal-to-aggorat",
+          "text": {
+            "de": "Besiege die restlichen Gegner hinter dem Schildwall und gehe weiter nach Aggorat.",
+            "en": "Kill the remaining enemies behind the shield wall and continue to Aggorat."
+          },
+          "kind": "navigation"
+        }
+      ],
+      "tips": [
+        {
+          "de": "Napuatzi gilt als einer der schwersten Bosse der Kampagne – wenn du stirbst, lieber zwei Level in Utzaal farmen und Herzen sammeln.",
+          "en": "Napuatzi is considered one of the hardest bosses of the campaign – if you die, farm two levels in Utzaal and collect hearts instead."
+        }
+      ]
+    },
+    {
+      "id": "aggorat",
+      "name": "Aggorat",
+      "nameDe": "Die Aggorat",
+      "areaId": "G3_16",
+      "level": 44,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "aggorat-heart-farm",
+          "text": {
+            "de": "Hast du noch kein Sacrificial Heart, töte die Vaal Goliaths in Aggorat, bis eines fällt.",
+            "en": "If you don't have a Sacrificial Heart yet, kill the Vaal Goliaths in Aggorat until one drops."
+          },
+          "kind": "loot"
+        },
+        {
+          "id": "blood-sacrifice",
+          "text": {
+            "de": "Lege das Sacrificial Heart auf den Opferaltar (Blood Sacrifice, oben rechts auf der Pyramide), nimm den Sacrificial Dagger und stich in das Herz.",
+            "en": "Place the Sacrificial Heart on the sacrificial altar (Blood Sacrifice, top right of the pyramid), take the Sacrificial Dagger and stab the heart."
+          },
+          "kind": "reward",
+          "reward": {
+            "type": "weapon-set-points",
+            "amount": 2,
+            "label": {
+              "de": "+2 Passivpunkte (Weapon Set Passive Skill Points)",
+              "en": "+2 passive points (Weapon Set Passive Skill Points)"
+            },
+            "permanent": true
+          },
+          "beginner": {
+            "de": "Das Opfer gibt dir 2 Weapon Set Passive Skill Points. Das sind zwei zusätzliche Passivpunkte: Du kannst sie normal verteilen oder Knoten belegen, die nur mit Waffenset 1 oder 2 aktiv sind.",
+            "en": "The sacrifice grants 2 Weapon Set Passive Skill Points. These are two extra passive points: spend them normally, or on nodes that are only active with Weapon Set 1 or 2."
+          }
+        },
+        {
+          "id": "aggorat-fortunes",
+          "text": {
+            "de": "Optional: Sammle die Peculiar Fortunes (Goldidole) für Oswald.",
+            "en": "Optional: Collect the Peculiar Fortunes (gold idols) for Oswald."
+          },
+          "kind": "loot",
+          "optional": true
+        },
+        {
+          "id": "aggorat-to-chambers",
+          "text": {
+            "de": "Folge dem Gesang des Ausrufers; der Eingang zu The Black Chambers liegt oben links.",
+            "en": "Follow the crier's chanting; the entrance to The Black Chambers is at the top left."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "black-chambers",
+      "name": "The Black Chambers",
+      "nameDe": "Die Schwarzen Kammern",
+      "areaId": "G3_17",
+      "level": 45,
+      "town": false,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "doryani-prep",
+          "text": {
+            "de": "Prüfe vor dem Kampf Resistenzen und Flasks. Suche die Testing Pit, um den Kampf gegen Doryani zu starten.",
+            "en": "Check your resistances and Flasks before the fight. Find the Testing Pit to start the fight against Doryani."
+          },
+          "kind": "tip",
+          "beginner": {
+            "de": "Doryani mischt Feuer- und Blitzschaden. Mit unter 40–50 % Feuer- und Blitzresistenz wird der Kampf sehr hart. Nimm passende Charms mit und kauf in der Stadt Ausrüstung mit Resistenzen nach.",
+            "en": "Doryani mixes Fire and Lightning damage. With less than 40–50% Fire and Lightning Resistance the fight gets very hard. Bring suitable Charms and buy gear with resistances in town."
+          }
+        },
+        {
+          "id": "doryani",
+          "text": {
+            "de": "Besiege Doryani, Royal Thaumaturge und seinen Mech Doryani's Triumph (Akt-Boss, mehrere Phasen).",
+            "en": "Kill Doryani, Royal Thaumaturge and his mech Doryani's Triumph (act boss, multiple phases)."
+          },
+          "kind": "boss"
+        },
+        {
+          "id": "doryani-loot",
+          "text": {
+            "de": "Warte nach dem Sieg kurz (ca. 30 Sekunden), bis die Beute fällt.",
+            "en": "After the win, wait a moment (about 30 seconds) for the loot to drop."
+          },
+          "kind": "loot",
+          "verified": false
+        },
+        {
+          "id": "black-chambers-to-town",
+          "text": {
+            "de": "Kehre ins Ziggurat Encampment zurück.",
+            "en": "Return to the Ziggurat Encampment."
+          },
+          "kind": "navigation"
+        }
+      ]
+    },
+    {
+      "id": "ziggurat-encampment-5",
+      "name": "Ziggurat Encampment",
+      "nameDe": "Zikkurat-Lager",
+      "areaId": "G3_town",
+      "level": null,
+      "town": true,
+      "waypoint": true,
+      "steps": [
+        {
+          "id": "act3-finish",
+          "text": {
+            "de": "Sprich nacheinander mit Doryani, Alva und The Hooded One. Damit endet Akt 3 und es geht weiter in Akt 4.",
+            "en": "Talk to Doryani, Alva and The Hooded One in turn. This ends Act 3 and you move on to Act 4."
+          },
+          "kind": "main"
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Rootdredge",
+      "zone": "sandswept-marsh",
+      "mechanics": [
+        {
+          "de": "Optionaler Physisch-/Feuer-Boss. Genaue Angriffsmuster aus aktuellen Quellen nicht dokumentiert.",
+          "en": "Optional Physical/Fire boss. Exact attack patterns aren't documented in current sources."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Lohnt sich wegen des Uncut Skill Gem (Stufe 9).",
+          "en": "Worth it for the Uncut Skill Gem (level 9)."
+        }
+      ]
+    },
+    {
+      "name": "Mighty Silverfist",
+      "zone": "jungle-ruins",
+      "mechanics": [
+        {
+          "de": "Cleave links/rechts: weite Nahkampfschwünge im Wechsel.",
+          "en": "Cleave left/right: wide alternating melee swings."
+        },
+        {
+          "de": "Slam und Rect Slam: Bodenschläge mit großer Reichweite; der rechteckige Slam macht stark erhöhten Schaden und kann nicht ausgewichen (evaded), nur geblockt oder verlassen werden.",
+          "en": "Slam and Rect Slam: long-range ground slams; the rectangular slam deals greatly increased damage and can't be evaded – only blocked or avoided by leaving the area."
+        },
+        {
+          "de": "Sunder: Schockwelle in einer Linie, in der Mitte besonders stark.",
+          "en": "Sunder: a shockwave in a line, especially strong in the middle."
+        },
+        {
+          "de": "Spin und Commando Roll: Er dreht sich bzw. rollt quer durch die Arena – sehr gefährlich mit wenig Rüstung.",
+          "en": "Spin and Commando Roll: he spins or rolls across the arena – very dangerous with little Armour."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Seitlich ausweichen statt nach hinten: Die Slams gehen nach vorn.",
+          "en": "Dodge to the side rather than backwards: the slams go forward."
+        },
+        {
+          "de": "Nach seinen großen Angriffen hat er Erholungsphasen – dann angreifen.",
+          "en": "He has recovery phases after his big attacks – attack then."
+        }
+      ]
+    },
+    {
+      "name": "Xyclucian, the Chimera",
+      "zone": "chimeral-wetlands-2",
+      "mechanics": [
+        {
+          "de": "Mittlerer Kopf: Flammenwerfer-Kegel.",
+          "en": "Middle head: flamethrower cone."
+        },
+        {
+          "de": "Linker Kopf: Blitzfunken; rechter Kopf: Frostatem, der den Boden chillt.",
+          "en": "Left head: lightning sparks; right head: frost breath that chills the ground."
+        },
+        {
+          "de": "Fliegt hoch und erzeugt Frostwände oder verfolgende Flammen; Bodenschläge mit Flächenschaden.",
+          "en": "Flies up and creates frost walls or chasing flames; ground slams with area damage."
+        },
+        {
+          "de": "Bei 25-%-Lebensschwellen fliegt er auf einen Pfeiler.",
+          "en": "At 25% life thresholds he flies onto a pillar."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Zerstöre den Pfeiler bzw. die Plattform unter ihm: Er stürzt ab und ist kurz betäubt – dann vollen Schaden machen.",
+          "en": "Destroy the pillar or the platform under him: he crashes down and is briefly stunned – go all-in on damage then."
+        },
+        {
+          "de": "Am Kopf erkennst du, welcher Angriff kommt.",
+          "en": "The head tells you which attack is coming."
+        }
+      ]
+    },
+    {
+      "name": "Blackjaw, the Remnant",
+      "zone": "jiquanis-machinarium",
+      "mechanics": [
+        {
+          "de": "Physisch/Feuer: wuchtige Slams und Feuerzauber, die man mit der Ausweichrolle oder Positionierung vermeidet.",
+          "en": "Physical/Fire: heavy slams and fire spells that you avoid with Dodge Roll or positioning."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Feuerresistenz-Charm einpacken; die Belohnung (+10 % Feuerresistenz) ist dauerhaft.",
+          "en": "Pack a Fire Resistance Charm; the reward (+10% Fire Resistance) is permanent."
+        }
+      ]
+    },
+    {
+      "name": "Zicoatl, Warden of the Core",
+      "zone": "jiquanis-sanctum",
+      "mechanics": [
+        {
+          "de": "Physische und Blitz-Angriffe mit deutlichem Ausholen.",
+          "en": "Physical and Lightning attacks with clear wind-ups."
+        },
+        {
+          "de": "Dreieckiger, sich ausbreitender Slam: Die Ecken (Spitzen) des Dreiecks sind sicher.",
+          "en": "Triangular, expanding slam: the corners (tips) of the triangle are safe."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nah am Boss bleiben und hinter ihn rollen – viele Angriffe gehen nach vorn.",
+          "en": "Stay close to the boss and roll behind him – many attacks go forward."
+        },
+        {
+          "de": "Blitzresistenz hilft deutlich.",
+          "en": "Lightning Resistance helps a lot."
+        }
+      ]
+    },
+    {
+      "name": "Ignagduk, the Bog Witch",
+      "zone": "azak-bog",
+      "mechanics": [
+        {
+          "de": "Phase 1: wechselt zwischen Zaubern (Feuerprojektile, Knochenspeere) und Besenritt-Ansturm; ihre Knochenwände können sie beim Ansturm stoppen.",
+          "en": "Phase 1: alternates between spells (fire projectiles, bone spears) and broom-riding charges; her bone walls can stop her during a charge."
+        },
+        {
+          "de": "Phase 2 (unter ca. 75 % Leben): Die Figuren entzünden sich, sie verlässt den Besen und nutzt Flammenwände, Feuerbälle, Flammenwerfer und Feuerwellen.",
+          "en": "Phase 2 (below about 75% life): the figures ignite, she leaves her broom and uses flame walls, fireballs, flamethrowers and fire waves."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Vorher den Flameskin-Ritual-Buff holen.",
+          "en": "Get the Flameskin Ritual buff beforehand."
+        },
+        {
+          "de": "Bei Feuerwellen hinter sie oder weit weg laufen.",
+          "en": "During fire waves, run behind her or far away."
+        }
+      ]
+    },
+    {
+      "name": "Mektul, the Forgemaster",
+      "zone": "molten-vault",
+      "mechanics": [
+        {
+          "de": "Schnelle Schlagfolgen, Leap Slam und aufgeladener Slam.",
+          "en": "Fast strike combos, Leap Slam and a charged slam."
+        },
+        {
+          "de": "Wellen aus flüssigem Gold; zieht man ihn zu weit weg, kehrt er zum Gold zurück.",
+          "en": "Waves of liquid gold; if you pull him too far away, he returns to the gold."
+        },
+        {
+          "de": "Explosive Runen-Slams; Stalagmiten am Aquädukt explodieren und werden durch seinen Kriegsschrei ausgelöst.",
+          "en": "Explosive rune slams; stalagmites on the aqueduct explode and are triggered by his war cry."
+        },
+        {
+          "de": "Zeitlimit: Nach knapp 4 Minuten flutet flüssiges Gold die Arena.",
+          "en": "Time limit: after just under 4 minutes, liquid gold floods the arena."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Feuerresistenz mitbringen; er selbst hat 75 % Feuer- und -30 % Kälteresistenz.",
+          "en": "Bring Fire Resistance; he himself has 75% Fire and -30% Cold Resistance."
+        },
+        {
+          "de": "Nicht zu viel ausweichen, sondern Schaden machen – der Timer ist das größte Problem.",
+          "en": "Don't dodge too much, focus on dealing damage – the timer is the biggest problem."
+        }
+      ]
+    },
+    {
+      "name": "The Queen of Filth",
+      "zone": "apex-of-filth",
+      "mechanics": [
+        {
+          "de": "Sehr mobil trotz ihrer Größe; physische und Chaos-Angriffe.",
+          "en": "Very mobile despite her size; Physical and Chaos attacks."
+        },
+        {
+          "de": "Legt runde, verfluchte Bodenflächen.",
+          "en": "Places round, cursed ground areas."
+        },
+        {
+          "de": "Großer rollender Slam als stärkster Angriff.",
+          "en": "A big rolling slam is her strongest attack."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nah an ihr bleiben, um dem rollenden Slam zu entgehen.",
+          "en": "Stay close to her to avoid the rolling slam."
+        },
+        {
+          "de": "Nicht in den Fluchkreisen stehen.",
+          "en": "Don't stand in the curse circles."
+        }
+      ]
+    },
+    {
+      "name": "Ketzuli, High Priest of the Sun",
+      "zone": "temple-of-kopec",
+      "mechanics": [
+        {
+          "de": "Feuerbälle von allen Seiten und verfolgende Feuerball-Salven.",
+          "en": "Fireballs from all sides and chasing fireball volleys."
+        },
+        {
+          "de": "Ein langsam wandernder Schwarzes-Loch-Orb.",
+          "en": "A slowly drifting black hole orb."
+        },
+        {
+          "de": "Aggressive Dashes, nach denen er kurz angreifbar ist.",
+          "en": "Aggressive dashes, after which he's briefly vulnerable."
+        },
+        {
+          "de": "Zwei Arten von Laserstrahlen.",
+          "en": "Two kinds of laser beams."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Nach einem Dash sofort Schaden machen.",
+          "en": "Deal damage right after a dash."
+        },
+        {
+          "de": "Feuerresistenz ist hier Pflicht.",
+          "en": "Fire Resistance is a must here."
+        }
+      ]
+    },
+    {
+      "name": "Viper Napuatzi",
+      "zone": "utzaal",
+      "mechanics": [
+        {
+          "de": "Verkettete Nahkampfkombos, Giftpfützen und ein geworfener Speer, dessen Projektile zurückkehren.",
+          "en": "Chained melee combos, poison pools and a thrown spear whose projectiles return."
+        },
+        {
+          "de": "Unblockbarer Schlangenlinien-Ansturm.",
+          "en": "Unblockable serpentine charge."
+        },
+        {
+          "de": "Ab ca. 75 % Leben: Speer-Slam mit Chaos-Bodeneffekt, danach Feuersturm und Chaos-Meteore.",
+          "en": "From about 75% life: spear slam with a Chaos ground effect, followed by a firestorm and Chaos meteors."
+        },
+        {
+          "de": "Spätere Phasen: Gift-Speermuster und eine schrumpfende Arena, in der die Meteore schwer auszuweichen sind.",
+          "en": "Later phases: poison spear patterns and a shrinking arena in which the meteors are hard to dodge."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Den ersten Angriffszyklus immer von derselben Position aus provozieren, dann lernst du das Muster.",
+          "en": "Always bait the first attack cycle from the same position; that way you learn the pattern."
+        },
+        {
+          "de": "Chaos-Schaden: Ohne Chaosresistenz Life-Flask früh nutzen.",
+          "en": "Chaos damage: without Chaos Resistance, use your Life Flask early."
+        }
+      ]
+    },
+    {
+      "name": "Doryani, Royal Thaumaturge",
+      "zone": "black-chambers",
+      "mechanics": [
+        {
+          "de": "Phase 1: Flammenwerfer, Blitzbögen, explodierende Seelenedelsteine, Lanzenschüsse und Blitz-Feuer-Novas.",
+          "en": "Phase 1: flamethrowers, lightning arcs, exploding soul gems, lance shots and lightning-fire novas."
+        },
+        {
+          "de": "Phase 2 (unter ca. 75 %): rotierender Laser-Altar, elektrisierte Stacheln im Raum, brennende Solar Orbs, kanalisierte Blitz- bzw. Flammenstöße.",
+          "en": "Phase 2 (below about 75%): rotating laser altar, electrified spikes in the room, burning Solar Orbs, channelled lightning or flame blasts."
+        },
+        {
+          "de": "Phase 3: Doryani steigt in den Mech Doryani's Triumph – Frost- und Flammenarm-Angriffe, Beinlaser, gegabelte Blitze, rotierendes Laserfeuer.",
+          "en": "Phase 3: Doryani climbs into the mech Doryani's Triumph – frost and flame arm attacks, leg lasers, forking lightning, rotating laser fire."
+        },
+        {
+          "de": "Letzte Phase: Doryani fliegt – fallende Laser, Feuer- oder Blitzsäulen, eine riesige Faust als Slam, rote Flammenwerfer- und Blitzstrahlen.",
+          "en": "Final phase: Doryani flies – falling lasers, fire or lightning pillars, a giant fist slam, red flamethrower and lightning beams."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Feuer- und Blitzresistenz so hoch wie möglich bringen.",
+          "en": "Get your Fire and Lightning Resistance as high as possible."
+        },
+        {
+          "de": "In Mech-Phasen nah an den Beinen bleiben, aber aus den Laserlinien heraus.",
+          "en": "In the mech phases, stay close to the legs but out of the laser lines."
+        }
+      ]
+    },
+    {
+      "name": "Uxmal, the Beastlord / Chetza, the Feathered Plague / Bahlak, the Sky Seer",
+      "zone": "trial-of-chaos",
+      "mechanics": [
+        {
+          "de": "Einer der drei Trial-of-Chaos-Bosse erwartet dich zufällig am Ende der Prüfung. Uxmal hat seit 0.5.5 eine neu gestaltete Arena und fliegt nicht mehr umher.",
+          "en": "One of the three Trial of Chaos bosses awaits you at random at the end of the trial. Since 0.5.5, Uxmal has a redesigned arena and no longer flies around."
+        }
+      ],
+      "tips": [
+        {
+          "de": "Die gewählten Tribulations gelten auch im Bosskampf – nimm im letzten Raum keine Modifikatoren, die deine Verteidigung stark schwächen.",
+          "en": "The chosen Tribulations also apply in the boss fight – don't take modifiers in the last room that severely weaken your defences."
+        }
+      ]
+    }
+  ]
+}

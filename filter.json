@@ -1,0 +1,1146 @@
+{
+ "_hinweis": "Regeln von oben nach unten; im Spiel gewinnt der erste passende Block. Preise in Exalted Orbs, skaliert mit phaseSettings.priceFactor und der Strenge in der App (0 = 0,25x … 4 = 4x). Preisregeln gelten nur für die genannten Klassen; Items anderer Klassen fallen sicher zu den späteren Regeln durch.",
+ "phaseSettings": {
+  "campaign-early": {
+   "priceFactor": 0.2
+  },
+  "campaign-late": {
+   "priceFactor": 0.5
+  },
+  "endgame-early": {
+   "priceFactor": 1
+  },
+  "endgame-late": {
+   "priceFactor": 2
+  }
+ },
+ "styles": {
+  "quest": {
+   "label": "Quest",
+   "size": 40,
+   "text": [
+    74,
+    230,
+    58
+   ],
+   "border": [
+    74,
+    230,
+    58
+   ],
+   "background": [
+    10,
+    40,
+    10
+   ],
+   "icon": [
+    1,
+    "Green",
+    "Moon"
+   ]
+  },
+  "unique-s": {
+   "label": "Unique S",
+   "size": 45,
+   "text": [
+    255,
+    255,
+    255
+   ],
+   "border": [
+    255,
+    255,
+    255
+   ],
+   "background": [
+    175,
+    96,
+    37
+   ],
+   "sound": [
+    6,
+    300
+   ],
+   "beam": "Brown",
+   "icon": [
+    0,
+    "Brown",
+    "Star"
+   ]
+  },
+  "unique-a": {
+   "label": "Unique A",
+   "size": 42,
+   "text": [
+    175,
+    96,
+    37
+   ],
+   "border": [
+    175,
+    96,
+    37
+   ],
+   "background": [
+    53,
+    13,
+    13
+   ],
+   "sound": [
+    3,
+    250
+   ],
+   "beam": "Brown",
+   "icon": [
+    1,
+    "Brown",
+    "Star"
+   ]
+  },
+  "unique": {
+   "label": "Unique",
+   "size": 38,
+   "text": [
+    175,
+    96,
+    37
+   ],
+   "border": [
+    175,
+    96,
+    37
+   ],
+   "background": [
+    30,
+    12,
+    6
+   ],
+   "beam": "Brown",
+   "beamTemp": true,
+   "icon": [
+    2,
+    "Brown",
+    "Star"
+   ]
+  },
+  "currency-s": {
+   "label": "Currency S",
+   "size": 45,
+   "text": [
+    255,
+    0,
+    0
+   ],
+   "border": [
+    255,
+    0,
+    0
+   ],
+   "background": [
+    255,
+    255,
+    255
+   ],
+   "sound": [
+    6,
+    300
+   ],
+   "beam": "Red",
+   "icon": [
+    0,
+    "Red",
+    "Star"
+   ]
+  },
+  "currency-a": {
+   "label": "Currency A",
+   "size": 45,
+   "text": [
+    255,
+    255,
+    255
+   ],
+   "border": [
+    255,
+    255,
+    255
+   ],
+   "background": [
+    240,
+    90,
+    35
+   ],
+   "sound": [
+    1,
+    300
+   ],
+   "beam": "Orange",
+   "icon": [
+    0,
+    "Orange",
+    "Circle"
+   ]
+  },
+  "currency-b": {
+   "label": "Currency B",
+   "size": 42,
+   "text": [
+    0,
+    0,
+    0
+   ],
+   "border": [
+    0,
+    0,
+    0
+   ],
+   "background": [
+    255,
+    207,
+    132
+   ],
+   "sound": [
+    2,
+    250
+   ],
+   "beam": "Yellow",
+   "beamTemp": true,
+   "icon": [
+    1,
+    "Yellow",
+    "Circle"
+   ]
+  },
+  "currency-c": {
+   "label": "Currency C",
+   "size": 38,
+   "text": [
+    255,
+    207,
+    132
+   ],
+   "border": [
+    255,
+    207,
+    132
+   ],
+   "background": [
+    45,
+    30,
+    12
+   ],
+   "icon": [
+    2,
+    "Yellow",
+    "Circle"
+   ]
+  },
+  "currency": {
+   "label": "Currency",
+   "size": 34,
+   "text": [
+    200,
+    185,
+    150
+   ],
+   "border": [
+    110,
+    100,
+    80
+   ],
+   "background": [
+    20,
+    18,
+    14
+   ]
+  },
+  "gold": {
+   "label": "Gold",
+   "size": 32,
+   "text": [
+    255,
+    215,
+    0
+   ]
+  },
+  "gem": {
+   "label": "Gem",
+   "size": 40,
+   "text": [
+    20,
+    240,
+    240
+   ],
+   "border": [
+    20,
+    240,
+    240
+   ],
+   "background": [
+    8,
+    32,
+    40
+   ],
+   "beam": "Cyan",
+   "beamTemp": true,
+   "icon": [
+    1,
+    "Cyan",
+    "Triangle"
+   ]
+  },
+  "waystone-high": {
+   "label": "Waystone 11+",
+   "size": 42,
+   "text": [
+    255,
+    255,
+    255
+   ],
+   "border": [
+    255,
+    255,
+    255
+   ],
+   "background": [
+    70,
+    70,
+    170
+   ],
+   "sound": [
+    4,
+    250
+   ],
+   "beam": "White",
+   "icon": [
+    0,
+    "White",
+    "Square"
+   ]
+  },
+  "waystone": {
+   "label": "Waystone",
+   "size": 38,
+   "text": [
+    205,
+    205,
+    255
+   ],
+   "border": [
+    205,
+    205,
+    255
+   ],
+   "background": [
+    28,
+    28,
+    60
+   ],
+   "icon": [
+    2,
+    "White",
+    "Square"
+   ]
+  },
+  "endgame": {
+   "label": "Endgame",
+   "size": 38,
+   "text": [
+    185,
+    145,
+    255
+   ],
+   "border": [
+    185,
+    145,
+    255
+   ],
+   "background": [
+    32,
+    16,
+    52
+   ],
+   "beam": "Purple",
+   "beamTemp": true,
+   "icon": [
+    1,
+    "Purple",
+    "Hexagon"
+   ]
+  },
+  "rare-jewel": {
+   "label": "Rare Schmuck",
+   "size": 38,
+   "text": [
+    255,
+    255,
+    119
+   ],
+   "border": [
+    255,
+    255,
+    119
+   ],
+   "background": [
+    38,
+    38,
+    0
+   ],
+   "icon": [
+    2,
+    "Yellow",
+    "Diamond"
+   ]
+  },
+  "rare": {
+   "label": "Rare",
+   "size": 36,
+   "text": [
+    255,
+    255,
+    119
+   ],
+   "border": [
+    125,
+    125,
+    60
+   ]
+  },
+  "rare-small": {
+   "label": "Rare klein",
+   "size": 30,
+   "text": [
+    255,
+    255,
+    119
+   ]
+  },
+  "flask": {
+   "label": "Flask/Charm",
+   "size": 32,
+   "text": [
+    255,
+    150,
+    150
+   ],
+   "border": [
+    110,
+    60,
+    60
+   ]
+  },
+  "magic": {
+   "label": "Magic",
+   "size": 32,
+   "text": [
+    136,
+    136,
+    255
+   ]
+  },
+  "normal": {
+   "label": "Normal",
+   "size": 30,
+   "text": [
+    200,
+    200,
+    200
+   ]
+  },
+  "socketed": {
+   "label": "Sockel/Qualität",
+   "size": 34,
+   "text": [
+    220,
+    220,
+    220
+   ],
+   "border": [
+    150,
+    150,
+    150
+   ]
+  }
+ },
+ "rules": [
+  {
+   "id": "quest",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Questitems",
+    "en": "Quest items"
+   },
+   "match": {
+    "class": [
+     "Quest Items",
+     "Instance Local Items"
+    ]
+   },
+   "style": "quest"
+  },
+  {
+   "id": "unique-price",
+   "kind": "price",
+   "source": "uniqueBases",
+   "label": {
+    "de": "Uniques nach Preis (wertvollstes Unique je Basis)",
+    "en": "Uniques by price (most valuable unique per base)"
+   },
+   "match": {
+    "rarity": [
+     "Unique"
+    ]
+   },
+   "tiers": [
+    {
+     "minEx": 100,
+     "style": "unique-s"
+    },
+    {
+     "minEx": 15,
+     "style": "unique-a"
+    }
+   ]
+  },
+  {
+   "id": "unique",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Alle übrigen Uniques",
+    "en": "All other uniques"
+   },
+   "match": {
+    "rarity": [
+     "Unique"
+    ]
+   },
+   "style": "unique"
+  },
+  {
+   "id": "currency-price",
+   "kind": "price",
+   "source": "items",
+   "label": {
+    "de": "Currency und Tauschitems nach Preis",
+    "en": "Currency and exchange items by price"
+   },
+   "tiers": [
+    {
+     "minEx": 150,
+     "style": "currency-s"
+    },
+    {
+     "minEx": 15,
+     "style": "currency-a"
+    },
+    {
+     "minEx": 2,
+     "style": "currency-b"
+    },
+    {
+     "minEx": 0.3,
+     "style": "currency-c"
+    }
+   ],
+   "hideBelow": [
+    "endgame-late"
+   ],
+   "match": {
+    "class": [
+     "Stackable Currency",
+     "Omen",
+     "Augment",
+     "Incubators",
+     "Map Fragments",
+     "Pinnacle Keys",
+     "Vault Keys",
+     "Tablet"
+    ]
+   }
+  },
+  {
+   "id": "gold-small",
+   "kind": "static",
+   "action": "hide",
+   "label": {
+    "de": "Kleine Goldhaufen im späten Endgame",
+    "en": "Small gold piles in late endgame"
+   },
+   "phases": [
+    "endgame-late"
+   ],
+   "minStrictness": 3,
+   "match": {
+    "baseType": [
+     "Gold"
+    ],
+    "stackSize": "< 150"
+   }
+  },
+  {
+   "id": "gold",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Gold",
+    "en": "Gold"
+   },
+   "match": {
+    "baseType": [
+     "Gold"
+    ]
+   },
+   "style": "gold"
+  },
+  {
+   "id": "currency",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Currency ohne Preis",
+    "en": "Currency without price"
+   },
+   "match": {
+    "class": [
+     "Stackable Currency",
+     "Omen",
+     "Augment",
+     "Incubators"
+    ]
+   },
+   "style": "currency"
+  },
+  {
+   "id": "uncut-gems",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Ungeschliffene Gems",
+    "en": "Uncut gems"
+   },
+   "match": {
+    "baseType": [
+     "Uncut Skill Gem",
+     "Uncut Support Gem",
+     "Uncut Spirit Gem"
+    ]
+   },
+   "style": "gem"
+  },
+  {
+   "id": "gems",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Skill- und Support-Gems",
+    "en": "Skill and support gems"
+   },
+   "match": {
+    "class": [
+     "Skill Gems",
+     "Support Gems"
+    ]
+   },
+   "style": "gem"
+  },
+  {
+   "id": "waystone-high",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Waystones ab Tier 11",
+    "en": "Waystones tier 11+"
+   },
+   "match": {
+    "class": [
+     "Waystones"
+    ],
+    "waystoneTier": ">= 11"
+   },
+   "style": "waystone-high"
+  },
+  {
+   "id": "waystone",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Waystones",
+    "en": "Waystones"
+   },
+   "match": {
+    "class": [
+     "Waystones"
+    ]
+   },
+   "style": "waystone"
+  },
+  {
+   "id": "endgame-items",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Tablets, Fragmente, Schlüssel, Jewels",
+    "en": "Tablets, fragments, keys, jewels"
+   },
+   "match": {
+    "class": [
+     "Tablet",
+     "Map Fragments",
+     "Pinnacle Keys",
+     "Vault Keys",
+     "Expedition Logbook",
+     "Jewels"
+    ]
+   },
+   "style": "endgame"
+  },
+  {
+   "id": "relics",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Relikte (Trial of the Sekhemas)",
+    "en": "Relics (Trial of the Sekhemas)"
+   },
+   "match": {
+    "baseType": [
+     "Amphora Relic",
+     "Coffer Relic",
+     "Incense Relic",
+     "Seal Relic",
+     "Tapestry Relic",
+     "Urn Relic",
+     "Vase Relic"
+    ]
+   },
+   "style": "endgame"
+  },
+  {
+   "id": "rare-jewellery",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Rare Ringe, Amulette, Gürtel",
+    "en": "Rare rings, amulets, belts"
+   },
+   "match": {
+    "rarity": [
+     "Rare"
+    ],
+    "class": [
+     "Amulets",
+     "Rings",
+     "Belts"
+    ]
+   },
+   "style": "rare-jewel"
+  },
+  {
+   "id": "rare-gear-hide",
+   "kind": "static",
+   "action": "hide",
+   "label": {
+    "de": "Rare Ausrüstung im späten Endgame (nur sehr streng)",
+    "en": "Rare gear in late endgame (very strict only)"
+   },
+   "phases": [
+    "endgame-late"
+   ],
+   "minStrictness": 4,
+   "match": {
+    "rarity": [
+     "Rare"
+    ],
+    "class": [
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   }
+  },
+  {
+   "id": "rare-gear-campaign",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Rare Ausrüstung in der Kampagne",
+    "en": "Rare gear in the campaign"
+   },
+   "phases": [
+    "campaign-early",
+    "campaign-late"
+   ],
+   "match": {
+    "rarity": [
+     "Rare"
+    ],
+    "class": [
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   },
+   "style": "rare"
+  },
+  {
+   "id": "rare-gear",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Rare Ausrüstung im Endgame",
+    "en": "Rare gear in the endgame"
+   },
+   "phases": [
+    "endgame-early",
+    "endgame-late"
+   ],
+   "match": {
+    "rarity": [
+     "Rare"
+    ],
+    "class": [
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   },
+   "style": "rare-small"
+  },
+  {
+   "id": "flasks-endgame-hide",
+   "kind": "static",
+   "action": "hide",
+   "label": {
+    "de": "Weiße und blaue Flasks/Charms im Endgame",
+    "en": "White and blue flasks/charms in the endgame"
+   },
+   "phases": [
+    "endgame-early",
+    "endgame-late"
+   ],
+   "minStrictness": 2,
+   "match": {
+    "rarity": [
+     "Normal",
+     "Magic"
+    ],
+    "class": [
+     "Life Flasks",
+     "Mana Flasks",
+     "Charms"
+    ],
+    "quality": "< 15"
+   }
+  },
+  {
+   "id": "flasks",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Flasks und Charms",
+    "en": "Flasks and charms"
+   },
+   "match": {
+    "class": [
+     "Life Flasks",
+     "Mana Flasks",
+     "Charms"
+    ]
+   },
+   "style": "flask"
+  },
+  {
+   "id": "gear-endgame-hide",
+   "kind": "static",
+   "action": "hide",
+   "label": {
+    "de": "Weiße und blaue Ausrüstung im Endgame",
+    "en": "White and blue gear in the endgame"
+   },
+   "phases": [
+    "endgame-early",
+    "endgame-late"
+   ],
+   "minStrictness": 1,
+   "match": {
+    "rarity": [
+     "Normal",
+     "Magic"
+    ],
+    "class": [
+     "Amulets",
+     "Belts",
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Rings",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   }
+  },
+  {
+   "id": "gear-socketed",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Weiße Ausrüstung mit Sockel oder Qualität",
+    "en": "White gear with sockets or quality"
+   },
+   "phases": [
+    "campaign-early",
+    "campaign-late"
+   ],
+   "match": {
+    "rarity": [
+     "Normal"
+    ],
+    "class": [
+     "Amulets",
+     "Belts",
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Rings",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ],
+    "sockets": ">= 1"
+   },
+   "style": "socketed"
+  },
+  {
+   "id": "gear-quality",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Weiße Ausrüstung mit Qualität",
+    "en": "White gear with quality"
+   },
+   "phases": [
+    "campaign-early",
+    "campaign-late"
+   ],
+   "match": {
+    "rarity": [
+     "Normal"
+    ],
+    "class": [
+     "Amulets",
+     "Belts",
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Rings",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ],
+    "quality": ">= 1"
+   },
+   "style": "socketed"
+  },
+  {
+   "id": "gear-normal-hide",
+   "kind": "static",
+   "action": "hide",
+   "label": {
+    "de": "Weiße Ausrüstung ab Akt 3",
+    "en": "White gear from Act 3"
+   },
+   "phases": [
+    "campaign-late"
+   ],
+   "minStrictness": 1,
+   "match": {
+    "rarity": [
+     "Normal"
+    ],
+    "class": [
+     "Amulets",
+     "Belts",
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Rings",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   }
+  },
+  {
+   "id": "gear-magic",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Blaue Ausrüstung",
+    "en": "Magic gear"
+   },
+   "match": {
+    "rarity": [
+     "Magic"
+    ],
+    "class": [
+     "Amulets",
+     "Belts",
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Rings",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   },
+   "style": "magic"
+  },
+  {
+   "id": "gear-normal",
+   "kind": "static",
+   "action": "show",
+   "label": {
+    "de": "Weiße Ausrüstung",
+    "en": "White gear"
+   },
+   "match": {
+    "rarity": [
+     "Normal"
+    ],
+    "class": [
+     "Amulets",
+     "Belts",
+     "Body Armours",
+     "Boots",
+     "Bows",
+     "Bucklers",
+     "Crossbows",
+     "Foci",
+     "Gloves",
+     "Helmets",
+     "One Hand Maces",
+     "Quarterstaves",
+     "Quivers",
+     "Rings",
+     "Sceptres",
+     "Shields",
+     "Spears",
+     "Staves",
+     "Talismans",
+     "Two Hand Maces",
+     "Wands"
+    ]
+   },
+   "style": "normal"
+  }
+ ]
+}
