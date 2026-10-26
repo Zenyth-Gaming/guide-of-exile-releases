@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 10,
+  "revision": 12,
   "released": "2026-10-26",
   "game": {
     "patch": "0.5.5"
@@ -63,6 +63,41 @@
     "mechanics": {
       "path": "mechanics.json",
       "sha256": "dccf5a40c5ab66d5d4acbe949a37644c81828891abeba0f5f8ad2ed36c7cf488"
+    },
+    "layouts-act3": {
+      "type": "layouts",
+      "path": "layouts-act3.json",
+      "sha256": "783e0c67a6802405e5eb10373021260a6de8f8a29497ec43922625140db04e09"
+    },
+    "layouts-act1": {
+      "type": "layouts",
+      "path": "layouts-act1.json",
+      "sha256": "e732f5bfdf8846691a851eda9b48ff6167a5193d28dab5b53f379e221bca92b4"
+    },
+    "layouts-act2": {
+      "type": "layouts",
+      "path": "layouts-act2.json",
+      "sha256": "6b5c727cf41e49c6da441155d7be26261aada403244d0cd5a01033a27e508be3"
+    },
+    "layouts-act4": {
+      "type": "layouts",
+      "path": "layouts-act4.json",
+      "sha256": "7ae92cebe21a86871261b298aabd0d3be3cb64414f39cd3fd625f543d422334b"
+    },
+    "layouts-interlude1": {
+      "type": "layouts",
+      "path": "layouts-interlude1.json",
+      "sha256": "b3e8fdc035836710dca6d34d0d13e20579d676e24021c108937d3bc28fb629e0"
+    },
+    "layouts-interlude2": {
+      "type": "layouts",
+      "path": "layouts-interlude2.json",
+      "sha256": "6c894a499d9d412e3822072fc4f73f11dbf3bb83a5f24441d1738ac3f78851cd"
+    },
+    "layouts-interlude3": {
+      "type": "layouts",
+      "path": "layouts-interlude3.json",
+      "sha256": "5d2ba3da01cc8087aac94ac7618b86f9248362f89043ae964355ffb7dae14399"
     }
   }
 }
