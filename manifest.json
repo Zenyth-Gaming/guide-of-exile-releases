@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 12,
-  "released": "2026-10-26",
+  "revision": 13,
+  "released": "2026-10-27",
   "game": {
     "patch": "0.5.5"
   },
@@ -67,37 +67,37 @@
     "layouts-act3": {
       "type": "layouts",
       "path": "layouts-act3.json",
-      "sha256": "783e0c67a6802405e5eb10373021260a6de8f8a29497ec43922625140db04e09"
+      "sha256": "7d21bd67cbd3135775211641674350ad4f5c6788ddb9a4b5e7ee37d437373530"
     },
     "layouts-act1": {
       "type": "layouts",
       "path": "layouts-act1.json",
-      "sha256": "e732f5bfdf8846691a851eda9b48ff6167a5193d28dab5b53f379e221bca92b4"
+      "sha256": "ef606800c1d472553477df558f48021f66c6d75d04dbb091d268f55bd708c1b6"
     },
     "layouts-act2": {
       "type": "layouts",
       "path": "layouts-act2.json",
-      "sha256": "6b5c727cf41e49c6da441155d7be26261aada403244d0cd5a01033a27e508be3"
+      "sha256": "ac691050f03abc0c2927661e4be3fb85dd8639200e5fbda60a72639139a56d18"
     },
     "layouts-act4": {
       "type": "layouts",
       "path": "layouts-act4.json",
-      "sha256": "7ae92cebe21a86871261b298aabd0d3be3cb64414f39cd3fd625f543d422334b"
+      "sha256": "685d966318a163ce82f5da64783ddcdfdd4d936edf6e0b2e38b0031d449a902d"
     },
     "layouts-interlude1": {
       "type": "layouts",
       "path": "layouts-interlude1.json",
-      "sha256": "b3e8fdc035836710dca6d34d0d13e20579d676e24021c108937d3bc28fb629e0"
+      "sha256": "a741391938bd40ab5f98b8722a392b9487c99cb03a1dd80d0e3995af26371190"
     },
     "layouts-interlude2": {
       "type": "layouts",
       "path": "layouts-interlude2.json",
-      "sha256": "6c894a499d9d412e3822072fc4f73f11dbf3bb83a5f24441d1738ac3f78851cd"
+      "sha256": "fa42949e4db480bdcdd6472e294f83f218a12d5828e1acb89012024346006055"
     },
     "layouts-interlude3": {
       "type": "layouts",
       "path": "layouts-interlude3.json",
-      "sha256": "5d2ba3da01cc8087aac94ac7618b86f9248362f89043ae964355ffb7dae14399"
+      "sha256": "c804ba075a99791c83811532197c7597827a4a61d269c84e6d8d4c19b8d24eb8"
     }
   }
 }
